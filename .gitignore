@@ -1,0 +1,24 @@
+# Lead data has names and emails of real people. Keep it out of git.
+data/**/*.csv
+data/**/*.xlsx
+data/**/*.json
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.sqlite3
+!data/**/.gitkeep
+
+# API keys
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
