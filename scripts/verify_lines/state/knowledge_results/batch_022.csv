@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+14350,CPA firm,YES,OK,HIGH,,
+14356,CPA firm in Puerto Rico,YES,OK,HIGH,,
+14357,tax and accounting services,UNCLEAR,OK,MED,,domain suggests Beyond Accounting & Tax
+14359,accounting firm,YES,OK,MED,,domain is initials KEAH
+14360,global tax planning,YES,OK,MED,,
+14366,tax preparation and notary,UNCLEAR,OK,MED,,domain suggests Income Tax and Notary
+14368,CPA firm,YES,OK,HIGH,,
+14375,accounting and payroll firm,YES,OK,HIGH,,
+14378,billing services,YES,UNCLEAR,LOW,,domain apcbilling; probably billing not accounting
+14388,medical billing services,YES,WRONG,MED,,medical billing not CPA engagements
+14394,EMS medical billing,YES,WRONG,MED,,medical billing not CPA engagements
+14400,tax and bookkeeping,UNCLEAR,OK,MED,,domain is JSM Tax and Bookkeeping
+14401,unknown,UNCLEAR,UNCLEAR,LOW,,
+14407,CPA firm in Connecticut,YES,OK,HIGH,,
+14408,CPA firm,YES,OK,HIGH,,
+14412,CPA firm in Oregon,YES,OK,HIGH,,
+14417,CPA firm in Wisconsin,YES,OK,HIGH,,
+14419,CPA firm in Wisconsin,YES,OK,HIGH,,
+14425,compliance consulting,YES,UNCLEAR,LOW,,
+14428,diversity consulting or services,YES,UNCLEAR,LOW,,not clearly staffing
+14433,investments; domain suggests staffing,UNCLEAR,UNCLEAR,LOW,Sterling Staffing Solutions,name and domain differ
+14435,medical staffing agency,YES,OK,HIGH,,
+14444,staffing agency,UNCLEAR,OK,MED,,domain get2worknow
+14452,technical services or staffing,YES,UNCLEAR,LOW,Team Global,
+14458,professional staffing agency,YES,OK,HIGH,,
+14463,staffing agency,YES,OK,HIGH,,
+14465,likely staffing or job services,UNCLEAR,OK,LOW,,generic line; domain hartjobs
+14477,forensic accounting firm,YES,OK,MED,,domain mscforensics
+14484,nonprofit workforce and social services,YES,WRONG,MED,,Philadelphia nonprofit not staffing agency
+14486,unknown,UNCLEAR,UNCLEAR,LOW,,
+14487,environmental engineering consultancy,YES,WRONG,HIGH,GZA,not a restoration contractor
+14488,civil and environmental engineering,YES,WRONG,HIGH,Fuss & O'Neill,not a restoration contractor
+14490,IT services,YES,WRONG,MED,,IT services not accounting
+14492,IT services,YES,WRONG,MED,,IT services not software vendor
+14494,IT systems and services,YES,UNCLEAR,LOW,,
+14508,IT solutions provider,YES,WRONG,MED,,IT services not software vendor
+14513,unknown,YES,UNCLEAR,LOW,,
+14523,security services,YES,UNCLEAR,LOW,,may be alarm or guard
+14526,building maintenance and cleaning,YES,OK,MED,,
+14529,commercial cleaning services,YES,OK,MED,,
+14531,CPA firm,YES,OK,HIGH,,
+14532,unknown,UNCLEAR,UNCLEAR,LOW,,
+14533,IT consulting,YES,OK,MED,,
+14539,unknown,UNCLEAR,UNCLEAR,LOW,,domain does not match name
+14551,digital preservation and digitization,YES,WRONG,MED,,not a software vendor
+14554,unknown,UNCLEAR,UNCLEAR,LOW,,
+14557,unknown,UNCLEAR,UNCLEAR,LOW,,
+14562,cleaning services,YES,OK,MED,Rosado's Cleaning,
+14564,cleaning services,YES,OK,HIGH,,
+14565,cleaning services,YES,OK,HIGH,,
+14567,maintenance services,YES,UNCLEAR,LOW,,
+14572,professional cleaning services,YES,OK,HIGH,,
+14576,janitorial services and supplies,YES,OK,HIGH,,
+14580,janitorial services,YES,OK,HIGH,,
+14581,unknown,UNCLEAR,UNCLEAR,LOW,,
+14584,floor care and cleaning,UNCLEAR,OK,MED,,domain cleaningarkansas
+14590,freight tech or logistics software,UNCLEAR,UNCLEAR,LOW,,domain fr8relay
+14595,tech services,UNCLEAR,UNCLEAR,LOW,,domain does not match name
+14600,odor removal and deodorizing,YES,OK,MED,,
+14601,maid and cleaning service,YES,OK,MED,,
+14602,unknown,UNCLEAR,UNCLEAR,LOW,,
+14603,unknown,YES,UNCLEAR,LOW,,
+14605,property services,YES,OK,MED,,
+14607,cleaning and vending services,YES,OK,MED,,
+14608,unknown,YES,UNCLEAR,LOW,,
+14613,unknown,YES,UNCLEAR,LOW,,
+14614,unknown,YES,UNCLEAR,LOW,,
+14616,janitorial services,YES,OK,MED,,
+14620,unknown,UNCLEAR,UNCLEAR,LOW,,
+14623,AI company for Latin America,YES,UNCLEAR,LOW,,
+14625,unknown,UNCLEAR,UNCLEAR,LOW,,
+14626,health technology,UNCLEAR,UNCLEAR,LOW,,domain traininglab.ai
+14630,coaching or consulting,UNCLEAR,UNCLEAR,LOW,,
+14631,unknown,YES,UNCLEAR,LOW,,
+14636,unknown,YES,UNCLEAR,LOW,,
+14640,unknown,YES,UNCLEAR,LOW,,
+14642,leadership training,YES,OK,MED,,
+14643,unknown,YES,UNCLEAR,LOW,,
+14646,unknown,UNCLEAR,UNCLEAR,LOW,,
+14652,spreadsheet training materials,YES,OK,MED,,
+14656,unknown,UNCLEAR,UNCLEAR,LOW,,
+14662,DEI training and consulting,UNCLEAR,OK,MED,,
+14665,education company,UNCLEAR,OK,MED,,domain shouthaus
+14667,agile training and coaching,YES,OK,MED,,
+14671,unknown,YES,UNCLEAR,LOW,,
+14673,hair education or products,YES,UNCLEAR,LOW,,
+14674,school leadership training,UNCLEAR,OK,MED,Lead180,
+14678,placement and staffing services,UNCLEAR,OK,MED,,domain m3placement
+14679,tank and equipment services,UNCLEAR,OK,MED,,domain 4hornmgmt differs
+14685,unknown,UNCLEAR,UNCLEAR,LOW,,domain netsyseng differs
+14688,unknown,UNCLEAR,UNCLEAR,LOW,,
+14692,corporate training services,YES,OK,HIGH,Training To You,
+14697,engineering firm,UNCLEAR,WRONG,MED,,engineering firm not training
+14701,learning and training company,YES,OK,MED,,
+14702,unknown,UNCLEAR,UNCLEAR,LOW,,
+14703,performance improvement training,YES,OK,MED,,
+14707,simulation and training systems,YES,OK,MED,,may build simulators
+14720,statistical consulting,UNCLEAR,UNCLEAR,LOW,,
+14721,engineering and research consortium,UNCLEAR,UNCLEAR,LOW,,
+14722,safety management and training,UNCLEAR,UNCLEAR,LOW,Harris Safety Management,
+14731,unknown,YES,UNCLEAR,LOW,,
+14737,English language teaching,UNCLEAR,OK,MED,,domain englishsimplepr
+14740,consulting,UNCLEAR,UNCLEAR,LOW,,
+14746,unknown,UNCLEAR,UNCLEAR,LOW,,
+14747,unknown,UNCLEAR,UNCLEAR,LOW,,
+14752,unknown,YES,UNCLEAR,LOW,,
+14753,leadership and management; healthcare audit,UNCLEAR,UNCLEAR,LOW,,domain hcr-audit
+14754,manufacturing solutions,YES,WRONG,MED,,manufacturing firm not training
+14755,writing and influence coaching,UNCLEAR,OK,LOW,,generic line
+14763,unknown,YES,UNCLEAR,LOW,,
+14764,leadership training and coaching,YES,OK,MED,Leaderstages,
+14765,unknown,YES,UNCLEAR,LOW,,
+14767,unknown,UNCLEAR,UNCLEAR,LOW,,
+14776,career coaching and training,YES,OK,MED,,
+14778,unknown,YES,UNCLEAR,LOW,,
+14779,program services,UNCLEAR,UNCLEAR,LOW,,
+14782,aviation training,YES,OK,MED,,
+14785,mission critical systems,UNCLEAR,WRONG,MED,,systems firm not training
+14789,unknown,YES,UNCLEAR,LOW,,
+14792,unknown,UNCLEAR,UNCLEAR,LOW,,
+14796,compliance training,YES,OK,HIGH,,
+14799,unknown,YES,UNCLEAR,LOW,,
+14803,unknown,UNCLEAR,UNCLEAR,LOW,,domain lewisway differs
+14804,leadership speaking and training,UNCLEAR,OK,MED,,domain earlsuttle
+14814,unknown,YES,UNCLEAR,LOW,,
+14815,unknown,YES,UNCLEAR,LOW,,
+14818,unknown,UNCLEAR,UNCLEAR,LOW,,
+14825,gaming-related business,UNCLEAR,UNCLEAR,LOW,,domain surelockedin
+14830,training center,UNCLEAR,OK,MED,Global Training Center,
+14835,training solutions,YES,OK,HIGH,,
+14836,organizing or decluttering,UNCLEAR,UNCLEAR,LOW,,
+14838,unknown,UNCLEAR,UNCLEAR,LOW,,
+14843,elearning provider,UNCLEAR,OK,MED,ACD Learning,
+14844,maintenance troubleshooting training,YES,OK,MED,,
+14846,unknown,UNCLEAR,UNCLEAR,LOW,,
+14848,unknown,UNCLEAR,OK,LOW,,generic line
+14852,speaking and workplace consulting,YES,UNCLEAR,MED,,domain is Alexandra Levit
+14859,unknown,UNCLEAR,UNCLEAR,LOW,,
+14862,unknown,UNCLEAR,OK,LOW,,generic line
+14865,leadership consulting and training,YES,OK,MED,,
+14866,leadership coaching,UNCLEAR,UNCLEAR,LOW,Kaveo Leadership,
+14873,learning and training,UNCLEAR,OK,MED,,domain yellingroup
+14875,unknown,YES,UNCLEAR,LOW,,
+14876,Native community health nonprofit,YES,UNCLEAR,LOW,,
+14880,leadership consulting,YES,OK,MED,Holonix Leadership,
+14881,STEM education nonprofit,UNCLEAR,OK,MED,,domain app-savior
+14887,leadership development,YES,OK,MED,,
+14893,unknown,UNCLEAR,UNCLEAR,LOW,,
+14896,facilitation and training,YES,OK,MED,,
+14898,unknown,YES,UNCLEAR,LOW,,
+14904,unknown,YES,UNCLEAR,LOW,,
+14913,unknown,UNCLEAR,UNCLEAR,LOW,,
+14915,unknown,UNCLEAR,UNCLEAR,LOW,,
+14916,leadership consulting,DBA,OK,MED,Unfolding Leadership,
+14917,leadership coaching,UNCLEAR,UNCLEAR,LOW,,
+14922,video or studio production,YES,UNCLEAR,LOW,,
+14928,unknown,UNCLEAR,UNCLEAR,LOW,,
+14930,unknown,UNCLEAR,UNCLEAR,LOW,,
+14934,talent development,YES,OK,MED,,
+14939,consulting or coaching,YES,UNCLEAR,LOW,,
+14947,crane services or training,YES,UNCLEAR,LOW,,
+14950,training management software,YES,WRONG,MED,,software vendor not training provider
+14953,speech coaching or technology,YES,UNCLEAR,LOW,,
+14955,coaching,UNCLEAR,UNCLEAR,LOW,,
+14958,criminal justice training,UNCLEAR,OK,MED,,domain criminaljusticelearning
+14959,unknown,YES,UNCLEAR,LOW,,
+14961,coaching,UNCLEAR,UNCLEAR,LOW,,
+14971,public policy seminars,UNCLEAR,OK,MED,Public Policy Seminars,
+14972,indoor health training,YES,OK,HIGH,,
+14976,business academy training,UNCLEAR,OK,MED,Project Business Academy,
+14977,human capital development,YES,OK,MED,,
+14979,leadership development,UNCLEAR,OK,MED,,
+14980,maritime services or training,YES,UNCLEAR,LOW,,
+14983,leadership school,UNCLEAR,OK,MED,,
+14984,advisory services,UNCLEAR,UNCLEAR,LOW,,domain otadvisors vs Oti
+14991,veteran joint venture contractor,UNCLEAR,UNCLEAR,LOW,,
+14996,agricultural and rural management,UNCLEAR,WRONG,MED,,domain okfb.org is Oklahoma Farm Bureau
+15002,lawyer or legal services,UNCLEAR,WRONG,MED,,domain abogadamd suggests attorney
+15008,leadership consulting,UNCLEAR,UNCLEAR,LOW,,domain thegkcgroup differs
+15015,author and decision strategy,UNCLEAR,UNCLEAR,LOW,,domain accordfamily
+15016,consulting,UNCLEAR,UNCLEAR,LOW,,
+15017,UX consulting,UNCLEAR,UNCLEAR,LOW,,
+15018,mindfulness institute,UNCLEAR,OK,MED,,domain imslaw suggests law firm
+15021,learning and training,YES,OK,MED,,
+15025,unknown,UNCLEAR,UNCLEAR,LOW,,domain edwardsvilleks.org
+15029,coaching and mentoring,UNCLEAR,OK,MED,Get Courageous,
+15035,unknown,YES,UNCLEAR,LOW,,
+15036,communications consulting,UNCLEAR,UNCLEAR,LOW,,
+15038,unknown,UNCLEAR,UNCLEAR,LOW,,
+15039,speaking or coaching,UNCLEAR,UNCLEAR,LOW,,
+15041,UX and usability consulting,UNCLEAR,UNCLEAR,LOW,,
+15042,unknown,UNCLEAR,UNCLEAR,LOW,,
+15053,aviation services,UNCLEAR,UNCLEAR,LOW,Great Basin Aviation,
+15055,unknown,UNCLEAR,UNCLEAR,LOW,,
+15064,education services,UNCLEAR,OK,MED,,domain opusomni
+15066,avionics training,YES,OK,HIGH,,
+15070,data science education center,YES,OK,MED,ACDS,
+15080,CDL truck driving school,DBA,OK,MED,CDS Truck School,
+15081,CDL training school,YES,OK,HIGH,,
+15082,community development nonprofit,YES,UNCLEAR,LOW,,

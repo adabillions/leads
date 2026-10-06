@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+7976,statistical training seminars and courses,YES,OK,HIGH,,
+7985,unknown,YES,UNCLEAR,LOW,,
+7989,unknown,YES,UNCLEAR,LOW,,
+7992,IT services firm in Albuquerque,YES,OK,MED,,
+7993,unknown services company,YES,UNCLEAR,LOW,,
+7994,facilities management company,UNCLEAR,OK,MED,,Domain says grantfacility; name says GRM
+7996,digital forensics services,YES,UNCLEAR,LOW,,May offer forensics training
+7997,unknown holding company,UNCLEAR,UNCLEAR,LOW,,Domain rightpath.com unrelated to name
+8000,IT services and help desk,YES,OK,MED,,
+8004,restoration contractor,YES,OK,MED,,
+8005,CPA and audit firm,YES,OK,HIGH,,
+8007,unknown,UNCLEAR,UNCLEAR,LOW,,Domain leapfox.net unrelated to name
+8009,"unknown, domain suggests cybersecurity",UNCLEAR,UNCLEAR,LOW,,Domain bluesagecyber.com differs from name
+8011,unknown,YES,UNCLEAR,LOW,,
+8012,"unknown, wellness education",UNCLEAR,UNCLEAR,LOW,,Domain is a person's name
+8014,safety seminars,UNCLEAR,OK,MED,Think Safe Seminars,Individual name; domain suggests seminars
+8015,educational services,YES,OK,MED,,
+8017,"unknown, possibly coaching or training",UNCLEAR,UNCLEAR,LOW,,Domain elevate4success.com
+8018,unknown,YES,UNCLEAR,LOW,,
+8020,occupational safety training,YES,OK,MED,,
+8028,community nonprofit in Camden,DBA,UNCLEAR,MED,Camden Dream Center,Faith-based community center
+8029,education services,YES,OK,MED,,
+8032,workforce training and consulting,YES,OK,MED,,
+8033,unknown,UNCLEAR,UNCLEAR,LOW,,Domain asymmetricsolutionsusa.com
+8038,training center,YES,OK,MED,,
+8039,"unknown, testing services",YES,UNCLEAR,LOW,,
+8040,truck driving school,YES,OK,HIGH,,
+8045,accent reduction training,DBA,OK,HIGH,LessAccent,
+8047,learning and tutoring services,YES,OK,MED,,
+8048,CPR training,YES,OK,MED,,
+8049,CPR training,YES,OK,MED,,3cpr likely Colorado Cardiac CPR
+8050,CPR and lifesaving training,YES,OK,MED,,
+8051,"unknown, electronics assembly or training",UNCLEAR,UNCLEAR,LOW,,Name and domain point to different businesses
+8052,"unknown, possibly CPR training",YES,UNCLEAR,LOW,,
+8054,CPR and first aid training,YES,OK,MED,,
+8056,training provider,YES,OK,MED,,
+8059,"unknown, defense related",YES,UNCLEAR,LOW,,
+8063,arts integration education,UNCLEAR,UNCLEAR,LOW,,Domain artsintegration.com
+8064,STEM education center,YES,OK,MED,,
+8067,training provider,YES,OK,MED,,
+8069,writing education,YES,UNCLEAR,LOW,,
+8071,HR and educational consulting,NO,UNCLEAR,LOW,,cadca.org is anti-drug coalition group
+8072,education services,UNCLEAR,OK,MED,,
+8073,unknown,YES,UNCLEAR,LOW,,
+8075,unknown tech firm,YES,UNCLEAR,LOW,,
+8076,IT automation services,YES,UNCLEAR,LOW,,
+8079,unknown,UNCLEAR,UNCLEAR,LOW,,Domain bastionserve.com unrelated
+8081,cloud technology firm,YES,UNCLEAR,LOW,,
+8082,unknown consulting,UNCLEAR,UNCLEAR,LOW,,Domain differs from name
+8087,investment firm,UNCLEAR,WRONG,MED,,Investments name in software line
+8088,moulage injury simulation products,YES,UNCLEAR,LOW,,
+8091,court reporting software,DBA,OK,HIGH,Eclipse,Maker of Eclipse CAT software
+8093,unknown consulting,YES,UNCLEAR,LOW,,
+8096,technical solutions provider,UNCLEAR,UNCLEAR,LOW,,Name M3 vs domain mc3
+8099,private security and protective services,YES,OK,MED,,
+8100,investigation and security services,YES,OK,MED,,
+8102,"business solutions, likely bookkeeping",YES,UNCLEAR,LOW,,
+8103,accounting and audit firm in Puerto Rico,YES,OK,HIGH,,Kreston network member
+8104,CPA firm,YES,OK,HIGH,,
+8105,medical solutions provider,YES,WRONG,MED,,Medical firm in accounting line
+8106,learning management and training software,YES,OK,MED,,
+8107,math education and tutoring,DBA,OK,MED,BlueStreak Math,
+8109,technology services,YES,UNCLEAR,LOW,,
+8110,IT and software services,YES,UNCLEAR,LOW,,
+8111,management consulting,YES,WRONG,MED,,"Consultants, not IT service firm"
+8113,coaching and creative services,UNCLEAR,UNCLEAR,LOW,Arden Coaching,Domain ardencoaching.com
+8114,learning strategies and training,YES,OK,MED,,
+8115,education nonprofit-style company,UNCLEAR,OK,MED,,Generic line
+8118,learning and assessment solutions,YES,OK,MED,,
+8128,asset inspection and work order software,YES,OK,MED,,
+8137,software or AI company,UNCLEAR,OK,LOW,,Poplicus vs Air AI domain unclear
+8141,AI software company,YES,OK,MED,,
+8143,private equity investment firm,DBA,WRONG,HIGH,K1 Investment Management,Investor in software line
+8150,"unknown, technology consultancy",UNCLEAR,UNCLEAR,LOW,,Domain tekimax.com
+8156,unknown technology firm,YES,UNCLEAR,LOW,,
+8158,military technology products,YES,UNCLEAR,LOW,,
+8159,engineering and technology services,YES,WRONG,MED,,Engineering services firm in software line
+8161,IT services,YES,UNCLEAR,LOW,,
+8164,unknown,YES,UNCLEAR,LOW,,
+8167,unknown,UNCLEAR,UNCLEAR,LOW,,Domain rsnacloudconnect.com
+8170,unknown,YES,UNCLEAR,LOW,,
+8171,"unknown, EDI related",UNCLEAR,UNCLEAR,LOW,,Domain edi-partners.com differs
+8175,individual consultant,UNCLEAR,UNCLEAR,LOW,,Person name; consulting domain
+8176,cloud services,YES,UNCLEAR,LOW,,
+8179,unknown technology firm,UNCLEAR,UNCLEAR,LOW,,Domain copperrivermc.com differs
+8180,business services and data,UNCLEAR,UNCLEAR,LOW,,Domain cpidata.com differs
+8183,technology firm,UNCLEAR,UNCLEAR,LOW,,Domain vmaccel.com
+8184,unknown,YES,UNCLEAR,LOW,,
+8187,staffing agency,UNCLEAR,OK,MED,,Domain empowersstaffing.com differs from name
+8191,unknown technology firm,UNCLEAR,UNCLEAR,LOW,,Domain theinclab.com differs
+8197,AI engineering and software,YES,OK,MED,,
+8200,event and production management software,YES,OK,HIGH,,
+8204,bankruptcy data publishing,YES,UNCLEAR,MED,BankruptcyData,"Data publisher, not clearly software"
+8214,unknown tech firm,YES,UNCLEAR,LOW,,
+8218,technology firm,YES,WRONG,MED,,Technologies firm in guard line
+8224,legal case management software,YES,OK,HIGH,,
+8229,unknown,YES,UNCLEAR,LOW,,
+8233,unknown technology firm,YES,UNCLEAR,LOW,,
+8240,unknown services company,YES,UNCLEAR,LOW,,
+8241,personal health record software,DBA,OK,MED,Medkaz,
+8249,unknown,YES,UNCLEAR,LOW,,
+8260,technology services,YES,UNCLEAR,LOW,,
+8262,RF engineering software and IT services,YES,OK,HIGH,,
+8264,unknown,YES,UNCLEAR,LOW,,
+8266,decision support software,DBA,OK,HIGH,Flying Logic,Maker of Flying Logic
+8278,GPS tracking and fleet software,YES,OK,MED,,
+8281,group purchasing software,YES,OK,MED,,
+8284,vibration analysis software,YES,OK,HIGH,,
+8287,GIS technology services,YES,UNCLEAR,LOW,,
+8295,IT support services,YES,WRONG,MED,,IT support firm in software line
+8299,"individual, wifi security services",UNCLEAR,UNCLEAR,LOW,,Person name; domain wifisecuritynetwork
+8300,3D software,YES,OK,MED,,
+8310,IT consulting in Puerto Rico,YES,WRONG,MED,,Consultants in software line
+8313,mailing list and data services,YES,WRONG,MED,,"List broker, not software vendor"
+8315,energy company,YES,WRONG,MED,,Energy firm in software line
+8324,facility management company,YES,WRONG,MED,,Facility management in software line
+8327,audio visual communication solutions,YES,WRONG,MED,,AV integrator in software line
+8328,telecommunications services,UNCLEAR,WRONG,MED,,Communications firm in software line
+8335,business systems provider,UNCLEAR,UNCLEAR,LOW,,Domain aerospac.com differs
+8336,IT solutions provider,YES,UNCLEAR,LOW,,
+8337,IT or computer services,UNCLEAR,UNCLEAR,LOW,Connecting Point,Domain connectingpoint.biz differs
+8338,unknown,UNCLEAR,UNCLEAR,LOW,,Names vs domain pixelcaster.com
+8341,engineering firm,YES,WRONG,MED,,Engineering firm in software line
+8343,art and computer services,YES,UNCLEAR,LOW,,
+8344,data consulting,UNCLEAR,WRONG,MED,,Consulting firm in software line
+8345,government contracting joint venture,YES,WRONG,MED,,"JV, not software vendor"
+8349,unknown,UNCLEAR,UNCLEAR,LOW,,Domain dginext.com
+8352,federal IT services contractor,YES,WRONG,MED,,Services contractor in software line
+8357,telephone and internet provider,DBA,WRONG,HIGH,Wavelinx,"Telecom, not software"
+8362,network solutions provider,YES,UNCLEAR,LOW,,
+8364,scientific solutions or staffing,UNCLEAR,UNCLEAR,LOW,,Domain icr-staffing.com differs from name
+8366,executive consulting or search,YES,UNCLEAR,LOW,,
+8367,staffing and consulting,UNCLEAR,OK,HIGH,,Domain abbastaffing.com differs from name
+8372,unknown,YES,UNCLEAR,LOW,,
+8373,computer and engineering services,UNCLEAR,UNCLEAR,LOW,,Domain trilliumtechnical.com differs
+8374,IT consulting and staffing,YES,OK,MED,,
+8382,recruiting,UNCLEAR,OK,MED,,Domain macrecruiters.com differs from name
+8386,staffing,UNCLEAR,OK,MED,,Domain samstaff.com differs from name
+8394,medical staffing,YES,OK,HIGH,,
+8402,real estate owner entity,UNCLEAR,UNCLEAR,LOW,,Domain knudsoncompany.com
+8403,housing owner,UNCLEAR,OK,MED,,Domain iberodevelopment.org affiliate
+8406,real estate development,UNCLEAR,UNCLEAR,LOW,,
+8408,apartment community owner,UNCLEAR,OK,MED,,
+8409,unknown real estate,UNCLEAR,UNCLEAR,LOW,,
+8410,real estate owner entity,UNCLEAR,UNCLEAR,LOW,,Domain is Jair Lynch developer
+8412,property services,YES,OK,MED,,
+8413,office tower owner entity,UNCLEAR,UNCLEAR,LOW,,Commercial property entity
+8414,real estate owner entity,UNCLEAR,UNCLEAR,LOW,,
+8415,property company,UNCLEAR,UNCLEAR,LOW,,Domain is a construction company
+8416,property company,UNCLEAR,UNCLEAR,LOW,,
+8417,apartment owner entity,UNCLEAR,OK,MED,,Domain mfimanagement.com
+8418,rental properties,UNCLEAR,OK,MED,,Domain uplandresources.com
+8419,"unknown, real estate entity",UNCLEAR,UNCLEAR,LOW,,
+8421,property company,UNCLEAR,UNCLEAR,LOW,,Domain is a painting company
+8423,real estate entity,UNCLEAR,UNCLEAR,LOW,,
+8424,professional office center owner,UNCLEAR,UNCLEAR,LOW,,Domain shepardeye.com
+8426,shopping center owner entity,YES,WRONG,MED,,"Commercial retail landlord, no residents"
+8428,unknown real estate entity,UNCLEAR,UNCLEAR,LOW,,
+8429,real estate entity,UNCLEAR,UNCLEAR,LOW,,
+8431,office park owner entity,UNCLEAR,WRONG,MED,,"Office park, not residential"
+8432,real estate development entity,UNCLEAR,UNCLEAR,LOW,,
+8433,property management company,UNCLEAR,OK,MED,,Domain pitcairnproperties.com affiliate
+8436,unknown real estate entity,UNCLEAR,UNCLEAR,LOW,,
+8441,security guard services,YES,OK,HIGH,Watkins Group,
+8444,security guard services,YES,OK,MED,,
+8450,unknown,YES,UNCLEAR,LOW,,
+8453,technical services,YES,UNCLEAR,LOW,,
+8464,"unknown, environmental related",UNCLEAR,UNCLEAR,LOW,,
+8469,commercial cleaning,UNCLEAR,OK,MED,,Domain seattlecommercialcleaners.com
+8470,window cleaning,DBA,OK,MED,Fish Window Cleaning,
+8471,cleaning services,YES,OK,MED,,
+8472,air duct cleaning,UNCLEAR,OK,MED,,Domain dustyducks.com vs Dusty Ducts
+8473,apartment make-ready services,YES,OK,MED,,
+8474,cleaning services,YES,OK,MED,,
+8475,building maintenance and janitorial,YES,OK,MED,,
+8482,leasing company,UNCLEAR,UNCLEAR,LOW,,Domain eccalaska.com
+8500,healthcare management services,UNCLEAR,WRONG,MED,,Domain gtcontractorsdmv.com unrelated
+8508,"unknown, equipment related",UNCLEAR,UNCLEAR,LOW,,Domain cecsd.com
+8514,CPA firm,YES,OK,HIGH,,
+8515,CPA firm,YES,OK,HIGH,,
+8529,IT solutions provider,YES,UNCLEAR,LOW,,
+8534,unknown technology or imaging firm,UNCLEAR,UNCLEAR,LOW,,
+8535,technology firm,YES,UNCLEAR,LOW,,
+8536,technology solutions provider,UNCLEAR,UNCLEAR,LOW,,Domain synapone.com
+8538,unknown data firm,YES,UNCLEAR,LOW,,
+8549,unknown,YES,UNCLEAR,LOW,,
+8553,unknown,YES,UNCLEAR,LOW,,
+8564,technology consulting,YES,UNCLEAR,LOW,,
+8572,staffing,UNCLEAR,OK,MED,,Domain innovargroup.com differs from name
+8576,technology solutions,UNCLEAR,UNCLEAR,LOW,,
+8577,computing and technology services,YES,UNCLEAR,LOW,,
+8585,unknown,YES,UNCLEAR,LOW,,
+8593,unknown,YES,UNCLEAR,LOW,,
+8596,unknown,YES,UNCLEAR,LOW,,
+8599,unknown,YES,UNCLEAR,LOW,,
+8602,health solutions provider,YES,UNCLEAR,LOW,,
+8603,staffing or recruiting,YES,UNCLEAR,LOW,,
+8605,CPA and advisory firm,YES,OK,MED,,
+8607,CPA firm,YES,OK,HIGH,,
+8609,CPA firm,YES,OK,HIGH,,

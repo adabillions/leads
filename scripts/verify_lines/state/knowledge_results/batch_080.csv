@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+9858,media and marketing production agency,YES,OK,MED,,
+9860,consulting services,YES,OK,LOW,,
+9881,corporate video production,DBA,OK,MED,Business Storytellers,
+9886,coaching services,UNCLEAR,OK,LOW,,
+9889,test prep and tutoring,YES,OK,MED,,
+9897,media and video production,YES,OK,LOW,,
+9925,drone pilot training,YES,OK,MED,,
+9959,environmental construction and engineering,YES,OK,MED,,
+9968,media and public relations,YES,OK,MED,,
+9969,government leadership training and consulting,UNCLEAR,OK,LOW,,
+9990,unknown,UNCLEAR,OK,LOW,,Domain unrelated to name
+10111,recruiting and staffing,YES,OK,MED,,R1 initials
+10117,healthcare consulting and recruiting,UNCLEAR,OK,LOW,,Domain looks like owner name
+10126,healthcare staffing,YES,OK,MED,,
+10130,healthcare staffing agency,YES,OK,MED,,
+10199,environmental remediation and consulting contractor,YES,OK,MED,,
+10201,environmental remediation and consulting contractor,YES,OK,MED,,
+10202,hazmat and environmental services,UNCLEAR,OK,LOW,,Domain sdhazmat suggests San Diego hazmat
+10207,environmental remediation and consulting contractor,YES,OK,MED,,
+10217,environmental consulting,YES,OK,MED,,
+10218,environmental consulting and laboratory services,YES,OK,HIGH,,
+10219,environmental remediation and consulting contractor,YES,OK,MED,,
+10227,environmental remediation and consulting contractor,YES,OK,MED,,
+10228,environmental remediation and consulting contractor,YES,OK,MED,,
+10232,environmental remediation and consulting contractor,YES,OK,MED,,
+10237,demolition and environmental services,YES,OK,MED,,
+10256,environmental consulting,UNCLEAR,OK,LOW,,Domain ctlep unclear
+10262,environmental and demolition contractor,YES,OK,MED,,
+10263,environmental remediation and consulting contractor,YES,OK,MED,,
+10264,environmental remediation and consulting contractor,YES,OK,MED,,
+10437,IT services and consulting,YES,OK,MED,,GCD initials
+10462,healthcare and laboratory staffing,UNCLEAR,OK,LOW,,Domain labcareer suggests lab recruiting
+10480,technology consulting,YES,OK,MED,,
+10491,environmental remediation and consulting contractor,YES,OK,MED,,
+10492,environmental remediation and consulting contractor,YES,OK,MED,,
+10493,environmental remediation contractor,YES,OK,MED,,
+10497,environmental remediation and consulting contractor,YES,OK,MED,,
+10499,environmental design and consulting,YES,OK,MED,,
+10503,environmental logistics and waste services,YES,OK,MED,,
+10506,environmental and construction contractor,YES,OK,MED,,
+10508,environmental remediation and consulting contractor,YES,OK,MED,,
+10512,environmental remediation and consulting contractor,YES,OK,MED,,
+10513,environmental remediation and consulting contractor,YES,OK,LOW,,"Domain onsitepr, Puerto Rico"
+10514,environmental remediation and consulting contractor,YES,OK,MED,,
+10557,project management coaching and training,YES,OK,MED,,
+10575,educational media production,YES,OK,MED,,
+10587,environmental remediation and consulting contractor,YES,OK,MED,,
+10591,consulting services,YES,OK,LOW,,
+10600,training consulting,YES,OK,MED,,
+10608,aviation training center,YES,OK,MED,,
+10610,technical training school,YES,OK,MED,,
+10611,welding training school,YES,OK,MED,,
+10612,consulting services,YES,OK,LOW,,
+10614,truck driver training school,YES,OK,MED,,
+10635,aircraft sustainment consulting,YES,OK,MED,,
+10640,technical training academy,YES,OK,MED,,
+10667,government IT consulting,YES,OK,LOW,,BCC initials
+10675,consulting and technical services,YES,OK,LOW,,
+10692,international consulting,YES,OK,MED,,
+10694,rigging training academy,YES,OK,MED,,
+10695,health science consulting,YES,OK,MED,,
+10699,consulting services,YES,OK,MED,,
+10704,consulting services,YES,OK,MED,,
+10738,data and AI talent recruitment,YES,OK,HIGH,,
+10749,scripting software and consulting,UNCLEAR,OK,LOW,,Domain winbatch is WinBatch software
+10765,technology consulting,YES,OK,LOW,,ACES initials
+10766,technology consulting,YES,OK,MED,,
+10772,private school,YES,OK,MED,,
+10775,tutoring services,YES,OK,MED,,
+10776,charter school,YES,OK,MED,,
+10778,public high school,YES,OK,MED,,Harrah Public Schools domain
+10829,software consulting,UNCLEAR,OK,LOW,,Domain softlakesolutions differs from name
+10867,consulting services,YES,OK,MED,,
+10899,consulting services,YES,OK,MED,,
+10919,business and technology consulting,UNCLEAR,OK,LOW,,Domain batallc differs from name
+10951,healthcare services and staffing,YES,OK,MED,,spirehc initials
+10975,commercial real estate investment,YES,OK,LOW,,
+10976,real estate investment,UNCLEAR,OK,LOW,,Domain bradleyscottre is different name
+11077,staffing agency,YES,OK,LOW,,"Domain involvepr, Puerto Rico"
+11089,consulting services,YES,OK,MED,,
+11108,consulting services,YES,OK,MED,,
+11128,IT consulting,YES,OK,MED,,
+11132,Catholic school,YES,OK,MED,,
+11135,public charter schools,YES,OK,MED,,
+11136,public charter schools,YES,OK,MED,,
+11138,Catholic high school,YES,OK,HIGH,,
+11142,Catholic high school,YES,OK,MED,,
+11175,consulting and staffing resources,YES,OK,LOW,,
+11179,consulting services,YES,OK,MED,,
+11182,technology consulting,YES,OK,MED,,
+11188,consulting services,YES,OK,MED,,
+11196,security consulting,YES,OK,MED,,
+11197,consulting services,YES,OK,MED,,
+11204,data and cloud consulting,YES,OK,MED,,
+11207,consulting services,YES,OK,MED,,
+11212,consulting services,YES,OK,MED,,
+11219,consulting services,YES,OK,MED,,
+11230,web development agency,DBA,OK,MED,Project Ricochet,
+11234,consulting services,YES,OK,MED,,
+11245,consulting services,YES,OK,MED,,
+11247,consulting services,YES,OK,MED,,
+11272,technology consulting,YES,OK,LOW,,Domain atc-primo
+11289,IT consulting,UNCLEAR,OK,LOW,,Domain peakcomplyance differs from name
+11301,health care services,YES,OK,MED,,
+11332,technology consulting,YES,OK,MED,,
+11379,consulting services,YES,OK,MED,,
+11383,IT and professional training,YES,OK,MED,,Fast Lane
+11387,educational consulting,YES,OK,MED,,
+11393,communication coaching and training,YES,OK,MED,,
+11405,consulting services,YES,OK,MED,,
+11412,consulting services,YES,OK,LOW,,Domain bcscorp3 initials
+11419,business writing training,UNCLEAR,OK,LOW,,Domain successfulbusinesswriting differs
+11421,media literacy education,YES,OK,MED,,
+11423,HR consulting,YES,OK,MED,,
+11430,academy or tutoring,YES,OK,LOW,,
+11441,charter school,YES,OK,MED,,
+11444,high school JROTC program,YES,OK,LOW,,Domain is district nhcs.net
+11456,consulting services,UNCLEAR,OK,LOW,,Domain mjmco not clearly same
+11460,coaching services,YES,OK,MED,,
+11461,improv and coaching training,YES,OK,MED,,
+11466,consulting services,UNCLEAR,OK,LOW,,Domain dbtpe unrelated to name
+11475,consulting services,YES,OK,LOW,,EACC initials
+11483,management consulting,YES,OK,MED,,
+11486,process improvement consulting,YES,OK,MED,,CPI initials
+11495,consulting services,YES,OK,MED,,
+11501,consulting services,YES,OK,MED,,
+11503,history-based leadership consulting,UNCLEAR,OK,LOW,,Domain historyleadership differs
+11515,consulting services,UNCLEAR,OK,LOW,,Domain iiet.us unrelated to name
+11540,intelligence consulting,YES,OK,MED,,
+11544,consulting services,YES,OK,MED,,
+11556,psychotherapy and coaching,UNCLEAR,OK,LOW,,Domain adversityuonline differs
+11558,consulting services,UNCLEAR,OK,LOW,,Domain intergistic differs
+11560,aviation maintenance training,YES,OK,MED,,
+11563,flight training school,YES,OK,MED,,
+11565,professional flight training,YES,OK,MED,,
+11566,aviation services and flight training,YES,OK,MED,,
+11567,aviation center and flight training,YES,OK,MED,,
+11570,aviation training academy,YES,OK,MED,,
+11571,aviation services and flight training,YES,OK,MED,,
+11572,drone pilot training,YES,OK,MED,,
+11582,natural therapy training school,YES,OK,MED,,
+11586,aircraft dispatcher training,YES,OK,MED,,
+11598,tutoring services,YES,OK,MED,,
+11599,consulting services,YES,OK,MED,,
+11603,dental practice and administration training,UNCLEAR,OK,LOW,,Domain adminstitute differs from name
+11604,cosmetology school,YES,OK,MED,The Salon Professional Academy Appleton,TSPA franchise
+11611,consulting services,YES,OK,MED,,
+11626,consulting services,YES,OK,MED,,
+11634,consulting services,YES,OK,MED,,
+11676,instructional media and training,YES,OK,MED,,
+11687,leadership and safety consulting,YES,OK,MED,,
+11717,cargo transport,YES,OK,MED,,
+11722,transport and trucking,YES,OK,MED,,
+11765,consulting services,YES,OK,MED,,
+11770,quality and compliance consulting,YES,OK,MED,,
+11774,consulting services,YES,OK,MED,,
+11778,coaching and consulting,YES,OK,MED,,
+11781,consulting services,YES,OK,MED,,
+11784,consulting services,YES,OK,MED,,
+11790,personal growth coaching,UNCLEAR,OK,LOW,,Domain drnicolerankine differs
+11811,consulting services,YES,OK,MED,,
+11828,consulting services,YES,OK,MED,,
+11848,transportation safety research and consulting,YES,OK,MED,,
+11876,IT solutions and development,YES,OK,MED,,
+11903,consulting services,YES,OK,LOW,,vhigh initials
+11923,trucking carrier,YES,OK,MED,,
+11927,logistics and transportation,YES,OK,MED,,
+11974,logistics consulting,YES,OK,MED,,
+11975,trucking carrier,YES,OK,MED,,
+11989,transportation services,YES,OK,MED,,
+11995,transport services,YES,OK,MED,,
+11999,transport and trucking,YES,OK,MED,,
+12000,transportation services,YES,OK,MED,,
+12003,global transportation and logistics,YES,OK,MED,,
+12004,trucking,YES,OK,MED,,
+12076,IT services,YES,OK,LOW,,
+12127,health and energy sustainability consulting,YES,OK,MED,,CHESS acronym
+12155,freight forwarding and logistics,YES,OK,HIGH,,
+12169,transportation services,YES,OK,LOW,,Domain mjrint
+12221,risk management and HR consulting,UNCLEAR,OK,LOW,,Domain princesscastleberry differs
+12224,media network,UNCLEAR,OK,LOW,,Domain gsmiweb unrelated to name
+12230,charter school,YES,OK,MED,,
+12232,Catholic school,YES,OK,MED,,
+12233,independent boarding school,YES,OK,HIGH,,
+12248,transportation and logistics,YES,OK,MED,,GTS initials
+12250,logistics and carrier services,YES,OK,MED,,
+12252,international transportation and supply chain,YES,OK,MED,,Walker SCM
+12255,trucking carrier,YES,OK,MED,,
+12262,media production,YES,OK,MED,,
+12270,professional training provider,YES,OK,HIGH,,
+12282,consulting services,YES,OK,MED,,
+12293,leadership training and consulting,UNCLEAR,OK,LOW,,Domain managertochangemaker differs
+12295,consulting services,YES,OK,MED,,
+12296,communications consulting,YES,OK,MED,,
+12323,consulting services,UNCLEAR,OK,LOW,,Domain ritafelton looks like owner name
+12347,environmental contracting,YES,OK,MED,,
+12355,transportation services,YES,OK,MED,,
+12360,government social media services,YES,OK,MED,,
+12363,interview training software,DBA,OK,MED,Big Interview,
+12430,home care services,YES,OK,MED,,

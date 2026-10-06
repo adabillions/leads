@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+8905,unknown,YES,UNCLEAR,LOW,,
+8906,Enterprise software vendor,YES,OK,HIGH,Prism Software,
+8907,IT services and support,YES,OK,MED,,
+8908,unknown,YES,UNCLEAR,LOW,,
+8912,Performance and training consulting,YES,OK,MED,,
+8915,Corporate training provider,YES,OK,MED,,
+8918,Workforce training and employment services,YES,OK,MED,,
+8921,Electrical contractor,YES,OK,MED,,
+8922,Custom software development consultancy,YES,WRONG,MED,,Consultancy not a product vendor
+8923,unknown,YES,UNCLEAR,LOW,,
+8927,unknown,YES,UNCLEAR,LOW,,
+8928,Mechanical/HVAC contractor,YES,OK,MED,,
+8929,Computer skills training,YES,OK,MED,,
+8933,Education and learning programs,YES,OK,MED,,
+8935,Electrical contractor,YES,OK,MED,,
+8937,unknown,YES,UNCLEAR,LOW,,
+8939,Negotiation training and consulting,UNCLEAR,OK,MED,,Domain is negotiationtaskforce.org
+8948,unknown,UNCLEAR,UNCLEAR,LOW,,
+8952,Science teacher professional development,YES,OK,MED,,
+8953,Education assessment and accountability consulting,YES,UNCLEAR,MED,,Consulting to education agencies
+8957,unknown,YES,UNCLEAR,LOW,,
+8961,Equipment sales and rental,YES,OK,MED,,
+8967,Computer training institute,YES,OK,MED,,
+8969,unknown,YES,UNCLEAR,LOW,,
+8982,Counseling or life-skills services,YES,UNCLEAR,LOW,,
+8983,Leadership and executive training,UNCLEAR,OK,MED,,Domain is executiveforum.net
+8984,E-learning content provider,YES,OK,HIGH,,
+8985,unknown,UNCLEAR,UNCLEAR,LOW,,Domain signatureworldwide.com
+8988,unknown,YES,UNCLEAR,LOW,,
+9002,unknown,UNCLEAR,UNCLEAR,LOW,,Name suggests engineering firm
+9009,Public safety training,YES,OK,MED,,
+9012,Energy industry training,YES,OK,MED,,
+9017,unknown,YES,UNCLEAR,LOW,,
+9019,Affordable housing development/management,YES,WRONG,MED,,Housing provider not trainer
+9025,unknown,YES,UNCLEAR,LOW,,
+9026,Safety training,YES,OK,MED,,
+9031,Flight school,UNCLEAR,OK,MED,,Domain is theflyingschool.com
+9039,Training services,YES,OK,MED,,
+9044,Massage therapy school,YES,OK,MED,,
+9050,unknown,UNCLEAR,UNCLEAR,LOW,,Domain suggests rescue
+9054,Truck driver training,YES,OK,MED,,
+9055,Science camps and classes,UNCLEAR,OK,MED,,Domain is wowsciencecamp.org
+9063,Test prep,YES,OK,MED,,
+9071,Instructional and test-prep services,YES,OK,MED,,
+9077,Krav Maga martial arts school,YES,OK,MED,,
+9081,Professional training provider,YES,OK,MED,,
+9083,unknown,YES,UNCLEAR,LOW,,
+9088,Gender diversity nonprofit and trainings,YES,UNCLEAR,MED,,Nonprofit
+9093,Tutoring and educational services,YES,OK,MED,,
+9094,Employment and career services,UNCLEAR,UNCLEAR,LOW,,
+9095,Hawaiian cultural education foundation,YES,UNCLEAR,MED,,Nonprofit foundation
+9100,Project management consulting/training,YES,UNCLEAR,LOW,,
+9108,Healthcare technology,YES,OK,MED,,
+9109,unknown,YES,UNCLEAR,LOW,,
+9111,Express courier/trucking,YES,WRONG,MED,,Not training business
+9116,unknown,YES,UNCLEAR,LOW,,
+9124,unknown,YES,UNCLEAR,LOW,,
+9127,Cargo freight forwarding,YES,OK,MED,,
+9128,International freight forwarder,YES,OK,MED,,
+9129,Inspection services,YES,OK,MED,,Generic line
+9132,IT staffing and consulting,YES,OK,MED,,
+9133,Staffing agency,YES,OK,HIGH,,
+9134,unknown,YES,UNCLEAR,LOW,,Possibly security systems
+9135,Security systems integration,YES,WRONG,MED,,Systems integrator not guards
+9137,Electrical contractor,YES,OK,MED,,
+9141,unknown,YES,OK,LOW,,Generic line
+9145,unknown,YES,UNCLEAR,LOW,,
+9146,Janitorial and facility services,YES,OK,MED,,
+9149,Speakers bureau,YES,WRONG,MED,,Books speakers not training
+9152,Safety training and consulting,YES,OK,MED,,
+9156,Notary training and services,YES,OK,MED,,
+9158,Tactical operations training,YES,OK,MED,,
+9159,Professional development training,UNCLEAR,OK,MED,,Domain is thesharpersolution.com
+9160,unknown,YES,UNCLEAR,LOW,,
+9161,Learning solutions provider,UNCLEAR,OK,MED,,Domain is totalearn.com
+9165,unknown,YES,UNCLEAR,LOW,,
+9172,unknown,YES,UNCLEAR,LOW,,
+9173,Training service,YES,OK,MED,,
+9174,Florida education provider,YES,OK,MED,,
+9176,Forklift operator training,YES,OK,MED,,
+9180,CPR training,YES,OK,MED,,Generic line
+9184,Tutoring,YES,OK,MED,,
+9189,IT and health IT services,YES,UNCLEAR,LOW,,
+9191,Temporary staffing,UNCLEAR,OK,MED,,Domain is caltemps.com
+9196,unknown,YES,UNCLEAR,LOW,,
+9197,Product management training and consulting,YES,UNCLEAR,MED,,
+9198,unknown,YES,UNCLEAR,LOW,,
+9199,unknown,YES,UNCLEAR,LOW,,
+9201,Amazon delivery service partner,YES,UNCLEAR,MED,,Last-mile carrier not broker
+9202,unknown,UNCLEAR,UNCLEAR,LOW,,Domain suggests metal products
+9203,unknown,YES,UNCLEAR,LOW,,
+9204,Enrollment/ML software,YES,OK,MED,,
+9205,Software company,YES,OK,MED,,
+9206,Sleep science software for athletes,YES,OK,MED,,
+9207,unknown,YES,UNCLEAR,LOW,,
+9208,Alarm and security systems,YES,WRONG,MED,,Alarm company not guards
+9210,Business systems/office equipment,YES,UNCLEAR,LOW,,
+9212,Ford car dealership,YES,WRONG,HIGH,,Auto dealer
+9213,unknown,YES,UNCLEAR,LOW,,
+9214,Software company,YES,OK,MED,,
+9215,Device trade-in software platform,YES,OK,MED,,
+9216,unknown,YES,UNCLEAR,LOW,,
+9217,unknown,YES,UNCLEAR,LOW,,
+9218,Social media marketing,YES,UNCLEAR,LOW,,
+9219,Biotechnology company,YES,WRONG,MED,,Biotech not software vendor
+9220,Cloud-native software platform,YES,OK,HIGH,,
+9221,Analytics software,YES,OK,MED,,
+9222,AI software,YES,OK,MED,,
+9223,AI software,YES,OK,MED,,
+9224,Voice analytics software,YES,OK,MED,,
+9227,unknown,YES,UNCLEAR,LOW,,
+9228,IT audit and security consulting,YES,WRONG,MED,,Consulting not managed IT
+9229,Analytics firm,YES,UNCLEAR,LOW,,
+9230,Decarbonization software,YES,OK,MED,,
+9231,unknown,UNCLEAR,UNCLEAR,LOW,,Domain daic.ai
+9233,IT/cyber consulting,YES,WRONG,MED,,Not guard company
+9234,IT services,YES,UNCLEAR,LOW,,
+9235,Insider risk software,YES,OK,MED,,
+9236,unknown,YES,UNCLEAR,LOW,,
+9237,HVACR contractor,YES,OK,MED,,
+9238,School website design,YES,WRONG,MED,,Web vendor not training
+9239,IT/technical services,YES,UNCLEAR,LOW,,
+9240,Data/software,YES,UNCLEAR,LOW,,
+9242,Security services,YES,UNCLEAR,LOW,,
+9243,School or training provider,YES,OK,MED,,
+9244,Trades business coaching/training,YES,OK,MED,,
+9245,unknown,YES,UNCLEAR,LOW,,
+9246,unknown,YES,UNCLEAR,LOW,,
+9247,Spanish immersion preschool,YES,WRONG,MED,,Preschool not training business
+9248,Educational publisher,YES,OK,MED,,
+9249,Entrepreneurship nonprofit,YES,UNCLEAR,MED,,
+9250,unknown,YES,UNCLEAR,LOW,,
+9251,Business coaching and training,YES,OK,MED,,
+9256,unknown,UNCLEAR,UNCLEAR,LOW,,Domain titanideconsulting.com
+9258,Logistics provider,YES,OK,MED,,
+9260,unknown,YES,UNCLEAR,LOW,,
+9261,unknown,YES,UNCLEAR,LOW,,
+9263,unknown,YES,UNCLEAR,LOW,,
+9264,Surveillance camera systems,YES,WRONG,MED,,Not guard company
+9266,Software/security technology,YES,OK,MED,,
+9268,IT consulting,YES,UNCLEAR,LOW,,
+9269,Analytics/IT services,YES,UNCLEAR,LOW,,
+9270,IT services,YES,OK,MED,,
+9271,Networking services,YES,OK,MED,,
+9272,unknown,YES,UNCLEAR,LOW,,
+9273,Cabling and networking,YES,UNCLEAR,MED,,
+9274,IT services,YES,OK,MED,,
+9275,unknown,UNCLEAR,UNCLEAR,LOW,,Domain slable.com
+9277,Managed IT/networks,YES,OK,MED,,
+9278,unknown,YES,UNCLEAR,LOW,,
+9279,unknown,YES,UNCLEAR,LOW,,Individual name
+9280,Consulting,YES,UNCLEAR,LOW,,
+9281,IT staffing/consulting,YES,UNCLEAR,LOW,,
+9283,IT services,YES,OK,MED,,
+9284,Marketing and distribution,YES,WRONG,MED,,Not an IT firm
+9285,IT/technology services,YES,UNCLEAR,LOW,,
+9287,Consulting,YES,UNCLEAR,LOW,,
+9288,Web and IT services,YES,UNCLEAR,LOW,,
+9289,Security consulting,YES,UNCLEAR,MED,,
+9292,Communications/telecom services,YES,UNCLEAR,LOW,,
+9293,IT consulting,YES,UNCLEAR,LOW,,
+9296,Childcare marketplace,YES,UNCLEAR,MED,,
+9298,Health monitoring systems,YES,UNCLEAR,LOW,,
+9300,Immersion cooling hardware,UNCLEAR,WRONG,HIGH,,Hardware firm; domain midasimmersion.com
+9301,unknown,YES,UNCLEAR,LOW,,
+9302,Logistics provider,YES,OK,MED,,Generic line
+9303,Logistics provider,YES,OK,MED,,
+9304,Logistics provider,YES,OK,MED,,
+9306,Freight forwarding/logistics,YES,OK,MED,,
+9307,Building materials supplier,YES,WRONG,MED,,Not a freight broker
+9308,Ocean shipping services,YES,OK,MED,,
+9310,Freight service to Guam,YES,OK,MED,,
+9311,Trucking/logistics,YES,UNCLEAR,LOW,,Possibly carrier
+9313,Freight forwarding,YES,OK,MED,,
+9314,Logistics provider,YES,OK,MED,,
+9316,Heavy project cargo logistics,YES,OK,MED,,
+9319,unknown,UNCLEAR,UNCLEAR,LOW,,
+9320,unknown,YES,UNCLEAR,LOW,,
+9321,Logistics provider,YES,OK,MED,,
+9322,Logistics provider,YES,OK,MED,,
+9323,Possibly freight forwarding,YES,UNCLEAR,LOW,,
+9324,Logistics provider,YES,OK,MED,,
+9325,unknown,YES,UNCLEAR,LOW,,
+9326,International logistics,YES,OK,MED,,
+9327,Trucking company,YES,UNCLEAR,LOW,,Possibly carrier
+9329,Logistics provider,YES,OK,MED,,
+9331,Freight company,YES,OK,MED,,
+9332,unknown,YES,UNCLEAR,LOW,,
+9333,Freight brokerage,YES,OK,HIGH,,
+9334,unknown,YES,UNCLEAR,LOW,,
+9335,Logistics provider,YES,OK,MED,,
+9337,unknown,YES,UNCLEAR,LOW,,
+9339,unknown,UNCLEAR,UNCLEAR,LOW,,
+9344,Logistics provider,YES,OK,MED,,
+9345,Government contractor,YES,UNCLEAR,LOW,,
+9346,International logistics,YES,OK,MED,,
+9347,unknown,YES,UNCLEAR,LOW,,
+9349,unknown,YES,UNCLEAR,LOW,,
+9351,unknown,YES,UNCLEAR,LOW,,
+9352,Cleanroom/lab space products,YES,WRONG,MED,,Not freight business

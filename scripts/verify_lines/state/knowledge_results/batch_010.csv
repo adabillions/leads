@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+6685,water systems engineering and service,YES,OK,MED,,RASCO initials match
+6687,elevator installation and maintenance,YES,OK,MED,,
+6693,overhead door installation and service,UNCLEAR,OK,MED,,domain suggests The Overhead Door Co
+6694,boiler and mechanical contractor,YES,OK,MED,,
+6702,unknown,UNCLEAR,UNCLEAR,LOW,,
+6706,IT consulting,YES,UNCLEAR,LOW,,
+6707,unknown,YES,UNCLEAR,LOW,,
+6712,cybersecurity and IT solutions,YES,OK,MED,,
+6715,unknown (possibly logistics),UNCLEAR,UNCLEAR,LOW,,
+6719,control engineering,UNCLEAR,UNCLEAR,LOW,,
+6722,technology services,YES,UNCLEAR,LOW,,
+6723,engineering firm,YES,UNCLEAR,LOW,,engineering firm may lack dispatch records
+6731,unknown,YES,UNCLEAR,LOW,,
+6732,creative or digital arts studio,YES,UNCLEAR,LOW,,arts name; may not be MSP
+6733,IT and digital services,YES,OK,MED,,
+6734,ecology/environmental group,YES,WRONG,MED,,environmental not freight
+6752,unknown,YES,UNCLEAR,LOW,,
+6754,locksmith and safe service,UNCLEAR,WRONG,MED,,locksmith not guard company
+6757,electrical contractor,YES,OK,MED,,
+6764,consulting firm,YES,UNCLEAR,LOW,,
+6765,healthcare EHR implementation services,YES,UNCLEAR,LOW,,
+6766,unknown,YES,UNCLEAR,LOW,,
+6767,consulting services,YES,UNCLEAR,LOW,,
+6768,consulting,UNCLEAR,UNCLEAR,LOW,,person name vs tikor domain
+6769,managed IT services,YES,OK,MED,,
+6771,unknown,YES,UNCLEAR,LOW,,
+6775,consulting,YES,UNCLEAR,LOW,,
+6787,technology services,YES,UNCLEAR,LOW,,
+6790,database consulting,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+6792,IT solutions,YES,UNCLEAR,LOW,,
+6793,managed IT services,YES,OK,MED,,
+6794,unknown,YES,UNCLEAR,LOW,,
+6797,unknown (telecom or IT),YES,UNCLEAR,LOW,,
+6798,consulting,YES,UNCLEAR,LOW,,
+6800,technology services,YES,UNCLEAR,LOW,,
+6803,unknown systems firm,YES,UNCLEAR,LOW,,
+6808,unknown,YES,UNCLEAR,LOW,,
+6810,unknown,YES,UNCLEAR,LOW,,
+6813,unknown,YES,UNCLEAR,LOW,,
+6814,project management consulting,UNCLEAR,WRONG,MED,,project management not managed IT
+6816,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+6818,communications services,YES,UNCLEAR,LOW,,
+6822,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+6827,consulting and contracting,YES,UNCLEAR,LOW,,
+6837,air freight forwarding,YES,OK,HIGH,,
+6853,unknown,UNCLEAR,UNCLEAR,LOW,,odd name; initials in domain
+6859,workplace solutions,YES,UNCLEAR,LOW,,
+6860,inventory/oilfield supply,YES,UNCLEAR,LOW,,
+6872,security guard services,YES,OK,MED,,
+6874,security guard services,YES,OK,MED,,
+6877,security services,YES,OK,MED,,
+6878,security/protection services,UNCLEAR,UNCLEAR,LOW,,domain suggests Olympus Protection
+6879,detector dog services,YES,UNCLEAR,MED,,K9 detection not patrol guards
+6883,security services,UNCLEAR,OK,MED,,domain suggests Calusa Security
+6884,security services,YES,OK,MED,,
+6887,unknown (lock products),UNCLEAR,UNCLEAR,LOW,,domain flylock.com
+6888,unknown,UNCLEAR,OK,LOW,,generic line
+6892,unknown,UNCLEAR,UNCLEAR,LOW,,
+6897,IT solutions,YES,UNCLEAR,LOW,,
+6899,security services,UNCLEAR,OK,MED,,domain suggests SOV Security
+6905,residential alarm security and monitoring,YES,WRONG,MED,,alarm monitoring not guard patrols
+6908,technology services,YES,UNCLEAR,LOW,,
+6916,electrical and communications contractor,YES,OK,MED,ATEC,generic line
+6918,electrical contractor,YES,OK,MED,,
+6921,unknown,YES,UNCLEAR,LOW,,
+6923,unknown,YES,UNCLEAR,LOW,,
+6924,networking solutions,YES,UNCLEAR,LOW,,
+6926,communications contractor,YES,UNCLEAR,LOW,,
+6927,electrical contractor,DBA,OK,MED,Diamond R Electric,
+6928,electrical contractor,UNCLEAR,OK,MED,,domain suggests Pinnacle Electric
+6929,distributor,YES,WRONG,MED,,distributor not field service
+6932,electrical contractor,YES,OK,MED,,
+6933,construction,UNCLEAR,UNCLEAR,LOW,,
+6937,unknown,YES,UNCLEAR,LOW,,
+6939,electrical contractor,YES,OK,MED,,
+6941,electrical service contractor,YES,OK,MED,,
+6942,electrical contractor,UNCLEAR,OK,MED,,domain differs
+6944,unknown,YES,UNCLEAR,LOW,,
+6948,electrical contractor,UNCLEAR,OK,MED,,
+6951,electrical contractor,YES,OK,MED,,
+6952,power systems and generators,YES,OK,MED,,
+6956,electrical contractor,YES,OK,MED,,
+6957,telecom contractor,YES,UNCLEAR,LOW,,
+6959,networking,YES,UNCLEAR,LOW,,
+6960,electrical contractor,YES,OK,MED,,
+6962,electrical and construction services,YES,OK,MED,,
+6964,electrical contractor,YES,OK,MED,,
+6968,unknown,YES,UNCLEAR,LOW,,
+6969,electrical contractor,YES,OK,MED,,
+6970,telecom and data cabling,YES,UNCLEAR,LOW,,
+6971,consulting,YES,UNCLEAR,LOW,,
+6972,electrical contractor,YES,OK,MED,,
+6973,general building contractor,YES,WRONG,MED,,general contractor not field service
+6975,construction company,UNCLEAR,WRONG,MED,,general contractor not field service
+6976,unknown,YES,UNCLEAR,LOW,,
+6981,electrical contractor,UNCLEAR,OK,MED,,domain suggests G3 Electrical
+6983,fire and protective systems,YES,OK,MED,,
+6984,unknown,UNCLEAR,OK,LOW,,generic line
+6987,cabling contractor,YES,UNCLEAR,LOW,,
+6991,mechanical contractor,YES,OK,MED,,
+6992,general construction,YES,WRONG,MED,,general contractor not field service
+6994,unknown,YES,UNCLEAR,LOW,,
+6997,unknown,YES,UNCLEAR,LOW,,
+6998,HVAC and building maintenance,YES,OK,MED,,
+6999,mechanical contractor,YES,OK,MED,,
+7001,home services (likely plumbing/HVAC),YES,UNCLEAR,LOW,,
+7002,HVAC service,YES,OK,MED,,
+7004,HVAC and power services,YES,OK,MED,,
+7012,unknown,YES,UNCLEAR,LOW,,
+7016,piping systems contractor,YES,UNCLEAR,LOW,,
+7019,unknown services,YES,UNCLEAR,LOW,,
+7025,metal fabrication,YES,WRONG,MED,,fabricator not field service
+7028,construction company,YES,WRONG,MED,,general contractor not field service
+7030,fire protection services,YES,OK,MED,,
+7032,plumbing contractor,DBA,OK,MED,KCM Plumbing,
+7034,HVAC sales and service,UNCLEAR,OK,MED,,
+7035,unknown,UNCLEAR,UNCLEAR,LOW,,
+7036,commodities and logistics,YES,WRONG,MED,,logistics/commodities not field service
+7037,plumbing contractor,DBA,OK,MED,Main Line Plumbing,
+7039,field testing services,YES,OK,MED,,
+7042,plumbing and heating,YES,OK,MED,,
+7045,mechanical contractor,YES,OK,MED,,
+7052,data literacy training,UNCLEAR,OK,MED,,
+7053,Excel training,DBA,OK,HIGH,Miss Excel,
+7057,CPA firm,YES,OK,HIGH,,
+7059,educational publisher,YES,UNCLEAR,LOW,,
+7061,state education agency,YES,WRONG,HIGH,,government agency not training business
+7069,unknown,YES,UNCLEAR,LOW,,
+7075,home inspector training,DBA,OK,MED,ATI Training,
+7076,publisher,UNCLEAR,UNCLEAR,LOW,,
+7080,child development training,UNCLEAR,OK,MED,,
+7082,data visualization training,YES,OK,MED,,
+7084,quality consulting and training,UNCLEAR,UNCLEAR,LOW,,
+7086,drone training,DBA,OK,HIGH,UAV Coach,
+7087,unknown,UNCLEAR,UNCLEAR,LOW,,
+7089,children's entertainment productions,YES,UNCLEAR,LOW,,
+7093,IT and business training,YES,OK,HIGH,,
+7096,speech coaching,DBA,OK,MED,,
+7097,unknown,YES,UNCLEAR,LOW,,
+7101,communication training,DBA,OK,MED,The Communication Center,
+7102,unknown,YES,UNCLEAR,LOW,,
+7103,career services,YES,UNCLEAR,LOW,,
+7106,leadership training and consulting,DBA,OK,MED,CorExcel,
+7109,HVAC training academy,DBA,OK,MED,Aircon Academy,
+7110,threat/security training,YES,UNCLEAR,LOW,,
+7112,continuing education,DBA,OK,MED,CE Impact,
+7115,financial coaching,UNCLEAR,UNCLEAR,LOW,,
+7117,analytics consulting,YES,UNCLEAR,LOW,,
+7118,leadership training,YES,OK,MED,,
+7124,team assessment consulting (Belbin),DBA,OK,MED,Belbin North America,
+7127,sea survival training,YES,OK,HIGH,,
+7136,unknown,YES,UNCLEAR,LOW,,
+7140,STEM maker education,YES,OK,MED,,
+7146,research firm,YES,UNCLEAR,LOW,,
+7150,CPR/first aid training,UNCLEAR,OK,MED,,
+7152,cognitive training centre,DBA,OK,MED,LearningRx,
+7156,unknown,UNCLEAR,UNCLEAR,LOW,,
+7158,PC support services,YES,OK,MED,,
+7159,interpreting services,YES,OK,LOW,,generic line
+7163,unknown,YES,UNCLEAR,LOW,,
+7166,IT services,YES,OK,MED,,
+7168,IT help services,YES,OK,MED,,
+7171,boiler sales and service,YES,OK,MED,,
+7173,environmental/archaeological investigations,YES,WRONG,MED,,environmental firm not restoration
+7174,restoration and repair,DBA,OK,MED,All Dry USA,
+7177,education publishing/learning,UNCLEAR,UNCLEAR,LOW,,
+7180,psychology coaching and training,UNCLEAR,UNCLEAR,LOW,,
+7181,career development platform,UNCLEAR,UNCLEAR,LOW,,
+7183,language classes,YES,OK,HIGH,,
+7185,oil and gas software,YES,OK,HIGH,Pandell,
+7191,employment services,YES,OK,MED,,
+7196,CPA professional association,YES,UNCLEAR,MED,,association not accounting firm
+7222,technology consulting,YES,UNCLEAR,LOW,,
+7227,consulting,YES,UNCLEAR,LOW,,
+7236,unknown,YES,UNCLEAR,LOW,,
+7243,software (ACERTS),UNCLEAR,UNCLEAR,LOW,,
+7246,government IT solutions,YES,UNCLEAR,LOW,,
+7247,unknown,YES,UNCLEAR,LOW,,
+7252,unknown (care services),YES,UNCLEAR,LOW,,
+7257,traffic consulting,YES,WRONG,MED,,traffic firm not accounting
+7265,technology solutions,YES,UNCLEAR,LOW,,
+7268,cyber services,YES,UNCLEAR,LOW,,
+7270,IT consulting,YES,OK,MED,,
+7275,IT services,YES,OK,MED,,
+7277,IT equipment recycling,YES,WRONG,MED,,recycler not managed IT
+7278,IT services,YES,OK,MED,,
+7280,unknown,UNCLEAR,UNCLEAR,LOW,,
+7281,unknown,YES,UNCLEAR,LOW,,
+7284,IT consulting,YES,OK,MED,,
+7286,data center solutions,DBA,OK,MED,Vazata,
+7294,unknown,UNCLEAR,UNCLEAR,LOW,,
+7296,unknown,UNCLEAR,UNCLEAR,LOW,,
+7302,technology services,YES,UNCLEAR,LOW,,
+7303,consulting,YES,UNCLEAR,LOW,,
+7306,IT services,YES,OK,MED,,
+7310,IT services,YES,OK,MED,,
+7318,IT solutions,YES,OK,MED,,
+7328,unknown,YES,UNCLEAR,LOW,,
+7337,cartage trucking,UNCLEAR,WRONG,MED,,trucking carrier not broker
+7338,workforce readiness training,YES,UNCLEAR,LOW,,

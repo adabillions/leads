@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+16577,IT consulting or staffing firm (unverified),YES,UNCLEAR,LOW,,
+16578,IT consulting or staffing (unverified),YES,UNCLEAR,LOW,,
+16579,recruiting firm,YES,OK,MED,,
+16580,unknown,UNCLEAR,UNCLEAR,LOW,,Domain says solutions; name says Llc only
+16581,staffing agency,YES,OK,MED,,
+16582,unknown,YES,UNCLEAR,LOW,,
+16583,mechanical contractor,YES,OK,MED,,Generic line
+16584,recruitment firm,YES,OK,MED,,Generic line
+16585,pain management medical clinics,YES,OK,MED,,Generic line
+16586,health services or tech,YES,OK,LOW,,Generic line
+16587,likely cleaning services,YES,WRONG,LOW,,Name suggests cleaning not staffing
+16589,management consulting or services,YES,UNCLEAR,LOW,,Name does not imply training
+16591,robotic handwritten card service,YES,OK,HIGH,,Generic line
+16592,venture capital,YES,OK,MED,,Generic line
+16593,decision analytics software,YES,OK,MED,,Generic line
+16596,digital marketing agency,YES,OK,MED,,Generic line
+16597,automation services,YES,OK,MED,,Generic line
+16598,software or marketing technology,YES,OK,LOW,,Generic line
+16599,remote robotic research laboratory,YES,OK,HIGH,,Generic line
+16600,consulting group,YES,OK,LOW,,Generic line
+16603,emergency restoration services,YES,OK,HIGH,Titan Restoration,Generic line; domain titan911
+16604,metals trading marketplace,YES,OK,MED,,Generic line
+16606,influencer commerce platform,YES,OK,MED,,Generic line
+16608,mobile medical clinics,YES,OK,MED,,Generic line
+16611,software development firm,YES,OK,MED,,Generic line
+16612,ecommerce services,YES,OK,MED,,Generic line
+16613,healthcare services or tech,YES,OK,LOW,,Generic line
+16615,media monitoring software,YES,OK,HIGH,PublicRelay,Generic line
+16616,localization industry research,YES,OK,HIGH,,Generic line
+16618,executive search firm,YES,OK,HIGH,,Generic line
+16620,flexible warehouse space provider,YES,OK,HIGH,,Generic line
+16624,hearing and balance clinics,YES,OK,HIGH,,Generic line
+16625,nonprofit community lender,YES,OK,HIGH,NeighborWorks Capital,Generic line
+16626,private investment firm,YES,OK,MED,,Generic line
+16628,wearable biometric sensors,YES,OK,MED,,Generic line
+16630,IT solutions provider,YES,OK,LOW,,Generic line
+16633,specialty practice partner,YES,OK,MED,,Generic line
+16634,corporate gifting and branded goods,YES,OK,MED,,Generic line
+16635,financial wellness platform,YES,OK,MED,,Generic line
+16639,unknown,YES,OK,LOW,,Generic line
+16641,HVAC and comfort services,YES,OK,MED,,Generic line
+16642,staffing agency,YES,OK,MED,,
+16645,clinical trial software,YES,OK,MED,,Generic line
+16647,online mental health program,YES,OK,MED,,Generic line
+16648,healthcare provider ratings,YES,OK,HIGH,,Generic line
+16649,AI security software,YES,OK,MED,,Generic line
+16650,SEO and digital marketing agency,YES,OK,HIGH,,Generic line
+16651,market research firm,YES,OK,MED,,Generic line
+16652,legal marketing agency,YES,OK,HIGH,Juris Digital,Generic line
+16653,violence prevention nonprofit,YES,OK,HIGH,Cure Violence Global,Generic line
+16654,ETF asset manager,YES,OK,HIGH,,Generic line
+16655,executive search firm,YES,OK,MED,,Generic line
+16656,employee benefits services,YES,OK,MED,,Generic line
+16659,orthotic footwear maker,YES,OK,HIGH,,Generic line
+16660,unknown,YES,OK,LOW,,Generic line
+16661,venture investing,YES,OK,LOW,,Generic line
+16663,media company,YES,OK,LOW,,Generic line
+16664,health technology,YES,OK,LOW,,Generic line
+16667,financial advisory firm,YES,OK,MED,,Generic line
+16668,pharmacy data analytics,YES,OK,MED,,Generic line
+16669,medical lab services,YES,OK,LOW,,Generic line
+16670,financial document software,YES,OK,MED,,Generic line
+16671,business funding broker,YES,OK,MED,,Generic line
+16672,community bank,YES,OK,HIGH,,Generic line
+16673,tool maker or distributor,YES,OK,MED,,Generic line
+16674,freight brokerage,YES,OK,MED,,Generic line
+16676,foundation repair contractor,YES,OK,HIGH,Ram Jack,Generic line
+16677,3PL technology and logistics,YES,OK,MED,,Generic line
+16678,unknown,UNCLEAR,OK,LOW,,Generic line
+16679,software or IT services,YES,OK,LOW,,Generic line
+16680,digital agency,YES,OK,MED,,Generic line; domain centerline.net
+16681,IT services,YES,OK,LOW,,Generic line
+16683,personality assessment training,YES,OK,HIGH,,Generic line
+16684,fractional CFO services,YES,OK,MED,,Generic line
+16685,insurance agency,YES,OK,MED,,Generic line
+16687,energy services (unverified),YES,OK,LOW,,Generic line
+16688,unknown,YES,OK,LOW,,Generic line
+16690,home renovation for sellers,YES,OK,HIGH,,Generic line
+16691,digital agency,YES,OK,MED,,Generic line
+16692,wealth management firm,YES,OK,MED,,Generic line
+16693,credit union,YES,OK,HIGH,,Generic line
+16694,trade show displays,YES,OK,MED,,Generic line
+16695,truck service dealer network,YES,OK,HIGH,Truck Pride,Generic line
+16697,drain cleaning services,YES,OK,MED,,Generic line
+16698,engineering consultancy,YES,OK,HIGH,,Generic line
+16699,veterinary practice partner,YES,OK,MED,,Generic line
+16700,CEO networking and media,YES,OK,MED,,Generic line
+16701,nonprofit lender,YES,OK,MED,,Generic line
+16702,commercial door services,YES,OK,MED,,Generic line
+16703,genomics biotech,YES,OK,HIGH,,Generic line
+16704,catering company,YES,OK,MED,,Generic line; domain occasionsdenver
+16705,franchise marketing,YES,OK,MED,,Generic line
+16706,career transition consulting,YES,OK,HIGH,,Generic line
+16707,medical education or services,YES,OK,LOW,,Generic line
+16708,HR and employment services,YES,OK,MED,,Generic line
+16709,workers comp insurance services,YES,OK,MED,,Generic line
+16710,PR and marketing agency,YES,OK,MED,,Generic line
+16712,healthcare services,YES,OK,LOW,,Generic line
+16713,payments platform,YES,OK,MED,,Generic line
+16714,solar installer,YES,OK,MED,,Generic line
+16715,residential real estate brokerage,YES,OK,HIGH,,Generic line
+16718,agency or consulting,YES,OK,LOW,,Generic line
+16719,unknown,YES,OK,LOW,,Generic line
+16720,unknown,YES,OK,LOW,,Generic line
+16722,leadership consulting,YES,OK,HIGH,RBL Group,Generic line
+16723,venture capital,YES,OK,HIGH,,Generic line
+16725,biotech lab technology,YES,OK,MED,,Generic line
+16727,medical device company,YES,OK,MED,,Generic line
+16728,health technology,YES,OK,LOW,,Generic line
+16730,property tech platform,YES,OK,MED,,Generic line
+16732,unknown,YES,OK,LOW,,Generic line
+16733,newsletter and media,YES,OK,MED,,Generic line
+16734,social media moderation software,YES,OK,HIGH,,Generic line
+16735,unknown,YES,OK,LOW,,Generic line
+16736,unknown,YES,OK,LOW,,Generic line
+16738,health services,YES,OK,LOW,,Generic line
+16739,accounting firm,YES,OK,MED,,Generic line
+16740,health technology,YES,OK,LOW,,Generic line
+16741,general contractor,YES,OK,HIGH,,Generic line
+16743,business growth consulting,YES,OK,MED,,Generic line
+16744,public speaking coaching,YES,OK,MED,,Generic line
+16746,mortgage lender,YES,OK,MED,,Generic line
+16747,credit services,YES,OK,LOW,,Generic line
+16748,home improvement financing,YES,OK,HIGH,,Generic line
+16749,predictive maintenance software,YES,OK,HIGH,,Generic line
+16751,investment advisory,YES,OK,MED,,Generic line
+16752,digital marketing agency,YES,OK,MED,,Generic line
+16753,air freight distribution,YES,OK,LOW,Distribution By Air,Generic line; initials match domain
+16754,consulting firm,YES,OK,LOW,,Generic line
+16756,unknown,YES,OK,LOW,,Generic line
+16757,B2B SaaS marketing agency,YES,OK,HIGH,,Generic line
+16758,retail consulting,YES,OK,HIGH,Parker Avery,Generic line
+16759,tech business incubator,YES,OK,HIGH,TechTown Detroit,Generic line
+16763,wireless power technology,YES,OK,MED,,Generic line
+16764,medical weight loss clinics,YES,OK,MED,,Generic line
+16765,healthcare provider,YES,OK,LOW,,Generic line
+16766,health services,YES,OK,LOW,,Generic line
+16767,training and consulting,YES,OK,MED,,Generic line
+16769,unknown,YES,OK,LOW,,Generic line
+16770,training institute,YES,OK,MED,,Generic line
+16771,healthcare services,YES,OK,LOW,,Generic line
+16772,financial professional certification,YES,OK,HIGH,,Generic line
+16773,unknown,YES,OK,LOW,,Generic line
+16774,private investment firm,YES,OK,MED,,Generic line
+16776,consulting or marketing,YES,OK,LOW,,Generic line
+16777,leadership development nonprofit,YES,OK,HIGH,,Generic line
+16778,community bank,YES,OK,HIGH,,Generic line
+16779,surgical VR technology,YES,OK,HIGH,ImmersiveTouch,Generic line
+16780,healthcare marketplace,YES,OK,LOW,Openmarkets Health,Generic line
+16781,financial advisory,YES,OK,MED,,Generic line
+16782,Maryland technology development fund,YES,OK,HIGH,TEDCO,Generic line
+16783,community bank,YES,OK,HIGH,,Generic line
+16784,impact investing nonprofit,YES,OK,HIGH,,Generic line
+16785,asphalt industry trade association,YES,OK,HIGH,NAPA,Generic line
+16786,social media agency,YES,OK,MED,,Generic line
+16787,M&A advisory,YES,OK,MED,,Generic line
+16788,marketing agency,YES,OK,MED,,Generic line
+16789,tile retailer and manufacturer,YES,OK,HIGH,,Generic line
+16790,commercial printing,YES,OK,MED,,Generic line
+16791,online business brokerage,YES,OK,HIGH,,Generic line
+16792,investment management,YES,OK,MED,,Generic line
+16793,electronic component sourcing,YES,OK,MED,,Generic line
+16794,surgical center partner,YES,OK,MED,,Generic line
+16795,biotech,YES,OK,MED,,Generic line
+16797,precious metals dealer,YES,OK,HIGH,,Generic line
+16798,water treatment products,YES,OK,MED,,Generic line
+16799,health products company,YES,OK,MED,,Generic line
+16800,Jewish community center,YES,OK,HIGH,,Generic line
+16801,public entity risk pool,YES,OK,HIGH,,Generic line
+16802,children's therapy and education nonprofit,YES,OK,HIGH,,Generic line
+16803,unknown,YES,OK,LOW,,Generic line
+16804,transportation route consulting,YES,OK,MED,,Generic line
+16809,unknown,YES,OK,LOW,,Generic line
+16810,unknown,YES,OK,LOW,,Truncated name
+16811,unknown,YES,OK,LOW,,Generic line
+16812,property rental services,YES,OK,MED,,Generic line
+16813,unknown,YES,OK,LOW,,Generic line
+16829,digital media agency,YES,OK,MED,,Generic line
+16839,franchise consulting,YES,OK,MED,,Generic line
+16865,truck and bus dealer,YES,OK,MED,,Generic line
+16872,real estate management and brokerage,YES,OK,MED,,Generic line
+16893,financial advisory,YES,OK,LOW,,Generic line
+29,process safety consulting,YES,OK,HIGH,,Generic line
+99,trucking and transport,YES,OK,MED,,Generic line
+119,transportation and trucking,YES,OK,MED,,Generic line
+125,transportation company,YES,OK,MED,,Generic line
+199,transportation company,YES,OK,MED,,Generic line
+277,auto transport carrier,YES,OK,MED,,Generic line
+328,church technology services,YES,OK,MED,,Generic line
+330,consulting firm,YES,OK,LOW,,Generic line
+365,chemical transport carrier,YES,OK,MED,,Generic line
+392,IT consulting,YES,OK,MED,Northwoods,Generic line
+422,transportation and logistics,YES,OK,MED,,Generic line
+436,freight logistics provider,YES,OK,HIGH,ATS Logistics,Generic line
+437,transport and logistics,YES,OK,MED,,Generic line
+506,trucking carrier,YES,OK,HIGH,,Generic line
+510,transportation company,YES,OK,MED,,Generic line
+513,transportation services,YES,OK,MED,,Generic line
+569,transport company,YES,OK,MED,,Generic line
+571,transportation group,YES,OK,MED,,Generic line

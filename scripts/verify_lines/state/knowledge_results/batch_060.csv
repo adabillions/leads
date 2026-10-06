@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+11215,IT integration services (possibly),YES,UNCLEAR,LOW,,
+11217,mobile app development,YES,UNCLEAR,LOW,,
+11218,unknown,UNCLEAR,UNCLEAR,LOW,,
+11220,software services,YES,OK,MED,,
+11222,IT solutions consulting,YES,UNCLEAR,LOW,,
+11223,IT services and consulting,YES,UNCLEAR,LOW,,
+11224,unknown,YES,UNCLEAR,LOW,,
+11225,unknown,UNCLEAR,UNCLEAR,LOW,,domain is initials only
+11226,streaming technology services,YES,UNCLEAR,LOW,,
+11227,unknown,YES,UNCLEAR,LOW,,
+11228,IT systems and solutions,YES,UNCLEAR,LOW,,
+11229,IT/software consulting,YES,UNCLEAR,LOW,,
+11231,consulting group,YES,WRONG,MED,,"consultancy, not software vendor"
+11232,digital agency,YES,WRONG,MED,,digital agency not vendor
+11233,web and software development,YES,UNCLEAR,LOW,,
+11235,"unknown, name suggests investment",UNCLEAR,UNCLEAR,LOW,,domain braincs differs from name
+11237,technology services,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11239,consulting services,UNCLEAR,UNCLEAR,LOW,,
+11240,strategy consulting,YES,WRONG,MED,,strategies implies consulting
+11241,IT services for government,YES,UNCLEAR,LOW,,
+11243,cloud software and services,YES,OK,MED,,
+11244,technology services,YES,UNCLEAR,LOW,,
+11246,IT consulting and staffing,YES,UNCLEAR,LOW,,
+11249,IT services,YES,UNCLEAR,LOW,,
+11250,IT consulting,UNCLEAR,UNCLEAR,LOW,,domain says consulting
+11251,media/software company,YES,UNCLEAR,LOW,,
+11252,unknown,YES,UNCLEAR,LOW,,
+11253,database proxy software vendor,YES,OK,HIGH,,
+11254,consulting firm,UNCLEAR,UNCLEAR,LOW,,domain is initials
+11255,custom software development,YES,OK,MED,,
+11257,unknown,YES,UNCLEAR,LOW,,
+11258,unknown,YES,UNCLEAR,LOW,,
+11259,media company,YES,WRONG,MED,,"media, not software vendor"
+11260,IT/software company,YES,UNCLEAR,LOW,,
+11261,technology company,YES,UNCLEAR,LOW,,
+11262,IT solutions,YES,UNCLEAR,LOW,,
+11263,technology company,YES,UNCLEAR,LOW,,
+11264,software company,YES,OK,MED,,
+11265,IT solutions,YES,UNCLEAR,LOW,,
+11267,interactive web/software agency,YES,UNCLEAR,LOW,,
+11268,IT and information systems services,YES,UNCLEAR,LOW,,
+11269,information systems services,YES,UNCLEAR,LOW,,
+11270,unknown,YES,UNCLEAR,LOW,,
+11271,unknown,YES,UNCLEAR,LOW,,
+11273,unknown,YES,UNCLEAR,LOW,,
+11274,technology company,YES,UNCLEAR,LOW,,
+11276,software/ecommerce technology,YES,UNCLEAR,LOW,,
+11277,unknown,UNCLEAR,UNCLEAR,LOW,,domain says chainablecorp
+11278,technology services,YES,UNCLEAR,LOW,,
+11279,unknown,UNCLEAR,UNCLEAR,LOW,,domain says muzangroup
+11280,unknown,YES,UNCLEAR,LOW,,
+11282,technology services,YES,UNCLEAR,LOW,,
+11283,business IT solutions,UNCLEAR,UNCLEAR,LOW,,
+11284,unknown,YES,UNCLEAR,LOW,,
+11285,web hosting provider,YES,OK,MED,,
+11286,unknown,YES,UNCLEAR,LOW,,
+11287,unknown,YES,UNCLEAR,LOW,,
+11288,web hosting provider,YES,OK,MED,,
+11290,IT systems company,YES,UNCLEAR,LOW,,
+11291,IT staffing and consulting,YES,OK,HIGH,,
+11292,unknown,UNCLEAR,UNCLEAR,LOW,,
+11293,IT staffing,YES,OK,MED,I-Tech Personnel,domain says personnel
+11295,unknown,YES,UNCLEAR,LOW,,
+11296,skilled trades workforce provider,YES,UNCLEAR,LOW,,
+11297,recruiting firm,YES,OK,HIGH,,
+11298,recruiting firm,UNCLEAR,OK,MED,Proven Recruiting,domain says recruiting
+11299,staffing services,UNCLEAR,UNCLEAR,LOW,,domain says Trisource USA
+11300,staffing services,YES,OK,HIGH,,
+11302,staffing agency,YES,OK,HIGH,,
+11303,IT staffing and consulting,YES,OK,HIGH,,
+11304,medical staffing,YES,OK,HIGH,,
+11305,temporary staffing,YES,OK,HIGH,,
+11307,security guard services,YES,OK,HIGH,Condor Security,
+11308,protective/security services,YES,OK,MED,,
+11314,private security guard services,YES,OK,MED,,
+11315,systems/telecom company in Guam,YES,UNCLEAR,LOW,,
+11316,unknown,UNCLEAR,UNCLEAR,LOW,,domain sybissolution
+11317,security services,YES,OK,MED,,
+11318,CCTV surveillance systems installer,YES,WRONG,MED,,"installer, not guard company"
+11319,security systems installer,YES,WRONG,MED,,"alarm systems, not patrol"
+11320,home automation and security systems,UNCLEAR,WRONG,HIGH,,"home automation, not guarding"
+11322,unknown,YES,UNCLEAR,LOW,,
+11323,alarm and protective systems,YES,WRONG,MED,,"alarm systems, not guards"
+11324,unknown,YES,UNCLEAR,LOW,,
+11325,unknown,YES,UNCLEAR,LOW,,
+11326,fire and security systems,YES,WRONG,MED,,"systems integrator, not guards"
+11327,security technology and access control,UNCLEAR,WRONG,MED,,"technology, domain sstaccess"
+11329,property/real estate,YES,WRONG,HIGH,,"property firm, not guards"
+11330,security guard services,YES,OK,MED,,
+11331,security services,YES,OK,MED,,
+11333,logistical services contractor,YES,UNCLEAR,LOW,,
+11334,unknown,YES,UNCLEAR,LOW,,
+11335,unknown,YES,UNCLEAR,LOW,,
+11336,general contractor,YES,WRONG,MED,,"construction, not facilities mgmt"
+11337,government services contractor,YES,UNCLEAR,LOW,,
+11339,unknown,YES,UNCLEAR,LOW,,
+11341,facility/janitorial services,YES,OK,MED,,
+11342,facility services,YES,UNCLEAR,LOW,,
+11343,building maintenance services,UNCLEAR,OK,MED,,domain midwestinc.net
+11345,maintenance services,YES,OK,MED,,
+11346,janitorial contractor,YES,OK,HIGH,,
+11348,janitorial/facility services,YES,UNCLEAR,LOW,,
+11349,unknown,YES,UNCLEAR,LOW,,
+11351,business consulting,YES,WRONG,MED,,"consultants, not cleaning"
+11352,facility services,YES,UNCLEAR,LOW,,
+11353,unknown,YES,UNCLEAR,LOW,,
+11354,cleaning services,YES,OK,HIGH,,
+11356,facility/maintenance management,UNCLEAR,UNCLEAR,LOW,,domain psminc.us
+11358,cleaning services,YES,OK,HIGH,,
+11359,facility services,YES,UNCLEAR,LOW,,
+11360,cleaning services,YES,OK,MED,,
+11361,unknown,UNCLEAR,UNCLEAR,LOW,,
+11363,cleaning services,YES,OK,MED,,
+11364,management group,YES,OK,LOW,,generic line
+11367,unknown,YES,UNCLEAR,LOW,,
+11370,window cleaning,YES,OK,HIGH,,
+11372,janitorial services,UNCLEAR,OK,MED,Image Companies,domain imagecompanies.com
+11373,equipment/industrial supplier,YES,UNCLEAR,LOW,,
+11374,unknown,YES,UNCLEAR,LOW,,
+11375,IT services,YES,OK,MED,,
+11376,unknown,YES,UNCLEAR,LOW,,
+11382,IT and professional training,YES,OK,HIGH,,
+11385,interactive/game development studio,YES,UNCLEAR,LOW,,
+11390,CPA firm in Tennessee,YES,OK,HIGH,,
+11397,consulting services,YES,UNCLEAR,LOW,,
+11398,business training,UNCLEAR,OK,MED,,domain ibt-sc
+11400,unknown,YES,UNCLEAR,LOW,,
+11407,unknown,UNCLEAR,UNCLEAR,LOW,,domain softlysolutions
+11408,genomics analysis software vendor,YES,OK,HIGH,,
+11409,web/design agency,YES,WRONG,MED,,"design agency, not managed IT"
+11410,IT services and managed IT,YES,OK,MED,,
+11411,freight and logistics,YES,OK,MED,,
+11413,energy controls field services,YES,OK,MED,,
+11417,unknown,YES,UNCLEAR,LOW,,
+11432,nonprofit,UNCLEAR,UNCLEAR,LOW,,domain thisisuplift.org
+11434,Native education advocacy nonprofit,YES,WRONG,MED,,"advocacy association, not training vendor"
+11435,education consulting,YES,UNCLEAR,LOW,,
+11438,managed IT/network services,YES,WRONG,MED,,MSP not software vendor
+11439,"unknown, possibly property services",UNCLEAR,UNCLEAR,LOW,,domain byrnegroup.com
+11440,CPA and advisory firm,YES,OK,HIGH,ZA,
+11442,unknown,YES,UNCLEAR,LOW,,
+11445,workforce training nonprofit,YES,OK,HIGH,American Indian OIC,
+11454,software/object technology training,YES,OK,MED,,
+11455,learning and childcare services,UNCLEAR,UNCLEAR,LOW,Great Horizons Learning,domain greathorizonslearning
+11459,consulting and training,UNCLEAR,OK,MED,LEAP Consultancy,domain myleapconsultancy
+11462,procurement services,YES,WRONG,MED,,procurement firm
+11463,cleanroom training and consulting,YES,OK,MED,,
+11465,healthcare management training,YES,OK,MED,CHCM,
+11469,mental fitness coaching program,YES,OK,HIGH,,
+11470,training services,YES,OK,MED,,
+11472,government training provider,YES,OK,MED,,
+11473,unknown,YES,UNCLEAR,LOW,,
+11478,unknown,YES,UNCLEAR,LOW,,
+11485,management training and podcast,YES,OK,HIGH,,
+11496,consulting/training,YES,UNCLEAR,LOW,,
+11497,brain-state technology products,YES,WRONG,MED,,technology products firm
+11498,unknown,YES,UNCLEAR,LOW,,
+11505,health education,UNCLEAR,UNCLEAR,LOW,Viven Health,domain vivenhealth
+11506,utility response training,YES,OK,MED,,
+11509,unknown,UNCLEAR,UNCLEAR,LOW,,domain alcenter.com
+11514,space author and speaker,YES,WRONG,MED,,individual author
+11516,senior housing nonprofit,YES,WRONG,HIGH,,"housing, not training"
+11518,girls education nonprofit,YES,OK,MED,,
+11522,unknown,YES,UNCLEAR,LOW,,
+11525,consulting and communications training,YES,UNCLEAR,LOW,,
+11531,unknown,YES,UNCLEAR,LOW,,
+11532,unknown,YES,UNCLEAR,LOW,,
+11545,just culture training and consulting,YES,OK,HIGH,Just Culture,
+11552,osteopathic physician practice,YES,WRONG,HIGH,,medical practice
+11557,social media agency,YES,WRONG,MED,,marketing agency
+11561,flight training,YES,OK,MED,,
+11564,devices company,YES,UNCLEAR,LOW,,
+11568,aerial/drone metrics,YES,UNCLEAR,LOW,,
+11569,aerospace products manufacturer,YES,WRONG,MED,,manufacturer
+11574,unknown,UNCLEAR,OK,LOW,,generic line; domain i3ctc
+11579,youth ranch nonprofit,YES,UNCLEAR,LOW,,
+11584,crane operator training,YES,OK,MED,,
+11587,medical training institute,UNCLEAR,OK,MED,Moore Medical Training Institute,domain mooremedicaltraininginstitute
+11590,consulting,YES,OK,LOW,,generic line
+11592,web/marketing agency,YES,UNCLEAR,LOW,Done By Native,
+11596,thermal systems training,YES,OK,HIGH,,
+11597,AMT exam prep courses,YES,OK,HIGH,,
+11602,unknown,YES,UNCLEAR,LOW,,
+11609,emergency care training,YES,OK,HIGH,,
+11612,fine and performing arts school,YES,OK,MED,Vibes Casper,
+11616,fire and safety services,YES,UNCLEAR,LOW,,
+11618,online asbestos training,YES,OK,HIGH,,
+11619,women in trades training nonprofit,YES,OK,HIGH,,
+11624,nonprofit,YES,UNCLEAR,LOW,,
+11627,online academics/education,YES,OK,MED,,
+11628,design studio,YES,UNCLEAR,LOW,,
+11629,online adjustment/behavior courses,YES,UNCLEAR,LOW,,
+11631,unknown,YES,UNCLEAR,LOW,,
+11637,drug prevention nonprofit,YES,UNCLEAR,LOW,,
+11638,safety nonprofit foundation,YES,UNCLEAR,LOW,,
+11640,education research and evaluation firm,YES,WRONG,MED,,"research firm, not training"
+11645,unknown,YES,UNCLEAR,LOW,,
+11646,unknown,YES,UNCLEAR,LOW,,
+11647,dog training,YES,OK,MED,,
+11649,shooting range and training,YES,OK,MED,,

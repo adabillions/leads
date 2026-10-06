@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+6369,IT services and technology consulting (likely),YES,UNCLEAR,LOW,,
+6370,unknown,YES,UNCLEAR,LOW,,
+6371,freight brokerage and logistics,YES,OK,MED,Value Logistics (Valueloads),
+6372,logistics and freight services,YES,OK,MED,,
+6373,unknown,YES,UNCLEAR,LOW,,
+6375,security systems and automation integrator,YES,WRONG,MED,,"Systems integrator, not guard company"
+6376,special education cooperative serving school districts,YES,WRONG,MED,,"Public education cooperative, not training business"
+6378,unknown,YES,UNCLEAR,LOW,,
+6380,quantum networking software,DBA,OK,MED,Aliro Quantum,
+6381,unknown,UNCLEAR,UNCLEAR,LOW,,Domain c2management.com differs from name
+6382,unknown,YES,UNCLEAR,LOW,,
+6384,unknown,YES,UNCLEAR,LOW,,
+6386,freight logistics and carrier management,YES,OK,MED,,
+6387,unknown,YES,UNCLEAR,LOW,,
+6390,unknown,YES,UNCLEAR,LOW,,
+6391,AI climate risk forecasting software,YES,OK,HIGH,ClimateAi,
+6392,MEP CAD drafting and design services,UNCLEAR,WRONG,MED,,"Drafting services firm, not software vendor"
+6393,data center infrastructure management software,YES,OK,HIGH,,
+6394,AI cybersecurity software,YES,OK,MED,Darklight,
+6395,healthcare provider (likely),YES,WRONG,MED,,"Health services, not software vendor"
+6397,time-series database software,YES,OK,HIGH,Quasar,
+6398,supply chain services (likely),YES,UNCLEAR,LOW,,
+6399,energy management software (likely),YES,OK,MED,,
+6401,consulting services,YES,UNCLEAR,LOW,,
+6404,IT technology services (likely),YES,UNCLEAR,LOW,,
+6406,structured cabling contractor,YES,WRONG,MED,,"Cabling contractor, not managed IT"
+6407,IT services and consulting,YES,OK,MED,,
+6409,IT services (likely),YES,OK,MED,,
+6410,unknown,YES,UNCLEAR,LOW,,
+6413,unknown,YES,UNCLEAR,LOW,,
+6415,IT services (likely),YES,UNCLEAR,LOW,,
+6416,IT services (likely),YES,UNCLEAR,LOW,,
+6417,metals supplier or fabricator,UNCLEAR,WRONG,MED,,"Metals company, not MSP"
+6419,data forensics and recovery,YES,UNCLEAR,MED,,
+6422,aerospace financing and leasing,YES,WRONG,MED,,"Finance firm, not software vendor"
+6424,managed IT services,YES,WRONG,MED,,"MSP, not software vendor"
+6425,legal technology software,YES,OK,MED,,
+6426,data center and colocation hosting,YES,WRONG,MED,,"Hosting provider, not software vendor"
+6427,energy project software platform,YES,OK,MED,,
+6428,healthcare software and analytics,YES,OK,MED,,
+6429,freight logistics,YES,OK,MED,,
+6430,global logistics,YES,OK,MED,,
+6431,cargo shipping and freight services,YES,OK,MED,,
+6432,global logistics,YES,OK,MED,,
+6433,cargo and logistics services,YES,OK,MED,,
+6434,logistics services,YES,OK,MED,,
+6435,unknown,YES,UNCLEAR,LOW,,
+6437,freight services,YES,OK,MED,,
+6438,logistics services,YES,OK,MED,,
+6439,unknown,YES,UNCLEAR,LOW,,
+6440,unknown,YES,UNCLEAR,LOW,,
+6442,logistics services,YES,OK,MED,,
+6443,freight logistics,YES,OK,MED,,
+6445,freight forwarding,YES,OK,MED,Triple B,
+6446,logistics services,YES,OK,MED,,
+6448,project logistics,YES,OK,MED,,
+6450,shipping and freight forwarding,YES,OK,MED,,
+6451,shipping and freight forwarding,YES,OK,MED,,
+6452,freight forwarding,YES,OK,MED,,
+6453,logistics services,YES,OK,MED,,
+6454,logistics services,YES,OK,MED,,
+6456,logistics services,YES,OK,MED,,
+6457,expedited freight services,UNCLEAR,OK,MED,,Domain shippei.com differs from name
+6458,logistics services,YES,OK,MED,,
+6459,unknown,YES,OK,LOW,,Generic line
+6460,logistics services,YES,OK,MED,,
+6461,logistics services,YES,OK,MED,,
+6462,shipping and freight forwarding,YES,OK,MED,,
+6463,logistics services,YES,OK,MED,,
+6464,shipping and freight forwarding,YES,OK,MED,,
+6465,logistics solutions,YES,OK,MED,,
+6466,transit or trucking services (likely),YES,UNCLEAR,LOW,,
+6467,global logistics,YES,OK,MED,,
+6469,distribution and warehousing (likely),YES,UNCLEAR,LOW,,
+6470,logistics services,YES,OK,MED,,
+6471,farming operation,YES,WRONG,MED,,"Farm, not logistics"
+6473,unknown,YES,UNCLEAR,LOW,,
+6474,freight forwarding,YES,OK,MED,,
+6475,steamship agency and shipping services,YES,OK,MED,,
+6476,construction materials supplier,YES,WRONG,MED,,"Materials supplier, not freight broker"
+6477,short-line railroad,YES,OK,MED,,Generic line; railroad is carrier
+6478,expedited freight services,YES,OK,MED,Trump Card,
+6479,logistics services,YES,OK,MED,,
+6480,logistics services,YES,OK,MED,,
+6481,air express freight,YES,OK,MED,,
+6483,logistics and transportation,YES,OK,MED,,
+6484,transportation services (likely),UNCLEAR,UNCLEAR,LOW,Multiserv Transportation,
+6486,unknown,UNCLEAR,UNCLEAR,LOW,,
+6487,logistics and freight matching,YES,OK,MED,,
+6488,international trade and freight services,YES,OK,MED,,
+6489,unknown,YES,UNCLEAR,LOW,,
+6491,unknown,YES,UNCLEAR,LOW,,
+6492,international development consulting,YES,WRONG,MED,,"Consulting firm, not freight"
+6493,unknown,YES,UNCLEAR,LOW,,
+6495,technology and engineering services (likely),YES,UNCLEAR,LOW,,
+6496,turbine equipment and services,UNCLEAR,WRONG,MED,,"Industrial equipment, not freight"
+6500,ecommerce services,YES,UNCLEAR,LOW,,
+6504,unknown,YES,UNCLEAR,LOW,,
+6505,moving company,YES,WRONG,MED,,"Mover, not freight broker"
+6507,supply chain services,YES,OK,MED,,
+6508,aerospace parts and services,YES,WRONG,MED,,
+6509,unknown,YES,UNCLEAR,LOW,,
+6511,unknown,UNCLEAR,UNCLEAR,LOW,,
+6512,contracting services,UNCLEAR,WRONG,MED,,"Contractor, not freight"
+6514,freight logistics (Landstar agent),UNCLEAR,OK,MED,,Domain suggests Landstar affiliation
+6517,warranty services,YES,WRONG,MED,,"Warranty firm, not freight"
+6518,unknown,UNCLEAR,UNCLEAR,LOW,,
+6519,unknown,YES,UNCLEAR,LOW,,
+6521,transport services (likely),YES,UNCLEAR,LOW,,
+6522,freight and logistics (likely),YES,OK,MED,,
+6526,logistics services,YES,OK,MED,,
+6528,unknown,YES,UNCLEAR,LOW,,
+6529,packing and moving (likely),UNCLEAR,UNCLEAR,LOW,,
+6530,trucking or truck services (likely),YES,UNCLEAR,LOW,,
+6531,unknown,YES,UNCLEAR,LOW,,
+6532,mobile services (likely),YES,UNCLEAR,LOW,,
+6541,logistics services,YES,OK,MED,,
+6543,unknown,YES,UNCLEAR,LOW,,
+6544,trucking operator (likely),YES,UNCLEAR,LOW,,
+6546,unknown,YES,UNCLEAR,LOW,,
+6547,freight services,YES,OK,MED,,
+6552,express trucking (likely),YES,UNCLEAR,LOW,,
+6553,motor carrier (likely),UNCLEAR,UNCLEAR,LOW,Redbird Motor,
+6554,vehicle drive-away transport,YES,UNCLEAR,MED,,Likely carrier
+6556,logistics services,YES,OK,MED,,
+6561,logistics and trucking,UNCLEAR,OK,MED,,Domain differs from name
+6562,unknown,YES,UNCLEAR,LOW,,
+6563,rigging and heavy hauling,YES,WRONG,MED,,"Rigging contractor, not freight broker"
+6568,unknown,YES,UNCLEAR,LOW,,
+6572,records storage and archiving,YES,WRONG,MED,,"Records storage, not freight"
+6574,storage and warehousing,UNCLEAR,UNCLEAR,LOW,,
+6575,expediting services,YES,UNCLEAR,LOW,,
+6576,leasing (likely),YES,UNCLEAR,LOW,,
+6577,classic car storage,YES,WRONG,MED,,"Auto storage, not freight"
+6578,unknown,UNCLEAR,UNCLEAR,LOW,,
+6579,storage and material handling equipment,YES,WRONG,MED,,"Equipment dealer, not freight"
+6580,warehousing (likely),YES,UNCLEAR,LOW,,
+6581,unknown,YES,UNCLEAR,LOW,,
+6582,unknown,YES,UNCLEAR,LOW,,
+6583,office equipment retailer,UNCLEAR,WRONG,MED,,Domain officemarttn.com differs from name
+6585,third-party logistics,YES,OK,MED,,
+6586,aviation services,YES,WRONG,MED,,"Aviation, not freight"
+6587,unknown,UNCLEAR,UNCLEAR,LOW,,
+6588,unknown,UNCLEAR,UNCLEAR,LOW,,
+6589,mini storage and record storage,YES,WRONG,MED,,"Self storage, not freight"
+6590,packing and express shipping,YES,OK,MED,,
+6592,packaging and distribution,YES,UNCLEAR,LOW,,
+6593,ocean freight forwarding,YES,OK,MED,,
+6594,unknown,YES,UNCLEAR,LOW,,
+6595,moving and storage company,YES,OK,MED,,Generic line
+6596,warehousing,YES,UNCLEAR,LOW,,
+6597,industrial maintenance services,DBA,WRONG,MED,Elevated Industrial Solutions,"Industrial services, not freight"
+6598,warehousing,YES,UNCLEAR,LOW,,
+6599,logistics services,YES,OK,MED,,
+6600,distribution and logistics (likely),YES,UNCLEAR,LOW,,
+6602,staffing services,YES,OK,MED,,
+6603,medical staffing,YES,OK,HIGH,,
+6605,property management,YES,OK,MED,,
+6609,security guard services,YES,OK,MED,,
+6610,security guard services,YES,OK,MED,,
+6612,personnel or security services (likely),YES,UNCLEAR,LOW,,
+6613,investigation and protection services,UNCLEAR,OK,MED,,Domain differs from name
+6614,unknown,YES,UNCLEAR,LOW,,
+6615,consulting and private investigations,YES,UNCLEAR,LOW,,
+6616,executive protection and training,UNCLEAR,OK,MED,,
+6618,security guard services,YES,OK,MED,,
+6620,security solutions (likely),YES,UNCLEAR,LOW,,
+6622,security services,YES,OK,MED,,
+6624,security services,YES,OK,MED,,Generic line
+6626,aviation security services,UNCLEAR,OK,LOW,,Generic line
+6627,unknown,YES,UNCLEAR,LOW,,
+6628,security guard services,YES,OK,MED,,
+6629,security services,YES,OK,MED,,
+6630,unknown,UNCLEAR,UNCLEAR,LOW,,
+6631,unknown,UNCLEAR,UNCLEAR,LOW,,
+6632,consulting services,UNCLEAR,UNCLEAR,LOW,,
+6634,systems integration (likely),YES,UNCLEAR,LOW,,
+6635,security services,YES,OK,MED,,
+6637,locksmith services,YES,WRONG,MED,,"Locksmith, not guard company"
+6640,audio-visual systems integrator,YES,WRONG,MED,,"AV firm, not guard company"
+6641,testing equipment supplier,YES,OK,MED,,Generic line
+6642,unknown,YES,UNCLEAR,LOW,,
+6643,security services (likely),YES,UNCLEAR,LOW,,
+6644,unknown,YES,OK,LOW,,Generic line
+6647,security consulting,YES,OK,MED,,Generic line
+6649,security services (likely),YES,UNCLEAR,LOW,,
+6650,fire and security systems,YES,WRONG,MED,,"Alarm systems firm, not guard company"
+6651,unknown,YES,UNCLEAR,LOW,,
+6652,time clocks and timekeeping equipment,YES,WRONG,MED,,"Equipment supplier, not guard company"
+6653,unknown,UNCLEAR,UNCLEAR,LOW,,Domain differs from name
+6654,unknown,YES,UNCLEAR,LOW,,
+6655,unknown,YES,UNCLEAR,LOW,,
+6656,communications contractor,YES,OK,MED,,
+6657,telecommunications services,YES,UNCLEAR,LOW,,
+6658,electrical contractor,YES,OK,MED,,
+6662,electrical and controls contractor,YES,OK,MED,,
+6663,installation services,YES,OK,MED,,
+6664,telecom and data systems,YES,OK,MED,,
+6668,unknown,YES,UNCLEAR,LOW,,
+6669,unknown,YES,UNCLEAR,LOW,,

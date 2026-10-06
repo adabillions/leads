@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+4087,same-day delivery and expediting,YES,OK,MED,,
+4090,logistics and freight services,YES,OK,MED,,
+4093,freight and logistics operator,YES,OK,MED,,
+4094,last-mile delivery and logistics,YES,OK,MED,,
+4095,logistics services,YES,OK,MED,,
+4096,maritime services and shipping,YES,UNCLEAR,LOW,,maritime agency or freight unclear
+4097,global freight forwarding and logistics,YES,OK,MED,Mitco Global,
+4098,freight services,YES,OK,MED,,
+4100,unknown,YES,UNCLEAR,LOW,,
+4101,unknown,YES,UNCLEAR,LOW,,
+4102,unknown,YES,UNCLEAR,LOW,,
+4104,unknown technology company,YES,UNCLEAR,LOW,,
+4105,scientific image analysis software,YES,OK,HIGH,Media Cybernetics,Image-Pro maker
+4106,energy flexibility software and services,YES,OK,MED,GridBeyond,
+4107,data and analytics services,YES,UNCLEAR,LOW,,
+4109,software-defined memory software,YES,OK,HIGH,Kove,
+4110,unknown data/IT firm,YES,UNCLEAR,LOW,,
+4111,threat-informed defense cybersecurity software,YES,OK,HIGH,,
+4112,Talos Linux and Omni Kubernetes software,YES,OK,HIGH,Sidero Labs,
+4114,unknown IT firm,YES,UNCLEAR,LOW,,
+4115,digital and IT solutions,YES,UNCLEAR,LOW,,
+4116,managed IT services,YES,OK,MED,,
+4117,clinical trials software,YES,OK,MED,Jeeva,
+4118,strategy execution software,YES,OK,HIGH,Shibumi,
+4119,identity verification software,YES,OK,MED,Verif-y,
+4121,3D asset management cloud platform,YES,OK,HIGH,,
+4122,unknown,YES,UNCLEAR,LOW,,
+4123,weather data and radar forecasting,YES,UNCLEAR,MED,Climavision,data/hardware vendor
+4126,security services or systems,YES,UNCLEAR,LOW,,guard vs alarm unclear
+4127,security solutions,YES,UNCLEAR,LOW,,
+4128,IT and technology services,YES,WRONG,MED,,tech firm not guard company
+4129,alarm monitoring and security systems,YES,WRONG,MED,Alert Protective,alarm company not guards
+4130,communications cabling and field services,YES,OK,MED,,
+4131,teacher professional learning video content,YES,OK,MED,,
+4132,learning and credentialing software,YES,OK,HIGH,,
+4135,data compression software,YES,OK,MED,,
+4136,cloud and IT services,YES,OK,MED,,
+4138,unknown,YES,UNCLEAR,LOW,,
+4139,IT staffing and consulting,YES,OK,MED,,
+4143,staff scheduling software,DBA,OK,MED,MyStaffSchedule,
+4144,embedded software security,YES,OK,HIGH,RunSafe Security,
+4145,health data platform,YES,OK,MED,,
+4146,unknown,YES,UNCLEAR,LOW,,
+4147,international air and ocean freight forwarding,YES,OK,MED,,
+4148,unknown services firm,YES,UNCLEAR,LOW,,
+4149,unknown,YES,UNCLEAR,LOW,,
+4150,security technology or consulting,YES,UNCLEAR,LOW,,
+4151,home and commercial building contractor,YES,WRONG,MED,,builder not field service dispatch
+4152,leadership training,YES,OK,MED,,
+4153,speaker training courses,YES,OK,HIGH,,
+4154,machine data analytics software,YES,OK,HIGH,,
+4155,unknown AI tech,YES,UNCLEAR,LOW,,
+4156,digital health sensing software,YES,OK,MED,,
+4159,automotive business,YES,UNCLEAR,LOW,,automotive not clearly software
+4161,unknown,YES,UNCLEAR,LOW,,
+4162,staffing and recruiting,YES,UNCLEAR,LOW,,
+4163,asset protection security services,YES,OK,MED,,
+4164,unknown security-related,YES,UNCLEAR,LOW,,
+4165,security systems or cyber,YES,UNCLEAR,LOW,,
+4167,unknown,YES,UNCLEAR,LOW,,
+4168,retail merchandising software,YES,OK,MED,,
+4169,small business financing platform,YES,UNCLEAR,LOW,,fintech lender
+4171,software licensing reseller,YES,WRONG,MED,,reseller not vendor
+4172,document management software,YES,OK,HIGH,,ViewWise
+4173,nuclear medicine software,YES,OK,HIGH,,
+4174,software holding company,YES,OK,HIGH,,
+4175,identity fraud detection software,YES,OK,HIGH,,
+4176,alerting software,YES,OK,HIGH,,
+4178,geoscience software,YES,OK,MED,,
+4181,digital health medication adherence,YES,OK,MED,emocha,
+4183,docket software,YES,OK,MED,,
+4186,unknown safety or IT firm,YES,UNCLEAR,LOW,,
+4188,telecom services,YES,UNCLEAR,LOW,,
+4190,technology solutions,YES,UNCLEAR,LOW,,
+4191,IT and cybersecurity services,YES,OK,MED,,
+4192,AI and software consulting,YES,UNCLEAR,MED,Techolution,consultancy not clearly MSP
+4193,IT solutions,YES,UNCLEAR,LOW,,
+4195,unknown online service,YES,UNCLEAR,LOW,,
+4196,IT managed services,YES,WRONG,MED,,uses Autotask so MSP
+4199,genomics data platform,YES,OK,HIGH,,
+4200,warehouse computer vision robotics,YES,UNCLEAR,MED,Vimaan,hardware plus software
+4201,financial data provider,YES,UNCLEAR,LOW,,
+4202,bond trading platform,YES,OK,MED,Bondcliq,
+4203,logistics,YES,OK,MED,,
+4204,energy services,YES,WRONG,MED,,not logistics
+4206,international freight forwarding,YES,OK,MED,,
+4208,freight forwarding,YES,OK,MED,,
+4210,logistics,YES,OK,MED,,
+4211,freight logistics and forwarding,YES,OK,HIGH,Radiant Logistics,
+4213,cargo forwarding,YES,OK,MED,,
+4214,air freight forwarding,YES,OK,MED,,
+4215,logistics,YES,OK,MED,,
+4216,shipping services,YES,OK,MED,,
+4218,tanker ship chartering brokerage,YES,UNCLEAR,MED,,ship broker not freight shipments
+4219,trucking or express delivery,UNCLEAR,UNCLEAR,LOW,,domain has 2 suffix
+4220,freight forwarding,YES,OK,MED,,
+4221,delivery and shipping,YES,OK,MED,,
+4222,freight forwarding and customs brokerage,YES,OK,HIGH,,
+4223,unknown,YES,UNCLEAR,LOW,,
+4225,freight forwarding,YES,OK,MED,Slade Global,
+4230,ocean freight shipping,YES,OK,HIGH,Green Worldwide,
+4231,logistics,UNCLEAR,OK,MED,Polaris Logistics,name differs from domain
+4232,freight forwarding,YES,OK,MED,,
+4234,freight forwarding or logistics,UNCLEAR,UNCLEAR,LOW,GAVA USA,domain differs from name
+4236,freight forwarding and logistics,YES,OK,HIGH,Globe Express Services,GES initials
+4237,express delivery and trucking,YES,OK,MED,,
+4238,shipping and logistics,YES,OK,MED,,
+4240,logistics,YES,OK,MED,,
+4241,consulting firm,YES,UNCLEAR,LOW,,possibly transport consulting
+4242,IT and data technology,YES,WRONG,MED,,technology firm not freight
+4243,logistics,YES,OK,MED,,
+4245,IT or government contractor,YES,UNCLEAR,LOW,,
+4246,inspection and verification services,YES,WRONG,HIGH,,global inspection firm
+4247,environmental or sustainability services,YES,WRONG,MED,,not logistics
+4249,third-party logistics,YES,OK,MED,,
+4253,trucking carrier,YES,OK,MED,TRS Trucking,generic line
+4255,freight solutions,YES,OK,MED,,
+4257,logistics,YES,OK,MED,,
+4260,unknown,UNCLEAR,UNCLEAR,LOW,,domain unrelated to name
+4261,truck leasing and carrier,YES,WRONG,MED,,carrier not broker
+4263,logistics,YES,OK,MED,,
+4264,logistics,YES,OK,MED,,
+4265,freight systems,YES,OK,MED,,
+4267,energy logistics,YES,OK,MED,,
+4268,logistics,YES,OK,MED,,
+4271,unknown,YES,UNCLEAR,LOW,,
+4274,freight services,YES,OK,MED,,
+4276,logistics services,YES,OK,MED,,
+4277,unknown,YES,UNCLEAR,LOW,,
+4279,logistics,YES,OK,MED,,
+4280,logistics,YES,OK,MED,,
+4281,unknown,YES,UNCLEAR,LOW,,
+4282,unknown,YES,UNCLEAR,LOW,,
+4284,unknown storage or warehousing,YES,UNCLEAR,LOW,,
+4285,self-storage,YES,WRONG,MED,,storage not freight
+4286,self-storage,YES,WRONG,MED,,storage not freight
+4287,distribution and warehousing services,YES,OK,MED,,
+4288,unknown,YES,UNCLEAR,LOW,,
+4290,construction project management,YES,WRONG,LOW,,
+4291,logistics and freight,YES,OK,MED,,
+4292,logistics,YES,OK,MED,,
+4294,unknown,UNCLEAR,UNCLEAR,LOW,,domain unrelated to name
+4297,staffing and talent,DBA,OK,MED,Advent Talent Group,
+4298,staffing,YES,OK,MED,,
+4299,technology staffing or consulting,YES,UNCLEAR,LOW,,
+4300,talent consultancy,YES,OK,MED,,
+4301,recruiting,DBA,OK,MED,Orion Talent,
+4303,staffing and recruiting,DBA,OK,MED,Core Group Resources,
+4305,staffing or technology talent,YES,OK,MED,,
+4306,staffing,YES,OK,MED,CTRC,
+4308,property management,YES,OK,MED,,
+4312,property management,YES,OK,MED,,
+4314,property and building management,YES,OK,MED,Rencor Realty,
+4315,unknown,YES,UNCLEAR,LOW,,
+4317,unknown,YES,UNCLEAR,LOW,,
+4318,IT services,YES,WRONG,MED,,tech group not guards
+4321,security services,DBA,OK,MED,Global Elite Group,
+4322,unknown,YES,UNCLEAR,LOW,,
+4323,defense contracting,YES,UNCLEAR,LOW,,
+4324,security services,YES,OK,MED,American Security Group,ASG initials
+4326,solutions provider,YES,UNCLEAR,LOW,,
+4329,security guard services,YES,OK,MED,,
+4333,unknown,YES,UNCLEAR,LOW,,
+4334,security services,YES,OK,MED,,
+4335,government solutions contractor,YES,UNCLEAR,LOW,,
+4337,technology services,YES,UNCLEAR,LOW,,
+4338,media solutions,DBA,WRONG,MED,,media firm not guards
+4339,unknown,YES,UNCLEAR,LOW,,
+4340,security and communications systems,YES,UNCLEAR,LOW,,
+4343,electronics or alarm systems,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+4344,unknown,UNCLEAR,UNCLEAR,LOW,,
+4345,alarm and security systems,YES,WRONG,MED,FAST Protection Systems,alarm company not guards
+4347,alarm services,YES,WRONG,MED,,alarm company not guards
+4348,unknown,YES,UNCLEAR,LOW,,
+4349,security products,YES,UNCLEAR,LOW,,
+4350,security services,UNCLEAR,UNCLEAR,LOW,Alen Security,domain differs from name
+4351,energy services,YES,UNCLEAR,LOW,,
+4355,mechanical HVAC contractor,YES,OK,MED,,
+4359,mechanical contractor,YES,OK,MED,Davis Mechanical,
+4363,garage door installation and service,YES,OK,MED,,
+4364,accounting and tax services,YES,OK,MED,,
+4365,higher education partnerships,YES,OK,MED,,
+4366,software development consultancy,YES,UNCLEAR,LOW,,
+4367,engineering data management software,YES,OK,MED,,
+4369,virtual services,YES,UNCLEAR,LOW,,
+4370,process control software and services,YES,OK,MED,,
+4371,GPU database software,YES,OK,HIGH,Kinetica,
+4372,unknown,YES,UNCLEAR,LOW,,
+4373,unknown IT firm,YES,UNCLEAR,LOW,,
+4375,building automation software and services,YES,OK,MED,,
+4380,unknown,YES,UNCLEAR,LOW,,
+4381,cybersecurity services,YES,OK,MED,,
+4382,IT services,YES,UNCLEAR,LOW,,
+4383,managed IT services,YES,OK,HIGH,,
+4384,surveillance systems integration,YES,WRONG,MED,,not guard company
+4385,unknown,YES,UNCLEAR,LOW,,
+4388,IT consulting,YES,UNCLEAR,LOW,,
+4389,IT consulting,YES,UNCLEAR,LOW,,
+4390,workforce spend management software,YES,OK,MED,,
+4391,unknown,YES,UNCLEAR,LOW,,

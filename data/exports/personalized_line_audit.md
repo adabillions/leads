@@ -144,3 +144,28 @@ Checking every company the way the 80 were checked (two to three web searches ea
 | 14455 | Predica Inc | Staffing | IT staffing/recruiting | OK | Generic and accurate. |
 | 16856 | Hit Subscribe | Mixed | Content-marketing agency | OK | Generic but accurate. |
 
+
+
+## Update: full-file check (same day, later)
+
+Every company was then judged for name, website and line fit, ignoring years and tool names as instructed.
+
+| Method | Companies |
+|---|---|
+| Hand-verified against public sources (first pass) | 80 |
+| Web search, one query per company (capped at 200 searches per turn) | 345 |
+| Model knowledge pass: name, domain, location and line judged without searching; LOW-confidence verdicts treated as unresolved | 16,322 |
+| Not covered (agent output gaps), flagged for review | 153 |
+
+Outcome for the personalized line, after fixes:
+
+| State | Rows |
+|---|---|
+| Specific line confirmed to fit the business | 7,697 |
+| Specific line kept, unconfirmed but name matches domain and bucket is plausible | 6,183 |
+| Safe generic line (wrong business type, unknown business plus a name or bucket flag, K-12 school, or holding entity) | 3,020 |
+| Lines changed in total | 6,270 |
+
+1,440 lines were judged WRONG for the business and replaced. Wrong rates by bucket: B2B SaaS 319, Education 252, Private security 173, Freight 160, Managed IT 129, Restoration 124. 605 companies trade under a different name than the sheet uses; 495 lines now use the trading name. 26 websites belong to a different business than the sheet names.
+
+Confidence: a search verdict is more reliable than a knowledge verdict. The `check_source` column says which one each row has (search, knowledge high, knowledge med). Knowledge verdicts for well-known or descriptively named companies are solid; the 6,183 unconfirmed specific lines are the residual risk and are the rows to crawl first once company websites are reachable.

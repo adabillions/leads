@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+11705,"professional services firm, unclear",YES,OK,MED,,generic line
+11706,energy systems contractor,YES,OK,MED,,
+11710,defense IT integration,YES,UNCLEAR,LOW,,
+11711,unknown,YES,UNCLEAR,LOW,,
+11712,unknown,YES,UNCLEAR,LOW,,
+11713,unknown,YES,UNCLEAR,LOW,,
+11715,IT support services,YES,OK,MED,,
+11721,unknown,YES,UNCLEAR,LOW,,
+11725,cabling contractor,YES,OK,MED,,
+11727,electrical contractor,YES,OK,MED,,
+11729,electrical contractor,YES,OK,MED,,
+11733,lighting service contractor,YES,OK,MED,,
+11739,mechanical contractor,YES,OK,MED,,
+11741,mechanical contractor,YES,OK,MED,,
+11746,mechanical contractor,YES,OK,MED,,
+11748,management and technology consulting,YES,UNCLEAR,LOW,,
+11750,unknown,YES,UNCLEAR,LOW,,
+11753,unknown,YES,UNCLEAR,LOW,,
+11754,online training provider,YES,OK,MED,,
+11755,training institute,UNCLEAR,OK,MED,Chappell University,domain differs from name
+11756,GIS training and technology,UNCLEAR,OK,MED,,domain suggests Teach Me GIS
+11761,training and certification provider,YES,OK,MED,,
+11762,unknown,UNCLEAR,UNCLEAR,LOW,,domain unrelated to name
+11763,unknown,YES,UNCLEAR,LOW,,
+11766,small business consulting,YES,UNCLEAR,LOW,,
+11767,unknown,YES,UNCLEAR,LOW,,
+11772,unknown,YES,UNCLEAR,LOW,,
+11773,GD&T technical training,YES,OK,MED,,
+11775,unknown,YES,UNCLEAR,LOW,,
+11776,"IT firm, possibly training",UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11779,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11780,unknown,YES,UNCLEAR,LOW,,
+11782,leadership assessments consulting,UNCLEAR,UNCLEAR,LOW,Lead Advantage,domain differs from name
+11783,email policy training and consulting,DBA,OK,MED,The ePolicy Institute,
+11786,law enforcement training,DBA,OK,HIGH,Calibre Press,
+11787,unknown,YES,UNCLEAR,LOW,,
+11788,unknown,YES,UNCLEAR,LOW,,
+11795,training and consulting to government,YES,OK,MED,,
+11796,maritime training institute,UNCLEAR,OK,MED,,domain suggests Chesapeake Marine Institute
+11797,sanitarian training and education,UNCLEAR,OK,MED,,
+11799,"financial services, online classes",UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11800,tactical medical training,YES,OK,MED,,
+11801,EMS education provider,YES,OK,HIGH,,
+11802,unknown,YES,UNCLEAR,LOW,,
+11803,unknown,YES,UNCLEAR,LOW,,
+11804,arts company,YES,UNCLEAR,LOW,,
+11806,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11809,consulting,YES,UNCLEAR,LOW,,
+11810,instructional design and learning,UNCLEAR,OK,MED,Alchemist Learning,
+11812,field science education institute,YES,OK,MED,,
+11813,STEM education,YES,OK,MED,,
+11814,accounting and CPA firm,YES,OK,HIGH,,
+11818,decontamination training,YES,OK,MED,,
+11819,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11820,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11822,unknown,YES,UNCLEAR,LOW,,
+11823,educational research and training,DBA,OK,MED,DataWorks Educational Research,
+11853,procurement software platform,YES,OK,MED,,
+11856,IT services,YES,OK,MED,,
+11859,ERP consulting for federal,YES,UNCLEAR,LOW,,
+11863,"individual, unknown",UNCLEAR,UNCLEAR,LOW,,name and domain spelling differ
+11865,unknown,YES,UNCLEAR,LOW,,
+11870,IT solutions,YES,OK,MED,,
+11877,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11878,information services and IT,YES,OK,MED,,
+11879,"individual, possibly ISP",UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11881,computer services,YES,OK,MED,,
+11892,technology services,YES,UNCLEAR,LOW,,
+11898,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11911,logistics consulting,YES,OK,MED,,
+11924,supply and logistics,YES,OK,MED,,
+11928,logistics,UNCLEAR,OK,MED,,domain suggests TXR Logistics
+11940,possibly real estate,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11946,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+11949,refining optimization consulting,YES,WRONG,MED,,not a freight broker
+11950,construction and investments,YES,WRONG,MED,,not a freight broker
+11952,telecom cost consulting franchise,DBA,WRONG,MED,Schooley Mitchell,not logistics
+11956,moving company,DBA,UNCLEAR,MED,Trailblazer Moving,moving not freight brokerage
+11959,sourcing company,YES,UNCLEAR,LOW,,
+11969,energy company,UNCLEAR,WRONG,MED,,domain differs; not logistics
+11994,unknown,YES,UNCLEAR,LOW,,
+11997,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12008,industrial company,UNCLEAR,UNCLEAR,LOW,,
+12009,warehousing,DBA,OK,MED,Triple Crown Warehouse,
+12010,electrical contractor,UNCLEAR,WRONG,MED,TCG Electric,domain suggests electric
+12011,warehouse,UNCLEAR,OK,MED,,domain differs from name
+12012,self storage,UNCLEAR,WRONG,MED,,storage not freight brokerage
+12020,security systems contractor,UNCLEAR,UNCLEAR,LOW,,
+12024,fire and security systems,YES,OK,MED,,
+12027,electrical contractor,YES,OK,MED,,
+12028,electrical contractor,UNCLEAR,OK,MED,,
+12034,HVAC contractor,YES,OK,HIGH,,
+12035,mechanical contractor,DBA,OK,MED,Big Pipe Mechanical,generic line
+12036,HVAC contractor,YES,OK,MED,,
+12037,mechanical contractor,YES,OK,MED,,
+12038,fire safety services,YES,OK,MED,,
+12042,services contractor,YES,UNCLEAR,LOW,,
+12044,"lab services, unclear",UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12056,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12066,AI software for manufacturing,YES,OK,HIGH,,"Leela AI, Cambridge MA"
+12072,real estate,UNCLEAR,WRONG,MED,,"real estate, not IT"
+12077,crypto/security technology,YES,UNCLEAR,LOW,,
+12082,HVAC energy management,YES,OK,MED,,
+12087,app/fintech software,YES,UNCLEAR,LOW,,
+12088,software integration services,YES,OK,MED,,
+12089,IT solutions,YES,OK,MED,,
+12094,software solutions,UNCLEAR,UNCLEAR,LOW,,
+12100,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12104,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12106,unknown,YES,UNCLEAR,LOW,,
+12115,defense technology integration,YES,UNCLEAR,LOW,,
+12126,government IT solutions,YES,UNCLEAR,LOW,,
+12136,IT services,YES,OK,MED,,
+12137,unknown,YES,UNCLEAR,LOW,,
+12144,business consulting,YES,UNCLEAR,LOW,,
+12150,"agency, unclear",YES,UNCLEAR,LOW,,
+12151,IT solutions,YES,OK,MED,,
+12156,logistics,UNCLEAR,OK,MED,,domain differs from name
+12158,virtual assistant services,YES,WRONG,MED,,not freight brokerage
+12161,"project services, unclear",YES,UNCLEAR,LOW,,
+12164,"international trade, unclear",YES,UNCLEAR,LOW,,
+12178,"holding company, unclear",UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12180,security and investigations,YES,OK,MED,,
+12187,electrical contractor,UNCLEAR,OK,MED,Corinthian Electric,domain differs from name
+12188,electrical contractor,YES,OK,MED,,
+12189,integrations contractor,YES,UNCLEAR,LOW,,
+12190,electrical contractor,YES,OK,MED,,
+12193,unknown,YES,UNCLEAR,LOW,,
+12194,electrical contractor,YES,OK,MED,,
+12196,electrical contractor,YES,OK,MED,,
+12198,power and alarm services,YES,OK,MED,APAC,
+12199,engineering firm,YES,UNCLEAR,LOW,,
+12203,electrical contractor,YES,OK,MED,,
+12204,HVAC service,YES,OK,MED,,
+12205,mechanical contractor,YES,OK,MED,,
+12206,mechanical contractor,YES,OK,MED,,
+12207,mechanical contractor,YES,OK,MED,,
+12209,plumbing contractor,YES,OK,HIGH,,
+12212,mechanical contractor,YES,OK,MED,,
+12213,electrical contractor,YES,OK,MED,,
+12214,overhead door contractor,DBA,OK,MED,Overhead Door Co. Bowling Green,
+12217,"window services, unclear",UNCLEAR,OK,MED,,generic line; domain differs
+12223,clinical education provider,YES,OK,HIGH,Partners for Advancing Clinical Education,
+12226,VR technology,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12228,SaaS company,UNCLEAR,WRONG,MED,,"software firm, not training"
+12242,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12244,GIS training bootcamp,DBA,OK,MED,Bootcamp GIS,
+12245,wellness coaching,YES,UNCLEAR,LOW,,
+12246,K-12 school district,UNCLEAR,WRONG,HIGH,Cleveland County Schools,school district
+12249,shipping services,UNCLEAR,OK,MED,ShipIt,
+12253,"logistics, foreign trade zone",YES,OK,MED,,
+12257,trucking carrier,DBA,WRONG,MED,Hatfield Trucking,carrier not broker
+12259,defense logistics,UNCLEAR,OK,MED,,domain differs from name
+12263,seminars and training,YES,OK,MED,,
+12267,individual consultant,UNCLEAR,UNCLEAR,LOW,,
+12272,federal training provider,DBA,OK,MED,Federal Training,
+12276,"design, unclear",YES,UNCLEAR,LOW,,
+12280,learning provider,YES,OK,MED,,
+12285,leadership coaching,UNCLEAR,UNCLEAR,LOW,,
+12286,education and professional development,YES,OK,MED,,generic line
+12287,coaching,YES,UNCLEAR,LOW,,
+12288,leadership coaching,YES,UNCLEAR,LOW,,
+12289,unknown,YES,UNCLEAR,LOW,,
+12291,leadership coaching,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12297,unknown,YES,UNCLEAR,LOW,,
+12302,"individual, unclear",UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12303,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12305,unknown,YES,UNCLEAR,LOW,,
+12308,open-source LMS software vendor,YES,WRONG,MED,Moodle,software vendor
+12310,unknown,YES,UNCLEAR,LOW,,
+12312,unknown,UNCLEAR,UNCLEAR,LOW,,domain differs from name
+12315,career coaching,UNCLEAR,UNCLEAR,LOW,,
+12317,digital theatre education resources,YES,UNCLEAR,LOW,,Digital Theatre+
+12318,Medicare insurance agency,UNCLEAR,WRONG,MED,,insurance not training
+12319,unknown,YES,UNCLEAR,LOW,,
+12324,unknown,UNCLEAR,UNCLEAR,LOW,,domain spelling odd
+12326,compliance services,YES,UNCLEAR,LOW,,
+12331,IT systems support,YES,OK,MED,,
+12344,unknown,YES,UNCLEAR,LOW,,
+12349,restoration franchise,DBA,OK,MED,SERVPRO,
+12350,CPA firm,YES,OK,HIGH,,
+12351,"management group, unclear",YES,UNCLEAR,LOW,,
+12353,network security,YES,OK,MED,,
+12359,unknown,YES,UNCLEAR,LOW,,
+12364,IT certification provider,DBA,OK,HIGH,CIW Certified,
+12367,HVAC contractor,YES,OK,MED,,
+12369,staffing agency,YES,OK,HIGH,,
+12370,staffing and recruiting,YES,OK,MED,,
+12374,subcontractor management software,UNCLEAR,OK,MED,,domain unrelated to name
+12375,aircraft maintenance and modification,YES,WRONG,MED,,not staffing
+12383,technical staffing,YES,OK,MED,,
+12385,staffing and consulting,YES,OK,MED,,
+12388,CPA professional association,YES,WRONG,MED,,"association, not a firm"
+12389,"business services, unclear",YES,UNCLEAR,LOW,,
+12394,unknown,YES,UNCLEAR,LOW,,
+12395,unknown,YES,UNCLEAR,LOW,,
+12397,consulting group,YES,UNCLEAR,LOW,,
+12398,IT personnel staffing,UNCLEAR,OK,MED,,generic line
+12399,staffing agency,UNCLEAR,OK,MED,,domain suggests Staff Connections
+12400,unknown,YES,UNCLEAR,LOW,,

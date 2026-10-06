@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+6028,IT solutions provider,YES,UNCLEAR,LOW,,
+6035,unknown,YES,UNCLEAR,LOW,,
+6038,unknown technology firm,YES,UNCLEAR,LOW,,
+6042,unknown,YES,UNCLEAR,LOW,,Domain matches initials ISG
+6046,unknown,YES,UNCLEAR,LOW,,
+6051,unknown admin or IT services,YES,UNCLEAR,LOW,,
+6054,unknown services firm,YES,UNCLEAR,LOW,,
+6059,unknown,YES,UNCLEAR,LOW,,
+6062,AV and control systems integrator,YES,WRONG,MED,,Intellav suggests AV integration not software
+6064,consulting partner firm,YES,UNCLEAR,LOW,,
+6072,scientific simulation software and R&D,YES,OK,MED,,
+6074,unknown,YES,UNCLEAR,LOW,,
+6081,regulatory compliance technology,YES,UNCLEAR,LOW,,
+6086,IT solutions provider,YES,UNCLEAR,LOW,,
+6087,federal IT systems contractor,YES,UNCLEAR,LOW,,
+6091,unknown,YES,UNCLEAR,LOW,,
+6094,unknown systems firm,YES,UNCLEAR,LOW,,
+6096,unknown,UNCLEAR,UNCLEAR,LOW,,Domain showreadytech unrelated to name
+6100,unknown,YES,UNCLEAR,LOW,,
+6101,IT services firm,YES,UNCLEAR,LOW,,
+6102,IT consulting and cloud services,YES,WRONG,MED,,IT consultant not software vendor
+6103,IT consulting,UNCLEAR,UNCLEAR,LOW,,Domain consultechit differs from name
+6104,IT systems firm,YES,UNCLEAR,LOW,,
+6105,communications or AV firm,YES,UNCLEAR,LOW,,
+6106,IT system support services,YES,UNCLEAR,LOW,,Looks like MSP not software vendor
+6111,unknown,YES,OK,LOW,,Generic line
+6118,staffing and talent services,YES,OK,MED,,
+6122,medical staffing,DBA,OK,MED,Synergy Medical Staffing,
+6126,apartment community,UNCLEAR,OK,MED,,Domain pearsonproperties likely manager
+6128,security guard services,YES,OK,HIGH,,
+6130,security guard services,YES,OK,HIGH,,
+6131,patrol security services,YES,OK,HIGH,,
+6138,unknown,YES,UNCLEAR,LOW,,
+6148,facilities services,YES,UNCLEAR,LOW,,
+6150,facility services,YES,OK,MED,,
+6153,building maintenance services,DBA,OK,MED,Milestone Building Service,
+6159,facility services,YES,OK,MED,,
+6164,security guard company,DBA,WRONG,MED,DFW Security Protective Force,Security guard not facilities
+6168,unknown,YES,UNCLEAR,LOW,,
+6170,unknown services firm,DBA,UNCLEAR,LOW,CityWide,
+6172,CPA firm,YES,OK,HIGH,,
+6173,CPA firm,YES,OK,HIGH,,
+6174,CPA and accounting firm,YES,OK,HIGH,,
+6177,unknown,YES,UNCLEAR,LOW,,
+6178,unknown,YES,UNCLEAR,LOW,,
+6181,certification testing and training,DBA,OK,MED,NCCT,Likely National Center for Competency Testing
+6184,CPA firm,YES,OK,HIGH,,
+6186,document technology firm,YES,UNCLEAR,LOW,,
+6187,cybersecurity training,YES,OK,HIGH,Antisyphon Training,
+6189,unknown,YES,UNCLEAR,LOW,,
+6191,wilderness medicine training,YES,OK,HIGH,,
+6193,K-12 school,YES,WRONG,HIGH,,School not training business
+6194,HR consulting and training,YES,UNCLEAR,LOW,,
+6196,professional training institute,DBA,OK,MED,ENO Institute,
+6200,cybersecurity training and consulting,DBA,OK,HIGH,Counter Hack,Ed Skoudis SANS instructor
+6202,data management education,YES,OK,HIGH,DATAVERSITY,
+6208,community social services,YES,WRONG,MED,,Community org not training business
+6210,charter school network,YES,WRONG,HIGH,,K-12 charter schools
+6211,Head Start training and services,YES,UNCLEAR,LOW,,
+6212,K-12 school,YES,WRONG,HIGH,,School
+6213,technical training courses,YES,OK,HIGH,,
+6214,e-learning technology,YES,OK,MED,IDT Learning,
+6215,CPR and first aid training,YES,OK,HIGH,,
+6216,unknown,YES,UNCLEAR,LOW,,
+6217,engineering training courses,YES,OK,HIGH,,
+6218,educational services,UNCLEAR,OK,MED,,Domain slantsystem differs
+6224,customer experience training,DBA,OK,MED,CX University,
+6226,unknown,UNCLEAR,UNCLEAR,LOW,,
+6229,training services,YES,OK,MED,,
+6230,quality consulting,YES,UNCLEAR,LOW,,
+6232,corporate performance training,YES,OK,MED,,
+6233,unknown aviation related,YES,UNCLEAR,LOW,,
+6234,crisis management training,DBA,OK,MED,Safe Crisis Management,
+6235,dyslexia tutoring,DBA,OK,MED,Apple Group Dyslexia,
+6237,unknown safety firm,YES,UNCLEAR,LOW,,
+6239,unknown,YES,UNCLEAR,LOW,,
+6240,learning center,YES,OK,MED,,
+6242,hydraulics firm,YES,WRONG,MED,AMT Hydraulics,Hydraulics not training
+6243,technician training,DBA,OK,MED,Ultimate Technician,
+6245,unknown,YES,UNCLEAR,LOW,,
+6246,vocational training,YES,OK,MED,,
+6252,training solutions,YES,OK,MED,,
+6253,safety training,YES,OK,MED,,
+6259,training company,UNCLEAR,OK,LOW,ATC Train,Generic line
+6261,educational services,YES,OK,MED,,
+6264,law education services,DBA,OK,MED,Think Law,
+6270,unknown IT,YES,UNCLEAR,LOW,,
+6274,IT services,YES,UNCLEAR,LOW,,
+6276,unknown,YES,UNCLEAR,LOW,,
+6277,unknown analytics,YES,UNCLEAR,LOW,,
+6278,wireless messaging software,YES,OK,MED,HipLink,Semotus became HipLink
+6279,staffing and talent,YES,OK,MED,,
+6280,electrical contractor,YES,OK,MED,,
+6285,freight logistics,DBA,OK,MED,AM Freight Logistics,
+6287,technology firm,YES,WRONG,MED,,Name suggests tech not guards
+6288,fire protection services,YES,WRONG,MED,LMC Fire,Fire protection not guards
+6289,industrial stack services,YES,OK,MED,,
+6291,fire protection services,YES,OK,HIGH,,
+6293,pipe trades,YES,UNCLEAR,LOW,,
+6294,parts and service,DBA,OK,MED,Kaemmerlen Solutions,
+6295,computer services,YES,UNCLEAR,LOW,,
+6300,IT consulting or training,YES,UNCLEAR,LOW,,
+6301,unknown,YES,UNCLEAR,LOW,,
+6302,learning services,YES,OK,MED,,
+6304,training and consulting,DBA,OK,MED,Learning Everywhere,
+6306,HR coaching and training,DBA,OK,MED,Train Me Today,
+6307,healthcare training institute,YES,OK,MED,,
+6310,e-publishing,YES,UNCLEAR,LOW,,
+6311,unknown,YES,UNCLEAR,LOW,,
+6316,hydraulics firm,UNCLEAR,UNCLEAR,LOW,,Domain qsautomotive unrelated to name
+6321,unknown,UNCLEAR,UNCLEAR,LOW,,
+6344,AI video analytics software,DBA,OK,MED,Algotive,
+6348,privacy and data governance software,YES,OK,HIGH,,
+6349,synthetic data platform,DBA,OK,MED,Rendered.ai,
+6355,AI software,YES,OK,MED,,
+6359,industrial firm,YES,WRONG,MED,,Industries suggests non-broker
+6365,unknown,UNCLEAR,UNCLEAR,LOW,,
+6368,unknown IT or web services,YES,UNCLEAR,LOW,,
+6374,security services,DBA,UNCLEAR,LOW,IAS Security,Name says marketing
+6379,app development,YES,OK,MED,,
+6383,digital marketing,UNCLEAR,UNCLEAR,LOW,,Domain differs from name
+6396,3D medical visualization software,DBA,OK,MED,BodyViz,
+6400,unknown,YES,UNCLEAR,LOW,,
+6402,IT services,YES,OK,MED,,
+6403,defense technical services,YES,UNCLEAR,LOW,,
+6405,consulting,YES,UNCLEAR,LOW,,
+6408,facility services technology,YES,UNCLEAR,LOW,,
+6411,unknown,YES,UNCLEAR,LOW,,
+6412,consulting,YES,UNCLEAR,LOW,,
+6414,IT solutions,YES,UNCLEAR,LOW,,
+6418,unknown,YES,UNCLEAR,LOW,,
+6420,translation technology,DBA,WRONG,MED,ProCAT,Translation firm not IT service
+6421,software design,YES,UNCLEAR,LOW,,
+6423,data center colocation,YES,WRONG,MED,Ark Data Centers,Data centers not software vendor
+6436,logistics and freight,YES,OK,MED,,
+6441,unknown,YES,UNCLEAR,LOW,,
+6444,logistics services,DBA,OK,MED,TLR,
+6449,ocean freight forwarding,YES,OK,MED,,
+6468,logistics,YES,OK,MED,,
+6472,trucking and logistics,YES,OK,MED,,
+6482,logistics,UNCLEAR,UNCLEAR,LOW,iMotion Logistics,Name says designs
+6490,logistics IT services,YES,WRONG,MED,,Logistics software or IT not brokerage
+6494,government IT contractor,YES,WRONG,MED,,
+6497,office furniture dealer,DBA,WRONG,MED,Scott Rice,Office furniture not freight
+6498,art moving,DBA,UNCLEAR,LOW,Art Moves,
+6499,holding company,YES,UNCLEAR,LOW,,
+6502,unknown,YES,UNCLEAR,LOW,,
+6503,property ID registry,DBA,WRONG,MED,My Property ID Registry,
+6506,healthcare relocation moving,DBA,UNCLEAR,LOW,HCR Moves,Mover not freight broker
+6513,computer security,YES,WRONG,MED,,
+6515,logistics,YES,OK,MED,,
+6533,freight,YES,OK,MED,,
+6537,logistics brokerage,YES,OK,HIGH,,
+6540,trucking carrier,DBA,WRONG,MED,BTS Trucking,Individual trucking carrier
+6545,specialized transport,UNCLEAR,UNCLEAR,LOW,,
+6551,freight forwarding,YES,OK,MED,,
+6555,trucking carrier,DBA,WRONG,MED,Little River Transportation,
+6558,trucking carrier,UNCLEAR,WRONG,MED,,Freightlines is a carrier
+6559,freight services,YES,OK,MED,,
+6564,unknown,UNCLEAR,UNCLEAR,LOW,,
+6565,auctioneers,YES,WRONG,HIGH,,Auction firm not logistics
+6566,unknown,UNCLEAR,UNCLEAR,LOW,,
+6567,unknown,UNCLEAR,UNCLEAR,LOW,,Individual name
+6569,lumper unloading services,DBA,UNCLEAR,MED,A-1 Lumpers,
+6570,transportation,UNCLEAR,UNCLEAR,LOW,360 Global Transportation,Individual name
+6571,warehousing and moving,YES,UNCLEAR,MED,,
+6573,packaging,DBA,WRONG,MED,Genesee Packaging,Packaging not freight
+6584,plumbing contractor,UNCLEAR,OK,LOW,,Generic line
+6591,self storage,DBA,WRONG,MED,Daffodil Storage,
+6601,warehouse and storage,UNCLEAR,UNCLEAR,LOW,,Domain brownsinstallation differs
+6604,supportive housing,DBA,OK,MED,Rocky Mountain Communities,
+6606,medical office building,DBA,WRONG,MED,Ahlquist Development,Commercial MOB not residential
+6607,unknown property,UNCLEAR,UNCLEAR,LOW,CORE DC,
+6608,apartment community,DBA,OK,MED,New South Properties,
+6611,security services,UNCLEAR,OK,LOW,Executive Special Service,
+6617,security guard services,YES,OK,HIGH,,
+6619,facility services,YES,UNCLEAR,LOW,,
+6621,unknown,YES,UNCLEAR,LOW,,
+6623,accident information service,UNCLEAR,UNCLEAR,LOW,,Domain secur-it differs
+6625,tech contractor,UNCLEAR,UNCLEAR,LOW,,
+6633,network cabling,YES,WRONG,HIGH,,Cabling not guards
+6636,fire and alarm systems,YES,WRONG,MED,,
+6638,engineering services,YES,OK,LOW,,Generic line
+6639,systems firm,YES,UNCLEAR,LOW,,
+6645,alarm systems,DBA,WRONG,MED,Alarm Tech,
+6646,equipment company,YES,WRONG,MED,,
+6648,medical alert devices,DBA,WRONG,MED,Medical Care Alert,
+6659,communications contractor,YES,OK,MED,,
+6660,electrical contractor,YES,OK,MED,,
+6661,unknown,YES,UNCLEAR,LOW,,
+6665,electrical contractor,YES,OK,MED,,
+6666,IT technology firm,YES,UNCLEAR,LOW,,
+6667,electrical contractor,YES,OK,MED,,
+6671,lighting maintenance services,YES,OK,MED,,
+6672,sheet metal and HVAC,YES,OK,MED,,
+6673,HVAC contractor,YES,OK,MED,,
+6674,HVAC contractor,DBA,OK,MED,Kerrville Cooling,
+6680,HVAC balancing and controls,YES,OK,MED,,
+6681,plumbing contractor,YES,OK,HIGH,,
+6684,mechanical HVAC contractor,YES,OK,MED,,

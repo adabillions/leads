@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+10481,unknown,YES,UNCLEAR,LOW,,
+10486,environmental consulting services,YES,WRONG,MED,,environmental firm not restoration
+10490,unknown veteran-owned contractor,YES,UNCLEAR,LOW,,
+10517,PuroClean restoration franchise,DBA,OK,HIGH,PuroClean,
+10524,CPA firm,YES,OK,HIGH,,
+10525,CPA firm,YES,OK,HIGH,,
+10527,CPA and audit firm,YES,OK,HIGH,,
+10528,accounting and tax services,YES,OK,MED,,
+10529,accounting firm,YES,OK,MED,,
+10531,CPA firm,YES,OK,HIGH,,
+10532,federal accounting and audit consulting,YES,OK,MED,,
+10533,tax planning and preparation,YES,OK,MED,,
+10535,tax and CPA services,YES,OK,MED,,
+10536,CPA practice,YES,OK,HIGH,,
+10537,imaging services,YES,WRONG,MED,,imaging not accounting
+10538,tax preparation services,YES,OK,MED,,
+10539,tax preparation services,YES,OK,MED,,
+10540,IT services in Guam,YES,WRONG,MED,,technology firm not accounting
+10542,unknown,UNCLEAR,UNCLEAR,LOW,,
+10546,medical billing services,YES,UNCLEAR,MED,,billing not audit/close
+10547,business solutions possibly bookkeeping,YES,UNCLEAR,LOW,,
+10549,likely CPA firm,YES,OK,MED,,
+10550,unknown,UNCLEAR,UNCLEAR,LOW,,domain has ww. typo
+10551,independent consultant,YES,UNCLEAR,LOW,,
+10552,online professional certification training,YES,OK,HIGH,,
+10553,data management education and training,YES,OK,HIGH,,
+10560,six sigma training and software,DBA,UNCLEAR,MED,SigmaZone,
+10566,systems integration services,UNCLEAR,WRONG,MED,,integrator not software vendor
+10573,coaching and training,UNCLEAR,UNCLEAR,LOW,,
+10574,unknown data or IT services,YES,UNCLEAR,LOW,,
+10577,managed IT services,YES,OK,MED,,
+10578,IT and engineering services,YES,UNCLEAR,LOW,,
+10581,unknown,YES,UNCLEAR,LOW,,
+10584,asbestos abatement contractor,YES,UNCLEAR,MED,,abatement not claims restoration
+10586,environmental engineering services,YES,WRONG,MED,,environmental firm not restoration
+10589,CPA firm,YES,OK,HIGH,,
+10590,unknown,YES,UNCLEAR,LOW,,
+10592,security services,YES,WRONG,MED,,security firm not training
+10594,coaching or personal brand,UNCLEAR,UNCLEAR,LOW,,
+10596,unknown,YES,UNCLEAR,LOW,,
+10597,unknown,UNCLEAR,UNCLEAR,LOW,,domain says Altin Synergy
+10598,training provider,YES,OK,MED,,
+10602,medical training,YES,OK,MED,,
+10603,unknown consulting,YES,UNCLEAR,LOW,,
+10605,professional coach training,DBA,OK,MED,The Coach School,
+10606,travel industry education,DBA,OK,MED,KORE Travel Education,
+10607,stormwater training institute,YES,OK,HIGH,,
+10613,driver training and traffic school,DBA,OK,MED,Driver Resource Center,
+10615,medical coding education,YES,OK,MED,,
+10616,language school,DBA,OK,HIGH,inlingua Boston,
+10618,unknown individual,UNCLEAR,UNCLEAR,LOW,,
+10619,unknown,YES,UNCLEAR,LOW,,
+10620,education nonprofit,YES,OK,MED,,
+10621,tutoring learning community,YES,OK,MED,,
+10624,unknown,UNCLEAR,UNCLEAR,LOW,,
+10630,IT consulting,YES,UNCLEAR,LOW,,not Sage software
+10633,aviation data and software,YES,OK,HIGH,PASSUR,
+10639,training provider,YES,OK,MED,,
+10641,unknown,YES,UNCLEAR,LOW,,
+10646,software development services,YES,OK,MED,,
+10648,unknown,YES,UNCLEAR,LOW,,
+10649,IT consulting,YES,UNCLEAR,LOW,,
+10653,reporting software,DBA,OK,MED,CIP Reporting,
+10656,IT consulting services,YES,UNCLEAR,MED,,
+10657,data management services,YES,UNCLEAR,LOW,,
+10658,leadership training,UNCLEAR,WRONG,MED,Grow Strong Leaders,training firm not software
+10662,unknown,YES,UNCLEAR,LOW,,
+10680,unknown field services,YES,UNCLEAR,LOW,,
+10681,janitorial building services,YES,OK,MED,,
+10686,IT storage solutions,YES,UNCLEAR,LOW,,
+10687,IT services,YES,OK,MED,,
+10688,IT training,YES,OK,MED,,
+10691,training provider,YES,OK,MED,,
+10700,drone training,DBA,OK,HIGH,Drone U,
+10701,training provider,YES,OK,MED,,
+10702,forensics training,DBA,UNCLEAR,LOW,Code Blue Forensics,
+10705,verbal judo communication training,DBA,OK,MED,Verbal Judo,
+10706,outdoor and medical training,YES,OK,HIGH,,
+10708,staffing and recruiting,DBA,OK,MED,Alderson Loop,
+10713,cloud security compliance software,YES,OK,HIGH,,
+10717,healthcare AI software,YES,OK,HIGH,,
+10722,payments software platform,DBA,OK,MED,TRXchange,
+10724,unknown,UNCLEAR,UNCLEAR,LOW,,domain suggests clean energy
+10727,cybersecurity services,YES,UNCLEAR,LOW,,
+10729,unknown,UNCLEAR,UNCLEAR,LOW,,
+10741,software company,DBA,OK,MED,Argent,
+10742,security software,DBA,OK,HIGH,VoodooShield,
+10743,technology development,DBA,UNCLEAR,LOW,MyStream Technologies,
+10748,unknown,UNCLEAR,UNCLEAR,LOW,,
+10753,unknown,UNCLEAR,UNCLEAR,LOW,,person-name entity
+10756,tech media publisher,DBA,WRONG,MED,GearBrain,media not software vendor
+10757,mapping and routing software,YES,OK,HIGH,MapQuest,
+10758,unknown,YES,UNCLEAR,LOW,,
+10767,media company,UNCLEAR,WRONG,MED,,media not software
+10768,IT and cyber services,YES,UNCLEAR,LOW,,
+10771,software or Linux development,YES,UNCLEAR,LOW,,
+10786,software company,YES,OK,MED,,
+10804,devices hardware,YES,WRONG,MED,,hardware firm not software
+10809,software developer,YES,OK,MED,,
+10811,unknown,YES,UNCLEAR,LOW,,
+10814,ERP software,DBA,OK,HIGH,Flexus,
+10816,immersive medical technology platform,YES,OK,MED,Immertec,
+10818,AI software,YES,OK,MED,,
+10821,investment management,YES,WRONG,MED,,not software
+10827,performance software,DBA,OK,HIGH,Condusiv Technologies,
+10831,unknown technology firm,UNCLEAR,UNCLEAR,LOW,,
+10840,pharmacy software,DBA,OK,MED,RxScan,
+10843,arts management software,DBA,OK,MED,ArtsVision,
+10864,GIS database consultant,YES,UNCLEAR,LOW,,
+10868,unknown medical technology,UNCLEAR,UNCLEAR,LOW,,
+10874,IT services,YES,WRONG,MED,,IT services not software vendor
+10887,unknown,UNCLEAR,UNCLEAR,LOW,,
+10892,county records software possibly,UNCLEAR,UNCLEAR,LOW,,
+10893,digital health research platform,DBA,OK,MED,Labfront,
+10900,IT consulting,YES,UNCLEAR,LOW,,
+10907,IT services,YES,WRONG,MED,,IT services not software vendor
+10912,consulting,YES,WRONG,MED,,consultancy not software
+10930,IT security advisory,YES,WRONG,MED,,advisory not software
+10935,unknown technology,UNCLEAR,UNCLEAR,LOW,,
+10938,investment firm,UNCLEAR,WRONG,MED,,investment firm not software
+10939,unknown,YES,UNCLEAR,LOW,,
+10947,healthcare staffing,DBA,OK,MED,All Med Search,
+10974,unknown resource development,NO,WRONG,MED,,domain is health consortium ANTHC
+10977,real estate,UNCLEAR,UNCLEAR,LOW,,domain says fintech
+10979,risk and security services,YES,UNCLEAR,LOW,,
+10980,security services,YES,OK,MED,,
+10983,unknown defense services,UNCLEAR,UNCLEAR,LOW,,
+10989,security services,DBA,OK,MED,Prestige Security,
+10990,security and investigations,YES,OK,MED,,
+10996,CCTV supply,UNCLEAR,WRONG,MED,,CCTV supplier not guard firm
+10997,fire safety services,YES,WRONG,MED,,fire safety not guard
+10998,IT services,YES,WRONG,MED,,IT firm not guard
+10999,unknown,UNCLEAR,UNCLEAR,LOW,,
+11003,IT and cyber systems,YES,WRONG,MED,,IT firm not guard
+11013,facility services,UNCLEAR,OK,MED,Facilities Pros,
+11015,federal services contractor,YES,UNCLEAR,LOW,,
+11018,facility cleaning services,YES,OK,MED,,
+11019,facility services,YES,OK,MED,,
+11020,janitorial services,DBA,OK,MED,Unica Janitorial,
+11022,cleaning services,YES,OK,HIGH,,
+11025,window cleaning,YES,OK,MED,,
+11026,cleaning and management services,YES,OK,HIGH,,
+11028,cleaning services,YES,OK,HIGH,,
+11029,unknown corporate services,YES,UNCLEAR,LOW,,
+11032,unknown,YES,UNCLEAR,LOW,,
+11034,janitorial services,YES,OK,HIGH,,
+11035,building maintenance,YES,OK,MED,,
+11036,commercial cleaning,DBA,OK,MED,Corporate Care,
+11038,commercial cleaning,YES,OK,MED,,
+11039,consulting,YES,WRONG,MED,,consultancy not cleaning
+11040,possibly logistics,YES,UNCLEAR,LOW,,
+11042,janitorial supply possibly,YES,UNCLEAR,LOW,,
+11046,SERVPRO restoration franchise,DBA,UNCLEAR,MED,SERVPRO of Vacaville,restoration not janitorial
+11049,Office Pride cleaning franchise,DBA,OK,MED,Office Pride,
+11051,cleaning services,YES,OK,HIGH,,
+11058,equipment rental,DBA,OK,MED,Powells Equipment,
+11061,unknown,UNCLEAR,UNCLEAR,LOW,,domain says Dirt Management
+11064,Bobcat equipment dealer,DBA,OK,MED,Bobcat of Poplar Bluff,
+11071,CPA practice,YES,OK,MED,,
+11076,unknown technology,YES,UNCLEAR,LOW,,
+11087,consulting,YES,WRONG,MED,,consultancy not software
+11088,unknown,YES,UNCLEAR,LOW,,
+11090,unknown,YES,UNCLEAR,LOW,,
+11092,data and AI company,YES,UNCLEAR,LOW,,
+11099,unknown,YES,UNCLEAR,LOW,,
+11106,surveillance technology,YES,UNCLEAR,LOW,,
+11115,janitorial services,YES,OK,HIGH,,
+11121,engineering services,UNCLEAR,WRONG,MED,,domain says Pax Engineering
+11127,IT services,YES,UNCLEAR,LOW,,
+11130,cleaning services,YES,OK,MED,,
+11140,literacy education nonprofit,YES,OK,MED,,
+11149,IT services,YES,WRONG,MED,,IT services not software vendor
+11156,unknown research firm,UNCLEAR,UNCLEAR,LOW,,domain says Dataforce Research
+11157,unknown possibly security,YES,UNCLEAR,LOW,,
+11158,unknown,YES,UNCLEAR,LOW,,
+11169,research firm,YES,UNCLEAR,LOW,,
+11172,defense and industrial products,UNCLEAR,WRONG,MED,,not software
+11174,IT services,YES,WRONG,MED,,IT services not software vendor
+11176,DB2 consulting and software,UNCLEAR,OK,MED,,
+11178,unknown,YES,UNCLEAR,LOW,,
+11192,unknown,YES,UNCLEAR,LOW,,
+11195,staffing or IT solutions,UNCLEAR,WRONG,MED,,staffing name not software
+11209,unknown technology,YES,UNCLEAR,LOW,,
+11216,unknown,YES,UNCLEAR,LOW,,
+11221,unknown,UNCLEAR,UNCLEAR,LOW,,name says transfers domain says IT
+11236,IT services Hawaii,YES,UNCLEAR,LOW,,
+11238,IT integration,YES,UNCLEAR,LOW,,
+11242,technology services,UNCLEAR,UNCLEAR,LOW,,
+11248,technology services,YES,UNCLEAR,LOW,,
+11256,network services,YES,UNCLEAR,LOW,,
+11266,technology services,YES,UNCLEAR,LOW,,
+11275,IT services,UNCLEAR,WRONG,MED,,IT services not software vendor
+11281,CAD software and libraries,DBA,OK,MED,MadCAD,
+11294,safety staffing,UNCLEAR,OK,MED,,
+11306,police and security services,YES,OK,MED,,
+11309,security services,YES,OK,MED,,
+11310,unknown,YES,UNCLEAR,LOW,,
+11311,protective security services,YES,OK,MED,,
+11312,security services,UNCLEAR,OK,MED,,
+11313,unknown,UNCLEAR,UNCLEAR,LOW,,Securities may mean financial

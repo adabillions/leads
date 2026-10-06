@@ -1,0 +1,41 @@
+row,what_it_does,name_website_match,line_fit,trading_name,note
+64,unknown,UNCLEAR,UNCLEAR,,searches found nothing on this business
+95,unknown,UNCLEAR,UNCLEAR,,searches found nothing on this business
+123,IT consulting and managed services,DBA,OK,IntelliSuite IT Solutions,trades as IntelliSuite
+134,Government intelligence analysis and security services,DBA,WRONG,Exiger Government Solutions,intel analysis firm not IT help desk; part of Exiger
+196,QuickBooks solution provider and ERP implementation,UNCLEAR,UNCLEAR,,domain is Certum Solutions; link to Khboffice unverified
+242,IT solutions provider (federal procurement to managed services),DBA,OK,Digital Compass,Govplace rebranded Digital Compass in July 2026
+252,HVAC and mechanical plumbing manufacturer,UNCLEAR,WRONG,,manufacturer not construction contractor; domain link unverified
+279,IT managed services (domain is Rx Technology),UNCLEAR,UNCLEAR,Rx Technology,Major Inc link to domain unconfirmed
+377,Nutrition analysis and food compliance software,DBA,OK,Trustwell,ESHA Research merged into Trustwell in 2022
+381,Federal ERP and low-code systems integrator,YES,UNCLEAR,,systems integrator not help-desk MSP
+581,unknown,UNCLEAR,UNCLEAR,,searches found nothing on this business
+589,unknown,UNCLEAR,UNCLEAR,,searches found nothing on this business
+647,Tax credit consulting for businesses,YES,OK,,tax credit consultancy rather than audit firm
+686,IT solutions managed services and cybersecurity,DBA,OK,Chameleon Integrated Services,Unitech Consulting trades as Chameleon Integrated Services
+700,Managed IT services for small and mid-size businesses,DBA,OK,Rouse Consulting Group,trades as Rouse Consulting Group
+701,Emergency and omnichannel communications and connectivity,DBA,WRONG,PEAKE,telecom/public-safety comms vendor not IT help desk
+705,Third-party logistics freight brokerage,DBA,OK,Phalanx Logistics Solutions,entity name differs from trading name
+715,Residential rental property management,DBA,OK,Jim Wright Company (JWC Rentals),owner entity; operator is Jim Wright Company
+752,unknown,UNCLEAR,UNCLEAR,,searches found nothing on this business
+784,Community association (HOA/condo) management,YES,OK,,HOA management; leasing part of line less relevant
+810,unknown,UNCLEAR,UNCLEAR,,search found nothing on this business
+813,unknown,UNCLEAR,UNCLEAR,,search found nothing on this business
+864,unknown,UNCLEAR,UNCLEAR,,search returned only unrelated SmartFoxServer results
+956,unknown,UNCLEAR,UNCLEAR,,"search found only unrelated NDT firm of same name"
+970,unknown,UNCLEAR,UNCLEAR,,search found nothing on this business
+1006,unknown,UNCLEAR,UNCLEAR,,search found nothing on this business
+1030,unknown,UNCLEAR,UNCLEAR,,search found nothing relevant to domain
+1056,not searched,UNCLEAR,UNCLEAR,,not searched
+1061,not searched,UNCLEAR,UNCLEAR,,not searched
+1086,not searched,UNCLEAR,UNCLEAR,,not searched
+1159,not searched,UNCLEAR,UNCLEAR,,not searched
+1162,not searched,UNCLEAR,UNCLEAR,,not searched
+1175,not searched,UNCLEAR,UNCLEAR,,not searched
+1189,not searched,UNCLEAR,UNCLEAR,,not searched
+1201,not searched,UNCLEAR,UNCLEAR,,not searched
+1225,not searched,UNCLEAR,UNCLEAR,,not searched
+1227,not searched,UNCLEAR,UNCLEAR,,not searched
+1255,not searched,UNCLEAR,UNCLEAR,,not searched
+1275,not searched,UNCLEAR,UNCLEAR,,not searched
+1284,not searched,UNCLEAR,UNCLEAR,,not searched

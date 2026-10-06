@@ -1,0 +1,201 @@
+row,what_it_does,name_website_match,line_fit,confidence,trading_name,note
+11650,unknown,YES,UNCLEAR,LOW,,
+11652,unknown,YES,UNCLEAR,LOW,,
+11654,Pediatric emergency medical training courses,YES,OK,MED,Pedi-Ed-Trics,
+11655,Community development and workforce training nonprofit,YES,OK,MED,,
+11658,unknown,YES,UNCLEAR,LOW,,
+11666,Community foundation in Blanding Utah,YES,UNCLEAR,LOW,,Foundation; not clearly a training provider
+11668,Federal retirement benefits advisory,YES,WRONG,MED,,Advisory firm not a training business
+11671,School social-emotional learning curriculum and training,YES,OK,HIGH,CharacterStrong,
+11673,Education consulting and curriculum,YES,OK,MED,,
+11674,Continuing medical education provider,YES,OK,HIGH,,
+11683,Audio video systems integrator,YES,OK,MED,,
+11688,IT security certification training,UNCLEAR,OK,MED,,Domain is certifiedinfosec.com
+11691,Security awareness and compliance training,YES,OK,HIGH,,
+11693,Human performance training and coaching,YES,OK,MED,,
+11696,Learning and training design,UNCLEAR,OK,MED,,Domain oxygenexp.com differs from name
+11699,unknown,YES,UNCLEAR,LOW,,
+11708,unknown,YES,UNCLEAR,LOW,,
+11709,CPA and accounting firm,UNCLEAR,WRONG,MED,,Domain scicpa.com suggests CPA firm
+11714,Federal contracting data services,UNCLEAR,WRONG,MED,Fedshark,Domain fedshark.com suggests federal contracting
+11716,Freight logistics and carrier management,YES,OK,MED,,
+11718,Freight and trucking,YES,OK,MED,,May be a carrier
+11719,International freight forwarding,YES,OK,HIGH,Zust Bachmeier,
+11720,Power industry logistics,YES,OK,MED,,
+11723,unknown,YES,UNCLEAR,LOW,,
+11724,Fire alarm and detection systems,YES,WRONG,HIGH,,Fire alarm company not security guards
+11726,Electrical contractor,YES,OK,MED,,
+11728,Photonics engineering,YES,UNCLEAR,LOW,,
+11730,Electrical contractor,YES,OK,MED,,
+11731,Engineering consulting,YES,UNCLEAR,LOW,,
+11732,Fire protection and sprinkler services,YES,OK,MED,,
+11734,Electrical and general contractor,UNCLEAR,OK,MED,,Domain deltagc.com
+11735,Electrical contractor,YES,OK,MED,,
+11736,Electrical contractor,YES,OK,MED,,Generic line
+11737,Mechanical contractor,YES,OK,MED,,
+11738,HVAC test and balance,YES,OK,MED,,
+11740,Mechanical contractor,YES,OK,MED,,Generic line
+11742,Mechanical contractor,UNCLEAR,OK,MED,Snyder Mechanical,
+11743,Utility billing and submetering,YES,UNCLEAR,LOW,,
+11744,Mechanical contractor,YES,OK,MED,JEM Mechanical,
+11745,Marine refrigeration and environmental services,UNCLEAR,OK,MED,,Domain amrenvironmental.com
+11747,unknown,YES,UNCLEAR,LOW,,
+11749,unknown,YES,UNCLEAR,LOW,,
+11751,Training management services,YES,OK,MED,,
+11752,Computer sales and IT services,YES,WRONG,MED,,IT services not training
+11757,Security systems and services,YES,WRONG,MED,,Security firm not training
+11758,unknown,YES,UNCLEAR,LOW,,
+11759,unknown,YES,UNCLEAR,LOW,,
+11760,unknown,YES,UNCLEAR,LOW,,
+11764,unknown,YES,UNCLEAR,LOW,,
+11768,unknown,YES,OK,LOW,,Generic line
+11769,unknown,YES,UNCLEAR,LOW,,
+11771,unknown,YES,UNCLEAR,LOW,,
+11777,Math tutoring and training,YES,OK,MED,,
+11785,Corporate training and consulting,YES,OK,MED,,
+11789,Consulting and community partnerships,UNCLEAR,UNCLEAR,LOW,,Domain tracykawa.com
+11791,Corporate training solutions,YES,OK,MED,,
+11792,unknown,YES,UNCLEAR,LOW,,
+11793,Corporate leadership training,YES,OK,MED,,
+11794,Gym and fitness,YES,WRONG,MED,,Gym in Rice Lake WI
+11798,Chemical regulatory compliance software,YES,WRONG,MED,,Software vendor not training business
+11805,unknown,YES,UNCLEAR,LOW,,
+11807,Technical rescue training and equipment,YES,OK,MED,,
+11808,Process engineering consulting,YES,UNCLEAR,LOW,,
+11815,Online music lessons,YES,OK,HIGH,,
+11816,Freight and logistics,YES,OK,MED,,
+11817,unknown,YES,UNCLEAR,LOW,,
+11821,Explosives supply and services,YES,WRONG,MED,,Explosives firm not training
+11824,unknown,YES,UNCLEAR,LOW,,
+11825,Brewery and pub analytics software,YES,OK,MED,,
+11826,Data and AI software,YES,OK,MED,,
+11827,unknown,YES,UNCLEAR,LOW,,
+11829,Cleaning industry software,YES,OK,MED,,
+11830,DevOps and cloud consulting,YES,WRONG,MED,,Consultancy not product vendor
+11831,IT consulting,YES,UNCLEAR,LOW,,
+11832,Fulfillment software,YES,OK,HIGH,,
+11833,unknown,YES,UNCLEAR,LOW,,
+11834,unknown,YES,UNCLEAR,LOW,,
+11835,IT services,YES,UNCLEAR,LOW,,
+11836,Salesforce consulting,YES,WRONG,MED,,Consultancy not product vendor
+11837,Nonprofit fundraising software,YES,OK,HIGH,,
+11838,Career software platform,YES,OK,MED,,
+11839,Julia computing platform,YES,OK,HIGH,,
+11840,AI software and consulting,YES,OK,MED,,
+11841,HR and workforce software,YES,OK,HIGH,,
+11842,Software engineering consultancy,YES,WRONG,MED,,Consultancy not product vendor
+11843,Fintech and banking technology,YES,OK,MED,,
+11844,unknown,YES,UNCLEAR,LOW,,
+11845,IT services,YES,OK,MED,,
+11846,unknown,YES,UNCLEAR,LOW,,
+11847,IT services,YES,OK,MED,,
+11849,Energy controls contractor,YES,OK,MED,,
+11850,Technical services,UNCLEAR,UNCLEAR,LOW,,Domain igniteimpossible.com
+11851,Armed security guard services,YES,OK,HIGH,,
+11852,Spare parts software,YES,OK,HIGH,,
+11854,Structured finance AI platform,YES,OK,MED,,
+11855,Data services,YES,UNCLEAR,LOW,,
+11857,Third-party logistics,YES,OK,MED,,
+11858,Defense contractor,YES,WRONG,MED,,Defense firm not freight broker
+11860,Production company,YES,WRONG,MED,,
+11861,Software application development,YES,UNCLEAR,LOW,,
+11862,Cybersecurity consulting,YES,UNCLEAR,MED,,
+11864,unknown,YES,UNCLEAR,LOW,,
+11866,unknown,YES,UNCLEAR,LOW,,
+11867,unknown,YES,UNCLEAR,LOW,,
+11868,unknown,YES,UNCLEAR,LOW,,
+11869,unknown,YES,UNCLEAR,LOW,,
+11871,unknown,YES,UNCLEAR,LOW,,
+11872,unknown,YES,UNCLEAR,LOW,,
+11873,unknown,UNCLEAR,UNCLEAR,LOW,,Domain dawsonohana.com
+11874,unknown,YES,UNCLEAR,LOW,,
+11875,IT services,YES,OK,MED,,
+11880,Computer services,YES,OK,MED,,
+11882,unknown,YES,UNCLEAR,LOW,,
+11883,IT services,YES,OK,MED,,
+11884,IT services,YES,OK,MED,,
+11885,Computer services,YES,OK,MED,,
+11886,IT services,YES,OK,MED,,
+11887,IT services,YES,OK,MED,,
+11888,IT services,YES,OK,MED,,
+11889,Audit services,YES,UNCLEAR,LOW,,
+11890,unknown,YES,UNCLEAR,LOW,,
+11891,Cybersecurity services,YES,OK,MED,,
+11893,unknown,YES,UNCLEAR,LOW,,Security could mean guards or cyber
+11894,unknown,YES,UNCLEAR,LOW,,
+11895,unknown,YES,UNCLEAR,LOW,,
+11896,Government contractor,UNCLEAR,UNCLEAR,LOW,,Domain apexedgegov.com
+11897,IT services,YES,OK,MED,,
+11899,Digital forensics,YES,WRONG,MED,,Forensics firm not managed IT
+11900,Managed IT services,YES,OK,MED,,
+11901,unknown,YES,UNCLEAR,LOW,,
+11902,Aerospace engineering,YES,WRONG,MED,,Aerospace firm not MSP
+11904,Logistics and freight,YES,OK,MED,,
+11905,Individual trucking or freight,UNCLEAR,UNCLEAR,LOW,Fonseca Freight,Sole proprietor; may be carrier
+11906,Logistics and freight,YES,OK,MED,,
+11907,Logistics and freight,YES,OK,MED,,
+11908,unknown,YES,UNCLEAR,LOW,,
+11909,Logistics and freight,YES,OK,MED,,
+11910,Logistics and freight,YES,OK,MED,,
+11912,Freight transportation brokerage,YES,OK,MED,,
+11913,Specialized bulk trucking and logistics,DBA,UNCLEAR,MED,Groupe Bellemare,Canadian trucking group; may be carrier
+11914,Logistics and freight,YES,OK,MED,,
+11915,Logistics and freight,YES,OK,MED,,
+11916,unknown,YES,UNCLEAR,LOW,,
+11917,Shipping and freight,YES,OK,MED,,
+11918,unknown,YES,UNCLEAR,LOW,,
+11919,Cargo and freight forwarding,YES,OK,MED,,
+11920,Logistics and freight,YES,OK,MED,,
+11921,Logistics and freight,YES,OK,MED,,
+11922,Freight and logistics,YES,OK,MED,,
+11925,unknown,YES,UNCLEAR,LOW,,Atlanticus is also a known fintech name
+11926,Logistics services,YES,OK,MED,,
+11929,Intermodal freight services,YES,OK,MED,,
+11930,Agricultural trading and import-export,YES,WRONG,MED,,Commodity trader not freight broker
+11931,unknown,YES,UNCLEAR,LOW,,
+11932,Logistics and freight,YES,OK,MED,,
+11933,Freight services,YES,OK,MED,,
+11934,Global logistics,YES,OK,MED,,
+11935,Logistics and freight,YES,OK,MED,,
+11936,Logistics and freight,YES,OK,MED,,
+11937,unknown,YES,UNCLEAR,LOW,,
+11938,Logistics services,YES,OK,MED,,
+11939,unknown,YES,UNCLEAR,LOW,,
+11941,unknown,YES,UNCLEAR,LOW,,
+11942,unknown,YES,UNCLEAR,LOW,,
+11943,Technology services,YES,UNCLEAR,LOW,,
+11944,Construction and build solutions,UNCLEAR,WRONG,MED,,Domain sbuildsolutions.com suggests construction
+11945,Logistics tribal-owned business,UNCLEAR,UNCLEAR,LOW,,Domain fortsillapache.com is tribal
+11947,Logistics services,YES,OK,MED,,
+11948,unknown,YES,UNCLEAR,LOW,,
+11951,Space and aerospace operations,YES,WRONG,MED,,Space industry firm not freight
+11953,Logistics services,YES,OK,MED,,
+11954,Logistics services,YES,OK,MED,,
+11955,Branding agency,YES,WRONG,HIGH,,Branding agency not logistics
+11957,unknown,UNCLEAR,UNCLEAR,LOW,,Domain mi7.biz
+11958,unknown,YES,UNCLEAR,LOW,,
+11960,unknown,YES,UNCLEAR,LOW,,
+11961,Risk management consulting,UNCLEAR,WRONG,MED,,Domain armconsulting.com
+11962,Defense and government contractor,YES,WRONG,MED,,Alaska Native corp subsidiary
+11963,Aviation services,YES,WRONG,MED,,Aviation firm not freight broker
+11964,Logistics services,YES,OK,MED,,
+11965,Fashion business,YES,WRONG,HIGH,,Fashion not logistics
+11966,unknown,YES,UNCLEAR,LOW,,
+11967,International freight forwarding,YES,OK,MED,Ebrex,Swiss domain ebrex.ch
+11968,Aviation group,YES,UNCLEAR,LOW,,
+11970,unknown,UNCLEAR,UNCLEAR,LOW,,Domain tac27.com
+11971,unknown,UNCLEAR,UNCLEAR,LOW,,
+11972,unknown,UNCLEAR,UNCLEAR,LOW,,
+11973,unknown,YES,UNCLEAR,LOW,,
+11976,Logistics services,YES,OK,MED,,
+11977,Logistics services,YES,OK,MED,,
+11978,Last-mile logistics,YES,OK,MED,,
+11979,Logistics services,YES,OK,MED,,
+11980,Logistics services,YES,OK,MED,,
+11981,Cargo services,YES,OK,MED,,
+11982,unknown,YES,UNCLEAR,LOW,,
+11983,unknown,YES,UNCLEAR,LOW,,
+11984,Logistics services,YES,OK,MED,,
+11985,Procurement services,YES,UNCLEAR,LOW,,
+11986,Logistics services,YES,OK,MED,,
+11987,unknown,YES,OK,LOW,,Generic line
