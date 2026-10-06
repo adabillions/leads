@@ -7,9 +7,13 @@ import csv,json,re,sys,os
 P,SITES,D=sys.argv[1:4]; B=int(sys.argv[4]) if len(sys.argv)>4 else 100
 os.makedirs(D,exist_ok=True)
 rows=list(csv.DictReader(open(P,newline='',encoding='utf-8')))
+def _norm(j):
+    """Accept both crawl_sites.py (long keys) and crawl_domains.py (compact keys) records."""
+    if 'domain' in j: return j
+    return {'domain':j.get('d'),'status':j.get('s'),'title':j.get('t',''),'description':j.get('m',''),'h1':j.get('h',''),'text':j.get('x',''),'about_text':j.get('a',''),'tech':j.get('k',[]),'error':j.get('e')}
 sites={}
 for line in open(SITES):
-    try: j=json.loads(line); sites[j['domain']]=j
+    try: j=_norm(json.loads(line)); sites[j['domain']]=j
     except Exception: pass
 SUFFIX=r'(,?\s*(L\.?L\.?C\.?|Inc\.?|Corp\.?|Corporation|Ltd\.?|L\.?P\.?|P\.?L\.?L\.?C\.?|P\.?C\.?|Co\.?|Company|Incorporated|Limited))+\s*$'
 def short(cn): s=re.sub(SUFFIX,'',cn.strip(),flags=re.I).strip().rstrip(','); return s or cn

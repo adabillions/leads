@@ -7,9 +7,13 @@ UNCLEAR rows should go to a model pass (agent_prompt.md style) using site_summar
 import csv,re,sys,json,collections
 P,SITES,OUT=sys.argv[1:4]
 rows=list(csv.DictReader(open(P,newline='',encoding='utf-8')))
+def _norm(j):
+    """Accept both crawl_sites.py (long keys) and crawl_domains.py (compact keys) records."""
+    if 'domain' in j: return j
+    return {'domain':j.get('d'),'status':j.get('s'),'title':j.get('t',''),'description':j.get('m',''),'h1':j.get('h',''),'text':j.get('x',''),'about_text':j.get('a',''),'tech':j.get('k',[]),'error':j.get('e')}
 sites={}
 for line in open(SITES):
-    try: j=json.loads(line); sites[j['domain']]=j
+    try: j=_norm(json.loads(line)); sites[j['domain']]=j
     except Exception: pass
 def dom(u): return re.sub(r'^https?://(www\.)?','',u.lower()).split('/')[0]
 STOP={'llc','inc','corp','company','group','services','solutions','international','enterprises','holdings','global','technologies','systems','associates','partners','consulting','management','logistics','staffing','properties','security','ltd','limited','incorporated','corporation','america','american','national','the','and'}
