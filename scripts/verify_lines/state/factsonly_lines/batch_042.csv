@@ -1,0 +1,151 @@
+row,new_line,basis
+6152,"Forty-two years of telecommunications services out of Lanham means North America Telecommunications has install records, service tickets and site documentation in one consistent trail.",business;signal;location
+6153,"Maintaining buildings from Gaithersburg for 27 years leaves Milestone Building Service with a deep log of work orders, recurring maintenance schedules and service histories.",business;signal;location
+6154,"Boone And Darr has been in business in Ann Arbor since 1957, and 69 years of facilities work means a long trail of service requests, schedules and job records.",name;bucket;signal;location
+6155,"Grounds crews working Conroe for 43 years mean Berkeley Outside Services holds a steady record of maintenance routes, seasonal job schedules and property service notes.",business;signal;location
+6156,"T Square Logistics Services has run logistics out of Colorado Springs since 1998, and that work produces shipment records, routing decisions and delivery exception notes day after day.",business;signal;location
+6157,"Thirty-three years of making safety signs in Lakeville gives Safety Signs a library of custom orders, compliance specs and artwork proofs tied to real facilities.",business;signal;location
+6158,"Industrial services around Norco, Louisiana generate job scopes, safety paperwork and field reports, and 4 A Era has been producing them for 14 years.",business;signal;location
+6159,"Based in Bellingham, Pacific Facility Solutions generates the everyday records of facility work: service requests, scheduled task logs and vendor job histories.",business;signal;location
+6160,"Tower and communications systems work leaves Chesapeake Tower Systems with site inspection notes, installation records and maintenance histories built up over 32 years.",business;signal
+6161,"Micon has operated out of Ijamsville for 45 years, and a facilities business that long accumulates work orders, service records and project documentation.",name;bucket;signal;location
+6162,"Facility and janitorial service in Atlanta since 1994 means Urban Services Group keeps cleaning schedules, inspection checklists and client service requests for every account.",business;signal;location
+6163,"Every HVAC balancing job Atlantic Testing And Balancing finishes produces airflow readings, system measurements and deficiency reports, and it has been writing them since 2007.",business;signal
+6164,"Security guard work out of Fort Worth produces patrol logs, incident reports and post orders, and DFW Security Protective Force has been building that record for 24 years.",business;signal;location
+6165,"Commercial building cleaning in Longwood means D & A Building Services keeps cleaning schedules, quality inspection checklists and service requests for each site it covers.",business;location
+6166,"Twenty-nine years of janitorial contracts out of Temple Hills leave Clean Team Janitorial Service with site-by-site cleaning scopes, inspection scorecards and complaint follow-ups.",business;signal;location
+6167,"Janitorial work in Glendale since 1990 gives Bio-Janitorial Service a long record of cleaning specifications, service logs and inspection results across its accounts.",business;signal;location
+6168,"After 25 years in Gardnerville, Ads-Myers has the operational records a cleaning and facility service business accumulates: site schedules, task checklists and service requests.",name;bucket;signal;location
+6169,"Exemplar Enterprises has worked out of Oxnard since 2003, and janitorial contracts that long produce site checklists, crew schedules and inspection records.",name;bucket;signal;location
+6170,"With HubSpot tracking its customer activity, Gardner Enterprises in Louisville has 14 years of service requests, quotes and follow-ups sitting in a structured system.",name;bucket;signal;tool;location
+6171,"Restoration calls in Miami do not keep office hours, and a 24/7 operation handling claims in-house leaves Next Level Restoration with intake notes, moisture readings and claims documentation.",business;signal;location
+6172,"Running bookkeeping and a client portal in-house, Garcia CPA in Plano accumulates engagement workpapers, reconciliations and review notes across every file.",business;signal;location
+6173,"Since 2013, Albanese Sinchar Smith has done CPA work from Irwin, which builds up workpapers, tie-outs and reviewer notes in a consistent form.",business;signal;location
+6174,"Eighteen years of CPA and accounting engagements in Leesburg leave Bas Accounting Services with a deep set of workpapers, review sign-offs and adjusting entries.",business;signal;location
+6175,"Bookkeeping and payroll run in-house on QuickBooks, so Moore Accounting & Tax Services in Camden holds structured ledgers, payroll runs and year-end tax workpapers.",business;signal;tool;location
+6176,"Fifteen years of data and IT consulting means Immersion Data Solutions has project scopes, implementation notes and deliverables, with HubSpot tracking the relationships behind them.",business;signal;tool
+6177,"Doulos America has been in training out of San Jose for 20 years, which points to course outlines, session materials and feedback forms in reusable form.",name;bucket;signal;location
+6178,"Passionit Holdings, a training business in Zephyrhills since 2014, produces course content, assessments and feedback forms with every program it runs.",name;bucket;signal;location
+6179,"Bryant Solutions has delivered IT solutions from San Ramon for 24 years, and that work leaves implementation records, support tickets and training materials behind.",business;signal;location
+6180,"With courses and curriculum all built in-house, Smart Buildings Academy in Prescott produces structured smart-building lesson materials, course outlines and instructor guides.",business;signal;location
+6181,"NCCT has spent 35 years on certification testing and training from Overland Park, so it holds exam content, item banks and study materials built to one standard.",business;signal;location
+6182,"Running certification and courses in-house gives Welearn Learning Services course content, assessments and feedback forms, with HubSpot tracking the activity around them.",business;signal;tool
+6183,"Public sector consulting from Alexandria since 2000, with Jira tracking the work, leaves Ibis Public Sector with requirements, tickets and delivery records on real government engagements.",business;signal;tool;location
+6184,"Rosen, Sapperstein & Friedlander has done CPA work in Towson since 2015, and each engagement leaves workpapers, review notes and supporting schedules.",business;signal;location
+6185,"Virtual assistant services run on onboarding steps and SOPs, and Startvirtual writes both in-house, which means a library of procedures, checklists and task records.",business;signal;tool
+6186,"Document technology work out of Westfield since 2005 leaves Smartdoc Technologies with implementation records, configuration notes and support histories.",business;signal;location
+6187,"Antisyphon trains security practitioners from Deadwood, and every cybersecurity course produces lab exercises, slide material and student feedback in a consistent format.",business;location
+6188,"National Technology Transfer has taught technical courses for 43 years, so its manuals, exercises and assessments have been refined across decades of delivery.",business;signal
+6189,"Holmes has operated out of Eagan since 1983, and 43 years in education and training produces curriculum, course materials and program records.",name;bucket;signal;location
+6190,"Inner Matrix Systems works across both HubSpot and Salesforce, so its training programs and customer interactions already live in structured records.",name;bucket;tool
+6191,"Wilderness medicine certification courses run in-house make Wilderness Medical Associates International a source of curriculum, scenario-based assessments and instructor materials.",business;signal
+6192,"Courses and curriculum developed in-house give National Technical Institute technical lesson plans, hands-on exercises and assessments in a structured form.",business;signal
+6193,"A school operating since 1923 in Fort Apache, Theodore Roosevelt School has a century of curriculum materials, facilities records and administrative documentation.",business;signal;location
+6194,"HR consulting and training from New York since 2014 leaves Jer HR Group with policy templates, workshop materials and advisory engagement notes.",business;signal;location
+6195,"Hauling freight out of Mifflintown since 1984, Zimmerman Truck Lines has 42 years of load records, dispatch decisions and delivery exceptions.",business;signal;location
+6196,"ENO Institute has delivered professional training from Stafford for 31 years, so its course content, exercises and assessments exist as a mature, structured library.",business;signal;location
+6197,"Training systems built in Dallas since 1998 mean Verion Training Systems holds instructional design documents, course modules and assessment content.",business;signal;location
+6198,"Communications training taught in Camden since 1987 means the Buckley School has curriculum, exercises and coaching materials refined over 39 years.",business;signal;location
+6199,"Evaluation and assessment work since 1998 leaves Via Evaluation in Buffalo with instruments, scoring rubrics and findings reports in a consistent format.",business;signal;location
+6200,"Counter Hack builds cybersecurity training and runs consulting from Wall Township, and 24 years of it means exercises, labs and assessment reports in repeatable form.",business;signal;location
+6201,"The Red Cape has worked from Austin since 2007, and nineteen years in training means course materials, session plans and feedback forms behind its programs.",name;bucket;signal;location
+6202,"Data management education from Studio City since 2012 leaves Dataversity Education with webinars, course content and learning materials on a subject AI teams care about.",business;signal;location
+6203,"Blue Summit Consulting Group runs certification and courses in-house, so its consulting frameworks, course materials and assessments sit in structured form, with HubSpot on the client side.",business;signal;tool
+6204,"Ten years of coaching and training work in Las Vegas would leave Rise Up For You with program outlines, session materials and participant worksheets.",business;signal;location
+6205,"Jira runs the work at Vendor Direct Solutions, and after 20 years in Los Angeles that means a long trail of tickets, project tasks and implementation records.",name;bucket;signal;tool;location
+6206,"From Plant City, Patterson Companies has spent 38 years in freight and logistics, which gives it a deep record of shipment quotes, carrier decisions and delivery exceptions.",name;bucket;signal;location
+6207,"Jes has rented and serviced industrial equipment from South Plainfield since 1972, which means 54 years of rental contracts, service work orders and equipment histories.",business;signal;location
+6208,"Forty-five years of community programs in the Bronx leave La Peninsula Community Organization with program documentation, compliance reports and administrative records.",business;signal;location
+6209,"Running a charter school and youth programs in Houston since 1992, Tejano Center For Community Concerns generates curriculum materials, compliance documentation and program administration records.",business;signal;location
+6210,"A charter school network in New Orleans since 2005, Kipp New Orleans produces curriculum materials, scheduling records and compliance documentation across its campuses.",business;signal;location
+6211,"Thirty years of Head Start training and services from Chicago give Community Development Institute training curricula, compliance guidance and program administration materials.",business;signal;location
+6212,"Cupeyville School in San Juan has operated since 1963, so six decades of curriculum materials, facilities records and administrative documentation sit behind it.",business;signal;location
+6213,"Technical training courses taught since 1995 mean Hands On Technology Transfer in Chelmsford holds lab exercises, course manuals and assessments.",business;signal;location
+6214,"Supporting 1,549 customers on e-learning technology generates implementation records, configuration notes and support tickets, and Integrated Digital Technologies holds them all.",business;signal
+6215,"CPR and first aid classes taught in Atlanta since 2004 give Georgia CPR course materials, skills checklists and class schedules in a consistent format.",business;signal;location
+6216,"A Mindful Choice has worked out of Greenfield for 10 years, and a training and education business keeps session plans, program materials and feedback forms.",name;bucket;signal;location
+6217,"Engineering training courses delivered from Mountain View since 1985 leave Besser Associates with 41 years of technical course content, exercises and instructor materials.",business;signal;location
+6218,"Assessments and certification run in-house at Classmates Educational Group mean test content, scoring rubrics and curriculum materials in structured form, with HubSpot alongside.",business;signal;tool
+6219,"Aircraft special missions modification in Tampa generates engineering drawings, installation records and inspection documentation, and Athenix Special Missions has worked that way since 2003.",business;signal;location
+6220,"Cam Consulting Group has advised clients from Bonita Springs for 33 years, which builds up engagement reports, frameworks and training materials in a consistent form.",business;signal;location
+6221,"Training nearly 100,000 technicians in fiber optics means The Light Brigade holds course content, hands-on assessments and certification materials at serious volume.",business;signal
+6222,"Project management training from Niwot since 2004 leaves SSI Solutions with courseware, case exercises and assessments refined over 22 years.",business;signal;location
+6223,"Geotechnical work for 200+ clients means Subsurface Consultants & Associates holds boring logs, lab results and engineering reports from real ground conditions.",business;signal
+6224,"Customer experience training from Philadelphia since 2015 gives CX University course content, frameworks and assessments on a subject AI teams care about.",business;signal;location
+6225,"Medical education courses since 2011 mean Maverick Regional Anesthesia Education maintains curriculum materials, course content and instructional resources in a structured form.",business;signal
+6226,Assessments and courses built in-house and managed through Cornerstone leave C & T Endeavors with structured learning content and assessment items.,name;bucket;signal;tool
+6227,"Csem has run from Apollo since 1994, and 32 years around certification programs means exam content, study materials and program documentation.",business;signal;location
+6228,"Twenty-five years in Wesley Chapel suggest Wowplace International holds a deep library of training program content, facilitator guides and workshop materials.",name;bucket;signal;location
+6229,"Training services delivered from Scottsdale since 1999 give Training Werks workshop materials, facilitator guides and evaluation forms across 27 years.",business;signal;location
+6230,"Quality consulting since 1997 leaves Litts Quality Technologies in Philadelphia with process documentation, audit findings and corrective action records.",business;signal;location
+6231,"Medical gas training since 1993 means Medical Gas Training maintains course materials, certification exam content and instructor guides built for a safety-critical trade.",business;signal
+6232,"Forty-five years of corporate performance training from Orange leave Interact Performance Systems with program content, role-play scenarios and facilitator materials.",business;signal;location
+6233,"Aerodirections has worked from Plano since 2013 in aviation-related training, which points to course content, procedure checklists and instructional materials.",name;bucket;signal;location
+6234,"Safe Crisis Management has taught crisis management since 1997, so its curriculum, scenario exercises and training manuals span 29 years.",business;signal
+6235,"Dyslexia tutoring in Jonesboro since 2013 means Apple Group Dyslexia has structured lesson plans, reading-instruction sequences and teaching materials.",business;signal;location
+6236,"Running an FBO at San Angelo since 1999, Skyline Aviation produces fuel records, ramp service logs and aircraft handling documentation, with Zoho in the mix.",business;signal;tool;location
+6237,"Sky Safety has worked in safety from San Antonio for 24 years, which means inspection checklists, incident records and compliance documentation.",name;bucket;signal;location
+6238,"A flight school in Waterville since 2006, Airlink maintains lesson syllabi, aircraft maintenance logs and scheduling records behind its training.",business;signal;location
+6239,"Half a century in business since 1976, Spanaflight in Puyallup has built up the course materials and program records that long-running training operations keep.",name;bucket;signal;location
+6240,"IT Works Learning Center has taught from Annapolis for 28 years, leaving a catalog of IT course content, lab exercises and assessments.",business;signal;location
+6241,"Safety training courses run from Hillsboro since 2005 give Overton Safety Training course content, quizzes and compliance documentation in repeatable form.",business;signal;location
+6242,"Hydraulics work out of Bethlehem since 1994 means Applied Motion Technologies keeps system specs, repair records and test results on real equipment.",business;signal;location
+6243,"Technician training from North Little Rock since 2006 leaves Ultimate Technician with technical course content, practice assessments and instructor materials.",business;signal;location
+6244,"Environmental training courses since 1994 mean Environmental Education Associates has regulatory course content, exercises and assessments refined over 32 years.",business;signal
+6245,"CLC has operated in Fort Worth since 2001, and 25 years of education and training work produces curriculum, program records and course materials.",name;bucket;signal;location
+6246,"Vocational training in Oxnard since 1998 gives Clinical Training Institute a catalog of course curriculum, skills checklists and exam materials.",business;signal;location
+6247,"Spanish courses and curriculum written in-house make Sarah's Spanish School a source of lesson plans, vocabulary exercises and level assessments, with HubSpot behind the scenes.",business;signal;tool
+6248,"Thirty-two years publishing instructional media from Salado leaves Kamico Instructional Media with lesson content, assessments and teaching resources already structured for training use.",business;signal;location
+6249,"A tutoring franchise based in Tampa since 1995, Club Z has lesson content, program curricula and franchise operating materials built up over 31 years.",business;signal;location
+6250,"Lawton-based Fscx has 27 years behind it, long enough to accumulate training content, program records and operational documentation.",name;bucket;signal;location
+6251,"Thirty-five years of delivering training from Redwood City gives DGI Training a library of course content, exercises and assessments.",business;signal;location
+6252,"MRP Training Solutions has built training programs in San Diego since 1995, and each one comes with course design documents, materials and evaluations.",business;signal;location
+6253,"Safety training out of Elmwood Park produces course materials, quizzes and compliance documentation, and Illinois Safety has been generating them for 10 years.",business;signal;location
+6254,"Hazmat consulting across 33 states means TS Hazmat Consulting Services holds regulatory guidance, compliance documentation and training content spanning many jurisdictions.",business;signal
+6255,"Certification courses run in-house and tracked in Salesforce mean Nation's Best CPR holds class content, skills checklists and scheduling records in structured form.",business;signal;tool
+6256,"Education assessment services since 2011 leave Assessment Intervention Management with assessment frameworks, program guides and training materials, with Zoho keeping operations organized.",business;signal;tool
+6257,"Forty-one years of industrial training from Pelham give Industrial Training Consultants course content, safety procedures and skills assessments tied to hands-on industrial work.",business;signal;location
+6258,"Suicide-prevention training delivered for 22 years means Livingworks Education USA holds workshop curricula, trainer materials and evaluation forms, with Jira tracking the build.",business;signal;tool
+6259,"As a training company in Plymouth since 1994, T.S. Enterprise Associates produces course materials, exercises and assessments across 32 years of delivery.",business;signal;location
+6260,"Technista builds its courses and curriculum in-house on Teachable, which gives it structured lesson content, exercises and course outlines alongside its consulting work.",business;signal;tool
+6261,"Educational services delivered from Clover since 2001 mean Beyond The Classroom Educational Services keeps program curricula, lesson materials and administrative records.",business;signal;location
+6262,"Twenty-five years of medical training from Seattle leave Medical Training Solutions with course curricula, instructor guides and compliance documentation.",business;signal;location
+6263,"Dr. Q Consulting has advised clients from Longview since 2014, and that kind of work leaves engagement reports, frameworks and workshop materials.",business;signal;location
+6264,"Law education services from Las Vegas since 2015 mean Think Law produces study materials, practice questions and course content in structured form.",business;signal;location
+6265,"English for workplace learners, with courses and curriculum written in-house, gives English For The Job lesson plans, vocabulary sets and exercises in structured form.",business;signal
+6266,"Implementation and support handled in-house, with Salesforce as the system of record, means Flourish And Thrive Labs holds customer cases and rollout notes in structured form.",name;bucket;signal;tool
+6267,"Support run in-house and tracked in Salesforce leaves Settletop with a record of customer tickets, resolutions and escalations from its product.",name;bucket;signal;tool
+6268,"Government consulting out of Washington, with implementation and professional services in-house, means Navancio accumulates statements of work, delivery notes and project records.",business;signal;location
+6269,"Data management consulting is Lumendata's business, and 18 years of it from San Jose means data quality findings, migration plans and implementation records.",business;signal;location
+6270,"Binary Blue has done IT work from North Potomac since 2002, and a managed IT business that long accumulates tickets, escalations and remediation notes.",name;bucket;signal;location
+6271,"IT services running 24/7 with implementation in-house mean Py Concepts in Boerne generates tickets, escalations and deployment notes around the clock.",business;signal;location
+6272,"Revolution Data Systems has worked from Abita Springs since 2015, with HubSpot and Zoho tracking customers and the support and project records software and data work produces.",name;bucket;signal;tool;location
+6273,"Twenty years of IT staffing and consulting out of Santa Clara, with Bullhorn at the center, leave Solopoint Solutions holding submittals, interview notes and placement outcomes.",business;signal;tool;location
+6274,"Softek Services has delivered IT services in Washington since 1988, so 38 years of project records, support tickets and implementation documentation sit behind it.",business;signal;location
+6275,"With 1000+ customers to support, R3 in Frederick works from a deep pool of IT tickets, escalations and remediation notes.",business;signal;location
+6276,"Ced Solutions has operated from Bozeman for 25 years, and that long in training and education leaves course content, program materials and delivery records.",name;bucket;signal;location
+6277,"Analytics work with implementation and instructors in-house means Quality Analytics Associates produces training content, analysis methods and project documentation together.",business;signal
+6278,"Semotus has run wireless messaging software since 2008, and with Zendesk on support, customer tickets and resolutions sit in structured form.",business;signal;tool
+6279,"Staffing out of Knoxville since 2014 gives Patriot Talent Solutions submittals, interview notes and placement outcomes across 12 years of matching talent to roles.",business;signal;location
+6280,"As an electrical contractor in Murrieta since 1998, Electrical Work has 28 years of estimates, permits, change orders and job completion records.",business;signal;location
+6281,"Metropolitan Computer Services has taught computer skills from Lithia for 28 years, leaving course content, hands-on exercises and assessments behind every class.",business;signal;location
+6282,"Presentation skills training for 1,200+ clients means Effective Presentations holds workshop materials, coaching rubrics and feedback forms in volume.",business;signal
+6283,"A 24/7 managed security operation with escalation in-house produces alerts, triage decisions and remediation notes, and Defendedge handles all of it from Lombard.",business;signal;location
+6284,"Bigbyte.Cc has built software from Albuquerque since 2000, with HubSpot tracking customers, so support and project records have 26 years of history.",name;bucket;signal;tool;location
+6285,"Moving freight out of Gadsden since 2010, AM Freight Logistics has built a record of load quotes, carrier choices and delivery exceptions.",business;signal;location
+6286,"Transportation operations out of Redlands since 2013 mean M & K Transportation Holdings accumulates load records, rate decisions and delivery exceptions.",business;signal;location
+6287,"Infinite Technologies has worked in technology from Detroit for 24 years, and a security-side business like that keeps installation records, service tickets and incident documentation.",business;signal;location
+6288,"Fire protection maintenance in Fort Worth since 2005 leaves Lifeprotection Maintenance & Consulting with inspection reports, deficiency findings and repair records.",business;signal;location
+6289,"Industrial stack work since 1993 means Smokestack Lightning in Brookfield holds inspection findings, repair scopes and job documentation on real structures.",business;signal;location
+6290,"Sixteen years of electrical contracting in Anchorage give Supreme Electric a trail of estimates, permit paperwork and completed job records.",business;signal;location
+6291,"Inspection reports, deficiency findings and repair records pile up with every fire protection job, and Geyer Fire Protection in Indianapolis has been writing them since 2011.",business;signal;location
+6292,"Service calls for 400+ customers across HVAC and plumbing leave Rapid Heating Air Conditioning & Plumbing with work orders, diagnostics and repair histories.",business;signal
+6293,"Pipe Trades has spent 12 years on piping work in San Diego, which means estimates, field reports and installation records for real jobs.",business;signal;location
+6294,"A parts and service business operating since 1924, Kaemmerlen Solutions in Saint Louis has a century of parts orders, service records and job histories.",business;signal;location
+6295,"Computer services in Southfield since 1983 leave Computer Data with 43 years of project records, support histories and technical documentation.",business;signal;location
+6296,"ConnectWise sits under Mittenpunkt's managed IT work in Jacksonville, so tickets, escalations and remediation notes are already captured in one structured system.",business;tool;location
+6297,"Thirty-seven years of IT solutions from Siler City, with Autotask tracking the work, give Carolina Advanced Digital a long record of tickets, escalations and fixes.",business;signal;tool;location
+6298,"With Autotask tracking its work, Dt-Trak Consulting in Miller keeps tickets and resolution notes in structured form, and 25 years of consulting sit behind them.",name;bucket;signal;tool;location
+6299,"Training and consulting since 1997 means Knowledge Transfer Consulting Services in Eagan holds course content, engagement deliverables and workshop materials.",business;signal;location
+6300,"Computerminds.Com has worked from Euless for 28 years in IT consulting and training, which produces course content, lab exercises and project documentation.",business;signal;location
+6301,"Technically Speaking has operated from Bradenton since 2002, and 24 years of training and education work leaves course materials, program records and feedback forms.",name;bucket;signal;location

@@ -1,0 +1,151 @@
+row,new_line,basis
+902,"Fifty-two years of commercial real estate in Virginia Beach, with Yardi underneath, leaves Divaris Real Estate holding leases, work orders and tenant requests in one consistent format.",business;signal;tool;location
+903,"Property management in Chicago since 1984 means Horizon Realty Group has four decades of leasing files, maintenance tickets and resident requests, all structured through Yardi.",business;signal;tool;location
+904,"KG Investment Properties has managed commercial assets from Bellevue for 25 years, a stretch that adds up to Yardi records of lease abstracts, building work orders and operating budgets.",business;signal;tool;location
+905,"Sixteen years of building apps for clients out of San Francisco leaves Appstem with scoping documents, user stories and bug reports tied to real shipped products.",business;signal;location
+906,"Edgeworth Security has run guard services out of Pittsburgh for 31 years, which means a long trail of patrol logs, incident reports and post orders.",business;signal;location
+907,"Installing and servicing alarm systems since 1969 gives Electronic Security Corp. of America a record of site surveys, system designs and alarm service calls that few firms can match.",business;signal
+908,"Eighteen years of 3PL and warehousing work from Plainfield produces receiving records, inventory movements and order exceptions, and Hanzo Logistics has been logging them since 2008.",business;signal;location
+909,"Delivery and distribution routes across 20 states generate dispatch records, proof-of-delivery data and exception notes, and National Delivery Systems handles them from Columbia.",business;signal;location
+910,"Trucking out of Hopedale since 2008 means Normandin Transportation Services keeps load quotes, dispatch decisions and delivery exceptions from 18 years of freight.",business;signal;location
+911,"Courier runs around Indianapolis produce a steady log of pickup requests, dispatch choices and delivery exceptions, and NOW Courier writes that log every working day.",business;location
+912,"Running audit and bookkeeping work in-house across Iowa, with QuickBooks as the common ledger, leaves Kroese & Kroese with engagement workpapers and review notes in a consistent shape.",business;signal;tool;location
+913,"As a teacher association that runs its own assessments and certification, the Computer Science Teachers Association builds up exam items, rubrics and member feedback in a structured form.",business;signal
+914,"Secure Passage has built cybersecurity software in Kansas City since 1999, so 27 years of Jira tickets, support cases and release notes trace how real security problems get resolved.",business;signal;tool;location
+915,"A decade of building natural language processing software in Herndon leaves Finch Computing with Jira tickets, deployment notes and customer feedback tied to real language data.",business;signal;tool;location
+916,"Cyberstar Software runs implementation in-house out of Akron, so every customer rollout leaves behind configuration notes, Jira tickets and support history.",business;signal;tool;location
+917,"With 500 clients running document automation, Hyperscience sees a steady stream of onboarding records, support cases and accuracy feedback that sits alongside the documents themselves.",business;signal
+918,"Primer AI builds AI software for government customers out of Arlington, and running customer success and support in-house means implementation notes and cases pile up in Salesforce.",business;signal;tool;location
+919,"Thirty-one years of GIS software for 911 work gives Geo-Comm a long record of data-validation findings, implementation projects and support cases out of Saint Cloud.",business;signal;location
+920,"Valid8 Financial builds financial software in Boulder, which means implementation records, support requests and customer feedback sit in HubSpot as structured records.",business;tool;location
+921,"Scythe runs its knowledge base and support in-house, so every adversary emulation question from a customer in St Petersburg becomes a structured article or ticket.",business;signal;location
+922,"Sorcero's AI software for life sciences comes with in-house support, and each Salesforce case about a deployment adds to a record of how these tools get used in practice.",business;signal;tool
+923,"Eighteen years of nonprofit case management software means Caseworthy holds implementation projects, configuration requests and Jira tickets from the organizations it serves.",business;signal;tool
+924,"With more than 600 customers on its enterprise search software, Searchblox has deployment records, index configurations and support cases from a wide spread of real use.",business;signal
+925,"Clearview AI supports law enforcement customers with its own in-house team, so onboarding records and support cases build up in Salesforce and HubSpot.",business;signal;tool
+926,"Digital pathology software from Philadelphia, twelve years in, means Proscia has implementation records, Jira issues and support cases tied to real lab deployments.",business;signal;tool;location
+927,"A biomedical imaging data platform running 14 years leaves Flywheel with Zendesk tickets, onboarding records and release documentation that show how the platform gets deployed.",business;signal;tool
+928,"Thirty-seven years of quality and calibration software for regulated industries gives Blue Mountain Quality Resources a deep file of validation projects, implementation records and support cases.",business;signal
+929,"User Friendly Consulting has been advising customers since 1986, which adds up to decades of engagement notes, project deliverables and client requirements documents.",business;signal
+930,"Satellite data analytics from Ithaca, twelve years running, leaves Ursa Space Systems with customer requests, analysis reports and delivery records for every product it ships.",business;signal;location
+931,"ConfigOS automates compliance for government systems, so Steelcloud in Ashburn holds scan results, remediation findings and support cases from twelve years of real deployments.",business;signal;location
+932,"Thirty years of catering and event management software gives Caterease a long record of support tickets, implementation requests and feature feedback, tracked in ConnectWise.",business;signal;tool
+933,"With more than 500 customers using its document output software, Compart North America collects implementation projects, support cases and integration notes in Salesforce.",business;signal;tool
+934,"Forty-eight years of clinical software development in Herndon leaves Medicomp Systems with product documentation, implementation records and customer support history.",business;signal;location
+935,"Aviatrix has built multicloud networking software in Santa Clara for twelve years, so support cases, deployment records and escalation notes reflect real customer cloud environments.",business;signal;location
+936,"Salary.Com has spent ten years pairing compensation data with software, which leaves compensation benchmarks, customer implementations and support cases in a consistent format.",business;signal
+937,"Infrastructure management consulting across 40+ buildings produces assessments, condition surveys and maintenance recommendations, and Infrastructure Management Solutions keeps them for each site.",business;signal
+938,"Trusted IT Group has delivered 2,000 projects in Microsoft project portfolio management, each one leaving behind project plans, status reports and change requests.",business;signal;tool
+939,"Twenty-six years of technology work out of Hurricane, West Virginia means Alpha Technologies has built up project records, support requests and customer documentation.",name;bucket;signal;location
+940,"With ServiceNow among its tools, 25 years of IT consulting in Gilbert leave Solution Synergy with a deep set of tickets, change records and engagement notes.",business;signal;tool;location
+941,"Space domain awareness software, built over ten years, leaves Slingshot Aerospace with Jira issues, customer deployments and support requests tied to real orbital tracking work.",business;signal;tool
+942,"Data center colocation generates a constant stream of facility tickets, customer provisioning requests and maintenance records, and Element Critical has been logging them for ten years.",business;signal
+943,"Managing enterprise IT infrastructure for 100 customers out of Lisle means Glasshouse Systems keeps tickets, escalations and remediation notes across a real range of environments.",business;signal;location
+944,"Virti runs customer success and escalations in-house, and its scenario-based training platform means roleplay scripts, assessment rubrics and support cases are all structured content.",business;signal
+945,"Thirteen years of IT services from Cheshire, with ConnectWise tracking the work, leaves Spectrum Virtual with tickets, escalations and remediation notes in a consistent format.",business;signal;tool;location
+946,"Over 200 completed cloud projects leave Tech Cloudconsultings with architecture notes, migration plans and Salesforce and Dynamics implementation records from real client work.",business;signal;tool
+947,"Eleven years of secure remote access for industrial systems gives Dispel a record of access requests, deployment issues and Jira tickets from real operational environments.",business;signal;tool
+948,"Dataxpert Solutions runs professional services in-house with 24/7 coverage out of Fishers, so data consulting engagements leave behind project records, support tickets and delivery notes.",business;signal;location
+949,"Data connector software draws constant integration questions, and Precog's in-house support turns each one into a documented case about a real data source.",business;signal
+950,"Eighteen years of privacy compliance software means Trustarc holds assessment templates, regulatory mappings and customer implementation records from Walnut Creek.",business;signal;location
+951,"More than 3,400 cabling and CCTV installations leave Kit Network Cabling with site surveys, cable plans and as-built documentation for each job.",business;signal
+952,"Thirty-two years of guard work in Kalamazoo means Knight Watch has a deep archive of patrol logs, incident reports and post instructions.",business;signal;location
+953,"R2 Advisors pairs CPA work with fractional CFO advisory, so engagement workpapers, advisory memos and Sage Intacct reporting packages all run through a client portal.",business;signal;tool
+954,"Twenty-one years of running a private school in Colorado builds up curriculum materials, compliance documentation and facilities records at Aspen Academy.",business;signal;location
+955,"Immersify Education writes its own curriculum and assessments for language immersion, which makes lesson content, assessment items and instructor materials a structured body of work.",business;signal
+956,"Quality Systems International has been in business in Denver since 1992, and three decades of customer projects, support requests and product documentation add up to a lot of records.",name;bucket;signal;location
+957,"Ten years of planning and analytics software out of Seattle leaves Adaptx with implementation projects, model configurations and support cases in Salesforce.",business;signal;tool;location
+958,"Webai builds AI software in Austin and runs implementation in-house, so each customer deployment leaves configuration notes, integration issues and support history.",business;signal;location
+959,"GT School builds gifted-education curriculum for K-8 with AI-driven learning, which means lesson plans, course content and assessment materials are authored in-house in Texas.",business;signal;location
+960,"Forty-one years in education technology from San Luis Obispo leaves Focus Learning with course content, product documentation and customer support history.",business;signal;location
+961,"Thirty-one years of IT services out of Madill, Oklahoma means Edge Systems has a long trail of service tickets, installation records and remediation notes.",business;signal;location
+962,"Twenty-six years of NetSuite cloud ERP work leaves Loadspring Solutions with implementation plans, customization requests and support tickets from real finance systems.",business;signal;tool
+963,"Alt Systems has operated out of Burbank since 1995, and 31 years of software and systems work leaves project records, customer requests and support history.",name;bucket;signal;location
+964,"Enterprise storage systems throw off support cases, performance escalations and configuration questions, and Infinidat's Zendesk and Salesforce history captures 13 years of them.",business;signal;tool
+965,"Twenty-five years of facilities management in Morgantown produces work orders, maintenance schedules and vendor records, and Action Facilities Management has been generating them since 2001.",business;signal;location
+966,"With courses built in-house and delivered through Canvas, the Classical Learning Resource Center in Idaho holds a structured library of classical curriculum, lesson materials and assessments.",business;signal;tool;location
+967,"Tierney Education runs its courses and instructors in-house on Canvas, which gives it course content, assessments and instructor feedback in one structured place.",business;signal;tool
+968,"Seventeen years in business out of Cumberland, Maine gives Reconnect a long record of customer projects, support requests and product documentation.",name;bucket;signal;location
+969,"Connecting SAP to more than 250 carriers means ERP Integrated Solutions sees rate files, label formats and shipment exceptions from every integration it builds.",business;signal
+970,"With more than 1,000 clients, J.W. Lampi in Saint Paul handles a high volume of customer requests, project files and support records every year.",name;bucket;signal;location
+971,"Systemgo IT resolves help-desk tickets, escalations and remediation notes for 250+ clients out of Riverside, a volume that builds a consistent record fast.",business;signal;location
+972,"Eleven years of running an AI services procurement platform leaves Globality with project briefs, supplier proposals and match outcomes in structured form.",business;signal
+973,"Fifty-three years in staffing out of Saddle Brook, with JobDiva as the system of record, means Hep holds a long run of submittals, interview notes and placement outcomes.",name;bucket;signal;tool;location
+974,"Running shopping centers as a REIT since 2009 gives Retail Opportunity Investments Partnership lease abstracts, tenant requests and property maintenance records inside Yardi.",business;signal;tool
+975,"Ameriguard Security Services has staffed guard posts out of Fresno for 24 years, which adds up to a deep file of patrol logs, incident reports and shift records.",business;signal;location
+976,"Eleven years of security work in Bismarck means Newvision Security has built up incident reports, site checks and client service requests.",business;signal;location
+977,"Smaart runs advisory and audit work in-house in Fort Lauderdale, so engagement files, review notes and QuickBooks reconciliations pile up client by client.",name;bucket;signal;tool;location
+978,"Over 120 clients in 34 states means Agate Software has implementation records, support cases and configuration requests spanning a wide spread of real deployments.",business;signal
+979,"Twenty-four years of software and IT work in Marietta leaves Inlogic with project documentation, support tickets and customer requirements.",business;signal;location
+980,"Seventeen years of running a credentialing platform out of Ann Arbor leaves Docnetwork with workflow documentation, implementation records and support cases.",business;signal;location
+981,"Thirty-nine years of student information system software for higher education gives Thesis America implementation projects, configuration records and support cases from real campuses.",business;signal
+982,"With more than 1,500 customers and Zendesk running support, X Central has a large, well-organized record of customer questions and how they were resolved.",name;bucket;signal;tool
+983,"Skilled trades training software means Interplay Learning produces course content and assessments, with support and customer success handled in-house in Austin.",business;signal;location
+984,"Utility grid analytics from Covington, thirteen years in, leaves Gridintel with analysis reports, data integrations and project records tied to real equipment.",business;signal;location
+985,"Designing turbomachinery and the software behind it for eleven years leaves Concepts Nrec with design reports, analysis cases and Autotask support tickets.",business;signal;tool
+986,"Education video software built over thirteen years means Edpuzzle holds lesson content, question sets and teacher support history in a structured form.",business;signal
+987,"Managed IT across two states means Ma3Sp works a steady flow of tickets, escalations and remediation notes out of Goshen.",name;bucket;signal;location
+988,"Sixteen years of IT services from Roswell leaves Planit Group with service tickets, project records and remediation notes.",business;signal;location
+989,"Agile Information Services has delivered IT in Huntsville for 21 years, and that accumulates tickets, escalations and project documentation.",business;signal;location
+990,"Collector Systems has built collection management software for 23 years, which leaves implementation records and Zendesk support history from the institutions it serves.",business;signal;tool
+991,"Twenty-seven years of telecom and IT services in Raleigh, tracked in Autotask, leave Celito Communications with service tickets, install records and support notes.",business;signal;tool;location
+992,"Carma has run carpooling software for 17 years, so Intercom conversations and Jira bug reports record how riders and drivers actually use it.",business;signal;tool
+993,"Ripplematch runs an early career recruiting platform with support in-house, so job listings, employer requests and Salesforce cases form a structured record of early-career hiring.",business;signal;tool
+994,"Twenty-five years in business out of San Diego gives Deep Seas a long record of customer projects, support requests and technical documentation.",name;bucket;signal;location
+995,"Crypto data software built over twelve years leaves Lukka with data-quality issues, customer onboarding records and Jira tickets tied to real transaction data.",business;signal;tool
+996,"Twelve years of freight logistics out of Chattanooga means Lync Logistics keeps load quotes, carrier rate decisions and exception notes in Salesforce.",business;signal;tool;location
+997,"Sync National Logistics has moved freight out of Saint Louis for 14 years, which produces quotes, carrier selections and delivery exceptions on every load.",business;signal;location
+998,"As an Atlanta freight forwarder, Vector Global Logistics generates quotes, booking records and customs documentation, plus exception notes whenever a shipment moves off plan.",business;location
+999,"Across 200 offices, SCAN Global Logistics runs freight forwarding that leaves behind quotes, booking records and shipment exceptions in a consistent format.",business;signal
+1000,"Ascend moves freight with more than 1,000 trucks out of Jackson, Tennessee, which means a constant stream of dispatch decisions, load records and delivery exceptions.",name;bucket;signal;location
+1001,"Thirty trucks running express freight out of Franksville still generate a daily log of quotes, dispatch calls and delivery exceptions for Avala Express.",business;signal;location
+1002,"Staffing across more than 50 sites gives Tempositions a deep record of job orders, submittals and placement outcomes, all tracked in Salesforce.",business;signal;tool
+1003,"Richardson Management has managed properties out of Suitland for 17 years, with Yardi holding the leasing files, maintenance requests and resident communications.",business;signal;tool;location
+1004,"Managing 150 doors out of Frankfort on AppFolio means Landmark Property Management keeps a tidy record of leases, maintenance requests and turnover work.",bucket;signal;tool;location
+1005,"Twenty years of commercial office investment out of Stockton leaves Grupe with lease files, tenant requests and building maintenance logs.",business;signal;location
+1006,"Maple Properties runs its properties on Yardi from Clackamas, and 29 years of leases, work orders and tenant requests make for an unusually consistent record.",name;bucket;signal;tool;location
+1007,"Residential communities in Westerville produce lease renewals, maintenance requests and move-in paperwork, and Village Communities has been handling them for 22 years.",business;signal;location
+1008,"Property management out of Wheeling generates leases, maintenance requests and rent records, and GJR Enterprises sits on that record for its properties.",name;bucket;location
+1009,"First Coast Security Solutions staffs guard posts in 36 states from Jacksonville, which makes for a large, consistent set of patrol logs and incident reports.",business;signal;location
+1010,"Guard patrols and investigations for 26 years leave Starside Security & Investigation with incident reports, investigation files and patrol records in Diamond Bar.",business;signal;location
+1011,"Pchange has been in business in Lanham for 23 years, and in security work that means incident reports, site logs and client service records.",name;bucket;signal;location
+1012,"Seventy-two years of fire protection work in Seattle means AAA Fire Protection holds inspection reports, deficiency findings and service records on real systems.",business;signal;location
+1013,"With 50,000+ customers served, Kyle Plumbing II has a record of service calls, estimates and repair notes out of Deerfield Beach.",business;signal;location
+1014,"Seventeen years of CPA work in Charlotte, with Sage Intacct as the ledger, leaves Lavoie CPA with engagement workpapers and review notes in a consistent shape.",business;signal;tool;location
+1015,"HCT's CPA and consulting practice in Hollywood has 26 years of engagements behind it, each leaving workpapers, review notes and QuickBooks files.",business;signal;tool;location
+1016,"Serving approximately 3,500 clients from Cape Girardeau leaves Beussink, Hey, Roe & Stroder with a deep library of engagement workpapers, review notes and QuickBooks files.",business;signal;tool;location
+1017,"Aperian's cross-cultural training runs on its own assessments and learner programs, which makes course content, assessment items and feedback a structured body of work.",business;signal
+1018,"A learning management software vendor that runs assessments and cohorts in-house, Cypher Learning produces course content, assessment items and support cases in a structured form.",business;signal
+1019,"With 500+ projects behind it, Highcloud Solutions has a deep set of IT consulting statements of work, solution designs and implementation records in Salesforce.",business;signal;tool
+1020,"Nineteen years of consulting out of Uniondale gives New York Global Consultants engagement files, deliverables and client requirements across a long run of projects.",business;signal;location
+1021,"Skyio has operated in Greer, South Carolina for 31 years, which in software terms means a long trail of customer projects, support requests and technical documentation.",name;bucket;signal;location
+1022,"Gantec has delivered IT solutions from Schaumburg since 1992, so its project files, support tickets and customer documentation span three decades.",business;signal;location
+1023,"Federal IT consulting is paperwork-heavy by nature, and Anika Systems' 21 years in Leesburg mean deliverables, requirements and status reports in a consistent format.",business;signal;location
+1024,"Das Federal's decade of federal IT consulting, with ServiceNow among its tools, produces tickets, change records and project deliverables from Gaithersburg.",business;signal;tool;location
+1025,"Pitech Solutions has worked out of Durham for 20 years, and two decades of technology projects mean requirements, delivery notes and support requests on file.",name;bucket;signal;location
+1026,"Healthcare IT services since 2005 leave Devcare Solutions with project plans, implementation documentation and support records from Westerville.",business;signal;location
+1027,"Cybersecurity services since 2010 mean Pentamix Security accumulates assessment findings, incident response notes and remediation records out of Greenwood Village.",business;signal;location
+1028,"Thirty-plus branches of IT services give Veemost Technologies a wide spread of help-desk tickets, escalations and remediation notes.",business;signal
+1029,"Accelera Solutions has delivered IT services around Tysons for 24 years, leaving tickets, project plans and remediation notes behind.",business;signal;location
+1030,"Three hundred plus locations is a lot of surface area for a managed IT shop, and it shows up as tickets, escalations and remediation notes for Aj Lopez.",name;bucket;signal
+1031,"A decade of IT services out of Maitland leaves Aurora Infotech with support tickets, escalations and remediation notes from real client environments.",business;signal;location
+1032,"Secure Technology Consultants handles escalation and incident response in-house in Atlanta, so managed IT tickets come with incident timelines and remediation notes attached.",business;signal;location
+1033,"Ten clients is a focused book, and for Magnus Management Group in Chesterfield it still adds up to tickets, escalations and remediation notes across each account.",name;bucket;signal;location
+1034,"Stock Group Analytics does analytics consulting from Great Falls and runs support in-house, so engagement notes, analysis deliverables and ServiceNow tickets form a clean record.",business;signal;tool;location
+1035,"Placing IT talent for 365 customers, with JobDiva as the system of record, means Sun Technologies holds submittals, interview notes and placement outcomes at volume.",business;signal;tool
+1036,"iCivics reaches classrooms in 50 states, so its lesson plans, curriculum units and educator feedback form a structured library of civics curriculum.",business;signal
+1037,"Astra Canyon Group runs customer success and implementation in-house in Tucson, so each rollout leaves onboarding notes, Jira tickets and support history.",name;bucket;signal;tool;location
+1038,"With ConnectWise tracking the work, 20 years of IT solutions in Houston leave Amsys Innovative Solutions with tickets, project records and remediation notes.",business;signal;tool;location
+1039,"Queue management software for 26 years means Qflow Systems has workflow configurations, deployment records and Jira tickets from real service counters.",business;signal;tool
+1040,"Reboottwice has supported users in Los Angeles for 19 years, and that adds up to help-desk tickets, fixes and escalation notes in volume.",business;signal;location
+1041,"Every one of the 50+ clients Sandia IT serves in Albuquerque leaves behind help-desk tickets, escalations and remediation notes.",business;signal;location
+1042,"Soomo Learning writes digital courseware and runs its own assessments and certification, which means course content and assessment items are authored in a structured form.",business;signal
+1043,"Records management software for fifteen years means Collabware has implementation projects, configuration records and Jira tickets from real deployments.",business;signal;tool
+1044,"Salesianum School builds courses and curriculum in-house in Delaware, which leaves lesson plans, course materials and assessment content in a structured form.",business;signal;location
+1045,"Thirty-one years of running a Christian high school in Indiana leaves Covenant Christian High School with curriculum materials, course content on Canvas and facilities records.",business;signal;tool;location
+1046,"Since 1951, Lincoln Christian School in Nebraska has built up curriculum materials, professional development content in Cornerstone and facilities documentation.",business;signal;tool;location
+1047,"Twenty-five years of education consulting in Ohio leaves Battelle for Kids with framework documents, training materials and Zendesk support history.",business;signal;tool;location
+1048,"Unique Comp has delivered IT services from Long Island City since 1997, so 29 years of service tickets, installs and project records are on file.",business;signal;location
+1049,"Bestica has been at work in Helotes, Texas for 21 years, and software and services businesses that long hold customer projects, requirements and support history.",name;bucket;signal;location
+1050,"Software for the recycling industry puts Isoft Data Systems close to real material transactions, and 31 years in Lincoln means implementation and support records to match.",business;signal;location
+1051,"Phoenix Protective Corp has put guards on post around Spokane Valley for 23 years, which makes for a long, consistent set of patrol logs and incident reports.",business;signal;location

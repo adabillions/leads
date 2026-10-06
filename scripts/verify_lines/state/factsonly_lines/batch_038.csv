@@ -1,0 +1,151 @@
+row,new_line,basis
+5552,"Building web and software for clients out of Baton Rouge, Gatorworks runs support in-house and builds up Zoho tickets, project specs and fix histories.",business;signal;tool;location
+5553,"Eleven years of mission software work in Columbia, MD leaves Leap Orbit with Freshdesk support tickets, implementation notes and requirement histories.",business;signal;tool;location
+5554,"Harness Group has been in business since 2012, and a company running its work through ConnectWise accumulates tickets, change records and implementation notes.",name;signal;tool;bucket
+5555,"Running professional services and support in-house as an IT contractor in Reston, Gridiron IT Solutions produces tickets, statements of work and resolution notes.",business;signal;location
+5556,"Digital forensics and e-discovery work across more than 30 states leaves Digital Mountain with collection logs, chain-of-custody records and review workflows.",business;signal
+5557,"With account management in-house in Quincy, Industry Solutions generates a steady record of customer requests, renewals and software support interactions.",name;signal;location;bucket
+5558,"Drayage and carrier management out of Riverside, CA produce a running log of quotes, container moves and delivery exceptions at International Link Logistics.",business;signal;location
+5559,"The Greer Group has placed talent from Raleigh for 40 years, and with HubSpot in the mix that is a long run of submittals, client notes and placement outcomes.",name;signal;tool;location;bucket
+5560,"Since 2013, National Career Group has placed candidates from Okemos, which adds up to job orders, submittals and career services outcomes.",business;signal;location
+5561,"Placing talent across 15+ states with JobDiva as the system of record, Career Developers holds job orders, submittals and placement outcomes in a consistent format.",business;signal;tool
+5562,"Facilities management run out of Albuquerque since 1999 means Favorite Bay has work orders, maintenance logs and service-contract records stacked up.",name;bucket;signal;location
+5563,"Two decades of facilities management out of Macon, since 2004, leave Atigun Group with work orders, inspection checklists and maintenance histories.",name;bucket;signal;location
+5564,"Audit and bookkeeping handled in-house means Tax Plus produces engagement workpapers, reconciliations and review notes on every Georgia file.",business;signal;location
+5565,"An Oregon CPA firm with advisory and audit under one roof, Isler Northwest generates engagement workpapers, review notes and risk assessments year after year.",business;signal;location
+5566,"Curriculum and enrollment operations run in-house give Dekalb Brilliance Academy a body of lesson plans, charter compliance documentation and scheduling records.",business;signal
+5567,"A virtual K-12 school that builds its own courses, Elearning Academy holds curriculum maps, course content and unit materials in structured digital form.",business;signal
+5568,"Fifteen years of Montessori programming leaves Hoboken Montessori School with lesson sequences, classroom curriculum materials and facilities and compliance paperwork.",business;signal
+5569,"Nashville Classical Charter School writes and runs its curriculum in-house, which means scope-and-sequence documents, lesson materials and charter compliance files.",business;signal
+5570,"Teaching PreK through 8th grade in Utah, Slope School designs its own program, and that means curriculum materials, unit plans and assessment rubrics.",business;signal;location
+5571,"A post-secondary program built around learning differences means Mansfield Hall writes its own course content, support curricula and program documentation.",business;signal
+5572,"License management software plus a knowledge base and professional services in-house, with ServiceNow alongside, gives Openlm deep support and implementation records.",business;signal;tool
+5573,"Thirty-six years of secure connectivity software out of Cedar Park leaves Pragma Systems with support tickets, bug reports and release histories.",business;signal;location
+5574,"Kevala has spent 12 years building energy data software with Jira tracking the work, which means feature requests, defect histories and data-quality tickets.",business;signal;tool
+5575,"Fifteen years of athletic training software means Bridge Athletic holds training program content, templates and customer support records.",business;signal
+5576,"Powerworld has sold power system simulation software since 1996, and 30 years of that produces support cases, model questions and release notes.",business;signal
+5577,"Legal software built since 2011, with Jira behind the engineering, gives Branchfire a trail of feature requests, bug reports and customer support interactions.",business;signal;tool
+5578,"Transportation GIS software shipped since 1983 means Caliper has four decades of support cases, data-format issues and release records behind it.",business;signal
+5579,"Twenty-four years of web hosting in Las Vegas means A+ Hosting holds an archive of support tickets, server incident reports and migration notes.",business;signal;location
+5580,"In software out of Derry, NH since 2016, Landgate is the kind of company that accumulates support tickets, specs and implementation notes.",name;bucket;signal;location
+5581,"Twenty years of tribal economic development work in Roseburg means Umpqua Indian Development keeps project plans, program reports and compliance documentation.",business;signal;location
+5582,"Intellegens has been at it since 2011 in Missouri City, and a software company that age keeps support tickets, specs and implementation records.",name;bucket;signal;location
+5583,"As an IT firm in San Diego since 2015, J2E Technology works from service requests, project notes and remediation records.",business;signal;location
+5584,"Tracking power plant reliability since 1987, Strategic Power Systems holds decades of equipment performance records, outage events and failure histories.",business;signal
+5585,"Crossfire Group has recruited from Auburn Hills since 2002, and with HubSpot behind it that adds up to job orders, submittals and placement outcomes.",name;bucket;signal;tool;location
+5586,"Leasing run in-house out of Duluth gives Oneida Realty a steady stream of lease files, showing inquiries, maintenance requests and renewal decisions.",business;signal;location
+5587,"Private security since 2000 out of Kinston means Vermillion Ventures has patrol logs, incident reports and post orders piling up.",name;bucket;signal;location
+5588,"The Oryza Group has handled facilities work in Fayetteville since 2011, which leaves work orders, inspection checklists and maintenance records in its files.",name;bucket;signal;location
+5589,"Cleanroom and sterile environment services since 1999 mean Sterile Environment Technologies produces cleaning protocols, validation checklists and Zoho service logs.",business;signal;tool
+5590,"Commercial cleaning around Nashville since 2000 gives Bestway Services route schedules, inspection checklists and service-request logs to show for 26 years.",name;bucket;signal;location
+5591,"Thirty-seven years of information security work, with Jira tracking engagements, leaves Information Security holding assessment findings, remediation tickets and audit reports.",business;signal;tool
+5592,"Read Naturally has been building reading education software for 35 years, which produces lesson content, assessment items and instructional guides.",business;signal
+5593,"Id Networks has been in business since 1991 in Ashtabula, and in software that usually means decades of support tickets and implementation records.",name;bucket;signal;location
+5594,"From Swanton since 1998, Soaring Software Solutions has built software that leaves behind requirement documents, defect logs and client support histories.",business;signal;location
+5595,"Powerdata has run data and list services for 36 years, and that means building, cleaning and updating records in a consistent format.",business;signal
+5596,"Piping engineering in Houston since 1999 leaves Pipingsolutions with design calculations, drawings and revision records.",business;signal;location
+5597,"Integrated Support Systems has operated in Seneca since 1983, and the name points to support work: tickets, service records and fix notes.",name;bucket;signal;location
+5598,"Communications and IT services since 1989, with Jira tracking the work, give Commsys a long history of tickets, installation records and escalation notes.",business;signal;tool
+5599,"Running Freshdesk out of Ithaca since 2016, Camco Ne has built customer support tickets, resolutions and escalation records.",name;bucket;signal;tool;location
+5600,"Forty-one years of design of experiments software, with Zoho in the support stack, leaves Stat-Ease holding customer cases, documentation and release notes.",business;signal;tool
+5601,"Rata Associates has operated out of Longwood since 1989, and a software firm that long builds up support tickets and project records.",name;bucket;signal;location
+5602,"Electronic design automation software since 1989 means Aldec has handled decades of tool support cases, bug reports and verification questions.",business;signal
+5603,"Electromagnetic simulation software since 1983 leaves Sonnet Software with a long record of user support cases, model questions and version histories.",business;signal
+5604,"Access control software built since 2002 means Rbac holds role definitions, policy templates and implementation notes from deployments.",business;signal
+5605,"Callisto Communications serves all 50 states from Chesterfield, and that reach produces service tickets, orders and customer correspondence.",name;bucket;signal;location
+5606,"With ConnectWise behind the work since 2013, Excellimatrix in Kalispell accumulates tickets, project notes and change records.",name;bucket;signal;tool;location
+5607,"A software developer since 2001, Recursion Software has a quarter century of requirements, defect reports and release records.",business;signal
+5608,"Forty years of software products from Naples leave Advanced Software Products Group with customer support cases, version histories and implementation records.",business;signal;location
+5609,"Twenty years of operating from El Dorado Hills means Forte Holdings keeps portfolio reports, board materials and operating reviews.",business;signal;location
+5610,"Oncue Technology has delivered IT services in Houston for 16 years, leaving tickets, escalation notes and remediation records for each client environment.",business;signal;location
+5611,"Forensic software built since 2003 means F-Response has handled years of examiner support cases, deployment questions and release histories.",business;signal
+5612,"Data protection software built since 2013, with Jira tracking the work, gives Catalogic defect histories, support escalations and restore-issue records.",business;signal;tool
+5613,"Higher education CRM software built since 2016 means Canyon GBS keeps implementation records, Jira tickets and Zoho support history from institution rollouts.",business;signal;tool
+5614,"Fire and evacuation simulation work since 1998 leaves Thunderhead Engineering Consultants with modeling reports, validation cases and egress analyses.",business;signal
+5615,"Twenty years of printing and billing software means Barr Systems holds customer support cases, configuration records and release notes.",business;signal
+5616,"Utility protocol software since 1994 means Triangle Microworks has fielded decades of integration questions, protocol test results and support cases.",business;signal
+5617,"Marine design software supported in-house means Orca3D collects user support tickets, design questions and resolution notes.",business;signal
+5618,"Twenty-three years of PCB library software gives Pcb Libraries a catalog of component footprints, library standards and customer requests.",business;signal
+5619,"Outlier Technologies has worked out of Dayton since 1993, and three decades in software means support tickets, project specs and implementation notes.",name;bucket;signal;location
+5620,"Data recovery tools shipped since 1999, with Jira in the loop, leave Final Data with bug reports, recovery edge cases and support histories.",business;signal;tool
+5621,"Document management software since 2006 means Dokmee has handled years of workflow configurations, support requests and Jira-tracked fixes.",business;signal;tool
+5622,"Futuresoft has written network software in Houston since 1982, with product requirements, Jira defect trails and support cases to match.",business;signal;tool;location
+5623,"CFD simulation software built over 14 years with Jira and Zoho leaves Engys with solver bug reports, support cases and release notes.",business;signal;tool
+5624,"Twenty-five years of data security software gives Sertainty product requirements, security test findings and customer integration notes.",business;signal
+5625,"Project management software since 1999 means Realization Technologies has implementation plans, scheduling configurations and support cases in structured form.",business;signal
+5626,"Building forensics software around case management and standard operating procedures, Monolith Forensics works from case workflows, SOP documents and support records.",business;signal
+5627,"Two decades of Oracle EBS tooling means Eprentise has implementation plans, migration notes and client support records.",business;signal
+5628,"Authentication software built since 2005 leaves Access Smart with deployment records, configuration notes and support cases.",business;signal
+5629,"Eighteen years of school gate security software, with Autotask handling support, means School Gate Guardian holds installation records, tickets and configuration notes.",business;signal;tool
+5630,"With over 750 clients on its power systems engineering software, Aspen has fielded a large volume of support cases, model questions and release feedback.",business;signal
+5631,"Twenty years of simulation software out of Woodacre leaves Berkeley Simulation Software with solver bug reports, benchmark cases and user support threads.",business;signal;location
+5632,"Hotel software since 1988 means Troise Computer Systems has decades of property configuration records, support requests and version histories.",business;signal
+5633,"Tays has operated in Baltimore since 2013, and a software company of that age keeps support tickets, project records and implementation notes.",name;bucket;signal;location
+5634,"In business since 2005 out of Bowie, Kambiance works in software, which means a body of client requests, specs and delivery notes.",name;bucket;signal;location
+5635,"Eighteen years of consulting from Thompsons Station leaves Rhlopez Consulting with engagement notes, deliverables and project records.",business;signal;location
+5636,"Twenty-five years of software work in Las Vegas gives Kmj 2.0 a backlog of support requests, project specs and delivery records.",name;bucket;signal;location
+5637,"Since 2014, Firoozeh Sadeghi has run Nable Solution from Danville, building up client project notes, requirements and delivery records.",business;signal;location
+5638,"Managing IT services through ConnectWise from Tallahassee, Technology builds a daily record of tickets, escalations and remediation notes.",business;tool;location
+5639,"A managed IT franchise running on Autotask, TeamLogic IT accumulates tickets, escalations and remediation notes across every client it supports.",business;tool
+5640,"Murfreesboro IT services work tracked in Autotask gives Enlighten Technologies a stream of tickets, project notes and resolution records.",business;tool;location
+5641,"Implementation and monitoring handled in-house means Fulltec Consultants keeps project runbooks, alert histories and remediation notes.",business;signal
+5642,"Eleven years of mobile solutions work, with Zoho behind it, leave Activated Mobile Solutions with client requests, project specs and support records.",name;bucket;signal;tool
+5643,"Ecomsphere has built software out of Coral Gables since 2010, with the client requests, project specs and support threads that come with it.",name;bucket;signal;location
+5644,"Bolt has operated out of Cassopolis since 1999, and software companies that old hold support tickets, specs and release histories.",name;bucket;signal;location
+5645,"In Rockville since 2002, Aitheras provides IT services, the kind of work that produces tickets, project records and remediation notes.",business;signal;location
+5646,"Servicing copiers and office equipment in Los Angeles since 1997 means Advanced Microsystems Group keeps service calls, repair histories and parts records.",business;signal;location
+5647,"Running an agricultural commodity marketplace since 2000 leaves The Seam with a long record of listings, bids, trades and settlement history.",business;signal
+5648,"Edge Digital Group has worked from Arlington since 1989, and that history in software points to project records, specs and support tickets.",name;bucket;signal;location
+5649,"Telecommunications services in Salamanca since 2010 mean Seneca Telecommunications generates trouble tickets, installation records and circuit documentation.",business;signal;location
+5650,"Making timers and controllers since 2001, Timepilot holds product specs, configuration records and support cases from the field.",business;signal
+5651,"Thirty-three years of managed IT in Saint Paul give Collier IT a deep archive of tickets, escalations and remediation notes.",business;signal;location
+5652,"Asone Enterprises has been in Baton Rouge since 2006, and in software that means two decades of requests, specs and support records.",name;bucket;signal;location
+5653,"IT and cybersecurity work tracked in Autotask since 2002 leaves Slick Systems with tickets, security findings and remediation notes.",business;signal;tool
+5654,"Quantum computing hardware and software, tracked in Jira for a decade, leaves Xanadu with experiment logs, bug reports and design documentation.",business;signal;tool
+5655,"Implementation and support run in-house, with NetSuite in the stack, mean Blue Plains Technology keeps project plans, configuration records and support tickets.",name;bucket;signal;tool
+5656,"Thirty-four years of government contracting data and EDI give Loren Data an archive of solicitations, transaction records and format mappings.",business;signal
+5657,"A business built around sales opportunities, in New York since 1989, accumulates lead records, outreach notes and outcomes at Sales Opportunity Services.",name;bucket;signal;location
+5658,"Telecom and web services since 1992 leave Stelcom with circuit and hosting records, trouble tickets and customer service histories.",business;signal
+5659,"Agile Mile has built software out of Old Saybrook since 2002, with user stories, sprint records and defect histories to show for it.",business;signal;location
+5660,"Twenty-one years in medical technology means Innovision Medical Technologies keeps product documentation, quality and compliance records and vendor files.",business;signal
+5661,"Easy Access has been in McAllen since 1987, and with Jira tracking the work that is decades of tickets, specs and release records.",name;bucket;signal;tool;location
+5662,"Outsourced IT in Phoenix since 2016 means Secure One Outsource Solutions generates tickets, security remediation notes and onboarding records.",business;signal;location
+5663,"Twenty years of government website CMS work, with Zoho tracking support, leaves Revize with site build records, change requests and help tickets.",business;signal;tool
+5664,"Twenty-nine years of eDiscovery in Portland leave Discover-E Legal with processing logs, review workflows and project records.",business;signal;location
+5665,"Serving 49 states in credit repair, Credit1Solutions Com works from dispute letter templates, bureau correspondence and case workflow records.",business;signal
+5666,"A help desk and support team run in-house on Autotask means Elevate Services Group builds tickets, escalations and resolution notes daily.",name;bucket;signal;tool
+5667,"Freshdesk tickets and professional services projects out of Buford give Unity Systems a steady record of requests, resolutions and project notes.",business;signal;tool;location
+5668,"Warriors Solutions Group has operated out of Ashburn since 2011, which for a software-side firm means requirements, deliverables and support records.",name;bucket;signal;location
+5669,"Government IT contracting since 2012, run from Anchorage, leaves Chenega Applied Solutions with task orders, status reports and support ticket histories.",business;signal;location
+5670,"As a tribal industries contractor in Riverton since 2002, Northern Arapaho Tribal Industries keeps project proposals, contract deliverables and compliance records.",business;signal;location
+5671,"Qualx has worked out of Springfield since 2009, and a software-side firm that long keeps project deliverables, requirements and support records.",name;bucket;signal;location
+5672,"Government software and data services since 2016 leave Fast Data Services with data submissions, validation results and agency support requests.",business;signal
+5673,"Forty years of IT services in Redding, with ConnectWise tracking the work, give Computer Logistics a deep run of tickets and remediation notes.",business;signal;tool;location
+5674,"Fiber internet service in Saint Louis since 2015 means Elite Fiber has install orders, outage tickets and network maintenance records.",business;signal;location
+5675,"Sixteen years of web hosting from Tukwila leaves Hostwinds with a deep archive of support tickets, outage reports and migration requests.",business;signal;location
+5676,"Visiun has built software in Ann Arbor since 2010, with the project specs, defect reports and client support threads that come with it.",business;signal;location
+5677,"@ Link Services has been in Oklahoma City since 2005, and a firm in that line keeps service requests, project notes and support records.",name;bucket;signal;location
+5678,"Thirty years as an internet service provider, with Jira tracking the work, gives Resourceful Internet Solutions connection tickets, outage records and network change notes.",business;signal;tool
+5679,"Records management and storage for customers in 50 states means Morgan Records Management tracks retrieval requests, box indexes and retention schedules.",business;signal
+5680,"Fifteen years building AI for national security, with Jira behind the engineering, leaves Rhombus Power with model evaluation records and defect histories.",business;signal;tool
+5681,"Satellite communications since 2006 leave I2B Networks with link installation records, service tickets and network performance logs.",business;signal
+5682,"Fifty-three years of IT services, now run through ConnectWise, give Custom Systems more history than most: tickets, project records and remediation notes.",business;signal;tool
+5683,"Strategic Systems Group has been in Atlanta since 1993, and three decades of systems work means requirements, project records and support notes.",name;bucket;signal;location
+5684,"Round-the-clock hosting support in-house means Energy Group Networks logs a steady flow of tickets, server incidents and resolution notes.",business;signal
+5685,"Bitvision has worked out of Ojai since 1997, which in software means decades of project specs, support requests and release records.",name;bucket;signal;location
+5686,"Running professional services and support in-house, Backcountry Broadband in Golden holds install records, outage tickets and network change notes.",business;signal;location
+5687,"Over 950 shipments moved gives R&R Global Logistics a real record of quotes, carrier selections and delivery exceptions.",business;signal
+5688,"With carrier management and dispatch in-house in Millbury, Dayco Logistics writes down quotes, load assignments and exception notes every day.",business;signal;location
+5689,"Load and LTL work handled in-house out of Richmond, Texas yields Tam Logistics quotes, rate decisions and delivery exceptions.",business;signal;location
+5690,"Account managers working around the clock at Insite Logistics in Glendale turn customer requests into quotes, carrier decisions and exception notes.",business;signal;location
+5691,"International freight forwarding means Genie International Logisitics keeps booking requests, capacity and carrier decisions, and shipment exception records.",business;signal
+5692,"Chicago freight on a 24/7 carrier desk gives Cdk Logistics a continuous log of quotes, carrier rate decisions and exception notes.",business;signal;location
+5693,"Covering 48 states from Southfield, Henley Logistics builds a lane-by-lane record of quotes, carrier rates and delivery exceptions.",business;signal;location
+5694,"Dispatch run 24/7 in-house means Sharomax Logistics in Hope Mills logs load assignments, status updates and delay notes around the clock.",business;signal;location
+5695,"Seventy-five trucks on the road give Bg 011 a stream of dispatch records, load details and delivery exceptions.",business;signal
+5696,"Twenty-three years of staffing with JobDiva as the system of record leave Cirrus Concept Consulting with job orders, submittals and placement outcomes.",business;signal;tool
+5697,"Bullhorn behind 34 years of IT consulting and staffing in Beaverton gives Serverlogic submittals, interview notes and placement outcomes.",business;signal;tool;location
+5698,"Seventeen years of recruiting from Columbus, with HubSpot in the stack, means The Cpi Group keeps job orders, outreach history and placement outcomes.",name;bucket;signal;tool;location
+5699,"Since 1998, Uhc Solutions has staffed from Lake Oswego, which produces job orders, submittals and placement outcomes tracked through HubSpot.",name;bucket;signal;tool;location
+5700,"Talentstream has placed staff from Greenville since 2013, and Bullhorn holds the job orders, submittals and placement outcomes behind it.",business;signal;tool;location
+5701,"Twenty-seven years of workforce development in Chicago, tracked in Salesforce, give North Lawndale Employment Network program records, employer partnerships and placement outcomes.",business;signal;tool;location

@@ -1,0 +1,151 @@
+row,new_line,basis
+11702,"More than 1000 completed projects means Advanced Turnkey Solutions holds a deep archive of scopes, system configurations and close-out records from real integration work.",business;signal;name
+11703,"Twelve years of education work out of Nashville leaves Resonant Education with course content, assessments and learner feedback built up in a consistent form.",business;signal;location
+11704,"Infrastructure Insights has spent 24 years in Plano on infrastructure software and services, which means a long trail of support tickets, implementation records and configuration notes.",business;signal;location
+11705,"Serving 150+ clients out of Boston, U. S. Professional Services accumulates job orders, candidate submittals and placement outcomes across a wide spread of employers.",signal;bucket;location
+11706,"Twenty years of energy systems work in Aiea means Hawaii Energy Systems has site assessments, system designs and commissioning records tied to real installations.",business;signal;location
+11707,"Forty-one years of DoD and VA medical-coding and HIM contracting leaves Standard Technology with coding guidelines, QA audit results and contract compliance documentation.",business;signal
+11708,"In business 23 years from Slidell, Cl Hebron Enterprises has been writing the tickets, escalations and remediation notes that come with keeping client IT running.",name;bucket;signal;location
+11709,"Twenty-three years of CPA work in Tallahassee gives Spartacus Consulting a deep set of engagement files, review workpapers and client advisory memos.",business;signal;location
+11710,"Defense IT integration since 2008 leaves Defense Integration Solutions with design documents, test results and deployment records from 18 years of Nashville work.",business;signal;location
+11711,"Matsuda & Associates has run IT services out of Woodbridge for 29 years, and that history is a steady stream of tickets, change records and remediation notes.",name;bucket;signal;location
+11712,"From Red Lodge, Montana, 27 years of managed IT work means Shenandoah Solutions has a long record of tickets, escalations and fixes for its clients.",name;bucket;signal;location
+11713,"International Business Express, 29 years in business out of Chevy Chase, does the kind of IT support work that produces tickets, escalations and resolution notes daily.",name;bucket;signal;location
+11714,"Running a SOC in-house next to federal contracting data services, Mji Enterprises produces alerts, incident notes and opportunity records, with HubSpot tracking the client side.",business;signal;tool
+11715,"A help desk and monitoring run in-house at IT Direct Support means every ticket, alert and fix gets written down in Camden, building a record of real support work.",business;signal;location
+11716,"Managing carriers and loads in-house from Apollo Beach, Dogwood Logistics builds up quotes, carrier rate decisions and exception notes with every shipment.",business;signal;location
+11717,"Twelve years moving cargo out of Carolina, Puerto Rico gives Action Cargo Transport a growing log of quotes, bookings and delivery exceptions.",business;signal;location
+11718,"Matching capacity to carriers in-house, Blue Mountain Freight generates rate quotes, carrier selections and load exception notes on every move out of Oregon.",business;signal;location
+11719,"Forty-six years of international freight forwarding means Zust Bachmeier has quotes, booking records, customs paperwork and exception notes in a consistent form since 1980.",business;signal
+11720,"Ardmore Power Logistics has moved freight for the power industry for 26 years, leaving quotes, carrier selections and delivery exception notes tied to that niche.",business;signal
+11721,"Capacity and implementation handled in-house at Spi&I Global means freight quotes, capacity decisions and implementation notes are all generated under one roof in Sumrall.",name;bucket;signal;location
+11722,"Bama Transport has run trucks out of Enterprise, Alabama since 2012, leaving 14 years of load quotes, dispatch decisions and delivery exception notes.",business;signal;location
+11723,"Security work in Fort Pierce for 14 years leaves The Diaz Group with patrol logs, incident reports and post orders that show how each site actually runs.",name;bucket;signal;location
+11724,"Designing and servicing fire alarm and detection systems for 25 years means Fire Detection Un holds inspection reports, device test records and deficiency findings.",business;signal
+11725,"Cabling work out of Dania for 25 years gives All Cable Consulting a deep file of estimates, bids and as-built documentation from real installs.",business;signal;location
+11726,"Prime Electric has been wiring jobs in Norwich, Connecticut since 1994, which is 32 years of estimates, change orders and inspection sign-offs.",business;signal;location
+11727,"Across 28 years as an electrical contractor in Erlanger, Ginter Electrical Contractors has stacked up bids, RFIs and punch lists tied to real projects.",business;signal;location
+11728,"Photonics engineering out of Honolulu for 17 years leaves Photonworks Engineering L with design specs, test data and engineering notes in a consistent form.",business;signal;location
+11729,"Greenway Electrical Services has 21 years of electrical jobs in Apopka behind it, each leaving an estimate, a service ticket and a completed-work record.",business;signal;location
+11730,"Forty-two years of electrical contracting from Blackfoot means Mountain West Electric has a long record of estimates, submittals and change orders on real jobs.",business;signal;location
+11731,"Engineering consulting for 23 years in Tucson gives Engineering Concepts & Solutions a stack of design calculations, project reports and review comments.",business;signal;location
+11732,"Sprinkler and fire protection services since 1993 mean Jam Fire Protection holds 33 years of inspection reports, deficiency notes and repair records.",business;signal
+11733,"Thirty years of lighting service from Waterbury means Total Lighting Service has work orders, fixture repair notes and retrofit quotes in volume.",business;signal;location
+11734,"As an electrical and general contractor in Los Angeles for 40 years, Delta Electric sits on bids, RFIs and change orders tied to real buildings.",business;signal;location
+11735,"C & R Electrical Construction has 23 years of Florida electrical jobs on file, from estimates and change orders to inspection results.",business;signal;location
+11736,"Since 1953, J. Hamilton Electric has worked as an electrical contractor in Elk Grove Village, which adds up to 73 years of estimates, drawings and job records.",business;signal;location
+11737,"Mechanical contracting since 1984 gives American Mechanical, out of Kechi, 42 years of submittals, RFIs and service records on real mechanical jobs.",business;signal;location
+11738,"Every balancing job Omega Test & Balance runs in Phoenix produces airflow readings, test reports and deficiency findings, and it has done that for 22 years.",business;signal;location
+11739,"A mechanical contractor in Hazelwood like Rmb Contracting generates bids, submittals and field notes on every job, including the 10 projects it lists.",business;signal;location
+11740,"Twenty-seven years of mechanical contracting in Simi Valley leaves K.F.Y. United Mechanical Contractors with estimates, submittals and change orders on real projects.",business;signal;location
+11741,"In Spokane, Steelhead Mechanical has spent 22 years on mechanical jobs, with bids, RFIs and service records piling up behind each one.",business;signal;location
+11742,"Mechanical contracting from Elko since 2001 means Snyder Services has 25 years of job estimates, service calls and equipment records.",business;signal;location
+11743,"Billing utilities across more than 950 units gives Bottom Line Utility Solutions a monthly record of meter readings, allocation calculations and billing adjustments.",business;signal
+11744,"Jem has been a mechanical contractor in Waveland for 29 years, which adds up to a lot of estimates, submittals and service records.",business;signal;location
+11745,"Marine refrigeration and environmental work across 6151 locations leaves Alaska Marine Refrigeration with service logs, inspection findings and compliance records.",business;signal
+11746,"Mantech Mechanical has 35 years of Anchorage mechanical jobs behind it, each with its own bid, submittal set and closeout record.",business;signal;location
+11747,"Fourteen years in business from Cameron, Intrepid Global Resources has the course materials, assessments and learner feedback that training work produces.",name;bucket;signal;location
+11748,"Management and technology consulting out of Huntsville for 18 years leaves Falcona Management & Technology with engagement deliverables, training materials and client feedback.",business;signal;location
+11749,"Facilities work from Lawton since 2001 means Denmar Services has 25 years of work orders, inspection checklists and maintenance records.",name;bucket;signal;location
+11750,"In Washington since 2015, Innovative Results has been building the training content, assessments and participant feedback an education business accumulates.",name;bucket;signal;location
+11751,"With Zoho tracking the business, Transamerica Training Management has 22 years of training management records, course schedules and learner feedback.",business;signal;tool
+11752,"Selling and supporting computers in Toledo for 21 years gives Your Computer Needs Of Toledo repair tickets, quotes and training session materials.",business;signal;location
+11753,"Twelve years in Medina means Onebridge Support Services has built up the program materials, training content and feedback forms of a working training provider.",name;bucket;signal;location
+11754,"Online training since 1999 means Education Over The Net has 27 years of course modules, quiz banks and learner feedback in a structured form.",business;signal
+11755,"Protocol Analysis Institute has run from Seattle for 23 years, so its instructional materials, exercises and participant feedback make a long consistent record.",name;bucket;signal;location
+11756,"Teaching GIS for 25 years from Houston, Inner Corridor Technologies has course content, hands-on exercises and assessments built around real mapping work.",business;signal;location
+11757,"Cino Security Solutions has spent 14 years on security systems out of Middle Island, which means installation quotes, service tickets and site survey notes.",business;signal;location
+11758,"Twenty-one years of work from Bemidji have given The Idea Circle training materials, workshop exercises and participant feedback in volume.",name;bucket;signal;location
+11759,"Over 26 years, Carmie Mccook & Associates has produced the curricula, session plans and evaluation forms that an education and training practice runs on.",name;bucket;signal
+11760,"Uconnect Solutions, in Le Claire for 26 years, uses Zoho alongside its training work, which makes for structured course content and feedback records.",name;bucket;signal;tool;location
+11761,"Thirty-one years of training and certification in Irvine mean American Training Resources has course content, exam items and learner feedback at real depth.",business;signal;location
+11762,"The Edwards Group has worked from Aldie since 2006, and 20 years of training and education leaves course materials, exercises and evaluations.",name;bucket;signal;location
+11763,"From Jacksonville, Evoke Development's 21 years in training and development produce workshop content, assessments and participant evaluations.",name;bucket;signal;location
+11764,"Bc&J Solutions has 26 years of training work out of Manassas, which adds up to lesson plans, assessments and feedback forms in a consistent shape.",name;bucket;signal;location
+11765,"As a consulting firm for 24 years in Cordova, Lfd Consulting writes up engagement plans, training modules and client deliverables again and again.",business;signal;location
+11766,"Running certification and courses in-house, Smallbiz Ally authors small business curriculum, assessments and learner feedback in Buford.",business;signal;location
+11767,"Upper Mohawk has been at it in Titusville since 1988, and 38 years of education and training work leaves course materials, assessments and evaluations.",name;bucket;signal;location
+11768,"Thirty-four years in Derwood gives Leah M. Joppy & Associates a deep file of training curricula, workshop exercises and participant evaluations.",name;bucket;signal;location
+11769,"Over 24 years in Gaithersburg, Sandra Menzies has built the workshop content, exercises and feedback forms of a long-running training practice.",name;bucket;signal;location
+11770,"Quality and compliance consulting since 2001 means Quality, Compliance & Management Consulting holds 25 years of audit findings, corrective action plans and training material.",business;signal
+11771,"With Zoho in the stack and a decade in Sun City West, Blue Horizon Solutions generates course content, assessments and participant feedback in structured form.",name;bucket;signal;tool;location
+11772,"Thirty-three years of education and training work from Cuyahoga Falls leaves Berkshire Group with curricula, assessments and evaluation records.",name;bucket;signal;location
+11773,"Twenty-nine years teaching GD&T means Tec-Ease has course content, practice drawings and exam questions built around real engineering drawing problems.",business;signal
+11774,"5 Fold Consulting has run from Aldie for 18 years, and consulting engagements like that produce assessments, frameworks and client deliverables in a repeatable format.",business;signal;location
+11775,"Sixteen years in Coronado gives Q2 Solutions a body of training materials, assessments and participant feedback from its education and training work.",name;bucket;signal;location
+11776,"In Concord for 20 years, Fisher IT has accumulated the course content, exercises and learner feedback that come with running IT training.",name;bucket;signal;location
+11777,"Math tutoring and training in 50 states means National Training Network generates lesson plans, practice problem sets and progress assessments at national scale.",business;signal
+11778,"Ten years of coaching and consulting in Fort Myers leaves Timeless Worth Coaching And Consulting with program curricula, workshop materials and session frameworks.",business;signal;location
+11779,"The Hrx Renaissance Consortium has been in Raleigh for 27 years, and long-running training programs like that leave behind curricula, assessments and feedback.",name;bucket;signal;location
+11780,"A decade out of Scottsdale for Innovationone means ten years of the workshop content, assessments and feedback that an education and training business keeps.",name;bucket;signal;location
+11781,"Key Consulting has been advising from Tucson since 1999, and 27 years of engagements means deliverables, training decks and client feedback on file.",business;signal;location
+11782,"Twenty-two years in Waxhaw leaves Baldwin & Associates with training content, assessments and session feedback in a consistent format.",name;bucket;signal;location
+11783,"Since 1988, The ePolicy Institute has run email policy training and consulting, leaving 38 years of course content, policy templates and exercises.",business;signal
+11784,"Projections Consulting has done consulting in Williamsburg for 20 years, which means engagement plans, analyses and client deliverables in a consistent structure.",business;signal;location
+11785,"Corporate training and consulting in Tampa for 26 years means Achieving Corporate Excellence has program curricula, assessments and participant evaluations.",business;signal;location
+11786,"Law enforcement training is the business at Calibre Press, and 22 years of it in Glen Ellyn means course content, scenario materials and instructor evaluations.",business;signal;location
+11787,"Twelve years in Norfolk means Amediate has built up the training content, exercises and participant feedback that education work generates.",name;bucket;signal;location
+11788,"Sixteen years in Guaynabo, Puerto Rico gives Lasalle Group the course materials, assessments and evaluations of a working education and training business.",name;bucket;signal;location
+11789,"Consulting and community partnerships out of Boca Raton, tracked in Zoho, give Kawa Community Partners 13 years of program plans and partnership records.",business;signal;tool;location
+11790,"Delivering personal growth programs across 50 states, The Cole Academy Of Personal Growth builds curriculum materials, workshop outlines and program schedules.",business;signal
+11791,"Fifteen years of corporate training out of Fayetteville leaves Next Level Training Solutions Group with course content, assessments and participant feedback.",business;signal;location
+11792,"Real Life Management has worked from Nashville since 2000, and 26 years of education and training builds up curricula, session plans and evaluations.",name;bucket;signal;location
+11793,"Leadership training in San Antonio for 21 years means Corporate Leadership Initiatives holds program content, assessments and feedback from every program it has run.",business;signal;location
+11794,"A gym in Rice Lake for 36 years means Deutsch's has class schedules, workout programming and equipment maintenance logs on file.",business;signal;location
+11795,"Training and consulting to government for 35 years means Allen Corporation Of America has course materials, exercises and deliverables from public sector work.",business;signal
+11796,"Maritime training from Hayes, Virginia means Essential Training Institute generates course content, skills assessments and instructor evaluations.",business;location
+11797,"Training sanitarians for 18 years, Saraniecki Institute For Nutrition & Environmental Health produces course modules, assessment items and instructor materials.",business;signal
+11798,"Chemical regulatory compliance software with case management and certification run in-house gives Datachem Software support cases, regulatory content and training records.",business;signal
+11799,"Hart Financial Services has trained out of Honolulu for 25 years, which leaves course content, exercises and instructor materials in a consistent form.",name;bucket;signal;location;title
+11800,"Thirteen years of tactical medical training from Zavalla leaves Tactical Medics Group with course curricula, skills checklists and instructor certification records.",business;signal;location
+11801,"With EMS courses and branches run in-house, Topham Emergency Medical Education has curricula, exam banks and instructor records across each of its sites.",business;signal
+11802,"Eleven years in Las Vegas means Acs Ventures has produced the training content, assessments and participant feedback of an education business.",name;bucket;signal;location
+11803,"Arsiem has spent 13 years in Catonsville, a stretch of education and training work that leaves course content, assessments and feedback behind.",name;bucket;signal;location
+11804,"Arts programming in Washington for 20 years leaves Guerilla Arts Ink with workshop plans, project documentation and participant feedback.",business;signal;location
+11805,"Tracking work in Jira since 2013, Magnitude.Io has a structured trail of tickets, learning content revisions and learner feedback.",name;bucket;signal;tool
+11806,"Running its own learner programs in-house, Mindful Objects authors lesson content, activity designs and session feedback in Mount Vernon.",name;bucket;signal;location
+11807,"Technical rescue training and equipment for 32 years gives Spec Rescue International course curricula, skills evaluations and equipment documentation.",business;signal
+11808,"Process engineering consulting for 30 years from Plano means Process Engineering Group has design reviews, calculations and training materials.",business;signal;location
+11809,"Rita Young & Associates has consulted from Alpharetta for 12 years, building up engagement materials, assessments and workshop content.",business;signal;location
+11810,"Instructional design is the product at Instructional Design Learning Solutions, so 11 years in Roswell means storyboards, learning modules and assessments in volume.",business;signal;location
+11811,"Consulting across 50 states leaves Greater Good Consultants with assessments, program plans and engagement reports in a consistent shape.",business;signal
+11812,"Field science courses out of Flagstaff for 20 years mean Flagstaff Field Institute has curricula, field protocols and course evaluations.",business;signal;location
+11813,"Xplorstem builds STEM education and runs its assessments in-house, which yields lesson content, assessment items and feedback in structured form.",business;signal
+11814,Forty-seven years of accounting and CPA work from Pleasant Hill leaves Maze & Associates with engagement workpapers and review notes in a standard form.,business;signal;location
+11815,"Online music lessons for 16 years means Virtual Instructor has lesson plans, practice material and instructor feedback built up over time.",business;signal
+11816,"Carrier and dispatch handled in-house at Infinity Logistics Group in Chattanooga means every load leaves a quote, a carrier choice and an exception trail.",business;signal;location
+11817,"Twenty-eight years of education and training work out of Fairfax gives Gr77 Solutions course materials, assessments and participant feedback.",name;bucket;signal;location
+11818,"Decontamination training in Biloxi for 21 years gives Decon course curricula, skills checklists and exercise records tied to real procedures.",business;signal;location
+11819,"Entreprenyour, with 10,000+ clients and Zoho in its stack, has program content, training sessions and engagement records at real scale.",name;bucket;signal;tool
+11820,"Aegean has spent 13 years in Plainfield in education and training, a line of work that leaves course content, assessments and feedback behind.",name;bucket;signal;location
+11821,"Explosives supply, services and instruction since 2009 leaves American Explosives Group with job records, safety training materials and compliance documentation.",business;signal
+11822,"Two decades in Avon, Ohio means Revac USA has the course materials, assessments and participant feedback of a working training business.",name;bucket;signal;location
+11823,"Educational research and training since 2001, with Zoho in the mix, gives DataWorks Educational Research 25 years of study designs, training content and evaluation reports.",business;signal;tool
+11824,"Software teams like Tekletics accumulate support tickets, bug reports and implementation notes with every customer they onboard.",name;bucket
+11825,"Analytics for breweries and pubs means Pubinno handles venue data feeds, support tickets and implementation records from real customers.",business
+11826,"Running quality assurance in-house on data and AI software, Dataorb produces test cases, defect reports and support tickets with each release.",business;signal
+11827,"Freight operations in San Saba, Texas leave quotes, carrier rate decisions and delivery exception notes, which is the record Max Mahan works from.",name;bucket;location
+11828,"Consulting engagements at Otg Consulting in Colorado leave behind assessments, deliverables and project notes in a repeatable format.",business;location
+11829,"Software for the cleaning industry means Cleanconnect holds job schedules, inspection checklists and support tickets from the cleaning companies it serves.",business
+11830,"DevOps and cloud consulting at Binbash produces infrastructure reviews, incident postmortems and remediation notes for each engagement.",business
+11831,"IT consulting at Tier4 Group in Georgia generates project plans, architecture documents and support escalations.",business;location
+11832,"Fulfillment software means Fulfillment Iq sees order flows, exception handling and implementation records from every warehouse customer it onboards.",business
+11833,"A software company like Pull Logic in Georgia accumulates support tickets, bug reports and customer implementation notes.",name;bucket;location
+11834,"Software work at Think Un in Illinois turns into support tickets, release notes and implementation records over time.",name;bucket;location
+11835,"IT services at Aureus Tech Systems in Colorado leave tickets, escalations and remediation notes behind every client engagement.",business;location
+11836,"Salesforce consulting engagements leave Crosspeak Solutions with requirements documents, configuration notes and implementation records.",business
+11837,"Nonprofit fundraising software means Neon One handles support tickets, implementation records and onboarding notes for the organizations it serves.",business
+11838,"Running 24/7 and onboarding customers in-house, Flocareer generates support tickets, onboarding records and usage feedback for its career software platform.",business;signal
+11839,"Implementing and supporting the Julia computing platform in-house, Juliahub accumulates support tickets, implementation records and customer escalations.",business;signal
+11840,"Enterra Solutions runs implementation in-house and tracks work in Jira, giving its AI software and consulting a structured trail of tickets and project records.",business;signal;tool
+11841,"Gr8 People supports its HR and workforce software in-house and tracks the work in Jira, so support tickets and resolutions form a structured record.",business;signal;tool
+11842,"As a software engineering consultancy running implementation and solutions engineering in-house, Janea Systems produces design docs, implementation records and client escalations.",business;signal
+11843,"Banking technology with account management in-house and Jira in the workflow leaves Infinant with project tickets, implementation records and client change requests.",business;signal;tool
+11844,"Majus Consulting works out of Olney, Maryland, and IT consulting work like that produces tickets, change records and remediation notes.",name;bucket;location
+11845,"Thirteen years of IT services from Lawrenceville means Logiksavvy Solutions has tickets, escalations and remediation notes in volume.",business;signal;location
+11846,"Managed IT work at Juniper Drive in Bowie, Maryland leaves tickets, escalations and remediation notes behind every client.",name;bucket;location
+11847,"In Philadelphia since 2012, Tansa Tech has 14 years of IT service tickets, escalations and fix notes behind it.",business;signal;location
+11848,"Transportation safety research at Safe Streets Research & Consulting produces study data, analyses and recommendation reports out of Portland.",business;location
+11849,"Controls work in Rigby since 2016 means Premier Energy Controls has ten years of commissioning records, controls submittals and service reports.",business;signal;location
+11850,"Technical services from Huntsville for 14 years leaves Ignite Technical Services with work orders, technical documentation and service records.",business;signal;location
+11851,"Armed guard work in Chico means Armed Guard Private Security writes patrol logs, incident reports and post orders every shift.",business;location

@@ -1,0 +1,151 @@
+row,new_line,basis
+5402,Compensation data and software subscriptions since 1989 mean Eri Economic Research Institute keeps structured salary datasets and subscriber account histories in Salesforce.,business;signal;tool
+5403,"Wesolve Workplace Environments has spent 24 years in workplace furniture out of Stafford, so space plans, quotes and install punch lists are tied to real projects.",name;business;signal;place
+5404,"Forty-one years of school prevention curriculum gives LifeSkills Training a structured library of lesson plans, facilitator guides and program materials.",business;signal
+5405,"Running a computer and IT training center in Baton Rouge since 1999 means Lantec Of Louisiana has course outlines, lab exercises and assessments across 27 years of classes.",business;signal;place
+5406,"Cornerstone Training And Consulting delivers training through Cornerstone and Teachable, so its course content, quizzes and learner feedback already sit in structured digital form.",business;tool
+5407,"Over 200 locations is a lot of classrooms, and for Clc Technical Training that means technical course content, skills assessments and instructor materials in one consistent format.",business;signal
+5408,"The Jen Pinto runs its assessments in-house, and those question sets, scoring rubrics and result summaries are the kind of structured records that are scarce.",name;bucket;signal
+5409,"Teaching relationship education in 40 states means Active Relationships Center holds workshop curricula, facilitator materials and program evaluations built to be repeated.",business;signal
+5410,"C3 Pathways has run career pathways programs in Oviedo since 2004, which builds up curriculum modules and program outlines over 22 years.",business;signal;place
+5411,"CPR and safety classes taught for 23 years in Jacksonville give Lifesafe Services a steady stream of course materials, skills checklists and certification records.",business;signal;place
+5412,"Vets2Pm teaches project management to veterans, so since 2015 it has built course content, exam prep material and learner feedback aimed at one specific audience.",business;signal
+5413,"Project management training in Pittsburgh for 27 years means Pm Centers USA owns a deep set of course content, practice exams and instructor materials.",business;signal;place
+5414,"Applied Geometrics has taught GD&T and consulted on drawings from Linden since 1995, so its course content, tolerance exercises and consulting write-ups are technical and structured.",business;signal;place
+5415,"Running courses and quality assurance in-house on Cornerstone, Apex Quality Assurance produces course content, assessments and QA review records in a consistent format.",signal;tool;name
+5416,"Serving learners in all 50 states with aging and caregiver education, Ageucate holds course content, assessments and feedback, with HubSpot already tracking the audience.",business;signal;tool
+5417,"Avolatus has worked in education and training from Madison for 12 years, which builds up course material, assessments and learner feedback over a dozen years.",name;bucket;signal;place
+5418,"Spearity has been in education and training since 2010, and from Milwaukee with HubSpot in the stack that means course content, assessments and participant feedback.",name;bucket;signal;tool
+5419,Machine reliability training and consulting since 2006 leaves Advanced Machine Reliability Resources with course content and reliability assessments from Franklin.,business;signal;place
+5420,"Twenty-four years of running a negotiation institute in Scottsdale means Latz Negotiation Institute has workshop content, role-play scenarios and participant evaluations.",business;signal;place
+5421,"Ajusted School Equity Solutions builds consulting and training for schools in Saint Paul, and its workshop frameworks and curriculum materials are structured assets.",business;place;signal
+5422,"Seventy-nine years of flight school and FBO work in Augusta give Augusta Aviation training syllabi, aircraft maintenance logs and ramp service records dating to 1947.",business;signal;place
+5423,"Mrsw Management has operated in Austin since 1997, and an education and training business of that age holds course materials, assessments and delivery records.",name;bucket;signal;place
+5424,"Teaching tractor-trailer CDL students since 1985, New England Tractor-Trailer Training Of Mass. keeps training curricula, road-test scoring sheets and equipment checklists.",business;signal
+5425,"AVADE has trained people in personal safety for 25 years, which produces course content, scenario exercises and instructor certification materials in a consistent format.",business;signal
+5426,"Because Full Circle Training Solutions runs courses and quality assurance in-house, its corporate training content and QA reviews are already documented and structured.",business;signal
+5427,"Thirty-three years of behind-the-wheel and classroom instruction in Williamstown gives Mikes Driving School lesson plans, road skills checklists and scheduling records.",business;signal;place
+5428,"National Training has run a CDL truck driving school out of Green Cove Springs since 1978, which adds up to 48 years of curricula, skills evaluations and equipment checklists.",business;signal;place
+5429,"Boating and maritime courses taught since 1989 give Sea School-Mobile a library of course materials, practice exams and licensing prep out of Saint Petersburg.",business;signal;place
+5430,"Infusion Knowledge has taught infusion nursing education for 25 years, which means course content, exam question banks and continuing education materials.",business;signal
+5431,"Running Sylvan Learning tutoring centers in Fort Smith for 39 years means lesson plans, skills assessments and tutoring program materials built to a standard format.",business;signal;place
+5432,"Strategic Training Concepts has delivered training services from Berlin, NJ for 21 years, building course content, facilitator guides and evaluation forms.",business;signal;place
+5433,Infrared thermography courses and inspections since 2000 leave Infraspection Institute with training materials plus real inspection reports and thermal findings.,business;signal
+5434,"Southeastern Clinics has run back pain education in Atlanta since 1978, so it holds decades of program curriculum, class materials and facility scheduling records.",business;signal;place
+5435,"Reaching 32 states from Evanston, Honest Game has built training content and program materials, with HubSpot tracking the outreach behind them.",name;bucket;signal;tool;place
+5436,"Twenty-six years as Web Business Solutions in Fredericksburg means project specs, site builds and training materials accumulated across a long run of client work.",name;bucket;signal;place
+5437,"Educator professional development since 2002 gives Litlife, in Old Chatham, workshop materials, session plans and participant feedback from 24 years of teacher training.",business;signal;place
+5438,"Fifty-six years of teacher professional development out of Manhattan, Kansas leave The Master Teacher with a deep catalog of training courses, handbooks and workshop content.",business;signal;place
+5439,"The Excellence Group has operated in Jackson since 2006, and 20 years of training work builds up course content, assessments and facilitator materials.",name;bucket;signal;place
+5440,"Online exam proctoring produces session logs, flagged-incident reports and review decisions, and Proctoru has been writing that log for 17 years with Salesforce behind it.",business;signal;tool
+5441,"Forty years teaching survival and safety from Anchorage gives Ltr Training Systems course content, scenario drills and field exercise protocols for harsh conditions.",business;signal;place
+5442,"Campus Ivy runs the Portico education business from Sunrise, so 12 years of program curriculum and enrollment workflows live in structured form, tracked in HubSpot.",business;signal;tool;place
+5443,"Cobalt Education runs curriculum and enrollment in-house, and with Absorb as its learning platform its course content and assessment records are already well structured.",business;signal;tool
+5444,"Software development and implementation work since 2012 leaves Visvero with requirements documents, implementation records and support tickets from its Washington, PA base.",business;signal;place
+5445,"Thirty-one years of IT and cybersecurity work out of Fort Lauderdale give Tempest Harding assessment reports, incident write-ups and remediation notes.",business;signal;place
+5446,"With ServiceNow in place and 54 years behind it, Titan Facilities in Destin keeps the tickets, work orders and resolution notes that a service operation generates daily.",name;bucket;signal;tool;place
+5447,"Benefits administration and payroll services since 2009 mean Benefitscape handles enrollment changes, carrier files and payroll exceptions that follow clear rules.",business;signal
+5448,"Aac has been operating in Vienna for 43 years with Salesforce tracking its accounts, which points to the service tickets and resolution notes of an IT services business.",name;bucket;signal;tool;place
+5449,"IT Training 365 runs certification courses in-house out of Tampa, which means exam-prep content, labs and instructor materials for real certification tracks.",business;signal;place
+5450,"Axiom Data Science has built scientific data management software in Anchorage for 20 years, so metadata records, ingest logs and support tickets sit on top of real research datasets.",business;signal;place
+5451,"Training people for computer careers in Chicago since 2009, Computer Training Institute Of Chicago produces course curricula, lab exercises and assessments.",business;signal;place
+5452,"Reyna Information Technology Services in Lancaster has 18 years of help desk work in Zendesk, which is a steady log of tickets, escalations and fixes.",business;signal;tool;place
+5453,"Network and IT work in Allen since 2014 gives Fh-Networking site surveys, configuration records and ticket histories from 12 years of client environments.",business;signal;place
+5454,"Moving freight across 48 states from Overland Park, Rocking K Logistics generates load quotes, carrier selections and exception notes on every shipment.",business;signal;place
+5455,"Sea View Technologies has been in supply chain technology in Hampton, NH since 1997, with HubSpot tracking accounts, plus implementation records and support tickets.",business;signal;tool;place
+5456,"St Nicholas Foundation has owned apartments in Northridge since 1979, which produces leasing files, maintenance requests and vendor invoices for each building.",business;signal;place
+5457,"Tradewind Services has contracted facility work from Richland for 21 years, which means work orders, inspection checklists and service completion records.",name;bucket;signal;place
+5458,"As an electrical contractor in Clayton since 2011, Calvin Electric writes up estimates, permit records and job completion notes tied to real installs.",business;signal;place
+5459,"Forty-four years of audit and tax work in Atlanta leave Carmichael, Brasher, Tuvell with engagement workpapers and review notes in a consistent professional format.",business;signal;place
+5460,"Delerme CPA has prepared books and returns out of Atlanta since 2009 with QuickBooks, which builds engagement workpapers and reviewer notes year after year.",business;signal;tool;place
+5461,"Nineteen years of running a private academy in Houston means St. Michael's Learning Academy keeps curriculum materials, schedules and facilities and compliance documentation.",business;signal;place
+5462,"Twenty-nine years of IT services from Armonk give Advantage Technologies a deep log of help desk tickets, escalations and remediation notes.",business;signal;place
+5463,"North Star Computing has taught computer skills in Fairbanks since 1993, so 33 years of course content, exercises and assessments sit behind the classes.",business;signal;place
+5464,"Bc Holdings Of Tn has operated in Nashville since 2001, and an education and training business of that age holds course content, assessments and delivery records.",name;bucket;signal;place
+5465,"Publishing US Black Engineer for 41 years leaves Career Communications Group with editorial archives, career content and reader support tickets in Zendesk.",business;signal;tool
+5466,"Mcm Learning has provided training in Sterling Heights since 1991, building 35 years of course content, assessments and delivery materials.",business;signal;place
+5467,"Pci Global in New York has been in business for 35 years, and for a training-oriented firm that means course content, assessments and delivery records.",name;bucket;signal;place
+5468,"Delivering diversity training and consulting in all 50 states, Diversity Builder generates workshop content, assessment tools and engagement reports.",business;signal
+5469,"Information Technology, based in Silver Spring for 27 years, keeps the service tickets, project records and resolution notes of an IT services business.",business;signal;place
+5470,"Maritime Institute trains mariners in San Diego, and a maritime training institute accumulates course content, exams and instructor materials.",business;place
+5471,"Global Language Translation has handled translation work from Arlington for 25 years, which leaves source documents, translated deliverables and review notes in paired form.",business;signal;place
+5472,"Ten years of education and training work in Brooklyn means Green Tech Leaders has course content, assessments and program materials.",name;bucket;signal;place
+5473,"With Zoho running its operations, Performance Training Resources in Leawood has 28 years of training course content, client programs and delivery records.",business;signal;tool;place
+5474,"Running a 24/7 help desk in-house on Autotask, Secure Techies in Canoga Park generates tickets, escalations and security remediation notes around the clock.",business;signal;tool;place
+5475,"A 143-person staff augmentation firm in Lehi, Kajae handles candidate submittals, client feedback and placement outcomes, with Zoho tracking them.",business;signal;tool;place
+5476,"Billing and subscription software on Freshdesk support means ApexEdge in Miami holds invoice configurations, subscription events and customer support tickets.",business;tool;place
+5477,"Operating in more than 20 states, Altamira generates work orders, site inspection records and vendor service logs across a distributed facilities footprint.",name;bucket;signal
+5478,"Seventy-one years of education testing and scoring products from Cerritos leave Apperson with test form designs, scoring rules and customer support records.",business;signal;place
+5479,"Arena Physica builds AI engineering software in New York, so simulation setups, design iterations and user support records come from real engineering workflows.",business;place
+5480,"Private investigations since 2016 leave RJV Investigations with case reports, surveillance logs and field notes in a consistent format.",business;signal
+5481,"Speco Technologies makes video surveillance equipment in Amityville and runs compliance and its knowledge base in-house, so product documentation and support articles are structured.",business;signal;place
+5482,"With 24 guards on its roster in Clearfield, Tellus Management and Consulting produces patrol logs, shift reports and incident write-ups.",name;bucket;signal;place
+5483,"Running 24/7 healthcare staffing out of Gray, Ally Healthcare Staffing generates shift requests, facility orders and scheduling records, with HubSpot tracking the pipeline.",business;signal;tool;place
+5484,"Advisory and audit work done in-house at Gross in Iowa leaves engagement workpapers, review notes and QuickBooks-based client files in a consistent format.",business;signal;tool;place
+5485,"Loxo builds recruiting software in Texas, so submittal activity, outreach templates and customer support history are generated across many recruiting teams.",business;place
+5486,"Kh IT Services has run IT services and a help desk in Austin for 10 years, so ticket histories, escalations and fix notes pile up daily.",business;signal;place
+5487,"Eleven years of research and analytics consulting in Washington give Polygon Research methodology write-ups, datasets and client deliverable reports.",business;signal;place
+5488,"Teaching coding at a bootcamp in Troy since 2013, Mobi Boot Camp has curriculum, programming exercises and graded assignments in structured form.",business;signal;place
+5489,"Environmental software and services since 1997 mean Locus Technologies manages sampling results, compliance reports and monitoring data from Mountain View.",business;signal;place
+5490,"Laurel Bridge Software has built healthcare imaging software for 27 years, which means integration configurations, release notes and support tickets out of Newark.",business;signal;place
+5491,Twenty-three years in Newport Beach with NetSuite behind the books mean Formtran's software business keeps implementation records and support tickets.,name;bucket;signal;tool;place
+5492,"Speech and language software from College Park gives Omnispeech scoring rules, evaluation material and support records built across 17 years.",business;signal;place
+5493,"Aurigo Software Technologies serves 300+ customers with infrastructure project software, which means bids, change orders and project cost records at scale.",business;signal
+5494,"Omnibond Systems has sold software and systems for 27 years from Salem, SC, so release notes, support cases and deployment records run deep.",business;signal;place
+5495,"Technology transfer software since 1992 means Inteum sits around invention disclosures, patent filings and license agreement workflows.",business;signal
+5496,"Sceris has built software in Marlborough for 33 years, so implementation records, support tickets and release notes have piled up.",name;bucket;signal;place
+5497,"Fluency builds SIEM security software in Rockville, so detection rules, alert investigations and customer support tickets come with the product.",business;place
+5498,"Learning analytics software since 2015 means Performitiv sees training evaluations, program effectiveness scores and implementation records across customer learning programs.",business;signal
+5499,"3 Forge has made data visualization software in New York since 2012, with Zoho tracking customers, so dashboard configurations and support tickets stack up.",business;signal;tool;place
+5500,"Digital forensics software since 1999 gives Paraben, in Gruetli Laager, a record of case workflows, parser updates and support tickets.",business;signal;place
+5501,"Document editor components sold since 2013 mean Text Control in Charlotte keeps developer support tickets, release notes and integration samples.",business;signal;place
+5502,"Bodex has built software out of Lehi since 2011 with Jira tracking the work, so issue histories, specs and release notes accumulate.",name;bucket;signal;tool;place
+5503,"Fifteen years running a software business from Dahlonega leaves Essential New Technologies with project specs, bug histories and support records.",name;bucket;signal;place
+5504,"Digital and IT services for federal work since 2006 mean Ignite Digital Federal Services produces statements of work, delivery reports and ticket records from San Diego.",business;signal;place
+5505,"Irongrove has done software work in Houston since 2004, which leaves project requirements, implementation records and support tickets.",name;bucket;signal;place
+5506,"As a corporate research laboratory in Princeton, Nec Laboratories America produces experiment logs, research papers and datasets across 38 years.",business;signal;place
+5507,"Managed IT and cloud services in Crown Point on ConnectWise generate tickets, change records and remediation notes for Cloudbusters across 13 years of client environments.",business;signal;tool;place
+5508,"1Dynamic does IT consulting out of Fairfax and runs quality assurance and support in-house, so test results, defect logs and Jira tickets are on record.",business;signal;tool;place
+5509,"Because Beremote runs support and technicians in-house from Cheshire, it keeps service tickets, field visit notes and fix records.",name;bucket;signal;place
+5510,"Managing IT for 150+ clients out of Fairfax, Ingress IT Solutions logs a wide range of tickets, alerts and remediation notes.",business;signal;place
+5511,"Gentec Advantage runs its help desk and onboarding in-house from Doral, which creates support tickets, onboarding checklists and resolution notes.",name;bucket;signal;place
+5512,"Medicare claims recovery since 2014 gives Msp Recovery process documentation, workflow tickets in Jira and compliance records.",business;signal;tool
+5513,"Inventiv Technology staffs a 24/7 help desk in-house from Katy, which yields round-the-clock tickets, escalations and resolution notes.",name;bucket;signal;place
+5514,"Escalation handled in-house around the clock at Satius Security in Portage means alerts, triage decisions and escalation notes in a consistent format.",name;bucket;signal;place
+5515,"Andrew Boles runs data consulting from Woodway with implementation handled in-house, producing project scopes, data models and deliverable notes tracked in Zoho.",business;signal;tool;place
+5516,"Placing IT talent in all 50 states, Akshar IT Solutions builds up submittals, interview notes and placement outcomes in one place.",business;signal
+5517,"Employvision has placed talent from Somerset for 21 years with Salesforce at the center, a long record of submittals, client feedback and hires.",business;signal;tool;place
+5518,"Ten years as an alarm company in Doral means Alarm Brokers Of Florida holds quotes, installation records and service histories.",business;signal;place
+5519,"Mk Solutions has operated in York for 17 years in the security space, which usually means site assessments, install records and service tickets.",name;bucket;signal;place
+5520,"Techwise in Colorado Springs has been at facilities work since 2000, with 26 years of work orders, inspection notes and service histories.",name;bucket;signal;place
+5521,"Nitya is a CPA firm in Columbia on QuickBooks, so since 2014 its tax and accounting engagements generate workpapers and reviewer notes.",business;signal;tool;place
+5522,Systems simulation software for 41 years means Isee Systems holds model documentation and support cases from users building simulations.,business;signal
+5523,"Mission Critical Protocols handles implementation and support in-house from Sacramento, which yields deployment records, protocol specs and support tickets.",name;bucket;signal;place
+5524,"I5 Sharepoint Consulting in Bowie, 13 years in, builds SharePoint solutions, so requirements, configuration documentation and support requests accumulate.",name;bucket;signal;place
+5525,"Blue Symphony has been in software in Kansas City for 24 years, which leaves project specs, release histories and client support records.",name;bucket;signal;place
+5526,"Over 500 audio video projects means The Stereo Man in Arlington has quotes, system designs and install notes for each one.",business;signal;place
+5527,"Ark Solutions has staffed IT talent from Reston for 23 years on JobDiva, leaving a record of submittals, interviews and placement outcomes.",business;signal;tool;place
+5528,"With 4200+ placements run through Bullhorn, Logix in Burlington has a deep record of submittals, interview notes and placement outcomes.",name;bucket;signal;tool;place
+5529,"Security systems integration in Dallas for 20 years, with HubSpot behind sales, means Knight Security Systems holds proposals, system designs and install and service records.",business;signal;tool;place
+5530,"Thirty-one years of Houdini development in Santa Monica give SideFX procedural 3D assets, technical documentation and user support threads.",business;signal;place
+5531,"Encore Analytics has been an analytics firm in Destin since 2009, so client datasets, model documentation and report deliverables build up.",name;bucket;signal;place
+5532,"Open Range Software has developed software from Crab Orchard for 24 years, leaving requirements, code reviews and support histories.",business;signal;place
+5533,"Ventech Solutions runs support in-house on ServiceNow, which means incident tickets, change records and resolution notes from its IT and health software work.",business;signal;tool
+5534,"Document imaging in Saginaw since 2006 means US Imaging produces scanning job specs, indexing rules and quality check logs.",business;signal;place
+5535,"Bell Federal Systems has contracted federal IT from Springfield since 2014, leaving deliverables, task orders and support records tracked in Zoho.",business;signal;tool;place
+5536,"Nebula Intel has been in software in Las Vegas since 2015, so product specs, support tickets and release notes have accumulated.",name;bucket;signal;place
+5537,"Software for wiping data since 2016 means Wipeos holds wipe job logs, verification reports and support tickets from Eden Prairie.",business;signal;place
+5538,"Quality Services International in San Antonio has served for 26 years, and facility services create work orders, inspection checklists and service logs.",name;bucket;signal;place
+5539,Advisory and audit work in-house at Gwinnett Business Consultants leaves engagement workpapers and review notes from Snellville clients.,business;signal;place
+5540,"Dubinsky Consulting runs advisory and audit in-house from Palm Beach Gardens, which generates engagement files and review workpapers.",business;signal;place
+5541,"Leadership courses and certification delivered in-house in Utah leave Achieve Today with course content, assessments and participant feedback.",business;signal;place
+5542,"RFID deployments since 2005 give Rfid Global Solution in Reston tag specs, site surveys and implementation notes.",business;signal;place
+5543,"With 2000+ customers collecting industrial data, Datalyzer International in Wixom handles installation configs, data collection setups and support tickets.",business;signal;place
+5544,"Sst Systems has operated in Pleasanton since 1982, and 44 years of software and systems work leaves project specs, implementation records and support tickets.",name;bucket;signal;place
+5545,"Education services since 2014 out of McKinney means Eduproject Ell holds program materials, curriculum and project documentation.",business;signal;place
+5546,"Data Fusion provides IT services from Mechanicsburg, where the day-to-day work creates service tickets, project notes and remediation records.",business;place
+5547,"Federal IT services in Anchorage on ConnectWise leave Koniag Data Solutions with tickets, change records and resolution notes.",business;tool;place
+5548,"Varetis has built software out of Tyrone since 1998, so 28 years of implementation records, support tickets and release notes have piled up.",name;bucket;signal;place
+5549,"Supporting over 100 clients from Upper Marlboro, E Source Technologies logs IT service tickets, project records and resolution notes.",business;signal;place
+5550,"Vastec in Tampa has done IT and software services for 19 years with Jira tracking delivery, so issue histories, specs and delivery notes pile up.",business;signal;tool;place
+5551,"Ascend Innovations has run healthcare analytics and IT projects out of Dayton since 2015, and Jira holds the project plans, requirements and delivery records.",business;signal;tool;place

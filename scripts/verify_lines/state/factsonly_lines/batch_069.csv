@@ -1,0 +1,151 @@
+row,new_line,basis
+10202,"Eighteen years of hazmat and environmental service calls out of Escondido leave Harmony Environmental Services with job files, site findings and cleanup documentation.",business;signal;location
+10203,"Eleven years of restoration and recovery jobs out of Blackfoot give J Foster & Associates a steady stream of estimates, site notes and job close-out records.",bucket;signal;location
+10204,"With HubSpot tracking its leads, Enspired Solutions in Lansing keeps a running record of inquiries, quotes and the job documentation that follows a recovery call.",bucket;tool;location
+10205,"Spill Solved sends its own technicians to cleanup calls around Saint Cloud, so incident intake, response notes and completion records are its own, tracked in HubSpot.",business;signal;tool
+10206,"Fifteen years of sales and service work from Gravois Mills means Veterans Worldwide Sales & Services holds a long run of customer orders, service requests and job records.",name;signal;location
+10207,"Graymar Environmental Services runs its client portal and emergency response in-house, so remediation scopes, field data and incident reports from Moses Lake sit in one system.",business;signal;location
+10208,"Twelve years of project work out of Sacramento gives Indus General a trail of bids, change orders and job records from each build it has taken on.",name;signal;location
+10209,"Meadows Cmpg has been operating in Norfolk for 14 years, long enough to collect estimates, job notes and completion records from recovery and restoration work.",bucket;signal;location
+10210,"Since 2007, Elm Solutions has been logging restoration and recovery jobs out of Lynnwood, which adds up to 19 years of scopes, site notes and completion records.",bucket;signal;location
+10211,"Abatement jobs produce survey results, containment plans and clearance documentation, and American Vets Abatement Experts has been filing them in Connecticut for 14 years.",business;signal;location
+10212,"After 29 years of contracting out of Astoria, Abc Construction Contracting holds a deep archive of bids, change orders and project closeout files.",business;signal;location
+10213,"Archview Services does restoration and recovery work from Maryland Heights, and that kind of job leaves scopes, site photos and completion paperwork behind.",bucket;location
+10214,"Industrial services in Oakland generate work orders, site safety documentation and completion reports, and Bayview Industrial Services has been producing them for 10 years.",business;signal;location
+10215,"Groundwater remediation engineering means sampling results, system monitoring data and compliance reports, and Ground/Water Treatment & Technology has built that record in Wharton since 2013.",business;signal;location
+10216,"As a Pueblo-owned services contractor in Santa Fe for 19 years, San Ildefonso Services accumulates proposals, work orders and project closeout records.",business;signal;location
+10217,"Environmental consulting in Reno leaves site assessments, sampling data and regulatory reports behind, and Nevada Environmental Consulting has been writing them for 11 years.",business;signal;location
+10218,Fifty-one years of environmental consulting and laboratory work means Kemron holds an unusual pairing of field site reports and lab analytical results in structured form.,business;signal
+10219,"Remediation and consulting work around Norwood produces scopes, field data and closure reports, and Banner Environmental Services has been generating them for 12 years.",business;signal;location
+10220,"Every restoration job a Rainbow International franchise runs out of Fairview Heights produces intake notes, moisture readings and claims documentation.",business;location
+10221,"Specialty Abatement Services has worked out of Hattiesburg since 1991, which adds up to 35 years of abatement surveys, containment plans and clearance records.",business;signal;location
+10222,"Safety work out of Sioux City tends to leave inspection findings, training records and corrective action logs, and Act Safe has been at it for 13 years.",business;signal;location
+10223,"More than 260 radiological engineering projects means Ameriphysics holds a deep set of technical reports, calculations and compliance documentation in a consistent format.",business;signal
+10224,"Stantech has operated out of Oklahoma City since 2015, and 11 years of recovery-sector jobs leave a record of scopes, site notes and completed work orders.",name;bucket;signal;location
+10225,"An analytical laboratory in Port Allen produces sample intake logs, test results and chain-of-custody records, and Ars Analytical has been generating them for 13 years.",business;signal;location
+10226,"Geoscience and environmental consulting from Wheat Ridge since 2009 gives Tasman Geosciences 17 years of site investigations, field data and monitoring reports.",business;signal;location
+10227,"Twenty-one years of remediation and consulting jobs in Raynham means Your Environmental Solutions has a deep file of work plans, field results and closure documentation.",business;signal;location
+10228,"Marion Environmental has done remediation and consulting work out of Chattanooga since 1991, with 35 years of site assessments, cleanup records and compliance reports behind it.",business;signal;location
+10229,"Environmental services from Kingsland over the past 11 years leave Expeditionary Environmental with project files of site data, work plans and compliance documentation.",business;signal;location
+10230,"Water and fire restoration calls in Charlotte give SERVPRO of NW Charlotte intake records, moisture readings and claims documentation, 14 years of it.",business;signal;location
+10231,"Eleven years working out of Pocatello means Sundance-Ea Partners has built up project files, site notes and reports from its field work.",name;signal;location
+10232,"Amero Environmental Solutions does remediation and consulting work from Atlanta, which means site assessments, cleanup plans and compliance reports pile up on every job.",business;location
+10233,"Nineteen years in Louisville, TN gives Vrhabilis a long job history, and in recovery and restoration work that means estimates, site notes and completion records.",bucket;signal;location
+10234,"Ensero Solutions runs estimates and implementation in-house for cloud and infrastructure work, so project scopes, migration plans and support tickets are all its own.",business;signal
+10235,"Mbz Industrial has operated out of Rancho Santa Margarita for 11 years, and industrial job work leaves bids, work orders and job completion records.",business;signal;location
+10236,"Tonch General Maintenance Florida keeps its documentation in-house, so maintenance work orders, site notes and completion records from Bushnell jobs are its own.",business;signal;location
+10237,"Demolition and environmental projects in Albany leave bids, site surveys and closeout documentation, and Orion Demolition & Environmental Services has produced them for 10 years.",business;signal;location
+10238,"Fifteen years in Norman means Cavins Group has been logging jobs, estimates and completion paperwork from its recovery and restoration work.",bucket;signal;location
+10239,"Environmental services work out of West Chester, 18 years of it, leaves Hei Of Pa with site reports, field data and compliance documents.",business;signal;location
+10240,"Environmental research and restoration work in Alaska produces field data, site surveys and restoration plans, and Talarik Research And Restoration Services has 11 years of it.",business;signal;location
+10241,"Onvector has worked from King Of Prussia for 14 years, and a recovery-sector firm that long holds a trail of project scopes, site notes and completion records.",name;bucket;signal;location
+10242,"Selling septic and drain treatment products from Sunrise for 14 years leaves Eco Global Sales Group with order histories, customer inquiries and product support records.",business;signal;location
+10243,"Concrete cutting jobs in Newport produce bids, job-site measurements and completion records, and Lakeside Concrete Cutting has been logging them for 14 years.",business;signal;location
+10244,"As a restoration franchise in Killeen for 12 years, Uresti Enterprises sits on intake notes, moisture readings and claims paperwork from every loss it has handled.",business;signal;location
+10245,"Cleaning contracts in Fredericksburg mean schedules, task checklists and inspection notes, and Ullrich'S Cleaning Services has kept them for 14 years.",business;signal;location
+10246,"Ten years of operating out of Ridgefield gives Pacific Coast Carbon a steady log of projects, site records and completion paperwork.",name;signal;location
+10247,"H&P Construction runs inspections in-house for its environmental work around Fountain, so inspection findings, remediation scopes and closeout records stay under its roof.",business;signal;location
+10248,"Twenty-eight years of restoration jobs around Virginia Beach means United Restoration holds intake notes, scopes and claims documentation from every loss it has worked.",business;signal;location
+10249,"One Reef has been working out of Rowlett for 16 years, which in recovery and restoration work means jobs, estimates and completion records add up fast.",bucket;signal;location
+10250,"In San Antonio, abatement jobs leave survey results, containment plans and clearance documentation, and American Abatement has 17 years of them on file.",business;signal;location
+10251,"With Zoho handling its records, Matcon in Maple Valley has 17 years of project estimates, job notes and customer communications in one place.",name;signal;tool;location
+10252,"Kanway Abatement & Demolition runs its estimates in-house, so every University Place abatement and demolition bid sits alongside the scope and job records it produced.",business;signal;location
+10253,"Environmental and munitions response work, with emergency and inspections handled in-house, means Mecx-Ayuda produces incident reports, inspection findings and response documentation.",business;signal
+10254,"Disaster response and construction work out of Mesa leaves Bgi-Bers Jv with damage assessments, scopes of work and project closeout records.",business;location
+10255,"Eleven years of Dallas work tracked in Zoho means Ridgeline Integrated Solutions has a long record of quotes, projects and customer follow-ups.",name;signal;tool;location
+10256,"Environmental consulting out of Hartford since 2002 gives Environmental Partners 24 years of site assessments, monitoring data and regulatory reports.",business;signal;location
+10257,"Forty-nine years of construction and environmental contracting from South Kent leaves Concord Construction with bids, project files and closeout documentation.",business;signal;location
+10258,"Focal Technologies has run a technology business in Portland for 17 years, the kind of work that leaves support tickets, project records and implementation notes.",business;signal;location
+10259,"Four decades in business means Colfax in Chicago has accumulated order records, service histories and project documentation, 41 years of it.",name;signal;location
+10260,"Prism Response has a response business's paper trail from 16 years in Pittsburgh: incident intake, job scopes and completion records.",name;bucket;signal;location
+10261,"Fifteen years of contracting in Fresno leaves Cve Contracting Group with bids, change orders and job files from each project.",business;signal;location
+10262,"Landmark Environmental & Demolition has spent 10 years on environmental and demolition jobs around Cumming, each one producing bids, site surveys and closeout paperwork.",business;signal;location
+10263,"Nielsen Environmental runs insurance in-house for its Los Angeles remediation and consulting work, so job scopes, field data and coverage documentation line up in one place.",business;signal;location
+10264,"In Commerce City, 12 years of remediation and consulting work gives Oak Environmental site assessments, cleanup plans and compliance reports.",business;signal;location
+10265,"Jersey City contracting jobs produce estimates, change orders and completion records, and 21 Contracting has 11 years of them.",business;signal;location
+10266,"Maintenance work out of Petaluma generates work orders, service histories and completion notes, and Northbay Maintenance has been logging them for 16 years.",business;signal;location
+10267,"Seventy-one years of insulation contracting in Premont means Myane Insulation & Construction holds bids, job specifications and installation records going back to 1955.",business;signal;location
+10268,"Hawkins CPA Solutions runs audit and bookkeeping in-house from Brandywine, so engagement files, workpapers and review notes all come from one team.",business;signal;location
+10269,"Outsourced CFO and accounting work from Boxford leaves Hubcfo with monthly close files, forecasts and review notes built over 12 years.",business;signal;location
+10270,"A. Woods has served clients from Ellenwood for 10 years, and an accounting practice that long accumulates engagement files, workpapers and review notes.",name;bucket;signal;location
+10271,"Thirty years in Pittsburgh gives Gleason & Associates a deep archive of expert reports, engagement files and supporting analyses.",name;signal;location
+10272,"Conrad LLP, a CPA firm in Lake Forest for 15 years, has engagement workpapers, tax files and review notes in a consistent professional format.",business;signal;location
+10273,"Kompleye Attestation runs audit and engagements in-house on Salesforce, so compliance audit files, attestation reports and engagement records live in one structured system.",business;signal;tool
+10274,"Any accounting practice like Yem in Rio Grande keeps engagement files, workpapers and review notes on every client it serves.",name;bucket
+10275,"Twenty-seven years of accounting work in Randolph means Sambo Okolo has a deep set of engagement files, workpapers and review documentation.",business;signal;location
+10276,"Yeto Accounting And Tax handles advisory and bookkeeping in-house from Chicago, which produces reconciliations, tax workpapers and advisory memos for each client.",business;signal;location
+10277,"Vienna's Ahmad Associates has practiced for 37 years, and a CPA firm of that vintage holds audit, tax and review workpapers going back to 1989.",business;signal;location
+10278,"Isla Verde's Aquino, De Cordova has been a CPA firm since 1997, which means 29 years of audit and tax workpapers and review files.",business;signal;location
+10279,"As a CPA firm in Smithfield, Emy Neuman-Javornik builds engagement files, tax workpapers and review notes into every client relationship.",business;location
+10280,"Twelve years of Norfolk client work means Jones CPA Group has tax and accounting workpapers, engagement letters and review notes in a consistent format.",business;signal;location
+10281,"Gibson Ruddock Patterson has been a CPA firm in El Paso since 2007, leaving 19 years of audit programs, workpapers and partner review notes.",business;signal;location
+10282,"Eighteen years in Cincinnati gives Richardson & Associates a steady accumulation of client engagements, workpapers and review notes.",name;bucket;signal;location
+10283,"Since 1981 in Guaynabo, Falcon Sanchez & Associates has been building 45 years of client engagement files, workpapers and review notes.",name;bucket;signal;location
+10284,"Albany, Georgia has been home to the Draffin & Tucker CPA practice since 1978, which means 48 years of audit and tax workpapers and review files.",business;signal;location
+10285,"Consulting engagements out of Dorado, 13 years of them, leave Strider Consulting with proposals, deliverables and engagement notes.",name;signal;location
+10286,"Tax and accounting work from Melville since 2002 means Judith Francis holds 24 years of tax workpapers, client organizers and review notes.",business;signal;location
+10287,"A Waco CPA firm in business since 1923, Pattillo Brown & Hill holds 103 years of audit, tax and review workpapers, a rare long-running record.",business;signal;location
+10288,"Calabrese Consulting's CPA work in Malverne over 16 years builds a library of tax workpapers, engagement files and review notes.",business;signal;location
+10289,"Umair Ak CPA runs advisory and audit in-house from Richmond, so audit programs, advisory deliverables and review notes sit together.",business;signal;location
+10290,Twenty-nine years as a CPA firm in Saint Petersburg means Garcia & Ortiz holds engagement workpapers and review files in a consistent shape.,business;signal;location
+10291,"Twelve years of client work in Alpharetta, tracked in Zoho, gives Neil Gonsalves & Associates a structured record of engagements and review notes.",name;bucket;signal;tool;location
+10292,"Verticals runs advisory and audit in-house from Atlanta, so engagement scoping, audit workpapers and advisory deliverables are all its own.",business;signal;location
+10293,"Romain CPA has run a Brooklyn practice for 12 years, producing tax workpapers, client organizers and review notes with every engagement.",business;signal;location
+10294,"Active Assets has served Oakland clients for 16 years, and a finance practice that long keeps engagement files, workpapers and client reporting packages.",name;bucket;signal;location
+10295,"Thirteen years in Rockville gives Mn Blum a steady file of client engagements, workpapers and reviewer notes to draw on.",name;bucket;signal;location
+10296,"Heberger's CPA practice in Fresno goes back to 1997, which means 29 years of audit and tax workpapers and review documentation.",business;signal;location
+10297,"Phoenix-based Hacker Accounting has been an accounting firm for 19 years, with reconciliations, workpapers and review notes to show for it.",business;signal;location
+10298,"Clark And Anderson has done CPA work in Glen Burnie since 1980, 46 years of engagement files and review workpapers in a consistent format.",business;signal;location
+10299,"Cn Resource has been in Mesa for 24 years, and an accounting practice of that age holds engagement files, workpapers and review notes.",name;bucket;signal;location
+10300,"Alice L Porter's CPA practice in Ellicott City has run since 1997, leaving 29 years of tax workpapers and client engagement files.",business;signal;location
+10301,A decade of CPA work in Glen Ellyn means Mashiatulla & Associates has built tax and accounting workpapers and engagement files since 2016.,business;signal;location
+10302,"Orlando's Davis Consulting has been a CPA firm since 2002, which adds up to 24 years of audit, tax and review workpapers.",business;signal;location
+10303,"Newhouse & Vogler has practiced as CPAs in Anchorage since 1990, producing 36 years of audit and tax workpapers and review files.",business;signal;location
+10304,"CPA and advisory work in Fort Lauderdale since 1996 gives Kapila Mukamal 30 years of audit workpapers, advisory deliverables and review notes.",business;signal;location
+10305,Twenty-five years of practice in Las Vegas means Dena Lacy Hartzell CPA holds tax workpapers and client engagement files built up over time.,business;signal;location
+10306,"Optima CPA Solutions has served Juncos for 14 years as a CPA firm, accumulating engagement workpapers, tax files and review notes.",business;signal;location
+10307,"Fourteen years as a CPA firm in Annandale means Yi has engagement workpapers, tax files and review notes in a consistent format.",business;signal;location
+10308,"Davis Audrey Robinette has been a CPA firm in Clarksville since 1993, and 33 years of audit and tax workpapers is a deep, consistent archive.",business;signal;location
+10309,"Since 1990 in San Juan, Ortiz, Rivera, Rivera has built 36 years of CPA engagement files, audit workpapers and review notes.",business;signal;location
+10310,"Upper Marlboro's Accounting & Tax Solutions has handled accounting and tax work for 34 years, leaving behind return workpapers and engagement records.",business;signal;location
+10311,"A Pasadena CPA practice since 1987, Vernon D. Baptiste holds 39 years of tax and accounting workpapers and engagement files.",business;signal;location
+10312,"Burell & Associates has worked in Miami since 2000, and 26 years of client engagements leave workpapers, review notes and reporting packages.",name;bucket;signal;location
+10313,"Pressley & Associates has run a CPA practice in Arroyo Grande for 21 years, building engagement workpapers, tax files and review notes.",business;signal;location
+10314,"Twenty-six years of CPA work in Beaumont leaves Richmond Bennett with audit and tax workpapers, engagement files and review notes.",business;signal;location
+10315,"Howard Wershbale has been a CPA firm in Woodmere since 1990, so 36 years of engagement workpapers and review documentation are on file.",business;signal;location
+10316,"Honolulu CPA firm Kmh LLP has practiced for 24 years, leaving audit and tax workpapers, engagement files and review notes in structured form.",business;signal;location
+10317,"Neumeister & Associates runs advisory and bookkeeping in-house from Burbank, with HubSpot behind it, so engagement notes, reconciliations and client follow-ups share one record.",business;signal;tool;location
+10318,"Tax preparation in Gulfport leaves Streetman Tax Services with a file for every return: intake organizers, return workpapers and filing records.",business;location
+10319,"Clear Finances And Consulting handles bookkeeping and payroll in-house from Elmendorf, which produces reconciliations, payroll registers and month-end review notes.",business;signal;location
+10320,"Inception Tax Services does its audit work in-house in Atlanta, so tax return workpapers, audit support and review notes come from one team.",business;signal;location
+10321,"Fifteen years of tax preparation in Houston gives Family Affairs Tax Pros a deep run of return workpapers, intake organizers and filing records.",business;signal;location
+10322,"Twenty years of tax preparation from Stone Mountain means Strategic Tax Service holds return workpapers, organizers and filing records in a repeatable format.",business;signal;location
+10323,"Accounting Solutions 55 runs audit and bookkeeping in-house from Miramar, so reconciliations, audit workpapers and review notes are all produced by one team.",business;signal;location
+10324,"Nineteen years of consulting from Washington, DC leaves Lj Consultants with proposals, engagement deliverables and project notes for each client.",name;signal;location
+10325,"Ms Phelps CPA has run a Detroit practice for 12 years, accumulating tax workpapers, engagement files and review notes.",business;signal;location
+10326,"E. T. & J. Financials runs bookkeeping and close in-house from Hopkins, so reconciliations, month-end close checklists and review notes come from one hand.",business;signal;location
+10327,"Riston Financial Service Group does financial services and bookkeeping in Cincinnati, which means reconciliations, ledgers and monthly reporting packages for each client.",business;location
+10328,"Cooper Thomas has practiced in Washington, DC for 23 years, and a firm that long holds engagement files, workpapers and review notes.",name;bucket;signal;location
+10329,"Network engineering consulting in Dacula leaves design documents, configuration records and troubleshooting notes, and Consultant For Complex Network Engineering Technologies has 14 years of them.",business;signal;location
+10330,"Ten years of financial and bookkeeping work from Macon gives Amina Financial Solutions reconciliations, ledgers and monthly reporting packages in a repeatable format.",business;signal;location
+10331,"Fmr Consulting has consulted from Alexandria for 25 years, which leaves a long record of proposals, engagement deliverables and project notes.",name;signal;location
+10332,"Thirteen years of medical services in San Jose means Zen Medical Services keeps scheduling, vendor and compliance documentation, the administrative backbone of a practice.",business;signal;location
+10333,"Corporate Facts has operated out of Jacksonville for 26 years, long enough to build a deep set of engagement files, workpapers and client reporting records.",name;bucket;signal;location
+10334,"Abacus Accounting has done accounting work in Longwood for 10 years, producing reconciliations, workpapers and review notes on every engagement.",business;signal;location
+10335,"Management, accounting and tax services out of Vero Beach for 12 years leave Me Management, Accounting, Taxes & More with workpapers, ledgers and review notes.",business;signal;location
+10336,"Super Bookkeepers has kept books out of Forest Hill for 16 years, which means reconciliations, ledgers and month-end review notes in a consistent format.",business;signal;location
+10337,"Thirty years of medical consulting from Woodland Hills means Stat Medical Consulting holds engagement proposals, deliverables and compliance documentation.",business;signal;location
+10338,"Sum Of The Digits Bookkeeping handles bookkeeping and payroll in-house from Williamsport, so reconciliations, payroll registers and month-end notes live together.",business;signal;location
+10339,"Evesham's Acute Accounting Solutions has spent 12 years producing accounting work, with reconciliations, workpapers and review notes behind every engagement.",business;signal;location
+10340,"With reach across 50 states, Solution 8020 deals with filings and engagements in many jurisdictions, a record of workpapers and client files.",name;bucket;signal
+10341,"Doherty And Associates has worked from Wilmington for 25 years, and a practice that long holds engagement files, workpapers and review notes.",name;bucket;signal;location
+10342,"Trace Forensic Experts runs audit and engagements in-house from Oconomowoc, so forensic accounting workpapers, expert analyses and engagement files are all its own.",business;signal;location
+10343,"Meiday Accounting keeps bookkeeping and its client portal in-house in Yountville, so reconciliations, client requests and review notes sit in one place.",business;signal;location
+10344,"Twenty-four years of medical solutions work out of Conway means Omega Medical Solutions holds vendor, scheduling and compliance documentation built over time.",business;signal;location
+10345,Thirteen years of medical billing and revenue recovery in Worthington leave Specialized Medical Billing & Revenue Recovery Services with process documentation and payer-rule playbooks.,business;signal;location
+10346,"Netscript has been in business for 25 years from London, AR, long enough to accumulate project records, client agreements and service histories.",name;signal;location
+10347,"As CPA and bankruptcy trustee since 1999, Soneet R Kapila holds case files, asset analyses and trustee reports built over 27 years.",business;signal
+10348,"Harrisburg's Susquehanna Accounting & Consulting Solutions has worked 12 years in accounting and consulting, leaving workpapers, deliverables and engagement notes.",business;signal;location
+10349,"Equity investment since 1998 means Capital Plus Equity in Knoxville has 28 years of deal files, investment memos and portfolio reviews.",business;signal;location
+10350,"Billing services out of Ponce since 2000 give The Billing House 26 years of invoice runs, reconciliation records and payment follow-up notes.",business;signal;location
+10351,"Korschot has been a CPA firm in Kansas City for 30 years, which adds up to audit and tax workpapers, engagement files and review notes.",business;signal;location

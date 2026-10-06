@@ -1,0 +1,151 @@
+row,new_line,basis
+10652,"Reliability engineering software at 12,000 sites leaves Isograph with failure models, analysis configurations and support cases tied to real equipment.",business;signal;bucket
+10653,"Thirteen years of building reporting software in Braintree gives CIP Reporting a steady stream of implementation records, report configurations and support tickets.",business;signal;name
+10654,"Clc Compliance Technologies has done compliance software and services since 1999, which means a long record of client requirements, audit findings and support history.",business;signal;name
+10655,"Twenty-four years of software work out of Diamondhead, MS leaves Nvision Solutions with project records, support tickets and implementation notes.",name;bucket;signal
+10656,"Since 1999, IT consulting from Leesburg has meant Dulles Technology Partners keeps a deep file of client tickets, project scopes and remediation notes.",business;signal;location;name
+10657,"Data management work with implementation run in-house across multiple locations means Aydata Management accumulates project plans, data mappings and issue logs.",business;signal;name
+10658,"Thirty-nine years of leadership training gives Performance Support Systems an archive of course content, assessments and participant feedback built since 1987.",business;signal;name
+10659,"Eighteen years of healthcare IT software means Healthdatix has built up implementation records, support tickets and configuration documentation across its releases.",business;signal;name
+10660,"Defense and public safety software since 2004 leaves Advanced Ground Information Systems with a structured record of requirements, test results and field support issues.",business;signal;name
+10661,"Transcend Business Solutions has been going for 23 years from Bethel, CT, and a software shop that long keeps project records, support tickets and change requests.",name;bucket;signal;location
+10662,"Sixteen years of software work in Grapevine means Elemental Methods has quietly collected project specs, support tickets and release notes.",name;bucket;signal;location
+10663,"Knack Technologies has run since 2001 in Augusta, GA, long enough for a software business to build a consistent record of tickets, change requests and delivery notes.",name;bucket;signal;location
+10664,"Seventeen years, based in Leesburg, VA: that is a lot of project documentation, tickets and delivery records sitting inside Mission Services.",name;bucket;signal;location
+10665,"Out of Acton, MA, thirteen years of software delivery means Apss Futuristics holds design specs, bug reports and customer requests in one running history.",name;bucket;signal;location
+10666,"Conexus has been in Salt Lake City since 1994, and thirty-two years of software work means a deep archive of tickets, specs and release history.",name;bucket;signal;location
+10667,"Government IT consulting with support handled in-house gives Black Canyon Consulting a record of help-desk tickets, task orders and deliverable reviews in Fairfax.",business;signal;location;name
+10668,"Twelve years in Solon, OH puts Trustiphi in the group of software companies with a real history of support tickets, release notes and customer requests.",name;bucket;signal;location
+10669,"With Jira tracking the work, 20 years of software projects in Durham leave One Cow Standing with issue histories, specs and delivery notes few shops keep so consistently.",name;bucket;signal;tool;location
+10670,"Software services since 2005 mean Mpower Software Services has built up client requirements, defect logs and delivery records over 21 years.",business;signal;name
+10671,"Trinity Information Technology has handled IT services around Yardley, PA for 21 years, which adds up to a long run of tickets, project notes and fix records.",business;signal;location;name
+10672,"Running a 24/7 operation from Mamaroneck means Bermen March generates a steady flow of tickets, escalations and remediation notes, around the clock.",name;bucket;signal;location
+10673,"With Autotask in the mix and 42 years of IT services behind it, Tallgrass Systems has a deep record of tickets, escalations and remediation notes.",business;signal;tool;name
+10674,"Mis Sciences has been in Burbank since 1996, and three decades of software and systems work leaves behind project specs, support tickets and change records.",name;bucket;signal;location
+10675,"Forty-four years of consulting and technical services from Lenoir City, TN means Delta-21 Resources holds engagement reports, technical deliverables and project files.",business;signal;location;name
+10676,"Stability Technology Partners has used Bullhorn through 15 years of technology staffing and consulting, which makes for a consistent record of submittals, interviews and placements.",business;signal;tool;name
+10677,"Staffing work with compliance handled in-house leaves Va-Trak with submittals, screening checks and placement outcomes documented in one place.",name;bucket;signal
+10678,"Managing communities in-house around Mount Vernon, WA means Hkp Properties produces leasing files, maintenance requests and resident communications every day.",business;signal;location;name
+10679,"Security Walls has worked security services in Knoxville since 2003, which means 23 years of incident reports, site assessments and service records.",business;signal;location;name
+10680,"Twenty years of field services in Nashville leaves Precision Field Services with work orders, site checklists and service completion records.",business;signal;location;name
+10681,"Forty-one years of janitorial building services, with HubSpot tracking the accounts, give Janico Building Services a long record of bids, site schedules and inspection checklists.",business;signal;tool;name
+10682,"Premier Mechanical runs 24/7 emergency service as a mechanical and HVAC contractor, so every after-hours call leaves a dispatch record, a diagnosis and a repair note.",business;signal;name
+10683,"Business coaching and online courses, plus a certification program run in-house, give Jill Griffin Ventures course content, assessments and learner feedback.",business;signal;name
+10684,"Data and IT services since 2001 mean Ward Data Services holds 25 years of tickets, project records and remediation notes from Sterling.",business;signal;location;name
+10685,"In Saint Petersburg for 24 years, Crystal Clear Technologies has been resolving managed IT tickets, and every escalation and fix is a record.",business;signal;location;name
+10686,"Storage IT Solutions has spent 20 years on IT storage in Cary, IL, which leaves behind sizing quotes, configuration records and support cases.",business;signal;location;name
+10687,"Eighteen years of IT services around Greenbelt, MD give Trinity Technology Partners a deep log of tickets, escalations and remediation steps.",business;signal;location;name
+10688,"Certification courses taught by in-house instructors mean Renaissance IT Training produces course content, exams and learner feedback, with Zoho in the stack.",business;signal;tool;name
+10689,"Training more than 1,000 officers produces lesson plans, scenario assessments and instructor evaluations, the material Moser Training Solutions has built up in Monument.",business;signal;location;name
+10690,"Running cohorts and courses in-house means Ald And Associates builds curriculum, assessments and feedback forms with every session.",name;bucket;signal
+10691,"Assessments and certification run in-house at Petersen Training make for exam banks, course materials and completion records in a consistent format.",business;signal;name
+10692,"Thirteen years of international consulting out of Miami leaves Impact International Consulting with engagement reports, training materials and program documentation.",business;signal;location;name
+10693,"Paradigm 360 Enterprise Solutions has been in Charlotte for 14 years, long enough to build up training content, client deliverables and session feedback.",name;bucket;signal;location
+10694,"Seventeen years teaching rigging in Zephyrhills means Elite Rigging Academy has built curriculum, safety procedures and course materials for a trade few others document well.",business;signal;location;name
+10695,"A decade of health science consulting from Tallahassee leaves Florida Health Science Consulting with curriculum materials, program documentation and compliance guidance.",business;signal;location;name
+10696,"Brain Squared Solutions has spent ten years in Sacramento building training programs, which means course content, assessments and participant feedback.",name;bucket;signal;location
+10697,"Thirty-five years of telemetry systems hardware and engineering give Advanced Telemetry Systems International design records, test results and field support histories.",business;signal;name
+10698,"ERP and management consulting out of Denver produces vendor selections, implementation assessments and project reviews, and Panorama Consulting Solutions has 14 years of them.",business;signal;location;name
+10699,"Ndemand Consulting Services has delivered consulting from Atlanta for 14 years, leaving engagement documents, training materials and client deliverables.",business;signal;location;name
+10700,"Twelve years of drone training in Loveland gives Drone U course content, exam prep and lesson material on a fast-moving field.",business;signal;location;name
+10701,"Since 1998, Megamind has been running training from Aptos, CA, and 28 years of courses leave course content, assessments and learner feedback.",business;signal;location;name
+10702,"Forensics training in Lake Worth since 2011 gives Pdm Innovations course content, case-based exercises and assessments built over 15 years.",business;signal;location;name
+10703,"Twenty years of programs out of Duncanville, TX leave Straightway Solutions with training curricula, assessments and participant feedback.",name;bucket;signal;location
+10704,"Consulting from Madison since 2015 gives Resci Consulting eleven years of research reports, workshop materials and client deliverables.",business;signal;location;name
+10705,"Eleven years of communication training from Bend, OR give Verbal Judo scenario exercises, instructor materials and participant evaluations.",business;signal;location;name
+10706,"Outdoor and medical training in Sylva since 2007 gives Landmark Learning course curricula, certification materials and instructor documentation.",business;signal;location;name
+10707,"Handling support in-house at AGS means every customer question becomes a ticket, a resolution and a documented fix.",name;bucket;signal
+10708,"With Bullhorn behind its recruiting, Alderson Loop in Sykesville has a record of submittals, interview notes and placement outcomes.",business;tool;location;name
+10709,"Eighteen years in cybersecurity software means Onsystem Logic has accumulated threat findings, product test records and customer support history.",business;signal;name
+10710,"Running AI software with 24/7 support in-house means Advaint collects user issues, model feedback and resolution notes around the clock.",business;signal;name
+10711,"Professional services delivered in-house from Ashburn, VA mean Next Earth builds up project plans, client requirements and delivery notes.",name;bucket;signal;location
+10712,"Uncertainty quantification software built in Madison since 2012 gives Smartuq model runs, calibration studies and customer support cases.",business;signal;location;name
+10713,"Cloud security compliance software with Jira behind the engineering means Caveonix keeps control mappings, findings and remediation tickets.",business;tool;name
+10714,"Object authentication software leaves Alitheon with enrollment records, match results and defect tickets, all tied to physical items.",business;name
+10715,"Fourteen years in Norfolk, VA gives Xleap a long history of software projects, support tickets and release notes.",name;bucket;signal;location
+10716,"A decade building AI software in San Jose means Reasonics has model evaluations, customer deployments and support issues on record.",business;signal;location;name
+10717,"Customer success and support run in-house at Noteworthy AI, which generates onboarding records, implementation notes and support tickets for its healthcare software.",business;signal;name
+10718,"Software and AI development with support kept in-house gives Lambda Function a running record of bug reports, feature requests and fixes.",business;signal;name
+10719,"Everway has been in Huron, OH since 2008, and eighteen years in software means a deep store of support tickets, release notes and customer requests.",name;bucket;signal;location
+10720,"Symbolic regression analytics software since 2005 gives Evolved Analytics models, datasets and client engagement records from 21 years of work.",business;signal;name
+10721,"Network security testing software produces attack simulations, findings and fix guidance, and Ridge Security Technology tracks the engineering through Jira.",business;tool;name
+10722,"Twelve years running a payments software platform in Phoenix leaves TRXchange with integration records, exception notes and support tickets.",business;signal;location;name
+10723,"Support that runs 24/7 in-house at Innsightful in Sunnyvale produces a constant stream of tickets, resolutions and escalation notes.",name;bucket;signal;location
+10724,"Keeping support in-house, Manifoldz in Corning, NY collects customer tickets, fixes and feature requests in one place.",name;bucket;signal;location
+10725,"Eighteen years in Raleigh, NC puts E. Maygoo Technologies among software shops with a real archive of project specs, tickets and delivery records.",name;bucket;signal;location
+10726,"Code analysis and security software means Openrefactory sees real vulnerability findings, fix patterns and scan results, built up over ten years.",business;signal;name
+10727,"Cybersecurity services with onboarding and support handled in-house give Dmt in Alpharetta assessments, incident tickets and remediation records.",business;signal;location;name
+10728,"A client portal and in-house support for integration work leaves Simplicity Integration with interface specs, change requests and support tickets.",business;signal;name
+10729,"Implementations and support both run in-house at Ashtech Intelligent, so every deployment leaves setup notes, tickets and resolutions, with Zoho in the mix.",name;bucket;signal;tool
+10730,"Twenty-one years of IT services from Cedar Hill, TX means The On Your Side Group holds service tickets, project notes and fix records.",business;signal;location;name
+10731,"Scalecapacity runs support in-house from Burbank, so its customer questions, bug reports and fixes already live in a ticket history.",name;bucket;signal;location
+10732,"In Magna, UT, Envsion Technology handles support in-house, which turns every customer issue into a ticket, a diagnosis and a documented resolution.",name;bucket;signal;location
+10733,"Over 400 projects is a lot of delivery history, and Djicks Global Services in Chicago holds the specs, change requests and issue logs behind each one.",name;bucket;signal;location
+10734,"Ten years of software work from New York leaves Sigma Ridge with project specs, support tickets and release history.",name;bucket;signal;location
+10735,"Blockchain software supported in-house means Quaychain collects integration questions, bug reports and fixes straight from users in Salt Lake City.",business;signal;location;name
+10736,"A client portal plus in-house support gives Neat Circle in Erie a trail of requests, tickets and resolutions on every account.",name;bucket;signal;location
+10737,"Placing IT talent across 14 states, with Salesforce holding the pipeline, leaves Unique System Skills with submittals, interview notes and placement outcomes.",business;signal;tool;name
+10738,"Recruiting data and AI talent with interviews run in-house, and Bullhorn behind it, gives Alldus International Consulting a detailed record of submittals, interview notes and placements.",business;signal;tool;name
+10739,"A CPA practice like Sac Welch Holdings in Atlanta builds engagement files, tax workpapers and review notes with every client cycle.",business;location;name
+10740,"Building controls work in Akron leaves Control Concepts Of Ohio with sequences of operation, commissioning records and service call histories.",business;location;name
+10741,"Argent has been building software in Mount Juliet, TN since 2008, which is 18 years of support tickets, release notes and customer requests.",business;signal;location;name
+10742,"Fifteen years of security software gives VoodooShield threat reports, user-reported issues and support cases, with Zoho in the stack.",business;signal;tool;name
+10743,"Sixteen years of technology development out of Brooklyn leaves Rmz Development with specs, bug reports and delivery notes across projects.",business;signal;location;name
+10744,"Salesforce on the staffing side and implementation handled in-house leave Pfour Solutions with requisitions, submittals and placement outcomes.",name;bucket;signal;tool
+10745,"Fourteen years of IT staffing and consulting on JobDiva give Lingatech a consistent record of submittals, interviews and placement outcomes.",business;signal;tool;name
+10746,"Catastrophe modeling for insurers since 2007 leaves Karen Clark & Company with event footprints, loss estimates and model validation records from 19 years of work.",business;signal;name
+10747,"Twelve years of building digital health games leaves Rxgames with game design documents, content libraries and product testing records.",business;signal;name
+10748,"A client base of 100 means Damage Tech in Irvine holds onboarding records, support tickets and feature requests at real volume.",name;bucket;signal;location
+10749,"Scripting software plus consulting, with support in-house, gives Island Lake Consulting a long thread of user questions, script examples and fixes.",business;signal;name
+10750,"Debate education content on Debatebase means a library of topics, arguments and user feedback, with support handled in-house.",business;signal;name
+10751,"Twelve years in Los Angeles puts Ohhh among software companies with a real history of product specs, support tickets and release notes.",name;bucket;signal;location
+10752,"Text analytics software with support in-house means Sintelix sees real extraction questions, tuning requests and resolutions, with Zoho in the stack.",business;signal;tool;name
+10753,"Implementation and support both done in-house, with Jira tracking, mean Kotula Corsello Tiffany keeps deployment notes, issue histories and resolutions.",name;bucket;signal;tool
+10754,"Account managers and onboarding run in-house at Alowh in La Plata, MD, which yields client onboarding records, account notes and support requests.",name;bucket;signal;location
+10755,Support handled in-house at Empowered-Home.Com means customer questions and fixes pile up into a searchable ticket history out of San Jose.,name;bucket;signal;location
+10756,"Twelve years of publishing tech coverage gives GearBrain a deep archive of articles, editorial notes and reader engagement records.",business;signal;name
+10757,"Mapping and routing software with dispatch and implementation run in-house gives Mapquest route requests, dispatch outcomes and integration records.",business;signal;name
+10758,"Thirty-six years of security work out of Shavertown, PA leaves Amp Global Strategies with incident reports, site assessments and service records.",name;bucket;signal;location
+10759,"Truiem in Naples runs its engineering through Jira, so every feature, bug and release is already a structured record.",name;bucket;tool;location
+10760,"Thirty-six years since 1990 in Vacaville, CA gives Sapien Technologies a lot of software history: specs, support tickets and delivery records.",name;bucket;signal;location
+10761,"Aerospace modeling and simulation software leaves Sedaro with mission models, simulation runs and validation results, ten years of them.",business;signal;name
+10762,"Backup and recovery software with implementation and onboarding in-house means Bacula Systems keeps deployment configurations, restore cases and support histories.",business;signal;name
+10763,"IoT systems with support in-house give I3 Systems device issue reports, configuration records and field fixes from Glendale.",business;signal;location;name
+10764,"Case management and support run in-house at Primary Diagnostics, so there is a trail of workflow records, support tickets and product documentation.",business;signal;name
+10765,"Fifty-plus branches of technology consulting means Advanced Consulting Experts And Solutions carries project records, service tickets and delivery notes across many sites.",business;signal;name
+10766,"Technology consulting delivered in-house from Baltimore leaves B3T Consulting with statements of work, project plans and deliverable reviews.",business;signal;location;name
+10767,"Media production in Woodbridge, VA leaves 29Th Frame Media with project briefs, client revisions and delivery records, and support is handled in-house.",business;signal;location;name
+10768,"IT and cyber services with customer success in-house mean Cylogic keeps tickets, security findings and remediation notes.",business;signal;name
+10769,"Fifteen years of paperless document solutions in Endicott leaves Paper Alternative Solutions with scanning specs, workflow configurations and client project records.",business;signal;location;name
+10770,"Support handled in-house means each customer issue at Celsoft Solutions becomes a ticket, a diagnosis and a documented fix.",name;bucket;signal
+10771,"Software and Linux development since 2014 leaves Blue Systems USA with bug reports, packaging notes and release history.",business;signal;name
+10772,"A private school like Adam J. Lewis Academy generates curriculum materials, facilities records and vendor and compliance documentation across each school year.",business;name
+10773,"Online tutoring and test prep means Turito builds course content, practice question banks and platform support records, with Zoho in the stack.",business;tool;name
+10774,"Curriculum and instructors run in-house at Green Works In Kansas City, which means course materials, assessments and program records.",business;signal;name
+10775,"Tutoring courses built in-house leave Prep For Success Tutors with lesson materials, curriculum plans and scheduling records across New Jersey.",business;signal;location;name
+10776,"Running a charter school in Oklahoma means curriculum materials, compliance documentation and facilities records, all of which Tulsa Honor Academy maintains.",business;location;name
+10777,"Courses run in-house at In The Gap generate curriculum, program materials and assessments in a consistent format.",name;bucket;signal
+10778,"Harrah High School keeps schedules, curriculum materials, facilities requests and vendor records that make up the administrative side of a public high school.",business;name
+10779,"Classical Christian curriculum and an online school mean Veritas Press holds lesson content, course materials and assessments in a consistent structure.",business;name
+10780,"Charter schools with enrollment run in-house give Gestalt Community Schools curriculum materials, scheduling records and compliance documentation.",business;signal;name
+10781,"Youth creative education programs like Creator Camp's produce curriculum, session plans and activity materials every season.",business;name
+10782,"Lessons run in-house for leadership development, so Global Leader Group builds lesson content, exercises and participant feedback.",business;signal;name
+10783,"Edge Foundation's student coaching work produces program curriculum, coach training materials and aggregate outcome reports.",business;signal;name
+10784,"Curriculum built in-house across One City Schools gives it lesson sequences, assessment design and compliance documentation.",business;signal;name
+10785,"Christian K-12 schools like Shining Star Christian Schools have curriculum materials, facilities records and vendor documentation behind every school year.",business;name
+10786,"Fifteen years of software in Sarasota gives Performa Software USA a long record of implementation notes, support tickets and release history.",business;signal;location;name
+10787,"Particle simulation software supported 24/7 in-house means Reactor Eye logs real simulation setup questions, issues and fixes in Houston.",business;signal;location;name
+10788,"One hundred twenty projects in healthcare-related services leave Across with project plans, vendor records and compliance documentation.",business;signal;name
+10789,"Via Logic works in software out of Arlington, VA, and project specs, tickets and delivery notes are the records that kind of work leaves.",name;bucket;location
+10790,"Eleven years of software work in Silver Spring leaves The Turnout with product specs, support tickets and release notes.",name;bucket;signal;location
+10791,"Space operations data services since 2015 means Comspoc holds analysis products, mission reports and client data deliverables.",business;signal;name
+10792,"Distributing industrial machinery from Round Rock, TX for 13 years gives Doota Industrial America quotes, spec sheets and after-sales service records.",business;signal;location;name
+10793,"Cloudseac supports its customers in-house from Alexandria, LA, so tickets, diagnoses and resolutions land in one running record.",name;bucket;signal;location
+10794,"Ten years of real estate technology conferences and advisory leave Realcomm Global with session content, speaker materials and advisory reports.",business;signal;name
+10795,"With Bullhorn behind AEC technology placements and onboarding handled in-house, Certis Solutions tracks requisitions, submittals and placement outcomes.",business;signal;tool;name
+10796,"Techtalent Squared has placed tech talent from Marietta, GA since 2013, and Bullhorn holds the submittals, interview notes and outcomes behind it.",business;signal;tool;location;name
+10797,"Placements run in-house in Toledo, with HubSpot tracking relationships, give Premier Staffing Solution client requests, submittals and placement outcomes.",business;signal;tool;location;name
+10798,"Installing electronic security systems alongside IT integration for 12 years leaves Aero Creek with site surveys, system designs and service call records.",business;signal;name
+10799,"A decade of software out of Princeville, IL gives Steadymouse a quiet archive of specs, support tickets and release notes.",name;bucket;signal;location
+10800,"Industrial control system security software means Fortiphyd Logic works with attack scenarios, test results and customer findings, ten years of them.",business;signal;name
+10801,"Support run in-house at Gogyup in Minneapolis turns customer questions into tickets, resolutions and documented fixes.",name;bucket;signal;location

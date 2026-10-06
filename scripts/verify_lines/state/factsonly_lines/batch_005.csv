@@ -1,0 +1,151 @@
+row,new_line,basis
+602,"Twenty-five years of placing talent out of Asbury Park, with JobDiva behind it, means TTI of USA holds a long record of submittals, interview notes and placement outcomes.",name;bucket;signal;tool
+603,"Twenty-two years of software and data services, with NetSuite and Salesforce tracking the customers, leaves Comprobase with implementation records, support requests and delivery notes.",business;signal;tool
+604,"Placing temporary and permanent staff out of Land O Lakes since 2005 gives JMI Resource 21 years of job orders, candidate submittals and placement outcomes.",business;signal
+605,"Since 1995 Repucare has managed reputation work for care providers, and tracking it in Bullhorn builds a record of engagements, review-response drafts and campaign reporting.",business;signal;tool
+606,"Restoration and construction jobs around Thonotosassa since 2005 mean Showalter Construction And Restoration has 21 years of intake notes, scopes of work and claims documentation.",business;signal
+607,"Comprehensive Accounting Solutions has run QuickBooks-based engagements out of Mokena for 19 years, which adds up to a deep file of client workpapers, reconciliations and review notes.",business;signal;tool
+608,"As an IT training and certification center since 1985, Online Consulting has 41 years of course content, practice assessments and learner feedback in one consistent structure.",business;signal
+609,"ACEDS teaches e-discovery and legal technology, so every course and certification exam builds up curriculum, assessment questions and learner feedback in a structured form.",business
+610,"Online career bootcamps from San Francisco give Springboard curriculum content, project rubrics and learner feedback that all live in a consistent, structured format.",business;place
+611,"ThinkCERCA's K-12 literacy platform, running alongside Canvas, produces lesson content, writing rubrics and assessment items that are tightly structured.",business;tool
+612,"With 130,000+ customers shipping through Worldwide Express, the quote, carrier selection and exception records behind each shipment add up to an unusually large freight dataset.",business;signal
+613,"Building custom eLearning in New York, Inspired Elearning accumulates storyboards, course scripts and assessment items, with Canvas and Salesforce tracking the projects around them.",business;place;tool
+614,"Web Courseworks has been building learning management systems in Madison since 1979, 47 years of implementation records, course configurations and support cases.",business;signal;place
+615,"Ebusiness Solutions has delivered IT and web services from Columbus for 21 years, and the support tickets and project records behind that work sit in HubSpot and Salesforce.",business;signal;tool
+616,"Because Archy runs onboarding and support in-house for its cloud dental practice software, it keeps implementation steps, Zendesk tickets and resolved how-to questions in one place.",business;signal;tool
+617,"Candu's customer success and implementation teams, working out of HubSpot and Intercom, build up onboarding records and support conversations around an in-app experience builder.",business;signal;tool
+618,"Serving 3,000+ customers with sales prospecting software, Growbots has a deep record of onboarding steps, support tickets and campaign setup questions.",business;signal
+619,"Escalations on contact center monitoring are handled in-house at Operata, and tracked across Zendesk and Salesforce, they make a detailed log of incidents, diagnoses and fixes.",business;signal;tool
+620,"Listkit builds B2B lead lists and handles onboarding and professional services itself, so Jira and HubSpot hold list specs, delivery requests and customer feedback.",business;signal;tool
+621,"Implementing ecommerce and ERP projects on Acumatica and Microsoft Dynamics leaves Sellerscommerce with project specs, onboarding records and integration notes in a consistent form.",business;signal;tool
+622,"With 500+ projects delivered in IT and software consulting, Techforce Global holds scoping documents, requirements and delivery notes from a wide range of engagements.",business;signal;tool
+623,"Implementing workload identity and access software in-house, Aembit keeps Zendesk tickets, implementation records and customer success notes tied to real deployments.",business;signal;tool
+624,"Over 1,000 customers reporting ESG and sustainability data through Measurabl generate support tickets, onboarding records and data-quality questions in a very consistent structure.",business;signal;tool
+625,"Supporting drilling and completions software in-house from Midland, AI Driller accumulates support requests and workflow questions tied to real drilling operations.",business;signal;place
+626,"Thirteen years of industrial IoT software at Altizon means implementation records, device integration notes and support cases from real industrial deployments.",business;signal
+627,"Forty-two years of HVAC and plumbing work out of Sparta gives Armock Mechanical Contractors a deep archive of bids, submittals, RFIs and service records.",business;signal;place
+628,"Fulfillment and assembly work in Butner since 2005 produces work orders, kitting instructions and exception notes at Allpack, with Zendesk logging client requests.",business;signal;tool;place
+629,"Fionta has served 1,200+ clients in digital marketing and technology from Washington, so campaign briefs, Jira tickets and client reviews form a rich record.",business;signal;tool;place
+630,"ETC Solutions has handled IT services from La Plata for 16 years, and the tickets, remediation notes and project records in Salesforce make a steady log.",business;signal;tool;place
+631,"Fourteen years in Lewisville and 106 people on Salesforce give KTech Products a base of customer quotes, service tickets and order history.",name;bucket;signal;tool
+632,"Running 24/7 support in-house, Enumerate logs tickets and escalations around the clock, with HubSpot and Salesforce holding the customer history behind them.",business;signal;tool
+633,"Coordinating clinical trial recruitment across 800 sites means 1nHealth keeps site onboarding, campaign performance and outreach scheduling records, the operational side of the work.",business;signal
+634,"Nineteen years in freight out of Wheat Ridge means Platinum Cargo Logistics has quotes, carrier rate decisions and shipment exception notes, with HubSpot tracking customers.",name;bucket;signal;tool
+635,"Managing 2,700 units from Richmond, Genesis Properties handles leasing, maintenance work orders and resident requests at a scale that produces a consistent record.",business;signal;place
+636,"Twenty-five years of accounting work means APN Group holds engagement files, review workpapers and client communications, with HubSpot tracking the relationships.",name;bucket;signal;tool
+637,"Media supply chain software, fifteen years in Los Angeles, leaves Ateliere Creative Technologies with implementation records, Jira tickets and delivery specs for customer content workflows.",business;signal;tool;place
+638,"Environmental consulting and abatement across 29 years leaves ALC Environmental with site surveys, abatement logs and compliance reports out of New York.",business;signal;place
+639,"Heavy hauling and rigging since 1913 gives Ace Doran a 113-year record of quotes, load plans and dispatch decisions in Cincinnati.",business;signal;place
+640,"Courier runs out of Inglewood since 1988 mean Apollo Couriers has built 38 years of delivery requests, dispatch decisions and exception notes.",business;signal;place
+641,"CTL Global has moved freight from Elk Grove Village for 48 years, which means quotes, carrier selections and exception handling in one consistent record.",business;signal;place
+642,"IXP has done network and IT infrastructure work since 1999, so 27 years of designs, ticketed changes and remediation notes sit with the team in Princeton.",business;signal;place
+643,"In Schaumburg for 27 years, Links Technology Solutions supports clients' IT with tickets, escalations and remediation notes that Salesforce keeps tied to each account.",business;signal;place;tool
+644,"Elevate Living manages from Wayzata with Yardi and Zendesk behind it, so leasing, maintenance and resident requests pile up in two structured systems.",business;place;tool
+645,"Trucking out of Fresno for 55 years has given Johanson Transportation Service a deep record of loads, rate decisions and delivery exceptions.",business;signal;place
+646,Forty-three years as a California CPA firm leaves Smith Marion with tax and audit workpapers and review notes built up engagement by engagement.,business;signal;place
+647,"Tax credit consulting since 1998 means Mcmillian & Associates builds study documentation, qualification analyses and credit calculations, with Salesforce tracking engagements.",business;signal;tool
+648,"Lauterbach & Amen has practiced as a CPA firm in Illinois for 29 years, so audit and tax workpapers and review notes are its daily output.",business;signal;place
+649,"Decimal runs advisory and bookkeeping in-house, which builds a record of monthly close files, categorization decisions and advisory memos out of Kansas.",business;signal;place
+650,"SSC CPAs + Advisors has 42 years of audit, tax and advisory engagements in Kansas, which adds up to a deep library of workpapers and review comments.",business;signal;place
+651,"Advisory and bookkeeping handled in-house at Chazin means engagement files, close checklists and advisory deliverables, with HubSpot tracking the client relationships.",business;signal;tool
+652,"Andavi Solutions supports IT consulting clients in-house from Covina, so Zendesk tickets and Salesforce account notes form a running record of requests and fixes.",business;signal;tool;place
+653,"Forty-three years of managed IT and telecom, with Kaseya running monitoring behind it, leaves IT Voice with a long log of alerts, tickets and remediation notes.",business;signal;tool
+654,"Centrical's workforce engagement software is thirteen years old, which means a long run of implementation records, configuration decisions and support cases.",business;signal
+655,"Win-loss analysis at Clozd turns closed deals into structured findings, and a customer success team running 24/7 adds Jira and Salesforce records of requests and outcomes.",business;signal;tool
+656,"Commercial property management in Bend since 1996, with Yardi behind it, leaves Compass Commercial Real Estate Services with leases, maintenance requests and tenant correspondence.",business;signal;tool;place
+657,"Since 1909 Kaufman has owned and managed real estate, and Yardi now holds more than a century of leasing, maintenance and tenant requests.",business;signal;tool
+658,"Application performance monitoring at AppEnsure, sixteen years running, produces alert data, incident diagnoses and support cases tied to real application behavior.",business;signal
+659,"Prism PPM handles implementation and its own knowledge base in-house, so project portfolio rollouts leave behind configuration notes and how-to articles in a consistent form.",business;signal
+660,"Twenty-five years of technical documentation software leaves Anark with implementation records, support cases and documentation structures from its Boulder base.",business;signal;place
+661,"Tonic AI does implementation and onboarding in-house for its synthetic data software, so customer rollouts leave data-mapping notes, tickets and Salesforce records.",business;signal;tool
+662,"At TopQuadrant, twenty-five years of semantic data management means implementation notes, data modeling projects and Salesforce support records from customers.",business;signal;tool
+663,"Identity management software since 2004, with HubSpot and Salesforce behind it, leaves Identity Automation with 22 years of implementation records and support tickets.",business;signal;tool
+664,"Customers in 35+ states and conversations running through Intercom mean Buildwithin keeps a steady record of customer questions, onboarding steps and account notes.",name;bucket;signal;tool
+665,Lab automation software at Indigo Bioautomation produces implementation records and Zendesk tickets from real lab workflows after 22 years in Carmel.,business;signal;tool;place
+666,"With onboarding and support handled in-house, Class Technologies turns virtual classroom rollouts into implementation records and support tickets.",business;signal
+667,"Social media tools for newsrooms, sixteen years in Detroit, mean Social News Desk keeps Zendesk tickets and HubSpot records of how publishers use the software.",business;signal;tool;place
+668,"Healthcare technology services since 2013 mean Avidon Health keeps project plans, implementation records and vendor documentation, with Salesforce tracking the engagements.",business;signal;tool
+669,"Stored Technology Solutions manages IT for 500+ clients from Queensbury, which means a deep library of tickets, escalations and remediation notes.",business;signal;place
+670,"Eighteen years in Meridian, with Zoho tracking the work, leaves Advanced Control Systems with a record of service tickets, change requests and project notes.",name;bucket;signal;tool;place
+671,"Cybersecurity and IT services out of Knightdale since 1998 mean Tangible Security holds 28 years of assessments, incident notes and remediation records.",business;signal;place
+672,"A&I Solutions has supported IT clients from Suwanee for 27 years, so tickets, change records and project notes pile up in HubSpot.",business;signal;tool;place
+673,"Help desk and monitoring run in-house at Adaptive Technology Solutions in New Lothrop, with Kaseya feeding alerts, tickets and remediation notes into one record.",business;signal;tool;place
+674,"Supply chain risk management since 2015 gives Avetta Global supplier assessments, compliance findings and follow-ups, with ConnectWise logging the service work.",business;signal;tool
+675,Managed IT out of San Antonio for 14 years means Bridgehead IT works from tickets and project requests tracked across Jira and HubSpot.,business;signal;tool;place
+676,"Three Wire Systems has done IT consulting in McLean for 20 years, so statements of work, project notes and client engagements accumulate in Salesforce and Zoho.",business;signal;tool;place
+677,"Preveil's encrypted email and file software has been in market since 2015, so its Boston support cases and deployment records form a structured trail.",business;signal;place
+678,"Rctech Solutions has operated out of Weston since 2013, and a software company's days produce support tickets, implementation records and release notes.",name;bucket;signal;place
+679,"Lunavi's cloud and managed services work, with Autotask and Salesforce behind it, produces 19 years of tickets, change records and remediation notes in Cheyenne.",business;signal;tool;place
+680,"Butler-Davis Tax & Accounting has prepared returns in Covington since 2011, and QuickBooks files, tax workpapers and review notes accumulate each season.",business;signal;tool;place
+681,"Ariox runs implementation and its own knowledge base in-house, so customer rollouts leave setup notes, how-to articles and NetSuite-linked records.",name;bucket;signal;tool
+682,"Library guides built on LibGuides, seventeen years in Coral Gables, mean Springshare holds guide templates, support requests and implementation records.",business;signal;place
+683,"Employee monitoring software since 1998 means Veriato has 28 years of Zendesk tickets, deployment records and policy configuration support from West Palm Beach.",business;signal;tool;place
+684,"3D printing software at Dyndrite, ten years in Seattle, generates implementation records and support cases that tie to real part-build workflows.",business;signal;place
+685,"Satellite imagery orders handled with 24/7 account management leave SkyFi a structured log of imagery requests, delivery follow-ups and customer questions.",business;signal
+686,"IT managed services and cybersecurity in Saint Louis for 23 years leave Chameleon Integrated Services with tickets, security findings and remediation notes.",business;signal;place
+687,"With 10,400 customers using Patch My PC, support cases and Salesforce account records form a big record of what real patching problems look like.",business;signal;tool
+688,"Cybersecurity and IT services in Baltimore for 20 years leave Isec7 with assessment findings, incident notes and remediation records tracked in Salesforce.",business;signal;tool;place
+689,"Economic and statistical consulting for 23 years in Washington leaves Summit Consulting with analysis plans, methodology memos and client deliverables.",business;signal;place
+690,"Colocation and data center operations in Lowell since 2003 produce provisioning requests, maintenance logs and customer tickets at Markley Group, with NetSuite on the business side.",business;signal;tool;place
+691,Sixty-three years of CPA and advisory work leaves Mercadien with audit and tax workpapers and review notes at a depth few firms keep.,business;signal
+692,"CAD software at Kubotek USA, in Marlborough for 23 years, generates support cases and implementation notes tied to real model files and customer workflows.",business;signal;place
+693,"Webtrends has been doing web analytics for 21 years, so its Portland support cases and implementation records describe how real tracking setups behave.",business;signal;place
+694,"Education payments software at ClassWallet means purchase requests, approvals and vendor documentation flow through one platform, seventeen years of it in Hollywood.",business;signal;place
+695,"Museum engagement software at Cuseum, twelve years in Holyoke, produces implementation records, content setups and support tickets across HubSpot and Salesforce.",business;signal;tool;place
+696,"Sixteen years in Los Angeles with Autotask tracking the work gives Aspire Live a record of tickets, service requests and project notes.",name;bucket;signal;tool;place
+697,"Predictive Technology has delivered IT solutions from Omaha for 23 years, so tickets, project notes and client service history sit in Zoho.",business;signal;tool;place
+698,"Help desk and implementation run in-house at Pop Box in Marietta, with ConnectWise holding tickets, escalations and fix notes.",business;signal;tool;place
+699,"Network Doctor NJ has supported IT clients from Englewood Cliffs for 23 years, which stacks up tickets, outage notes and remediation records.",business;signal;place
+700,"Managed IT for small and mid-size businesses in Moline since 1997 gives Rouse Consulting Group 29 years of tickets, escalations and fix notes.",business;signal;place
+701,"Emergency and omnichannel communications across 47+ states means PEAKE keeps deployment records, connectivity incident notes and service tickets from real events.",business;signal
+702,"Aptiris has built software in Decatur since 1998, and 28 years of support requests, release notes and implementation records come with that.",name;bucket;signal;place
+703,"Modo Networks, seventeen years in Dallas on ConnectWise and Salesforce, produces tickets, network change records and remediation notes.",business;signal;tool;place
+704,"Warehousing and distribution in Buffalo since 1982 gives Sonwil Distribution inbound receipts, inventory movements and order exception records.",business;signal;place
+705,"The Dagiasis Group has run freight work out of Lakewood for 21 years, which produces quotes, carrier decisions and shipment exception notes.",name;bucket;signal;place
+706,"Logistics work out of Chattanooga since 2015 leaves Avenger Logistics with eleven years of quotes, carrier selections and shipment exception notes.",business;signal;place
+707,"Working with 500 carriers out of Urbandale, Worldwide Integrated Supply Chain Solutions makes daily rate and capacity decisions, a record of quotes and exceptions.",business;signal;place
+708,"Since 1907 Holland Transfer has moved freight, and 119 years of trucking out of Statesville is a record of loads, quotes and delivery exceptions.",business;signal;place
+709,"American Logistics has run logistics out of Chattanooga for 25 years, leaving a log of quotes, carrier selections and exception notes.",business;signal;place
+710,"A fleet of over 350 trucks out of Siloam means Hardy Brothers produces dispatch logs, load assignments and delivery exceptions, with Salesforce tracking customers.",business;signal;tool;place
+711,"Twenty-five years of logistics from Port Wentworth gives Port City Logistics quotes, carrier rate decisions and exception notes, with HubSpot tracking customers.",business;signal;tool;place
+712,"Warehousing and distribution in Statesville for 20 years leaves Statesville Distribution Services with receiving logs, inventory movements and order exceptions.",business;signal;place
+713,"Four decades of staffing and recruiting out of Montvale, tracked in Bullhorn, give Hired By Matrix a long record of submittals, interview notes and placement outcomes.",business;signal;tool;place
+714,"Housing military families at Fort Knox since 2006, Knox Hills keeps lease, maintenance and resident request records in Yardi and Salesforce.",business;signal;tool;place
+715,"In business since 1974 in Killeen, East Pointe Center Partnership has half a century of leases, rent records and maintenance requests behind it.",name;bucket;signal;place
+716,"Serving 500+ clients from Mechanicsville, Diana Consulting & Services generates service records, inspection notes and work orders across a long client list.",business;signal;place
+717,"Elevator work across 21 states leaves EMR Elevator with maintenance logs, inspection records and repair estimates tied to real equipment.",business;signal
+718,"Fifty-five years of environmental remediation and marine work give Miller Environmental Group site assessments, field logs and compliance documentation out of Calverton.",business;signal;place
+719,"Marine construction since 1968 leaves Ancon Marine with 58 years of bids, project logs and inspection notes from Los Alamitos.",business;signal;place
+720,"Ten years of accounting work in Lantana means The Nealson Group holds engagement files, workpapers and review notes from a decade of clients.",name;bucket;signal;place
+721,"White Oak Business Services has kept clients' books on QuickBooks in Katy since 2014, leaving reconciliations, categorization decisions and month-end notes.",business;signal;tool;place
+722,"Thirteen years of community programs in Charlotte leave Diverse Community Partners with budgets, program reports and QuickBooks financial records.",business;signal;tool;place
+723,"Orases has built custom software in Maryland for 26 years, so project specs, Jira tickets and delivery notes sit alongside HubSpot customer records.",business;signal;tool;place
+724,"Working with 100 clients means Icon Agility Services keeps engagement records, project notes and account history in Salesforce.",name;bucket;signal;tool
+725,"With 500 clients in IT consulting, Pri Global holds statements of work, project notes and delivery records from a wide engagement history in Missouri.",business;signal;place
+726,"ML and ecommerce consulting at Mlveda, with Acumatica and NetSuite in the mix, means project specs, integration notes and delivery records from twelve years of work.",business;signal;tool
+727,"Document management rollouts handled in-house by Intellinetics leave implementation records, workflow configurations and Autotask and Salesforce tickets.",business;signal;tool
+728,"With 212 people and 32 years behind it, ACDI keeps the customer, project and support records of a company that size, tracked in HubSpot.",name;bucket;signal;tool
+729,"IT consulting out of Orlando since 2007 leaves Crave Infotech with 19 years of project scopes, delivery notes and client requests across HubSpot and Salesforce.",business;signal;tool;place
+730,"ACF Technologies has provided IT services from Asheville for 23 years, so tickets, project notes and customer history sit in HubSpot and Salesforce.",business;signal;tool;place
+731,"Building satellite antenna systems, with 3,000 units delivered, leaves Radeus Labs with build specs, test records and Jira-tracked engineering changes.",business;signal;tool
+732,"With a client portal and implementation handled in-house, Voltican in Houston keeps onboarding records and client requests in one trail.",name;bucket;signal;place
+733,"Implementation run in-house on ServiceNow means Miyo Projek in Brambleton keeps tickets, change requests and delivery notes.",name;bucket;signal;tool;place
+734,"Eleven years of IT consulting in Ashburn gives Raventek Solution Partners a record of project scopes, delivery notes and client support requests.",business;signal;place
+735,"Running monitoring and its own knowledge base in-house, Emerald Technical Solutions & Staffing keeps alerts, how-to articles and placement records.",business;signal
+736,"Eighteen years of Microsoft Dynamics consulting out of Sacramento leaves Dynamics Edge with implementation scopes, configuration notes and Salesforce-tracked engagements.",business;signal;tool;place
+737,"Twenty-nine years of IT consulting and integration in Oak Brook leaves Burwood Group with design documents, project tickets in Jira and client delivery notes.",business;signal;tool;place
+738,"Audit and bookkeeping run in-house at Noble Enterprise Management, so workpapers, reconciliations and review notes accumulate alongside NetSuite records.",name;bucket;signal;tool
+739,"Clearfocus Technologies has delivered IT services from Leesburg for 21 years, and Jira holds the tickets and project notes behind it.",business;signal;tool;place
+740,"Distributing fasteners for 25 years from Valencia, Adept Fasteners has quotes, part-number specs and order exception records across a deep catalog.",business;signal;place
+741,"IT engineering and support for defense, education and government in Denver, 24 years running, leaves RTL Networks with tickets, project documentation and remediation notes.",business;signal;place
+742,"Running 24/7 with its help desk in-house, Brocotec in Houston logs tickets and escalations round the clock in ConnectWise and HubSpot.",name;bucket;signal;tool;place
+743,"Managed helpdesk and network IT runs 24/7 from Colorado Springs at Trinity Data Solutions, with Autotask and Jira holding tickets and monitoring notes.",business;signal;tool;place
+744,"Working across 48 states, Frost builds CPA engagement files, workpapers and review notes, with HubSpot tracking the client relationships.",business;signal;tool
+745,"Thirty years of engineering software and tools gives Technical Toolboxes product documentation, support cases and customer records across HubSpot and Salesforce.",business;signal;tool
+746,"App Technologies has supported IT clients from Norwalk for 23 years, with Jira holding the tickets, change records and project notes.",business;signal;tool;place
+747,"Twenty-five years of IT work out of Charlotte means Micradex Systems has built up tickets, service records and project notes over a long client history.",name;bucket;signal;place
+748,"With 1,500+ IT projects behind it and NinjaOne running the endpoints, Techproc holds a deep log of tickets, alerts and remediation notes.",business;signal;tool
+749,"Thirty-one years of enterprise IT and professional services for government agencies leave Usmax with proposals, deliverables and project documentation from Fairfax.",business;signal;place
+750,"Nanna Networks has handled IT networking in Naperville for 18 years, and ConnectWise holds the tickets, network changes and fix notes.",business;signal;tool;place
+751,"Fourteen years of IT services in Albuquerque, with Zendesk handling requests, leaves Thetapoint a record of tickets, escalations and resolutions.",business;signal;tool;place

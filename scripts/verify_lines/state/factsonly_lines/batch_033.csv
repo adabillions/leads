@@ -1,0 +1,151 @@
+row,new_line,basis
+4802,"Eleven years of computer services in Columbus means Tech Talk Computer Services has built a steady archive of service tickets, repair notes and resolution steps.",business;signal;location
+4803,"Apple repair and IT support since 1989 gives MacMedics 37 years of diagnostic notes, repair tickets and fixes, all tied to real Mac hardware and software failures.",business;signal
+4804,"Dtsv has been in business since 1982, and 44 years of IT work out of Newport News leaves a deep file of support tickets, escalations and project records.",name;bucket;signal
+4805,"Since 2003, Ics-Ct has handled IT work from Seymour, which adds up to over two decades of help desk tickets, escalations and remediation notes.",name;bucket;signal
+4806,"Facility consulting out of Norfolk for 22 years means Facility Consulting Services has accumulated assessments, recommendations and project documentation across many facilities.",business;signal;location
+4807,"Advanced Automation Consulting has spent 23 years on automation projects from Irmo, and each one leaves specifications, commissioning notes and change records.",business;signal;location
+4808,"With more than 1,200 projects completed, Softwarelink in Lancaster holds a large library of requirements, implementation records and support tickets from real software work.",business;signal;location
+4809,"Twenty-two years of IT work in Charlotte gives Global Linking Solutions a long run of support tickets, escalations and remediation notes.",name;bucket;signal
+4810,"Every IT support call E-IT Support has handled in Erie since 2002 left a ticket, a diagnosis and a fix, which adds up to 24 years of real troubleshooting records.",business;signal;location
+4811,"Cobra Technology has been working out of Cibolo since 2003, and 23 years of technology services means a deep file of service tickets and project records.",name;bucket;signal
+4812,"With Jira tracking the work, Strategic Data Storage in Wichita has 17 years of storage and IT requests, change records and resolutions in a structured trail.",business;signal;tool;location
+4813,"Supporting school technology from Fairfield since 2005, Total School Solutions has 21 years of deployment records, help desk tickets and device and network configurations.",business;signal;location
+4814,"Network and IT support in Palm Beach Gardens for 23 years leaves PC Network Solutions with a long log of tickets, network configurations and fixes.",business;signal;location
+4815,"Search marketing campaigns run through HubSpot give Wavelength a trail of keyword research, content briefs and performance reports from real SEO work.",business;tool
+4816,"Thirty-one years in Huntsville, since 1995, means Total Solutions has kept a long set of project records, service tickets and delivery documentation.",name;bucket;signal;location
+4817,"Running implementation in-house as a government contractor in Anchorage means Sugpiat Defense produces statements of work, deployment records and compliance documentation.",business;signal;location
+4818,"Fifteen years of government IT work out of Chantilly gives Chenega Technical Innovations a body of task orders, deliverables and help desk records on government systems.",business;signal;location
+4819,"A tribal defense contractor in Durant since 2013, Choctaw Defense Services generates task order deliverables, status reports and compliance documentation as routine.",business;signal;location
+4820,"Since 1999, North American Consulting Services has run engagements from Point Pleasant, and 27 years of consulting leaves reports, deliverables and project files behind.",business;signal;location
+4821,"Rks Solutions does IT work out of Leesburg, and that work leaves behind service tickets, escalations and remediation notes that rarely get reused.",name;bucket
+4822,"Selling and servicing computers in Gurabo since 1998, Reyann Computer Sales & Service has 28 years of repair tickets, quotes and parts records.",business;signal;location
+4823,"Consilium1 has been doing IT consulting since 1996, so 30 years of assessments, recommendations and implementation notes sit in its project files.",business;signal
+4824,"In Kirkland since 2002, Viper Technology Services has logged 24 years of technology support requests, and each one is a problem paired with its fix.",name;bucket;signal;location
+4825,"Twenty-seven years of consulting from The Dalles gives Seckora Consulting a deep set of assessments, findings and recommendations from real engagements.",business;signal;location
+4826,"Janson Communications has provided communications and telecom services in Fairfax for 29 years, which means site surveys, service tickets and system documentation.",business;signal;location
+4827,"Analytics consulting tracked in Jira means Potentia Analytics has requirements, data issues and delivery tickets recorded across each engagement.",business;tool
+4828,"Thirteen years in Chicago, since 2013, leaves Valia Solutions with project records, support tickets and implementation notes from its solutions work.",name;bucket;signal;location
+4829,"Vision 3000 has spent 24 years in Irvine on IT business solutions, and the quotes, deployments and support tickets from that run are a structured record few shops keep.",business;signal;location
+4830,"Thirty-four years of operating in San Diego since 1992 means Astwood Paul has a long record of IT work, from service requests to project notes.",name;bucket;signal;location
+4831,"Net Core Technologies has delivered technology services in Henderson since 2000, and 26 years of that work shows up as tickets, installs and resolution notes.",business;signal;location
+4832,"Running an IT practice out of Tustin since 1995, Christopher Hyun has 31 years of service calls, fixes and configuration records.",name;bucket;signal;location
+4833,"Daj Consulting has advised from Laurel since 2001, and 25 years of engagements means reports, deliverables and working papers in a consistent format.",business;signal;location
+4834,"Twenty years of investment and capital partnership work in San Antonio leaves New Beginnings Capital Partnership with deal memos, due diligence files and portfolio reports.",business;signal;location
+4835,"A decade of IT services out of Calverton gives Cloud Seven Technology a steady stream of tickets, escalations and remediation notes.",business;signal;location
+4836,"Every ticket Truth Technology has closed in Bowie since 2006 is a documented problem and fix, and 20 years of those is a real body of IT support data.",business;signal;location
+4837,"Media and IT work in Atlanta since 2011 leaves Otm Media & IT Solutions with project briefs, asset libraries and IT support tickets side by side.",business;signal;location
+4838,"Initio Partners has operated out of Roswell since 2010, and 16 years of client work leaves engagement files, deliverables and support records.",name;bucket;signal;location
+4839,"Serving over 1,000 clients means SCG Technologies in Brownsburg has a very large set of service tickets, project records and configuration histories.",business;signal;location
+4840,"Technology consulting from Fulton since 2007 means Visionary Technology Consultants has 19 years of assessments, solution designs and implementation records.",business;signal;location
+4841,"Video production and digital archiving since 1998 leave Video Bank Digital with intake logs, metadata and transfer records tied to real media.",business;signal
+4842,"Thirty-two years of communications and IT solutions in McLean give Communications Resource a deep file of install records, service tickets and system documentation.",business;signal;location
+4843,"Placing talent from Ann Arbor for 42 years, Wolverine Staffing has accumulated job orders, submittals, interview notes and placement outcomes.",business;signal;location
+4844,"With incident response and quality assurance run in-house and tracked in Jira, Steeltoad Consulting generates incident timelines, test cases and defect records.",signal;tool;business
+4845,"Network technology services out of Rochester since 2002 leave Layer 3 Technologies with 24 years of configurations, change records and outage notes.",business;signal;location
+4846,"Sugpiat Group handles implementation in-house from Anchorage, and every rollout produces project plans, configuration records and handoff documentation.",signal;location;bucket
+4847,"Nineteen years of IT services from Randolph means Affinity IT has a long record of tickets, fixes and escalations written up in its own words.",business;signal;location
+4848,"As a federal IT solutions reseller since 2002, Four Points Technology builds quotes, bids and order records for government buyers, 24 years of procurement data.",business;signal
+4849,"Thirty years of computer work in Kingston gives Sos Computers a long list of repair tickets, parts quotes and fixes.",name;bucket;signal;location
+4850,"In Washington since 1991, Ici Systems has 35 years of IT systems project records, support tickets and configuration histories.",business;signal;location
+4851,"Premier Enterprise Solutions has 21 years of IT solutions work behind it in Upper Marlboro, which means quotes, implementation records and support tickets.",business;signal;location
+4852,"For 30 years Binary Group has delivered IT solutions out of Brea, and that history sits in proposals, deployments and service tickets.",business;signal;location
+4853,"Icallidus has been in IT consulting out of Columbia since 1997, and 29 years of engagements leaves statements of work, deliverables and status reports.",business;signal;location
+4854,"GIS consulting since 1999 means Works Consulting in Gilbert holds 27 years of spatial datasets, map products and project documentation.",business;signal;location
+4855,"After 44 years in Hawthorne, Kci has an archive of project files, service tickets and system documentation few IT firms can match.",name;bucket;signal;location
+4856,"At-Impact has spent ten years working out of Great Falls, which leaves a decade of project deliverables, support tickets and implementation notes.",name;bucket;signal;location
+4857,"Virtuo Group has run out of The Woodlands since 2002, and 24 years of technology work produces tickets, project records and configuration notes.",name;bucket;signal;location
+4858,"Out of Luray since 2007, Shine Systems has spent 19 years on technology work, and that history lives in tickets, installs and project notes.",business;signal;location
+4859,"Alyn has been in Roswell since 2010, and sixteen years of IT work leaves support tickets, change records and fixes behind.",name;bucket;signal;location
+4860,"Twelve years of IT solutions from Laytonsville give Erudite Solutions quotes, deployment records and support tickets tied to real client environments.",business;signal;location
+4861,"Selling and servicing computers in Midland since 1982, Abacus Computers has 44 years of quotes, repair tickets and parts records.",business;signal;location
+4862,"Reselling IT to federal buyers for 21 years leaves IT Federal Sales with a long record of quotes, bid responses and order histories.",business;signal
+4863,"Twenty-one years of staffing in Indianapolis means Freedom Staffing holds job orders, submittals, interview notes and placement outcomes.",business;signal;location
+4864,"IT solutions for government since 1995 means Sysorex Government Services keeps proposals, task orders and delivery records spanning 31 years.",business;signal
+4865,"Cardiac imaging work tracked in Jira gives Myocardial Solutions a record of issue tickets, release notes and quality and compliance documentation.",business;tool
+4866,"North Slope Solutions has 22 years behind it in Gaithersburg, and an IT firm that long keeps tickets, project records and remediation notes.",name;bucket;signal;location
+4867,"Software contracting since 1999 leaves Software Contract Solutions with 27 years of requirements, statements of work, deliverables and bug records.",business;signal
+4868,"Eleven years of IT work in Garden Grove means Integrity IT Solutions has closed a long run of tickets, each one a problem, a diagnosis and a fix.",business;signal;location
+4869,"Since 1993 in Alexandria, Applied Computing Technologies has built up 33 years of IT project documentation, support tickets and system records.",business;signal;location
+4870,"IT consulting in Washington since 2013 means Exegus has 13 years of assessments, recommendations and delivery notes.",business;signal;location
+4871,"Eighteen years as a government IT contractor in Vienna means Sky Solutions produces task order deliverables, status reports and system documentation as a matter of course.",business;signal;location
+4872,"Tickets, change records and project files from 27 years of IT services in Oakton are the structured history Sysnet Technologies has been writing since 1999.",business;signal;location
+4873,"Second Factor has been in Vienna since 2013, and 13 years of IT work means a log of service requests, escalations and fixes.",name;bucket;signal;location
+4874,"Twenty-two years of technology services from Belcamp have left Increditek with project records, support tickets and configuration notes.",business;signal;location
+4875,"CMA Technology has been in business since 1989, and 37 years of IT work in Vienna adds up to project files, support records and delivery documentation.",business;signal;location
+4876,"In Dayton since 2015, N-Ovation Technology Group has logged technology service requests, project work and fixes into a record that is hard to find elsewhere.",business;signal;location
+4877,"Running ServiceNow gives Architechture Solutions in Fairfax a structured record of incidents, changes and requests from ten years of technology work.",business;tool;signal;location
+4878,"Sixteen years of technology services in Saint Louis leave Road Map Technologies with project plans, support tickets and implementation notes.",business;signal;location
+4879,"Mora Consultants has consulted out of Escondido since 2014, and twelve years of engagements leaves reports, recommendations and project files.",name;bucket;signal;location
+4880,"Thirty-three years of systems and consulting work from Mill Creek gives Kathcart Open Systems And Consulting system designs, configuration records and engagement notes.",name;bucket;signal;location
+4881,"Networks 2000 has done network IT in San Diego since 1995, so 31 years of network designs, configurations and outage tickets sit in its files.",business;signal;location
+4882,"Digital forensics and cybersecurity casework tracked in Jira leave Sylint with investigation timelines, evidence handling logs and findings reports.",business;tool
+4883,"Global Com has operated from Sterling since 1996, and 30 years of IT work behind it means a long file of service tickets and project records.",name;bucket;signal;location
+4884,"Fifteen years of SQL Server and Azure consulting leave Denny Cherry & Associates with performance findings, migration plans and tuning notes from real production databases.",business;signal
+4885,Forty-five years of solo IT services in Highland means Hermond D Cooper has repair notes and fixes dating back to 1981.,business;signal;location
+4886,"Managed print and imaging since 1998 in Edmond leave Get Imaging with 28 years of service tickets, device records and supply orders.",business;signal;location
+4887,"As a healthcare data software vendor in Carmel for 19 years, Clinical Architecture generates implementation records, support tickets and product documentation.",business;signal;location
+4888,"With Salesforce behind its freight work in Birmingham, Montgomery Logistics has a record of quotes, carrier rate decisions and exception notes.",business;tool;location
+4889,"Expedited freight with tracking and truckload run in-house means Candor Expedite logs every quote, dispatch decision and delivery exception.",business;signal;tool
+4890,"Ten years of tent rentals and sales in Houston leave Industrial Tent Systems with quotes, event specifications, install schedules and job records.",business;signal;location
+4891,"A logistics operation 22 years deep in Huntsville, like Jit Services, accumulates quotes, shipment records and exception notes.",name;bucket;signal;location
+4892,"Thirty-six years of temporary staffing around Falls Church give Northern Virginia Temporaries job orders, timesheets and placement outcomes.",business;signal;location
+4893,"ERP consulting for 20 years from Tracy means Hitech ERP Solutions has implementation plans, configuration records and issue logs.",business;signal;location
+4894,"Adept Professional Staffing has spent 16 years placing professionals out of Bowie, leaving behind submittals, interview notes and placement outcomes.",business;signal;location
+4895,"Executive search since 1983 gives Sigman and Summerfield Associates 43 years of search briefs, candidate slates, interview feedback and placement results.",business;signal
+4896,"Twenty-nine years of running a radiology practice in Vienna means Rao Radiologists holds operational records such as scheduling, equipment and vendor files, and compliance documentation.",business;signal;location
+4897,"Healthcare staffing since 1981 means AMS Healthcare Staffing has facility job orders, requisitions, submittals and placement outcomes spanning 45 years.",business;signal
+4898,"Nurse staffing from Mooresville since 2014 leaves Wellspring Nurse Source with shift requests, submittals and placement outcomes.",business;signal;location
+4899,"Network Temps has filled temp assignments in New York since 1979, which is 47 years of job orders, timesheets and placement outcomes.",name;bucket;signal;location
+4900,"Property management in Washington since 2006 means Cooper & Associates keeps leasing files, maintenance requests and vendor records.",name;bucket;signal;location
+4901,"Running communities and vendors in-house means Jakks Management in Orland Park produces maintenance requests, vendor invoices and leasing records.",business;signal;location
+4902,"Eighteen years of student rentals in Eugene leave Campus Connection Property Management with leasing cycles, maintenance requests and turnover records.",business;signal;location
+4903,"As a commercial real estate owner in Knoxville since 1997, Cooper Commercial Properties holds lease abstracts, tenant requests and maintenance records.",business;signal;location
+4904,"Thirteen properties under management in Horn Lake produce a steady record of leases, work orders and resident requests for Joe Poppenheimer Management.",business;signal;location
+4905,"J'S Associates has worked out of Dunkirk since 2003, and facilities management that long builds up work orders, inspection logs and vendor records.",name;bucket;signal;location
+4906,"Thirty-six years of technology services in Pleasanton leave Intelligent Technologies and Services with project files, installation records and service tickets.",business;signal;location
+4907,"Overhead door installs and service calls in Palmer since 2002 give Door Tech 24 years of estimates, work orders and repair records tied to real doors.",business;signal;location
+4908,"Fifty-two years of elevator installation and service, with Salesforce holding the customer side, give Mid-American Elevator a deep set of service calls and repair records.",business;signal;tool
+4909,"Collins Elevator Service has serviced elevators in Washington since 1978, and 48 years of callbacks, maintenance logs and repair tickets is a rare record.",business;signal;location
+4910,"Since 1947 in Watertown, Francis Garrett has sold and installed overhead doors, and 79 years of quotes, install records and service calls is a rare archive.",business;signal;location
+4911,"With 16 service vehicles out of Fairfax covering lifts and elevators, Alan Tye & Associates leaves a work order and repair notes behind with every call.",business;signal;location
+4912,"A fleet of 23 tractors moving and rigging machinery means DFW Movers & Erectors writes up job quotes, rigging plans and move logs on heavy equipment.",business;signal
+4913,"Door service across Central Illinois for 20 years leaves Childers Door Service with service tickets, quotes and repair histories tied to specific doors.",business;signal;location
+4914,"With 30 locations across 23 states and Salesforce in the mix, A&A Transfer generates quotes, job assignments and completion records at real scale.",signal;tool;name
+4915,"Twenty-eight hundred scaffolding and ladder projects means Anchor Scaffolding & Ladder holds quotes, equipment lists and delivery records for each one.",business;signal
+4916,"Evens Time has been going in Indianapolis since 1934, and 92 years in specialty construction leaves job files, estimates and project records.",name;bucket;signal;location
+4917,"Forty-four years of specialty construction work in Waipahu give Pacific Western a long file of estimates, project records and change orders.",name;bucket;signal;location
+4918,"Specialty construction work in Dallas since 2008 means Monte Martin has 18 years of estimates, submittals and change orders on real jobs.",name;bucket;signal;location
+4919,"Garage door sales and service in Sugarcreek since 1973 add up to 53 years of quotes, install records and repair tickets for Wayne Garage Door Sales & Service.",business;signal;location
+4920,"Every elevator callback South Jersey Elevator has answered out of Blackwood since 2013 became a work order, a diagnosis and a repair record.",business;signal;location
+4921,"Mobility and accessibility equipment in Sacramento for 11 years leaves Sacramento Valley Mobility with quotes, installation and service records, and HubSpot holds the customer trail.",business;signal;tool;location
+4922,"Hmi Industrial Contractors has 34 years of industrial work behind it, which means bids, RFIs, submittals and change orders on real projects.",business;signal
+4923,"Seventy-four years of supplying wire rope and rigging in Eugene leaves Western Wire Rope with quotes, custom assembly orders and delivery records.",business;signal;location
+4924,"Door automation work out of Charlotte since 2001 leaves Piedmont Door Automation with install records, service calls and repair notes tied to specific automatic doors.",business;signal;location
+4925,"Running inspections and technicians in-house, with Jira tracking the work, Unified Door Companies keeps inspection findings, work orders and repair histories.",business;signal;tool
+4926,"Thirty-three years installing garage doors in Sparks means Thompson Garage Doors holds estimates, install records and service histories door by door.",business;signal;location
+4927,"Water weight products since 2005 mean Water Weights handles quotes, spec requests and order records, and HubSpot already keeps the inquiry trail.",business;signal;tool
+4928,"Door sales and service in Boise since 2001 give Crawford Door Sales of Idaho a quarter-century of quotes, install jobs and service tickets.",business;signal;location
+4929,"In Augusta since 1975, Augusta Overhead Door Sales has written 51 years of quotes, install orders and service records.",business;signal;location
+4930,"Industrial door work in Sacramento since 1985 leaves C.C.D.S. with 41 years of quotes, install records and service histories on industrial doors.",business;signal;location
+4931,"Elevator service that runs 24/7 with inspections in-house gives Total Elevator Service a steady log of callbacks, inspection results and repair records.",business;signal
+4932,"Installing lightning protection since 2006 from North Salt Lake means Lightning Protection Systems holds system designs, install records and inspection reports.",business;signal;location
+4933,"Twenty trucks moving and rigging machinery out of Hartford generate rigging plans, job quotes and move records for Central Rigging & Transfer.",business;signal;location
+4934,"Equipment dealing across three states from Holmen means Bernie's Equipment has quotes, sales records and service histories on specific machines.",business;signal;location
+4935,"Generator sales and service since 1961 give Power Equipment 65 years of quotes, installs and maintenance records for specific units out of Attleboro.",business;signal;location
+4936,"Anderson Elevator has been an elevator contractor since 1980, which means 46 years of proposals, installs and service records tied to real equipment.",business;signal
+4937,"Sixty-five years of general contracting from Scottsdale gives D L Norton General Contracting a deep set of bids, RFIs, submittals and change orders.",business;signal;location
+4938,"Door security hardware since 2000 in Candler leaves Smith Door Security with hardware schedules, install records and service calls.",business;signal;location
+4939,"Custom home elevators and lifts in Blue Ash for 22 years mean design quotes, install records and service calls for Custom Home Elevator & Lift.",business;signal;location
+4940,"Thirty-nine years in Oklahoma City puts Tec-An in restoration and recovery work, which produces intake notes, moisture readings and claims documentation.",name;bucket;signal;location
+4941,Twenty-one years of inspections from Pinedale means Worsley Inspections has a long record of inspection reports and findings.,business;signal;location
+4942,"Environmental field work since 1999 leaves Strongarm Environmental Field Services with sampling records, field logs and site documentation from Fullerton.",business;signal;location
+4943,"Xpert Restoration Services has restored properties out of Haughton since 2000, and 26 years of jobs means intake notes, moisture readings and claims documentation.",business;signal;location
+4944,"Cleaning and restoration work in Rancho Cucamonga since 2013 produces job intake, drying logs and claims paperwork for Haven Cleaning and Restoration.",business;signal;location
+4945,"Emergency response out of La Porte for 24 years gives M & M Protection incident reports, response logs and job documentation from real events.",business;signal;location
+4946,"Four decades of environmental services from Epping, with HubSpot tracking the pipeline, give Envirovantage site assessments, sampling results and compliance reports.",business;signal;tool;location
+4947,"Environmental contracting since 1992 in Springfield means Environmental Works has 34 years of bids, field records and compliance documentation.",business;signal;location
+4948,"In Aurora since 2000, Excel Environmental has done environmental services long enough to accumulate site records, test results and compliance reports.",business;signal;location
+4949,"Eighty years as a Chicago contractor leaves R. W. Collins with estimates, drawings, RFIs and change orders going back generations.",business;signal;location
+4950,"Government contracting since 2014 out of Exton means Koman Government Solutions produces proposals, task order deliverables and compliance records.",business;signal;location
+4951,"Summit Holdings has worked out of Oklahoma City since 2002, and restoration and recovery work that long produces intake notes, moisture readings and claims files.",name;bucket;signal;location

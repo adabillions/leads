@@ -1,0 +1,151 @@
+row,new_line,basis
+10352,"Twenty-six years of accounting work out of Conroe leaves Cssg with engagement files, review notes and client workpapers built up one season at a time.",name;bucket;signal;location
+10353,"Since 1999, Medical Billing Services in Fresno has worked payer rules daily, which means 27 years of claim edits, denial categories and follow-up workflows.",business;signal;location
+10354,"Beatrez & Company has been a CPA firm in North Olmsted for 26 years, and that is 26 tax seasons of engagement workpapers, review notes and client memos.",business;signal;location
+10355,"Thirty-six years of tax-exempt bond compliance means American Municipal Tax-Exempt Compliance holds calculations, issuer reviews and compliance documentation in a consistent form.",business;signal
+10356,"Quick Claimers has been billing out of El Paso for 23 years, which adds up to a deep file of payer rules, denial patterns and appeal workflows.",business;signal;location
+10357,"Twenty-two years of accounting work in Kansas City leaves Cummings & with engagement files, review notes and working papers in a steady format.",name;bucket;signal;location
+10358,"Fuse Oncology's HubSpot instance holds the commercial side of an oncology business, from account notes to pipeline stages and follow-up history.",business;tool
+10359,"Call tracking across over 60,000 locations means Convirza handles a huge stream of call data, campaign reports and support tickets, a rare structured dataset.",business;signal
+10360,"As a managed IT shop in Arlington, Strategic Innovation Group works through tickets, escalations and remediation notes that rarely get captured in any structured way.",name;bucket;location
+10361,"With a SOC running around the clock in house, Byte Technology Systems produces alerts, triage decisions and incident write-ups every shift, all tied to real client environments.",business;signal
+10362,"Every help desk request and system change Techfinite Systems handles out of Ellicott City leaves a ticket trail of symptoms, fixes and escalation notes.",business;location
+10363,"Xpathedge works in managed IT from Arlington, Texas, closing tickets and logging remediation steps daily, a resolved-problem record AI teams are short on.",name;bucket;location
+10364,"Handling implementation and incident response in house, Cyber Shell in Orlando writes up real security incidents and the remediation steps that closed them.",business;signal;location
+10365,"Loopcore's managed IT work out of Manassas generates the day-to-day records of the trade: tickets, escalations and the notes that explain how each was fixed.",name;bucket;location
+10366,"In Houston, Pm Connections works in the managed IT space, where each support request leaves a ticket, an escalation path and a remediation note behind.",name;bucket;location
+10367,"Cyber risk assessments out of Greenville leave Cyber Risk Analysis Group with findings, control gaps and remediation recommendations in a repeatable written format.",business;location
+10368,"Running customer success in house for machine identity security software, Corsha logs onboarding steps, support questions and integration issues most vendors never organize.",business;signal;tool
+10369,"SMS marketing automation means Chiirp sees campaign setups, message sequences and customer support threads, with HubSpot records alongside tying each account together.",business;tool
+10370,"Nova Technologies in Bethesda sits in the managed IT world, and that work runs on tickets, change records and escalation notes.",name;bucket;location
+10371,Behind each managed IT client at Onezero Solutions is a stack of Alexandria-area tickets and remediation notes recording exactly how problems got solved.,name;bucket;location
+10372,"Two hundred forty projects tracked in Salesforce gives Techwaukee a consistent trail of scoping notes, implementation records and customer requests.",signal;tool;name
+10373,"Aplus Payroll runs 24/7 with implementation in house, so each new client setup, payroll correction and support request becomes a documented case.",business;signal;tool
+10374,"Disruptive Concepts serves managed IT clients from Oceana, West Virginia, and every request it resolves leaves a ticket, a fix and an escalation note.",name;bucket;location
+10375,"A managed IT practice in Herndon like Act-Jv produces tickets, change logs and incident notes with every client it supports.",name;bucket;location
+10376,"Eleven years of recruitment process outsourcing at Delectus means requisitions, screening notes and hiring outcomes recorded across many client searches.",business;signal
+10377,"Decca Environmental Solutions has spent 11 years in Washington doing environmental consulting, which yields site assessments, compliance reports and regulatory correspondence.",business;signal;location
+10378,"Billing work spanning 38 states leaves CBS Medical Billing with payer-specific procedures, denial workflows and follow-up routines that differ state by state.",business;signal
+10379,"Klatzkin does advisory and audit work in house, so each engagement produces workpapers, review notes and client deliverables under one roof.",business;signal
+10380,"A knowledge base built in house, plus audit engagements behind it, gives Turlington And Company a structured library of procedures, workpapers and technical guidance.",business;signal
+10381,"With more than 60 offices, Cobb Ezekiel Loy & Company produces CPA and advisory workpapers at a volume most firms cannot match.",business;signal
+10382,"Audit and bookkeeping both done in house means Smith, Carney & keeps engagement workpapers and ledger-level records side by side for the same clients.",business;signal
+10383,"Simon Lever handles advisory work and the monthly close in house, which leaves behind reconciliations, close checklists and advisory memos for each client.",business;signal
+10384,"Bellenfant, a Tennessee CPA firm, runs audit and bookkeeping under one roof, producing audit programs, ledger records and review notes on the same clients.",business;signal;location
+10385,"In Vermont, Kittell Branagan & Sargent pairs advisory with audit, so the firm accumulates audit files and advisory recommendations in the same engagement folders.",business;signal;location
+10386,"Tickmarks is a name every auditor recognizes, and a Virginia firm doing advisory and audit in house builds workpapers full of them.",name;bucket;signal;location
+10387,"Advisory and audit run in house at Shindelrock, which means review notes, workpapers and advisory deliverables all come from one Virginia team.",name;bucket;signal;location
+10388,"Vrakas Cpas + Advisors splits its Wisconsin work between advisory and audit, and both leave structured files: workpapers, findings and recommendations.",business;signal;location
+10389,"Bauman Associates runs audit and its own client portal in house, so document requests, audit workpapers and client responses all live in one trail.",business;signal
+10390,"Bookkeeping and a client portal run in house at Integrity Tax Group, turning each tax season into a record of document requests, categorized transactions and returns.",business;signal
+10391,"Consulting CPA firms on how they operate leaves Boomer Consulting with engagement notes, recommendations and follow-ups, many of them tracked in HubSpot.",business;tool
+10392,"The Growth Partnership runs audit and close work in house, so engagements produce workpapers, reconciliations and review notes, with client activity logged in HubSpot.",name;bucket;signal;tool
+10393,"A consulting practice like National Consulting Partners in Woodbridge keeps statements of work, status reports and deliverables from every engagement.",name;bucket;location
+10394,"Mobius Government Solutions in Omaha works on the public side, where proposals, task orders and delivery records pile up on every contract.",name;bucket;location
+10395,"Fourteen years in Upper Marlboro gives Crosdale & Associates a steady archive of engagement files, review notes and client workpapers.",name;bucket;signal;location
+10396,"With account managers and onboarding both in house and Zoho holding the records, Agile Pro Solutions keeps customer requests and implementation history in one place.",name;signal;tool
+10397,"Cyber defense work at Critical Prism Defense generates threat findings, incident timelines and remediation guidance from real client environments.",business
+10398,"Cybersecurity work out of Clinton, Tennessee leaves Cyberlok Security Solutions with a running record of findings, incidents and remediation steps.",business;location
+10399,"Implementation and incident response both stay in house at Zermount, so each Arlington engagement produces build notes, incident timelines and remediation records.",name;bucket;signal;location
+10400,"Impact Tech Solutions supports IT from Frisco, and each service call becomes a ticket, a diagnosis and a resolution note.",business;location
+10401,"From Harrah, Oklahoma, Mayhew Technology Solutions delivers IT solutions, which means project scopes, ticket histories and configuration notes for each client.",business;location
+10402,"Tickets, escalations and fix notes are the daily output of an IT services shop like Connexmore in Mather, California.",name;bucket;location
+10403,"Integres supports clients' IT out of North Bethesda, and each engagement leaves help desk tickets, project notes and documented fixes.",business;location
+10404,"For a managed IT outfit in Washington like Coretec, the real asset is the history: tickets opened, escalations made, problems finally resolved.",name;bucket;location
+10405,"Lean Six Sigma consulting in Sterling means The Porter Group writes process maps, project charters and improvement results for every engagement.",business;location
+10406,"Cloud IT services out of Ashburn leave Nova Cloud with migration plans, support tickets and configuration change records for each environment.",business;location
+10407,"Signetcyber, based in Colorado Springs, works in cybersecurity, so its files fill up with alert triage, incident notes and remediation steps.",business;location
+10408,"A managed IT team in Arlington such as Vericol closes tickets daily, and the escalation and resolution notes behind them are rarely captured as data.",name;bucket;location
+10409,"Twin Oaks Consulting in Millersville works through client engagements that produce statements of work, status reports and deliverables.",name;bucket;location
+10410,"Technology services from Severna Park give Scalable Technologies a library of project plans, support tickets and system change records.",business;location
+10411,"Over 1,200 projects at Vishtek Consulting Services in Rocky Hill means a long run of scopes, status updates and deliverables in a consistent form.",name;bucket;signal;location
+10412,"Elm Park Labs in Ferndale does technology work, and that kind of work leaves behind specs, bug reports and project notes.",name;bucket;location
+10413,"In Baltimore, managed IT work at Vizontek is measured in tickets closed and incidents resolved, each with notes on what was actually wrong.",name;bucket;location
+10414,"Collabrew Consulting's engagements out of Great Falls generate scopes of work, working session notes and finished deliverables.",name;bucket;location
+10415,"Federal contract work at A1Fedimpact in Reston produces proposals, task order deliverables and status reports on a steady cadence.",business;location
+10416,"Cirrus9 Solutions works in Atlanta's managed IT market, where each client request turns into a ticket, an escalation and a fix note.",name;bucket;location
+10417,"Selling and distributing products out of Easthampton gives Shirewire Global Sales And Distribution quotes, purchase orders and shipment records.",business;location
+10418,"Ascentium in Fairfax sits in managed IT, and that kind of work lives in tickets, change requests and incident write-ups.",name;bucket;location
+10419,"With 1,100+ locations in its footprint, Action Technology Services in Sierra Vista logs an enormous volume of service requests, installs and fix notes.",business;signal;location
+10420,"Cybros operates in Florida's IT services space from Loxahatchee, and its tickets and remediation notes capture real fixes to real client problems.",name;bucket;location
+10421,"V3M Global Technologies runs technology engagements from Columbia, Maryland, each one leaving behind requirements, tickets and delivery notes.",name;bucket;location
+10422,"Day to day in Dallas, Civiltronics works through support tickets, escalations and the remediation notes that explain what finally fixed them.",name;bucket;location
+10423,"Cybersecurity work from San Antonio leaves Cybersecwave with alert investigations, incident reports and remediation notes.",business;location
+10424,"Spectrum Analytics in Huntsville does analytics work, and every project leaves data requirements, analyses and written findings behind.",name;bucket;location
+10425,"Mission-Critical Communication keeps communications running in Honolulu, so it logs service calls, outage reports and system checks.",business;location
+10426,"Anderfield handles IT work from Rockingham, Virginia, which produces tickets, escalations and remediation notes with each client request.",name;bucket;location
+10427,"In New York, Smart Ny Solutions turns every IT request into a ticket, an escalation path and a documented fix.",name;bucket;location
+10428,"Arete Solutions Direct in Saint Petersburg works in IT services, where the daily output is tickets, change records and incident notes.",name;bucket;location
+10429,"Ruts Cg works in managed IT from Carrollton, Ohio, so tickets, escalations and remediation notes are its daily paper trail.",name;bucket;location
+10430,"Campaign briefs, creative revisions and performance reports pile up at a digital media agency like Flipside Digital Media on North Redington Beach.",business;location
+10431,"Managed IT at Resolv Solutions in Washington comes down to tickets, escalations and the written fix at the end of each one.",name;bucket;location
+10432,"Advisory engagements out of Alma, Arkansas leave Enabled Advisors with assessments, recommendations and client follow-up notes.",name;bucket;location
+10433,"Running its own branches, Ao Logistics Group in Fayetteville handles quotes, dispatch decisions and delivery exceptions across a logistics network.",business;signal;location
+10434,"Peregrine Technology Solutions builds and supports technology out of Columbia, Maryland, leaving a record of requirements, tickets and delivery notes.",business;location
+10435,"From Hazelwood, Missouri, Govage runs IT services, and daily support leaves tickets and remediation notes behind.",name;bucket;location
+10436,"Aim Consulting in Bel Air documents client work in scopes, status reports and final deliverables, the usual output of a consulting practice.",name;bucket;location
+10437,"General Computer Development US mixes IT services and consulting from Gainesville, Virginia, which yields tickets, project plans and recommendation memos.",business;location
+10438,"On-site IT support from Nerds To Go means a technician visits, and every visit in Alexandria produces a diagnosis, a fix and a service record.",business;location
+10439,"Vetable Technologies in Brandon, Florida produces the usual trail of a technology company: project notes, support tickets and change records.",name;bucket;location
+10440,"Network work out of Bowie leaves All Gateway Network Business with configuration records, outage tickets and fix notes.",name;bucket;location
+10441,"Support requests become tickets, then escalations, then remediation notes, and Ironvision in Brooklyn Park, Maryland sees that cycle daily.",name;bucket;location
+10442,"Emergent Technology Services keeps implementation in house in Elk Grove, so each rollout leaves project plans, configuration notes and follow-up tickets.",business;signal;location
+10443,"Invati works in AI from Fort Worth, and that work leaves its own paper trail of project specs, evaluation notes and support requests.",name;bucket;location
+10444,"Cyber Defenders in Columbia, South Carolina works day to day with alerts, incident reports and remediation steps from real client networks.",business;location
+10445,"Federal IT systems work in Washington leaves Ardilla Federal Systems with delivery documentation, support tickets and change records.",business;location
+10446,"Cybersecurity services from Austin mean Cyber Warfighters Group writes incident findings, assessments and remediation guidance for real clients.",business;location
+10447,"Elliott Management in Grand Prairie keeps the records any IT services firm does: client tickets, escalations and remediation notes.",name;bucket;location
+10448,"Each ticket Archesys closes in Rosedale, Maryland carries a symptom, a diagnosis and a fix, which is more structure than most business records have.",name;bucket;location
+10449,"Core-1 IT Solutions answers IT problems from North Brunswick, New Jersey, and its help desk tickets and project notes document each fix.",business;location
+10450,"Twenty-five years of executive recruiting through Management Recruiters Of Fort Worth-Sw means search assignments, candidate submittals and placement outcomes on file.",business;signal
+10451,"Verge Information Technologies has been in business for 26 years, and IT services and staffing work leaves requisitions, submittals and project records behind.",business;signal
+10452,"Forty-five years of executive search in Houston gives Gibson Arnold & Associates a deep file of search briefs, candidate slates and placement outcomes.",business;signal;location
+10453,"Recruiting veterans into civilian roles for 32 years leaves Competitive Edge Services with job orders, candidate submittals and placement outcomes, tracked in Zoho.",business;signal;tool
+10454,"Mcintosh Search has run executive searches out of Dallas for 24 years, building up client briefs, interview notes and placement outcomes.",business;signal;location
+10455,"Twenty-eight years of employment services from St Pete Beach gives Employment Options a deep record of job orders, placements and outcome tracking.",business;signal;location
+10456,"Over 600 locations nationwide is a lot of staffing activity for Dreamwork Solutions, and every one produces requisitions, submittals and placement records.",name;bucket;signal
+10457,"Codebusters has been doing software consulting since 2000, and 26 years of engagements leave statements of work, requirements and delivery notes.",business;signal
+10458,"Eleven years of staffing in West Columbia means Open Door Personnel holds job orders, candidate submittals and placement outcomes.",business;signal;location
+10459,"Pharmacy services since 1999 give Ghost Rx 27 years of operational paper: compliance documentation, vendor records and workflow procedures.",business;signal
+10460,"Westwind Engineering has run projects out of Redondo Beach since 1992, which means 34 years of drawings, calculations, RFIs and design review notes.",business;signal;location
+10461,"Placing talent in 37 states, Blue Chip Talent builds a long record of job orders, submittals and placement outcomes that varies by market.",business;signal
+10462,"Over 1,450 clients in healthcare and laboratory staffing means Healthcare Connections keeps job orders, client agreements and vendor compliance records at scale.",business;signal
+10463,"Forty clients on the books at Outsource Consulting Services in Oakland means forty sets of engagement scopes, status notes and deliverables.",business;signal;location
+10464,"Executive Personnel Services has staffed from Houston since 1989, which is 37 years of job orders, candidate submittals and placement outcomes.",business;signal;location
+10465,"Staffing out of Milwaukee for 28 years has left On Site with a deep run of job orders, assignment records and placement outcomes.",business;signal;location
+10466,"Radgov lists 842 projects, and a government contractor in Fort Lauderdale with that many leaves proposals, task orders and delivery records behind.",business;signal;location
+10467,"Ctd Staffing has been matching Memphis employers with candidates since 2010, and that is 16 years of job orders, submittals and outcomes.",business;signal;location
+10468,"Brightpath Associates has been in staffing and recruiting out of Bethany, Connecticut for 10 years, accumulating job orders, submittals and outcomes.",name;bucket;signal;location
+10469,"Nineteen years of staffing out of Jacksonville leaves Dak Resources with requisitions, candidate submittals and placement outcomes in one consistent record.",business;signal;location
+10470,"Sparrow has been running executive searches in El Paso since 2009, giving it 17 years of search briefs, candidate slates and placement outcomes.",business;signal;location
+10471,"Sec-Ops in Corpus Christi has worked in security operations for 21 years, the kind of work that produces patrol logs, incident reports and post orders.",business;signal;location
+10472,"Thirty-two years of facilities services in Washington leaves Motir Services with work orders, inspection records and maintenance histories for the buildings it serves.",business;signal;location
+10473,"Jedvice has been working facilities out of Pikesville for 12 years, with Zoho tracking the work orders and vendor records that come with it.",name;bucket;signal;tool;location
+10474,"Forty years in facilities work out of Oviedo gives Yang Enterprises a deep record of work orders, service visits and maintenance histories.",name;bucket;signal;location
+10475,"At Teknas in Atlanta, 18 years of facilities-side work lives in Zoho as work orders, vendor records and maintenance histories.",name;bucket;signal;tool;location
+10476,"Out of Atlanta, The Chester Group has spent 24 years in facilities management, building up work order, inspection and vendor records.",name;bucket;signal;location
+10477,"Integrated Facilities Management Services has managed buildings out of Indianapolis for a decade, logging work orders, preventive maintenance and vendor service records.",business;signal;location
+10478,"Financial and realty work in Calverton since 1994 means Financial & Realty Services holds 32 years of transaction files, financial records and property documentation.",business;signal;location
+10479,"A general contractor in New Orleans for 24 years, Kenmar General Contracting accumulates bids, RFIs, change orders and punch lists on every build.",business;signal;location
+10480,"Ten years of technology consulting in San Marcos leaves Summit Technologies & Consulting with scopes, project notes and deliverables across its client work.",business;signal;location
+10481,"Crescent Resources in New Orleans has been at it for 19 years, and facilities work leaves work orders, service logs and vendor records.",name;bucket;signal;location
+10482,"Government Resources Group, 23 years in business in Brentwood, Tennessee, holds proposals, task orders and delivery records from public-sector contracts.",business;signal;location
+10483,"Elevator work out of San Ramon for 14 years means Diamond Elevator has callbacks, maintenance logs and repair estimates tied to real equipment.",business;signal;location
+10484,"Pro-Access Solutions in Stockton has been in business 11 years, and access work leaves site surveys, install records and service call notes.",name;bucket;signal;location
+10485,"Hoisting and crane jobs in San Francisco leave Harris Hoisting with lift plans, rigging records and job logs going back 11 years.",business;signal;location
+10486,"Fifteen years of environmental consulting from Fort Walton Beach gives Energy And Environment site assessments, sampling data and compliance reports.",business;signal;location
+10487,"Ray Services in Lawrence, Massachusetts has run for 12 years in restoration work, which means job intake, site documentation and completion records.",name;bucket;signal;location
+10488,"Contracting and recycling on the same books for 21 years in Guayama leaves Sunset Contractors & Recycling with job records, material tallies and disposal documentation.",business;signal;location
+10489,"Sixteen years of restoration-side work from Covina gives Alaniz Associates project intake, site documentation and closeout records.",name;bucket;signal;location
+10490,"American Native Veterans Of Louisiana has been contracting out of Lacombe for 12 years, with bids, job documentation and closeout records for each project.",business;signal;location
+10491,"Twenty years of remediation and consulting out of El Paso leaves Mfh Environmental with site assessments, sampling results and cleanup documentation.",business;signal;location
+10492,"Eleven years of remediation consulting in Bulverde means Nfa Environmental holds site investigations, sampling data and cleanup reports.",business;signal;location
+10493,"Environmental Remediation Contractor has handled cleanup jobs from Columbus for 15 years, so its project files hold work plans, sampling results and completion reports.",business;signal;location
+10494,"Fabricating robotics in Panama City for 15 years leaves Robotics Fabrication with drawings, build specs and job records for each part.",business;signal;location
+10495,Thirty-two years of environmental and industrial services out of Brookfield give Dakota Intertek inspection reports and project records in volume.,business;signal;location
+10496,"Bioremediation in Cleveland since 2010 means Bio Rem has sampling results, treatment records and site monitoring reports in a steady format.",business;signal;location
+10497,"Work in 21 states gives Neumeyer Environmental Service remediation project files, sampling data and regulatory submissions spanning many rulebooks.",business;signal
+10498,"Asbestos and hazmat abatement since 2000 leaves Great Western Abatement with air monitoring results, containment logs and clearance documentation.",business;signal
+10499,"Environmental design and consulting in New York for 18 years leaves Greenwich Environmental Designs with design specs, site reports and permit documentation.",business;signal;location
+10500,"Titan Industries in Aiea, Hawaii has 18 years behind it, and restoration-side work leaves intake notes, site documentation and closeout reports.",name;bucket;signal;location
+10501,"Thirty-eight years in Perryville gives Schemel Companies a deep file of bids, project documentation and closeout records from its construction work.",business;signal;location

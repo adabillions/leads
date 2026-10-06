@@ -1,0 +1,151 @@
+row,new_line,basis
+9902,"Twenty-four years of federal benefits and insurance education means Ltcpro holds course materials, learner questions and Salesforce follow-up records in one consistent shape.",business;signal;tool
+9903,"Everyday Labs has spent 11 years building social-emotional learning tools in Redwood City, which leaves lesson content, implementation notes and HubSpot support history.",business;signal;tool;location
+9904,"Be A Hero runs its courses and curriculum in-house from Saint Albans, so lesson plans, course materials and participant feedback sit together in a form few trainers keep.",signal;location;bucket;name
+9905,"Out of Friday Harbor, 16 years of Indigenous education programs have left the Indigenous Education Institute with curriculum materials, program evaluations and grant documentation.",business;signal;location
+9906,"Nurse aide certification testing means Credentia builds exam content, skills checklists and instructor materials, the structured assessment data that is hard to find elsewhere.",business;signal
+9907,"Skyrocket, an education services firm in Pasadena for 11 years, accumulates program designs, session materials and HubSpot engagement records with each partner it serves.",business;signal;tool;location
+9908,"Human trafficking awareness training since 2015 gives Ending the Game a body of curriculum, workshop materials and Zoho-tracked audience feedback.",business;signal;tool
+9909,"Thirty-one years of design and education work in Honolulu leaves Corinne Okada Takara with project briefs, curriculum drafts and revision histories that rarely get kept in structured form.",business;signal;location
+9910,"Counting inventory for 25 years out of Olney produces count sheets, variance reports and reconciliation notes, and Ics Inventory already tracks client follow-up in Zendesk.",business;signal;tool;location
+9911,"Running curriculum and its own student programs from Rossville, Hoffman Crow keeps lesson materials, program records and Salesforce and Zoho activity under one roof.",signal;tool;location;name
+9912,"Laprea Education handles curriculum and implementation in-house, so lesson materials, rollout notes and HubSpot records all tie back to the same program.",business;signal;tool
+9913,"Equity trainings and courses out of Lexington leave the Equity Literacy Institute with workshop curricula, facilitator guides and participant feedback in a consistent format.",business;signal;location
+9914,"Handling enrollment and lessons in-house in Atlanta, The Truth Speaks produces lesson content and program records that few small education operations keep in a consistent structure.",signal;location;bucket;name
+9915,"As an Akron education provider running its programs in-house, Oakmont Education generates schedules, lesson materials and HubSpot outreach records.",business;signal;tool;location
+9916,"Nineteen years of IT services out of Leesburg means Joltec has a long run of help desk tickets, project records and remediation notes.",business;signal;location
+9917,"After 30 years in Chicago, Electronic Knowledge Interchange sits on a long run of technology service tickets, project records and escalation notes.",signal;location;bucket;name
+9918,"Running implementations in-house from Saratoga Springs, Digital Blue Solutions turns out project plans, configuration records and support tickets with every IT engagement.",business;signal;location
+9919,"Conefer runs implementation and its own training program in Rio Rancho, so deployment records, training materials and HubSpot-logged support requests live in one place.",signal;tool;location;bucket
+9920,"Fifteen years supporting IT in Costa Mesa gives Akins IT a steady log of help desk tickets, escalations and the notes on how each one got fixed.",business;signal;location
+9921,"As a managed IT firm for 24 years around Willowbrook, Galvan And Associates keeps client tickets, project records and remediation notes.",signal;location;bucket;name
+9922,"Information systems work in Washington since 2003 leaves Bella Information Systems with implementation records, support tickets and system change documentation.",business;signal;location
+9923,"Labworks, eleven years in business in Lehi, has been writing the tickets, escalations and fix notes that any IT services firm accumulates.",signal;location;bucket;name
+9924,"Courses and curriculum built in-house at Wrightnow Solutions in Alpharetta mean course content, assessments and learner feedback all come from one source.",signal;location;bucket;name
+9925,"Drone pilot training alongside in-house inspections and SOPs in San Juan leaves Puerto Rico Drone Academy with curriculum, flight procedures and inspection reports.",business;signal;location
+9926,"Managed IT for 21 years from McKinney means Transcendence IT has a deep file of tickets, escalations and remediation notes.",business;signal;location
+9927,"Cybersecurity consulting out of Novelty for 24 years leaves Securestate with assessment reports, findings and remediation recommendations in a repeatable format.",business;signal;location
+9928,"Leadership and sales courses delivered under the Dale Carnegie franchise, with Cornerstone behind the learning side, generate course content, assessments and feedback forms.",business;signal;tool
+9929,"A decade of running a Dale Carnegie training franchise on Cornerstone adds up to workshop materials, learner assessments and session feedback worth structuring.",business;signal;tool
+9930,"Eighteen years of data architecture consulting and training leave Sandhill Consultants USA with data models, course materials and engagement deliverables.",business;signal
+9931,"Fifteen years as a systems and IT firm in Odessa means Castalia Systems has built up tickets, project records and fix notes.",signal;location;bucket;name
+9932,"From Leesburg, Sarela Technology Solutions has spent 11 years delivering IT solutions, and each engagement leaves tickets, configuration records and resolution notes.",business;signal;location
+9933,"Data services in Austin since 2011 mean Austin Data Logics holds project records, integration notes and support tickets in a consistent form.",business;signal;location
+9934,"Twenty years of CPA and consulting work in Roanoke leave The Joachim Group with engagement workpapers, review notes and advisory deliverables.",business;signal;location
+9935,"At 34 years in Marietta, The Quality Group has the kind of training record, course materials, assessments and HubSpot-tracked feedback, that is hard to rebuild.",signal;tool;location;bucket;name
+9936,"A student portfolio platform for 11 years means Cirkled In holds platform support tickets, implementation records and HubSpot customer history out of Redmond.",business;signal;tool;location
+9937,"Brightquery builds and sells business data, so data-quality fixes, customer requests and HubSpot-logged support conversations are what its daily work leaves behind.",business;tool
+9938,"Twenty-five years of IT and communications work out of Hume leaves Standard Communications with install records, service tickets and network troubleshooting notes.",business;signal;location
+9939,"With Jira tracking 19 years of IT work from Manassas, Zip Zap IT Solutions has a long, consistent record of tickets, escalations and resolutions.",business;signal;tool;location
+9940,"Cloud IT support out of Dover since 2011 gives The Cloud Geeks a steady record of migration plans, tickets and remediation notes.",business;signal;location
+9941,"Kotori Technologies has spent 20 years in Summerville handling IT services, which adds up to support tickets, project records and fix notes.",business;signal;location
+9942,"Project management in Louisville since 2010 produces project plans, status reports and change logs, and Louisville Lightspeed Project Management has 16 years of them.",business;signal;location
+9943,"Lmno Services, a managed IT shop in Terrace Park running HubSpot, generates the tickets, escalations and remediation notes that come with supporting client systems.",name;bucket;tool
+9944,"Eleven years of IT and technology services in San Antonio leave Umyuaq Technology with ticket histories, project records and resolution notes.",business;signal;location
+9945,"Systems integration for 24 years out of Vienna means Corvus Integration holds interface specs, integration test records and deployment notes.",business;signal;location
+9946,"In business 27 years in Selbyville, Datatech Enterprises has been generating IT support tickets, project records and fix documentation.",signal;location;bucket;name
+9947,"Federal IT systems work since 2011 leaves Fedpoint Systems with requirements documents, system change records and incident reports out of Fairfax.",business;signal;location
+9948,"Forty-one years of IT data services in Minnetonka means Automated Data Processing Technicians holds decades of service tickets, data jobs and resolution notes.",business;signal;location
+9949,"Twenty years in Newburgh gives Endevelopment the record any IT services firm builds: tickets, project notes and remediation history.",signal;location;bucket;name
+9950,"Implementing and monitoring networks in-house in Tampa leaves Imperium Data Networks with configuration records, alert histories and incident notes.",business;signal;location
+9951,"Seventeen years of cybersecurity assurance work means Crest Security Assurance in Woodbridge has built up control assessments, findings and remediation tracking.",business;signal;location
+9952,"Engineering services since 2001 out of Windermere leave Hunt Engineering Services with design reviews, specifications and project change records.",business;signal;location
+9953,"Twenty-one years of IT technology services in Denver give Enterprise Technology International a deep set of tickets, deployment records and escalation notes.",business;signal;location
+9954,"Databank Data Services has run data work from Taylor since 1994, and 32 years of it leaves job records, corrections and client requests in a consistent format.",business;signal;location
+9955,"An API testing software vendor for 19 years, Crosscheck Networks has Zendesk support tickets, bug reports and test results tied to real customer APIs.",business;signal;tool
+9956,"Petroleum equipment installation and service in Noblesville produces inspection records, work orders and compliance test results, and Allied-Ott has kept them for 17 years.",business;signal;location
+9957,"Thirty-five years of contracting in Fremont leave R. B. Construction with estimates, change orders and daily job reports tied to real projects.",business;signal;location
+9958,"Remtech has been doing environmental remediation engineering for 38 years, which means site assessments, sampling data and remedial design reports.",business;signal
+9959,"Environmental construction and engineering in Huntington Beach since 2006 leaves Engineering And Environmental Construction with specs, field logs and compliance reports.",business;signal;location
+9960,"As one of more than 2,400 SERVPRO locations, SERVPRO of Gilbert turns out intake records, moisture readings and claims documentation on every loss it restores.",business;signal
+9961,"Hazard abatement and remediation out of Denver for 20 years leaves Colorado Hazard Control with survey findings, abatement plans and clearance documentation.",business;signal;location
+9962,"Forty-one years of scientific research contracting out of Columbia, with Jira tracking the work, leaves Plexus Scientific with protocols, task histories and technical reports.",business;signal;tool;location
+9963,"Eleven years as a San Mateo CPA firm means Tpgi CPA holds engagement workpapers, review notes and tax return files in a consistent format.",business;signal;location
+9964,"After 16 years in Redondo Beach, Susan A Rich has built the engagement files, workpapers and review notes an accounting practice accumulates.",signal;location;bucket;name
+9965,"A CPA practice in Tuscaloosa for 22 years, Jd Shirley has built up engagement workpapers, reconciliations and review notes.",signal;location;bucket;name
+9966,"Thirteen years of CPA work in Metuchen leave Caballero & Associates with audit and tax workpapers, review notes and client adjustments.",business;signal;location
+9967,"The Ancon Group has consulted for businesses out of Atlanta for 25 years, which builds up engagement deliverables, analyses and review notes.",business;signal;location
+9968,"Twenty-one years of media and public relations in Nyack leaves Emerging Media with press materials, campaign plans and coverage reports.",business;signal;location
+9969,"Government leadership training for some 500 clients leaves Dr Maria Church International with course curricula, program materials and HubSpot-logged engagement records.",business;signal;tool
+9970,"Eleven years in Nashville as an IT firm means Tarcsys has accumulated the tickets, escalations and remediation notes managed IT work produces.",signal;location;bucket;name
+9971,"Ninety-four years of records storage and data destruction from Stockton leaves Data Destroyers with pickup logs, chain-of-custody records and destruction certificates, tracked in Salesforce.",business;signal;tool;location
+9972,"Eighteen years of project services in Leesburg means Alliance Project Services holds project plans, vendor quotes and delivery coordination notes.",business;signal;location
+9973,"Twenty-seven years of security services out of Davenport produce patrol logs, incident reports and post orders at Global Security Services Ia.",business;signal;location
+9974,"Telecom and cabling work in Cedar Rapids since 2005 leaves Inteconnect with site surveys, cable test results and installation records.",business;signal;location
+9975,"Forty-one years of coaching and wellness work in Fort Worth means Shelton Sandra A has built program materials, session frameworks and assessments.",business;signal;location
+9976,"Ten years of training programs in Portland leave Pivot Journeys with program outlines, session materials and feedback forms.",signal;location;bucket;name
+9977,"Safety training from Anchorage with Cornerstone behind it gives Safelogic Alaska ten years of course content, assessments and compliance documentation.",business;signal;tool;location
+9978,"Thirty-one years of communication training in Denver leave Cindy Solomon & Associates with workshop materials, assessments and Salesforce-tracked client follow-up.",business;signal;tool;location
+9979,"Curriculum and student programs run in-house, as at Pamela S Perkins in Durham, generate lesson materials, assessments and program feedback in structured form.",signal;location;bucket;name
+9980,"Fourteen years of wellness and life coaching out of Ellicott City leaves Evok with program curricula, session frameworks and feedback.",business;signal;location
+9981,"Training delivered across 48 states and tracked in Salesforce gives Trainright course content, assessments and feedback at a scale few firms record.",business;signal;tool
+9982,"Twenty-three years of coaching and consulting in Hartselle leaves Bentley John E Jr with program materials, engagement notes and client frameworks.",business;signal;location
+9983,"Leadership seminars run since 2005 from Durango, with Cornerstone behind them, leave Klemmer & Associates Leadership Seminars with course content, assessments and participant feedback.",business;signal;tool;location
+9984,"Coaching some 500 clients in leadership has left The Renegade Leader with session frameworks, assessments and feedback in structured form.",business;signal
+9985,"Fifty projects in, Conversant Solutions in Longmont has accumulated project deliverables, training materials and client feedback.",signal;location;bucket;name
+9986,"Eleven years of training work out of Edgar leaves The Team W with course materials, exercises and participant feedback.",signal;location;bucket;name
+9987,"Technology services since 2005 out of Jupiter leave Encoretech with project records, support tickets and implementation notes.",business;signal;location
+9988,"Cmpic has delivered training from Forest for 18 years, which leaves curriculum, assessments and feedback in one consistent record.",signal;location;bucket;name
+9989,"Running a teen financial literacy reality program for 14 years in Waterbury leaves Welcome 2 Reality with scenario scripts, budgeting exercises and program evaluations.",business;signal;location
+9990,"After 17 years in Carrollton, Dc Realty has the support tickets, implementation records and customer requests that software work leaves behind.",signal;location;bucket;name
+9991,"Wholesale beverage distribution in St. Paul, with credit and inventory run in-house, leaves Dey Distributing with order histories, stock movements and credit decisions.",business;signal;location
+9992,"Eleven years of recruitment process outsourcing from Tampa leaves Clear Source Recruiting with job orders, submittals, interview notes and placement outcomes.",business;signal;location
+9993,"A CPA firm built around dental practices produces tax and advisory workpapers and review notes, and Pro-fi 20/20 Dental Cpas does that work in Georgia.",business;location
+9994,"Running its own client portal for tax and CPA work in Georgia, Levy Tax And Consulting keeps return workpapers, document requests and review notes in one system.",business;signal;location
+9995,"Bookkeeping and payroll handled in-house alongside CPA work in Idaho gives Jtc Cpas reconciliations, payroll records and review workpapers in a consistent format.",business;signal;location
+9996,"Every engagement at a Massachusetts CPA firm like Crabtree CPA & Associates leaves workpapers, review notes and tax file documentation behind.",business;location
+9997,"As an accounting-side firm in California, Anchored Global Office generates the engagement files, reconciliations and review notes that back-office work leaves behind.",name;bucket
+9998,"Supplying and installing flooring across 7 states from Lithia Springs gives Atlanta West Carpets quotes, takeoffs, work orders and punch-list items.",business;signal;location
+9999,"Managing homeowner associations around Pasadena, Texas means Hoggatt HOA Services keeps violation notices, architectural requests, vendor work orders and meeting minutes.",business;location
+10000,"Ten years of nurse staffing out of Springfield leaves Allegiance Nursing with job orders, submittals, credentialing checklists and placement outcomes.",business;signal;location
+10001,"Nineteen years in business in Redmond, APAC Solution has gathered the job orders, submittals and placement outcomes that staffing and IT consulting produce.",business;signal;location
+10002,"Atkinson Consulting has consulted out of Savannah for 17 years, and engagements like that leave deliverables, project notes and requirements records.",signal;location;bucket;name
+10003,"Twenty-two years of business consulting in Naples leaves Epic Business Strategies with engagement plans, assessments and recommendation reports.",business;signal;location
+10004,"Recruiting and staffing out of Rochester since 2010 gives Innovative Recruiting Solutions 16 years of job orders, submittals, interview notes and outcomes.",business;signal;location
+10005,"A decade of staffing placements in Philadelphia means Kings Staffing holds job orders, candidate submittals and fill outcomes in one record.",business;signal;location
+10006,"Eecpa is a CPA firm in Arizona, and every audit and tax engagement leaves workpapers, review notes and client documentation behind.",business;location
+10007,"Tax services in Colorado mean Taxops accumulates return workpapers, notices and responses, and the planning notes behind each position.",business;location
+10008,"CPA and advisory work in Delaware leaves Barbacane, Thornton with audit and tax workpapers, review notes and advisory deliverables.",business;location
+10009,"Santora CPA Group, a Delaware firm, works through tax and accounting engagements that leave behind workpapers, reviewer sign-offs and client correspondence.",business;location
+10010,"In Georgia, Symphona sits in accounting and advisory work, where engagements leave workpapers, review notes and recommendation memos.",name;bucket;location
+10011,"Audit work done in-house at a New Orleans CPA and advisory firm means Wegmann Dazet holds audit programs, workpapers and review notes.",business;signal;location
+10012,"Advisory and a client portal run in-house at a Maine CPA firm leave Cummings Lamont & Mcnamee with engagement documents, request lists and review notes.",business;signal;location
+10013,"Baltimore CPA and advisory engagements at Katzabosch generate workpapers, review notes and advisory deliverables worth structuring.",business;location
+10014,"Advisory and audit both run in-house at Stone, a Massachusetts CPA firm, which leaves audit workpapers, review notes and advisory deliverables.",business;signal;location
+10015,"Navikenz runs customer success and implementation in-house for its AI and analytics consulting, so project records and HubSpot-tracked support history line up.",business;signal;tool
+10016,"Support and customer success run in-house at Cohley, so Freshdesk tickets and HubSpot records pile up around a UGC and content marketing platform.",business;signal;tool
+10017,"Supporting a 3D product configurator in-house means Intiaro generates support tickets, implementation notes and configuration requests with every customer.",business;signal
+10018,"More than 250 projects of data analytics consulting leave Data Ideology with scoping documents, data models and delivery notes in a repeatable format.",business;signal
+10019,"Professional services run in-house at Viscosity North America, tracked in HubSpot, produce engagement plans, implementation records and customer requests.",signal;tool;bucket;name
+10020,"Implementing industrial AI digital twins in-house means Mechademy accumulates deployment records, equipment model notes and customer issue histories.",business;signal
+10021,"A customer data pipeline vendor like Metarouter generates integration setup records, support tickets and HubSpot-logged customer requests.",business;tool
+10022,"Customer success and support run in-house at Rivet, so implementation records, support tickets and HubSpot history build up around its cost estimate software.",business;signal;tool
+10023,"Day-to-day IT support out of Arvada leaves Techfocus with a running record of tickets, escalations and the fix notes behind each one.",business;location
+10024,"Broadleaf Services in Manassas, as a managed IT provider, produces the tickets, escalations and remediation notes that support work leaves behind.",name;bucket
+10025,"Natumatic in Morningside works in managed IT, where every client leaves tickets, escalation records and fix notes behind.",name;bucket
+10026,"Government IT services out of Vienna leave Actionet with task records, system change documentation and incident reports.",business;location
+10027,"Across more than 60 locations, The Linearity generates the tickets, escalations and remediation notes that managed IT work leaves behind.",signal;bucket;name
+10028,"Work across 25 states from Charlotte leaves Prosyntix with the tickets, project records and remediation notes an IT services business accumulates.",business;signal;location
+10029,"Xenith Solutions in Leesburg, as an IT services firm, records tickets, escalations and fixes with every client it supports.",name;bucket
+10030,"Fourteen years of IT consulting out of Farmington Hills leaves Code Tech with job orders, submittals, interview notes and placement outcomes.",business;signal;location;bucket
+10031,"Interviews and onboarding handled in-house at Stackrock Talent in Boise leave job orders, interview notes and onboarding records with each placement.",business;signal;location
+10032,"Twelve years of consulting in Bellevue gives Strong Tower engagement records, role requirements and placement notes.",business;signal;location;bucket
+10033,"Installing and servicing sortation systems in-house from Louisville leaves Aegis Sortation with commissioning records, service tickets and equipment maintenance logs.",business;signal;location
+10034,"With over 70 service vehicles working docks and doors out of South Salt Lake, Hoj generates inspection reports, repair work orders and quotes daily.",business;signal;location
+10035,"Athena Consultants in Carmel works in the managed IT space, where each engagement leaves behind tickets, project notes and remediation records.",name;bucket;location
+10036,"Amaxiam in Reston sits in IT services, and that work leaves tickets, project records and remediation notes with each client.",name;bucket;location
+10037,"Seventeen years of oilfield well services around Levelland leave Rwls with job tickets, rig reports and well service histories.",business;signal;location
+10038,"Incident response and monitoring done in-house at Osaava Services in Leesburg produce alert logs, incident timelines and remediation notes.",signal;location;bucket;name
+10039,"In San Diego, Soundings Connect handles compliance and customer success in-house, which leaves Zoho records, compliance documentation and job order histories.",signal;tool;location;bucket;name
+10040,"Device security software for healthcare means Cylera's in-house support team builds ticket histories, deployment notes and HubSpot records.",business;signal;tool
+10041,"Running 24/7 from Lawrenceville, Sphinx Development And Management generates the intake, dispatch and job records that round-the-clock restoration work produces.",signal;location;bucket;name
+10042,"Advisory and audit under one roof in Kenosha leave Smart Solutions CPA with audit programs, workpapers and review notes.",business;signal;location
+10043,"Fourteen years of consulting in Hilliard leaves Beek Consulting with engagement files, analyses and review notes.",business;signal;location;bucket
+10044,"Thirteen years of accounting and tax work in Woodbridge give Totimeh & Associates a steady stream of workpapers, reconciliations and return files.",business;signal;location
+10045,"Bookkeeping and a client portal run in-house alongside tax preparation mean Income Tax Plus holds return files, document requests and reconciliations.",business;signal
+10046,"Bookkeeping handled in-house at Poe Group Advisors, with HubSpot tracking client contact, leaves reconciliations, advisory notes and follow-up histories.",business;signal;tool
+10047,"Advisory and bookkeeping both done in-house at The Marston Group in Tennessee leave reconciliations, advisory memos and review notes.",signal;location;bucket;name
+10048,"Tax services in Utah, tracked in Salesforce, leave Incite Tax with return workpapers, notices and the planning notes behind each filing.",business;tool;location
+10049,"Dispatch and support handled in-house at Motorcity Systems in Michigan produce service tickets, dispatch records and HubSpot customer histories.",signal;tool;location;bucket;name
+10050,"Supply chain quality software means Inspectorio's support and engineering work runs through HubSpot and Jira, leaving tickets, bug reports and implementation notes.",business;tool
+10051,"Cybersecurity and compliance consulting in New Jersey leaves Accorian with assessment reports, control findings and remediation tracking, with HubSpot behind client follow-up.",business;tool;location

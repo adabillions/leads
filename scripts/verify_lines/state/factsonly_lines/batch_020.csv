@@ -1,0 +1,151 @@
+row,new_line,basis
+2852,"Twenty-eight years of medical simulation software means Touch Of Life Technologies holds scenario content, release notes and Salesforce-tracked customer requests in one consistent format.",business;signal;tool
+2853,"Avicenna Medical Systems has spent 20 years in medical systems work, which leaves vendor documentation, compliance files and HubSpot-tracked customer conversations in a repeatable structure.",business;signal;tool
+2854,"Simulation software sold for 23 years generates a steady trail for Goldsim Technology Group: Zendesk support tickets, model-building questions and the resolution notes behind each one.",business;signal;tool
+2855,"Adashi Systems, 14 years into building software out of Baltimore, has accumulated support tickets, release histories and implementation records that follow its own product structure.",business;signal;location
+2856,"After 35 years as a technology firm in Powell, T-Data has a long run of project records, support requests and HubSpot customer history tied to real client environments.",business;signal;tool;location
+2857,"Advisory engagements out of Reston for 16 years leave Kym Advisors with deliverables, engagement notes and Salesforce-logged client interactions in a consistent shape.",business;signal;tool;location
+2858,"Havoc has been doing software work from Gig Harbor for 14 years, and that kind of work leaves behind tickets, project records and a HubSpot trail of customer requests.",name;bucket;signal;tool;location
+2859,"With Jira and Salesforce running side by side through 25 years of technology services, Tdk Technologies has issue histories and client records that show how work actually got done.",business;signal;tool
+2860,"IT services out of Bethesda since 2004 give Horus Technology Solutions a long archive of service requests, fixes and HubSpot-logged client exchanges.",business;signal;tool;location
+2861,"Every grant cycle run through Grantvantage produces application structures, review workflows and Zendesk support threads from the teams managing the funds.",business;tool
+2862,"Building interactive exhibits since 1999, Ideum has installation records, hardware configurations and Zendesk support history behind every installed piece.",business;signal;tool
+2863,"Telecom and network work in Provo since 1998 means Cywest Communications has service orders, outage tickets and Jira issue histories going back 28 years.",business;signal;tool;location
+2864,"City State Computer Services has supported computers in Providence since 1987, which adds up to decades of help-desk tickets, repair notes and escalation records.",business;signal;location
+2865,"Thirty years of government IT services out of Chantilly leaves Computer Services Un with task orders, support tickets and remediation notes tied to real government systems.",business;signal;location
+2866,"Thirteen years of IT support in Royal Palm Beach, tracked in Zoho, means R-Tech Support holds a record of problems reported and the fixes that worked.",business;signal;tool;location
+2867,"Running IT solutions from Hagatna for 20 years, Cognitive IT Solutions has Zoho-tracked tickets and project notes from Guam-based client work.",business;signal;tool;location
+2868,"IT consulting engagements out of Silver Spring leave I-Visionet with statements of work, delivery notes and defect histories from real client builds.",business;location
+2869,"Blue Sky Innovative Solutions has delivered IT solutions from College Park since 2004, leaving 22 years of project records and Salesforce-tracked client requests.",business;signal;tool;location
+2870,"Hosting and managed cloud for 18 years means Opus Interactive has seen the incident tickets, capacity requests and change records that real infrastructure generates.",business;signal
+2871,"Spiralinks has been delivering IT solutions in Campbell since 1999, and 27 years of that work leaves implementation records and HubSpot-logged customer history.",business;signal;tool;location
+2872,"Technology services from Mokena since 2014 mean Avidity Technologies has built up 12 years of Zendesk tickets, with the resolution notes that go with each one.",business;signal;tool;location
+2873,"Turek Consulting Services has consulted for 26 years from Coral Springs, and in the transport world that leaves carrier rate discussions and Zoho-tracked client follow-ups.",business;signal;tool;bucket
+2874,"Barcode and identification projects since 2005 mean Integrated Id Solutions holds label specs, scanner configurations and deployment records tied to real installs.",business;signal
+2875,"A courier outfit in Newton since 2003, USA Couriers has 23 years of pickup requests, dispatch decisions and delivery exceptions on record.",business;signal;location
+2876,"Celeen has been working out of Mashantucket for 16 years, and any freight operation that long accumulates shipment quotes, carrier decisions and exception notes.",name;bucket;signal;location
+2877,"Vuetura has been writing software out of Redmond for 26 years, which leaves behind support tickets, release histories and implementation records.",business;signal;location
+2878,"Thirty-eight years as a technology firm in Ashburn gives New Year Tech a deep archive of project records, support requests and client engagement notes.",business;signal;location
+2879,"Carrier work from Fayetteville since 2005 gives Trinity Carrier Services 21 years of load records, rate decisions and delivery exception notes.",business;signal;location
+2880,"Hauling freight out of Titusville for 24 years, Greene Transport has trip logs, rate quotes and delay notes that show how loads really moved.",business;signal;location
+2881,"Warehousing in Muscatine since 1994 gives Newcomb Warehouse 32 years of receiving records, inventory movements and shipping exceptions.",business;signal;location
+2882,"Forty years of trucking from Brookwood means Alan Farmer Trucking holds dispatch records, load quotes and delivery exception notes in one long, continuous run.",business;signal;location
+2883,"American Freight Carrier Services has moved freight out of Hauppauge since 1984, and 42 years of shipments leaves quotes, carrier decisions and claims notes.",business;signal;location
+2884,"Security operations run from Babylon since 2005 would leave Lmgi with 21 years of patrol logs, incident reports and post orders.",name;bucket;signal;location
+2885,"Security services in Raleigh since 2011 mean Inline Defense has 15 years of incident reports, patrol activity and post instructions on file.",business;signal;location
+2886,"Eleven years of maritime services from San Diego give Six Maritime a running record of operations logs, incident reports and security procedures.",business;signal;location;bucket
+2887,"Ocu Enterprises has run security services from Visalia for 11 years, and that means patrol logs, incident reports and shift records in steady volume.",business;signal;location
+2888,"Security services out of Spotsylvania since 2001 give Sonny a 25-year record of guard schedules, incident reports and client site instructions.",business;signal;location
+2889,"Between guard work and investigations in Metairie, Pinnacle Security & Investigation writes incident reports and case files, with client contact tracked in HubSpot.",business;tool;location
+2890,"Guarding Chicago sites since 1982, Securatex has 44 years of patrol logs, incident reports and post orders in a steady format.",business;signal;location
+2891,"IT networking in Espanola since 2005 leaves Plan B Networks with 21 years of network designs, install records and service tickets.",business;signal;location
+2892,"Cabling work across 4 states, run out of Savannah, leaves Scdatacom with install records, test results and Zoho-tracked job files.",business;signal;tool;location
+2893,"Locksmith and access control work in Irvine since 1983 means Controlled Key Systems has 43 years of keying schedules, install records and service calls.",business;signal;location
+2894,"Alarm system work from Centennial since 2005 leaves Lw Enterprises with panel configurations, install records and service call histories across 21 years.",business;signal;location
+2895,"After 39 years of security and energy technology work in Chantilly, Security & Energy Technologies holds system designs, commissioning records and service reports.",business;signal;location
+2896,"Over 3000 completed VoIP projects means Telenet Voip has a deep set of deployment records, call-routing configurations and support tickets.",business;signal
+2897,"Split Pine Technologies has offered technology services from Tallahassee for 23 years, building a HubSpot-tracked record of client requests and project delivery.",business;signal;tool;location
+2898,"Twenty-one years of IT solutions in Lagrange give Adapttosolve a long run of client problems and how each was solved, with HubSpot holding the follow-up trail.",business;signal;tool;location
+2899,"IT and telephony in Cranston since 1981 means Shanix has 45 years of system installs, support tickets and HubSpot-tracked customer history.",business;signal;tool;location
+2900,"Working with over 40 carriers means Woodrow Technology Solutions handles a steady flow of carrier quotes, service orders and install records out of Chandler.",business;signal;location
+2901,"Installation work out of Edison for 25 years leaves Avs Installations with job estimates, install punch lists and completion records for every site.",business;signal;location
+2902,"Alarm and security system installs since 2001 give West Coast Security 25 years of site surveys, equipment lists and service call records in San Carlos.",business;signal;location
+2903,"An electrical contractor in Kalispell since 2004, American Electric sits on estimates, permit paperwork and inspection results from 22 years of jobs.",business;signal;location
+2904,"Fifteen years of communications contracting in Phoenix leaves Intelligrated Communications with cabling plans, install notes and punch lists tied to real buildings.",business;signal;location
+2905,"Seventy-one years of electrical contracting in Lincoln means A. B. C. Electric has estimates, change orders and inspection records spanning generations of buildings.",business;signal;location
+2906,"With 206 projects completed, Abode has a file of home contracting estimates, change orders and punch lists from each one.",business;signal
+2907,"Wavelength Technologies has been doing field service work in Carrollton for 22 years, which produces work orders, site notes and completion records.",name;bucket;signal;location
+2908,"Riverside's Grounds Electric has been wiring jobs since 1973, so 53 years of estimates, permits and inspection sign-offs sit in its files.",business;signal;location
+2909,"Electrical contracting around San Luis Obispo since 1984 leaves Electricraft with 42 years of bids, change orders and inspection records.",business;signal;location
+2910,"More than 1,000 electrical projects, with Salesforce behind the pipeline, leave Advanced Electrical Installations a long record of bids, change orders and inspections.",business;signal;tool
+2911,"Meyer Electric has wired jobs in Jefferson City since 1968, and 58 years of electrical work produces service tickets, estimates and inspection records.",business;signal;location
+2912,"Since 1947 in San Juan, Standard Refrigeration has serviced refrigeration systems, leaving 79 years of service calls, equipment histories and repair notes.",business;signal;location
+2913,"A mechanical contractor in Tracy for 17 years, Virginia Mechanical accumulates bids, submittals and commissioning records on every job.",business;signal;location
+2914,"Testing services out of Lynbrook since 1994 leave Rc Testing Service with 32 years of test reports, readings and pass-fail findings.",business;signal;location
+2915,"HVAC work in Marietta since 1961 means Morrison has 65 years of service tickets, equipment records and install estimates.",business;signal;location
+2916,"C & M Mechanical has run mechanical jobs from Jurupa Valley since 2015, building 11 years of bids, submittals and service records.",business;signal;location
+2917,"Thermo Dynamics has done HVAC from Eliot for 34 years, so service calls, equipment histories and install estimates run back to 1992.",business;signal;location
+2918,"Forty-two years of general building in Chicago gives Parliament Builders bids, RFIs and change orders attached to real construction projects.",business;signal;location
+2919,"Boiler repair and service in Lubbock since 1975 leaves Bailey Boiler Works with 51 years of inspection findings, repair histories and parts records.",business;signal;location
+2920,"Piping work out of Waterford since 1998 means Burniche Piping holds 28 years of estimates, submittals and field installation notes.",business;signal;location
+2921,"Specialty contracting in Paducah for 13 years leaves Jett's Specialty Contracting with bids, change orders and job closeout records.",business;signal;location
+2922,Mechanical and environmental systems work since 1980 gives Northern Bay Environmental Systems 46 years of design and service records from Hanover.,business;signal;location
+2923,"Sigari has been doing field service work from Ponce for 30 years, and that run produces work orders, site visit notes and completion records.",name;bucket;signal;location
+2924,"Mechanical and electrical contracting around Helena since 1971 leaves Tri-County Mechanical And Electrical with 55 years of bids, change orders and commissioning records.",business;signal;location
+2925,"Sixteen years of energy services in Paramount leave Energy Options with energy readings, project proposals and completion records across its jobs.",business;signal;location
+2926,"Boiler and control services since 1985 mean Control Systems Services holds 41 years of service reports, controller settings and repair histories.",business;signal
+2927,"Mechanical engineering contracting since 1950 leaves Fraser Engineering with 76 years of drawings, submittals and RFIs tied to real mechanical systems.",business;signal
+2928,"Mechanical and HVAC jobs in San Antonio since 2005 give Accu-Aire Mechanical 21 years of service tickets, equipment records and bids.",business;signal;location
+2929,"Twenty years of plumbing contracting in Chula Vista means BPI Plumbing has a file of estimates, service calls and permit inspections.",business;signal;location
+2930,"Facility services from Glenshaw since 1991 leave Baker Services with 35 years of work orders, maintenance logs and site visit notes.",business;signal;location
+2931,"Base has been working in San Juan for 36 years, and field service work that long builds up work orders, site notes and job completion records.",name;bucket;signal;location
+2932,Mechanical HVAC service in Phoenix since 1996 leaves Corporate Air Mechanical Services with 30 years of service calls and equipment histories.,business;signal;location
+2933,"Heating and air jobs in Hayes since 2012 mean Comfortable Climate Heating & Air Conditioning has 14 years of service tickets, installs and maintenance records.",business;signal;location
+2934,"Ward Heating And Cooling has serviced HVAC systems around Black Jack for 29 years, which adds up to service calls, install estimates and maintenance histories.",business;signal;location
+2935,"A 24 Hour Door National has served commercial door customers out of Buffalo for 24 years, leaving emergency call logs, repair quotes and service records.",business;signal;location
+2936,"Running customer success and onboarding in-house, with HubSpot tracking the conversations, Heyorca generates onboarding records and support interactions in a structured form.",business;signal;tool
+2937,"Over 40 offices of laboratory information software work mean Labware Holdings has implementation records, configuration decisions and support cases from many lab environments.",business;signal
+2938,Environmental data software out of Boerne since 2004 leaves Kisters North America with 22 years of implementation records and support cases tied to real monitoring data.,business;signal;location
+2939,"Code Ninjas writes its curriculum and assessments in-house, and with HubSpot and Zendesk behind franchise operations it holds structured lesson content and support requests.",business;signal;tool
+2940,"Twenty-five years of training and development in Carlsbad leaves Dw Training And Development with course materials, assessments and participant feedback forms.",business;signal;location
+2941,"Children's learning content published since 2005 gives Cricket Media Services a library of articles, lesson materials and classroom resources, with Salesforce tracking the customer side.",business;signal;tool
+2942,"Professional education run from Chester Springs since 2002 means The Center For Professional Innovation & Education holds course materials, exams and attendee evaluations.",business;signal;location
+2943,"A web design studio in Brooklyn for 24 years, with Canvas in its toolset, Spiderweb Studio keeps project briefs, design iterations and training content in structured form.",business;signal;tool;location
+2944,"School AI builds teacher tools and runs assessments and curriculum in-house, which produces lesson plans, prompts and rubric content in a structured form.",business;signal
+2945,"Designing STEM lab curriculum and handling school rollouts in-house, SmartLab Learning keeps lesson content and implementation records, with Salesforce and HubSpot behind them.",business;signal;tool
+2946,"Restaurant accounting since 2009 means On-call Restaurant Accounting holds 17 years of month-end close workpapers, reconciliations and review notes.",business;signal
+2947,"K-12 curriculum software delivered from Duluth since 2003 gives Classworks lesson content, assessment items and implementation records, plus HubSpot-tracked district conversations.",business;signal;tool;location
+2948,"Certification programs run from Edmond since 2000 leave BOL Learning with course content, exam items and Salesforce-tracked enrollment records.",business;signal;tool;location
+2949,"Thirty-two years of interactive training and e-learning products leaves World Institute Of Leadership And Learning with course modules, assessments and learner feedback.",business;signal
+2950,"A clinical data exchange platform built since 2012 generates interface specifications, onboarding records and Salesforce-tracked support cases for Moxe Health.",business;signal;tool
+2951,"Customer service training since 2005 means Quality Interactions has course content, assessments and feedback forms from 21 years of workshops, with HubSpot tracking clients.",business;signal;tool
+2952,"Over 400,000 shipments out of Jacksonville means Atlantic Logistics holds a very large record of quotes, carrier selections and delivery exceptions.",business;signal;location
+2953,"Serving 100 clients in education design and research, with Cornerstone in its toolset, Education Design Development & Research holds course designs, evaluation instruments and project reports.",business;signal;tool
+2954,"Consulting from San Francisco since 2005, with Cornerstone and NetSuite in the stack, leaves Next Step Partners with engagement deliverables, learning programs and project records.",business;signal;tool;location
+2955,"Video production in Chicago for 23 years leaves Catharsis Productions with scripts, shot lists, edit notes and Salesforce-tracked client briefs.",business;signal;tool;location
+2956,"Plexus has done engineering and manufacturing work out of Minneapolis for 33 years, with Jira and Salesforce tracking issues and accounts, so design changes and defect reports pile up.",business;signal;tool;location
+2957,"Health Risk Screening runs screening services from Clearwater, so program materials, scheduling and compliance documentation pile up, with HubSpot tracking client accounts.",business;tool;location
+2958,"De-escalation training taught since 1977 gives The Mandt System course content, certification assessments and trainer feedback, with Salesforce holding the customer side.",business;signal;tool
+2959,"With 60,000 customers and Intercom running the conversations, Ntsi generates a huge volume of support threads and customer questions with resolutions attached.",name;signal;tool
+2960,"Trainicity builds its courses and assessments in-house, which means training content, quiz items and completion records in a consistent, reusable structure.",business;signal
+2961,"Thirty-one years of coaching training from San Rafael leaves Co-Active Training Institute with curriculum, facilitator guides and participant feedback forms.",business;signal;location
+2962,"Continuing education seminars since 1987 give Lorman Business Center 39 years of seminar materials, handouts and attendee evaluations out of Eau Claire.",business;signal;location
+2963,"Government performance training since 1998 means The Performance Institute holds workshop curriculum, case materials and attendee feedback, with HubSpot tracking client outreach.",business;signal;tool
+2964,"Training lineworkers in Trenton since 2000 produces field-skills curriculum, skills assessments and Salesforce-tracked enrollment records at Southeast Lineman Training Center.",business;signal;tool;location
+2965,"Language training and interpreting since 2006 leaves Diplomatic Language Services with course materials, proficiency assessments and interpreting assignment records from Arlington.",business;signal;location
+2966,"Mentoring programs run since 1999 leave Mothers Raising Sons with workshop curriculum, program schedules and volunteer materials from Ellenwood.",business;signal;location
+2967,"Online science lessons built since 2006 give Knowatom a body of lesson content, lab activities and quiz items in a structured form.",business;signal
+2968,"Internal Family Systems training since 2000 gives the IFS Institute course curricula, training manuals and participant feedback, with HubSpot behind program registrations.",business;signal;tool
+2969,"Publishing K-12 literacy curriculum since 1998, Benchmark Education holds texts, lesson sequences and assessment items, with NetSuite and HubSpot behind orders.",business;signal;tool
+2970,"Writing tutoring delivered through Canvas for 15 years leaves Top Score Writing with lesson plans, prompts and rubric structures, with Zoho tracking clients.",business;signal;tool
+2971,"Twenty years of building learning systems from Collierville means Simplex Learning Systems holds lesson content, assessment banks and implementation records.",business;signal;location
+2972,"Cybersecurity lab exercises built since 2000 leave NDG with lab manuals, scenario scripts and assessments, plus Zendesk threads from instructors.",business;signal;tool
+2973,"Curriculum reaching 50 states means STEMscopes holds a deep library of K-12 STEM lessons, assessment items and teacher resources out of Houston.",business;signal;location
+2974,"Bookwidgets builds interactive learning software with Canvas and Moodle in its toolset, so exercise templates and teacher-built activities form a structured library.",business;tool
+2975,"Data testing software since 2010 leaves Datagaps with test case libraries, validation rules and Salesforce-tracked customer implementations.",business;signal;tool
+2976,"Technology services from Clinton for 26 years means Norbeck Technologies holds service tickets, project records and resolution notes.",business;signal;location
+2977,"Fourteen years of IT services from Salt Springs leaves Z7 Solutions with a record of help requests, fixes and client environment notes.",business;signal;location
+2978,"A design firm in Huntington for 38 years, Future Environment Designs holds design reports, project documentation and Cornerstone-hosted training content.",business;signal;tool;location
+2979,"Microsoft compliance managed services since 2009 mean Summit 7 Systems holds ServiceNow tickets, remediation notes and compliance documentation across 17 years.",business;signal;tool
+2980,"Novation Systems has delivered IT services from Owens Cross Roads since 2005, building 21 years of tickets, escalations and remediation notes.",business;signal;location
+2981,"IT services out of Pataskala since 2005 leave Techr2 with help requests, fixes and client environment notes built up over 21 years.",business;signal;location
+2982,"Cybersecurity work from Prince Frederick for 13 years means Cybersecure Ips has assessment findings, incident notes and remediation records, with HubSpot tracking clients.",business;signal;tool;location
+2983,"Pride Plumbing has been fixing and installing in El Cajon since 2012, leaving 14 years of service calls, estimates and repair notes.",business;signal;location
+2984,"Education and career readiness programs since 1993 give Generation Ready curriculum modules, program materials and HubSpot-tracked client records.",business;signal;tool
+2985,"IT security systems work in Brea since 2005 leaves Ubisec Systems with install records, configuration notes and incident follow-ups.",business;signal;location
+2986,"Computer and IT services for 44 years out of McLean gives Advanced Computer Concepts a long archive of service tickets, escalations and fix notes.",business;signal;location
+2987,"Venu has been in business 23 years out of Mableton, and with Zendesk handling requests it keeps a ticket history of customer questions and resolutions.",name;signal;tool;location
+2988,"Aceotech has been at it in Columbia for 20 years, and a training operation that long accumulates course materials, assessments and delivery records.",name;bucket;signal;location
+2989,"A training business in Allentown since 2005, Yes2Yes builds up course materials, exercises and feedback forms over 21 years.",name;bucket;signal;location
+2990,"Forty years of training and consulting, with Teachable hosting courses, gives Laurel And Associates workshop content, assessments and learner feedback.",business;signal;tool
+2991,"Training and consulting from Fredericksburg since 1999 means Performance Plus International has curriculum, facilitator materials and engagement reports from 27 years.",business;signal;location
+2992,"Pharma training and consulting since 1994 leaves Technology Transfer Services with course content, assessments and guidance documents, with HubSpot tracking clients.",business;signal;tool
+2993,"Tech skills courses built since 2015 give SkillUp course content, lab exercises and assessments, with Jira tracking how each curriculum gets built and updated.",business;signal;tool
+2994,"As an IT integrator for 31 years, United Data Technologies has statements of work, design documents and Jira issue histories from real deployments.",business;signal;tool
+2995,"A house painting franchise network means CertaPro Painters sees estimates, color selections and job scopes in a structure shared across every owner.",business;bucket
+2996,"Home improvement jobs in Portage since 1980 leave Sir Home Improvements with 46 years of estimates, change orders and completion records.",business;signal;location
+2997,"Running 26 trucks of food service distribution out of Toledo produces order records, route plans and delivery exceptions daily at Al Peake & Sons, Daughter too.",business;signal;location
+2998,"Placing IT and engineering talent for 23 years means Three Point Solutions has submittals, interview notes and placement outcomes for a wide range of technical roles.",business;signal
+2999,"Staffing and labor in Austin since 2004 leaves Labormex with job orders, candidate submittals and placement outcomes accumulated over 22 years.",business;signal;location
+3000,"Suite Studios runs customer success and support in-house for its cloud video software, so tickets and onboarding records form a structured trail, with HubSpot tracking accounts.",business;signal;tool
+3001,"Forty-two years of staffing and recruiting in Portsmouth leaves NESC Staffing with job orders, submittals, interview notes and placement outcomes.",business;signal;location

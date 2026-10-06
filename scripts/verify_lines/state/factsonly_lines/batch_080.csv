@@ -1,0 +1,151 @@
+row,new_line,basis
+11852,"With 12,200 technicians using Partium to find spare parts, every part lookup, match and Jira-tracked fix adds to a structured record of real service work.",business;signal;tool
+11853,"Running a procurement software platform out of Washington, DC, Procurated gathers sourcing requests, supplier records and the HubSpot-tracked support threads behind them.",business;location;tool
+11854,"An AI platform for structured finance leaves Intain with deal documents, structuring workflows and implementation notes, records that are rarely found in clean form.",business
+11855,"Data services out of Chicago mean Decypher Datalabs handles datasets, pipeline specs and delivery notes that show how raw data actually gets cleaned and shipped.",business;location
+11856,"Eleven years of IT services in Houston means Ideal IT Trends has a deep queue of support tickets, escalations and remediation notes from real client environments.",business;signal;location
+11857,"Running tracking in-house as a Miami third-party logistics provider, Surepoint Logistics logs every shipment status change, delay and exception as it happens.",business;signal;location
+11858,"As a defense contractor in Fountain, Colorado, Daedalus Defense works from proposals, compliance paperwork and delivery records that follow strict, repeatable formats.",business;location
+11859,"ERP Federal consults on ERP for federal clients and handles root cause analysis in-house, which produces implementation records, defect findings and resolution notes.",business;signal
+11860,"Seventeen years of running a production company from Ho Ho Kus gives T&P Productions a long archive of project briefs, shoot schedules and client revision notes.",business;signal;location
+11861,"Fifteen years of software application development from North Augusta leaves Diligent Applications with requirements documents, bug tickets and release notes across many builds.",business;signal;location
+11862,"Cybersecurity consulting since 2011 means Information Security Consulting has assessment reports, findings and remediation recommendations written to a consistent standard.",business;signal
+11863,"Independent IT work out of Chicago generates support requests, fix notes and client follow-ups, and Donnell Jamison's version of that record is worth a conversation.",name;bucket;location
+11864,"Any IT services shop in Reston, like Visual Torch, builds up tickets, change records and resolution notes with every client request it closes.",name;bucket;location
+11865,"Handling implementation in-house means Broad Arrow Initiative Group keeps its own project plans, configuration records and handoff notes from Palmyra, PA engagements.",name;bucket;signal;location
+11866,"Twelve years of IT work in North Port gives Enternect a backlog of service tickets, escalations and fix notes from real client environments.",name;bucket;signal;location
+11867,"Working from Hyattsville, Wildebrand Archer handles the kind of IT requests that become tickets, escalations and remediation notes, a record few firms organize well.",name;bucket;location
+11868,"With Zoho holding the day-to-day, All Intentional in Federal Way has a running record of client requests, tickets and resolutions that can be structured.",name;bucket;tool;location
+11869,"Sansar Tec has spent 11 years handling IT work from Haddon Heights, which adds up to a lot of tickets, escalations and remediation notes.",name;bucket;signal;location
+11870,"Twelve years of IT solutions work around Hampton, VA leaves Johnson Squared IT Solutions with project scopes, support tickets and remediation notes in one consistent trail.",business;signal;location
+11871,"Consulting engagements out of Cincinnati leave Boerger Consulting with scopes, deliverables and client review notes, the paper trail behind each piece of advice.",name;bucket;location
+11872,"Evanguards has worked out of Alexandria, VA for 14 years, long enough to build up service tickets, change records and resolution notes.",name;bucket;signal;location
+11873,"Nearly two decades of client work in Sierra Vista means Dawson & Associates has engagement files, project notes and service records built up since 2007.",name;bucket;signal;location
+11874,"Enterprise IT work from Severn, MD gives Omega Enterprise Solutions a trail of implementation records, support tickets and fix notes tied to real client systems.",name;bucket;location
+11875,"Tulzi Technologies has been doing IT services in Ellicott City since 2012, and 14 years of support tickets and remediation notes is a record few AI teams can find.",business;signal;location
+11876,"IT solutions and development from Blairsville, GA means Serial Solutions And Development keeps requirements, build tickets and client support threads from each project.",business;location
+11877,"Fourteen years in business in Fairfax, VA gives Technology Organized a long record of client service requests, project notes and resolved issues.",name;bucket;signal;location
+11878,"Teya Information Services And Solutions runs implementation in-house from Anchorage, so configuration steps, cutover notes and support follow-ups all sit in one place.",business;signal;location
+11879,"Fifteen years of independent IT work in Mountain Home, Idaho means Jeffrey Smith has a long trail of customer requests, repairs and fix notes.",name;bucket;signal;location
+11880,"Nineteen years of computer services in Chiefland, FL means Gator Works Computing has repair logs, customer requests and fix notes going back to 2007.",business;signal;location
+11881,"Computer service calls in Marrero, LA leave Serve-U Technologies with a steady stream of repair tickets, diagnostics and fix notes on real customer machines.",business;location
+11882,"Seventeen years in Atlanta managing client engagements leaves Connectinc Global Management with project plans, status reports and client correspondence in a structured trail.",name;bucket;signal;location
+11883,"Redel Technology Solutions has handled IT services in Leesburg, VA since 2014, building a record of support tickets, escalations and remediation notes along the way.",business;signal;location
+11884,"Since 2007, Ohio Technologies has been solving IT problems from Silver Spring, MD, and 19 years of tickets and resolution notes is rare structured data.",business;signal;location
+11885,"Thirteen years of computer services in Accokeek, MD means Hiscomp has repair tickets, diagnostics and customer follow-ups that show how problems really get fixed.",business;signal;location
+11886,"A decade of IT services out of Pike Road, AL gives 3 Squared Technology Group a log of support requests, escalations and fixes across client environments.",business;signal;location
+11887,"Core Concept Technologies keeps its technicians in-house in Lanham, MD, so every service call, field fix and follow-up lands in its own records.",business;signal;location
+11888,"IT services around Woodbridge, VA give Williams Technology Enterprises a running set of tickets, installs and resolution notes tied to real client systems.",business;location
+11889,"Audit services out of Cincinnati mean Clear Audit produces workpapers, findings and review notes with every engagement, in a highly structured form.",business;location
+11890,"A software and IT outfit in Slippery Rock, PA like Codereal accumulates issue tickets, code review notes and client requests with each project.",name;bucket;location
+11891,"Cybersecurity work from Marietta, GA leaves Cyberock with security assessments, incident notes and remediation steps recorded client by client.",business;location
+11892,"Technology services in Atlanta mean Mgw Technology logs service requests, project work and fix notes, a steady record of how client problems get solved.",business;location
+11893,"Security engagements run from Holly Springs, NC leave Black Belt Security with assessment findings, incident notes and remediation steps, one client at a time.",name;bucket;location
+11894,"Attica, working from Lovettsville, VA, handles technical work whose tickets, change records and resolution notes are rarely captured in clean, structured form.",name;bucket;location
+11895,"Acronox in Houston runs client work through Zoho, which means requests, tickets and resolutions are already captured in a structured trail.",name;bucket;tool;location
+11896,"Government contracting from Knoxville gives D&K Holdings proposals, compliance documentation and deliverable records written to formal, repeatable standards.",business;location
+11897,"IT services in Corbett, Oregon, mean Gorge Tech closes out support tickets, installs and fixes that tie back to real customer setups.",business;location
+11898,"Twelve years in business in Richardson, TX means Cheema has built up client requests, project files and service notes worth a closer look.",name;bucket;signal;location
+11899,"Sixteen years of digital forensics in West Covina leaves Data Cell Forensics with case reports, evidence handling logs and examination findings in a rigorous format.",business;signal;location
+11900,"Managed IT out of Sugar Land with Zoho behind it gives Thriveon Solutions a structured trail of tickets, escalations and remediation notes.",business;tool;location
+11901,"Rj & Aj Enterprises in Sacramento handles IT work that produces tickets, change records and fix notes, and few shops keep those organized.",name;bucket;location
+11902,"Aerospace engineering in Huntsville means Oax Aerospace produces design reviews, test records and engineering change documentation tied to real hardware.",business;location
+11903,"Consulting engagements in Alexandria, KY leave Valley-High Consulting with scopes, analyses and client recommendations captured in structured deliverables.",business;location
+11904,"Moving freight out of Custar, Ohio, Kirkland Logistics builds a running record of quotes, carrier choices and delivery exceptions.",business;location
+11905,"Running freight across 48 states from McAllen, TX, Luis Alejandro Fonseca-Guzman produces load records, rate agreements and delivery notes with every haul.",business;signal;location
+11906,"Logistics runs out of Syracuse leave Mab Logistics with quotes, carrier assignments and delivery exceptions for every shipment it handles.",business;location
+11907,"Atnle's freight work in Casa Grande, AZ creates a trail of load quotes, carrier selections and exception notes for every shipment.",business;location
+11908,"Handling loads in-house in Philadelphia, Ninth Star Legacy Enterprise keeps its own quotes, dispatch decisions and delivery notes.",name;bucket;signal;location
+11909,"Trademark Logistics moves freight out of Fresno, Texas, and every load leaves a quote, a carrier decision and a trail of delivery updates.",business;location
+11910,"Running 24/7 with carrier operations in-house at Virginia Beach, Htr Logistics logs dispatch decisions and exceptions at every hour of the day.",business;signal;location
+11911,"Logistics consulting from Atlanta means Yellow Diamond Consultants writes up network analyses, rate reviews and recommendations for each client.",business;location
+11912,"As a freight brokerage in Sandusky, Search2Transport accumulates shipper quotes, carrier rate decisions and exception notes on every load it covers.",business;location
+11913,"Specialized bulk trucking out of Newark, DE leaves Groupe Bellemare with load records, dispatch plans and delivery documentation for bulk cargo.",business;location
+11914,"Out of Spring, Texas, Getit N Go Logistics runs freight that produces quotes, carrier assignments and delivery exceptions on every move.",business;location
+11915,"Fifteen years of freight work from Gardendale, AL give Rite Now Logistics a deep log of quotes, carrier decisions and delivery exceptions.",business;signal;location
+11916,"Hescott Global keeps load handling in-house from Spring, Texas, so quotes, dispatch calls and delivery exceptions all live in its own records.",name;bucket;signal;location
+11917,"Tracking handled in-house means Shipspry in Scottsdale logs each shipment's status changes and delays itself, a detailed record of freight in motion.",business;signal;location
+11918,"With Zoho behind operations in Carmichael, CA, Team Arechiga's freight work leaves a structured record of quotes, loads and delivery notes.",name;bucket;tool;location
+11919,"Freight forwarding out of Fayetteville, GA gives International Cargo Network booking records, shipping documents and exception notes on every cargo move.",business;location
+11920,"Each load Pts Logistix moves from Oxford, Alabama generates a quote, a carrier decision and delivery notes, a steady log of freight decisions.",business;location
+11921,"Eleven years of logistics work around Cypress, TX means Gulfport Logistics holds a long run of quotes, carrier rate decisions and exception notes.",business;signal;location
+11922,"From Lancaster, SC, Gpt Logistics builds up freight quotes, load assignments and delivery exceptions with every shipment.",business;location
+11923,"A trucking carrier based in Palmer, MA, Chacon Trucking keeps dispatch records, load details and delivery notes for every run.",business;location
+11924,"For 17 years On-Time Supply And Logistics has run supply and logistics from Lewisville, TX, leaving a long record of orders, shipments and delivery exceptions.",business;signal;location
+11925,"Atlanticus Services handles freight and logistics operations in Hackensack, NJ, which means quotes, carrier choices and exception notes behind every shipment.",name;bucket;location
+11926,"Proserv Logistics has run logistics services from Eden Prairie, MN for 11 years, with shipment quotes, carrier decisions and exception notes accumulating throughout.",business;signal;location
+11927,"Royal Logistics & Transportation tracks shipments in-house in Grand Rapids, so status updates, delays and delivery confirmations are all captured in its own records.",business;signal;location
+11928,"Logistics work out of Celina, Texas leaves Rellek with a record of load quotes, carrier selections and delivery exceptions for each shipment.",business;location
+11929,"Running drayage and LTL in-house from Maumee, Ohio, Owens Intermodal produces container moves, dispatch records and delivery exceptions across both modes.",business;signal;location
+11930,"Agricultural import-export from Madisonville, TX leaves Agro Trade International with purchase contracts, shipping documents and commodity quotes for each trade.",business;location
+11931,"Daas Services in Palm Harbor, FL works in freight and logistics, where every shipment leaves quotes, carrier choices and delivery exceptions behind.",name;bucket;location
+11932,"Linked Logistics moves freight from Madison, Mississippi, and each load adds to a log of quotes, carrier assignments and delivery updates.",business;location
+11933,"Freight services in Los Angeles give Able Freight Services a large pool of quotes, carrier bookings and exception notes in one of the busiest freight markets.",business;location
+11934,"Global logistics work out of Dublin, Ohio gives Evolve Global Logistics international quotes, booking records and exception notes on every move.",business;location
+11935,"Fc & Sons Logistics runs freight out of Park Ridge, IL, with every load leaving a quote, a carrier decision and a delivery record.",business;location
+11936,"In Chesapeake, VA, Aor Logistics turns each freight job into quotes, carrier assignments and exception notes, a log of day-to-day logistics decisions.",business;location
+11937,"Managing capacity in-house from Hopkinton, MA, Clarenn makes its own calls on who hauls what, and each one leaves quotes and carrier decisions behind.",name;bucket;signal;location
+11938,"Sixteen years of logistics services from Winnebago, Nebraska give Hci Logistics a long record of quotes, carrier decisions and delivery exceptions.",business;signal;location
+11939,"Kastel Enterprises Mk in Mobile, AL sits in freight and 3PL, a line of work that accumulates quotes, carrier rate decisions and exception notes.",name;bucket;location
+11940,"Every job at Impaq Reality in Orlando leaves behind quotes, agreements and follow-up notes, the working records of a small business.",name;location
+11941,"Intelligent Agility, based in Herndon, VA, produces project plans, client deliverables and status notes, the records any service firm builds with each engagement.",name;bucket;location
+11942,"Kfs Solutions in Arnold, MD tracks its work in Zoho, which means client requests, quotes and job follow-ups already sit in structured form.",name;bucket;tool;location
+11943,"Technology services out of New Castle, PA give Longarm Technologies project tickets, build notes and client support threads from every engagement.",business;location
+11944,"Build projects around Carrollton, TX leave Sb Solutions with estimates, RFIs, change orders and job records tied to real construction work.",business;location
+11945,"Fsa Logistics, a tribal-owned logistics business in Albuquerque, keeps the quotes, carrier assignments and delivery records that every shipment generates.",business;location
+11946,"Blue Group in Twin Falls, ID runs on Zoho, so its customer requests, quotes and job records are already captured in a consistent format.",name;tool;location
+11947,"Celeres Logistics moves freight from Farmington, Utah, and each shipment adds quotes, carrier choices and delivery exceptions to a growing log.",business;location
+11948,"Ten years in business out of Chantilly, VA means Kinetic Solutions International holds quotes, carrier decisions and exception notes from a decade of jobs.",name;bucket;signal;location
+11949,"Thirteen years of refining optimization consulting from Lewisburg means Refining Optimization & Petro Logistical Services holds process analyses, models and recommendation reports.",business;signal;location
+11950,"Construction and investment work in Huntsville gives Buildings, Structures, Models, And Investments estimates, project models and deal files tied to real structures.",business;location
+11951,"Space operations from Redondo Beach, with capacity managed in-house, mean Space Agility keeps scheduling records, capacity plans and operational notes.",business;signal;location
+11952,"With 350+ offices reviewing telecom costs, Schooley Mitchell sits on a huge set of client bills, savings analyses and carrier contract comparisons.",business;signal
+11953,"Logistics services from Arlington, VA produce shipment quotes, carrier decisions and exception notes for Tei Logistics on every job.",business;location
+11954,"All Resources Logistics runs logistics services in Douglasville, GA, and each load leaves a quote, a carrier choice and a trail of delivery updates.",business;location
+11955,"Branding work in Huntsville gives The Brand Architechs creative briefs, design iterations and client feedback rounds for every identity it builds.",business;location
+11956,"Every move Trailblazer Moving books in San Antonio produces an estimate, a crew schedule and an inventory list, the paper trail of a moving job.",business;location
+11957,"Maughan Industries has been in business 13 years out of Coatesville, PA, long enough to accumulate quotes, job orders and shipment records in a steady format.",name;bucket;signal;location
+11958,"Truck N Office, in Greenbelt, MD, works in freight and trucking, with quotes, load details and delivery notes recorded on each haul.",name;bucket;location
+11959,"Sourcing handled with implementation in-house in Mequon, WI leaves Sourcex with supplier quotes, purchase orders and rollout notes from each program.",business;signal;location
+11960,"Navqsys operates out of Aberdeen Proving Ground, MD, where project work tends to generate formal deliverables, status reports and compliance records.",name;bucket;location
+11961,"Risk management consulting in Washington, DC gives Ardan Risk Management assessments, risk registers and mitigation recommendations for each client.",business;location
+11962,"Defense and government contracting from Alexandria, VA leaves Goldbelt Apex with proposals, deliverables and compliance documentation in formal, structured formats.",business;location
+11963,"Nineteen years of aviation services out of Anchorage give Kijik Aviation Services operations logs, maintenance records and scheduling notes.",business;signal;location
+11964,"Fifteen years of logistics from Princeton, NJ mean 4Site Logistics holds a long record of quotes, carrier decisions and delivery exceptions.",business;signal;location
+11965,"A fashion business in Charlotte like Piece By Piece Fashion generates design sketches, order records and customer requests, a record of how looks come together.",business;location
+11966,"Business solutions work out of Arlington, TX leaves Wiley & Bentley Business Solutions with engagement scopes, deliverables and client follow-up notes.",name;bucket;location
+11967,"International freight forwarding out of Vienna, VA means Efs Ebrex handles booking records, shipping documents and exception notes across borders.",business;location
+11968,"Seventeen years of aviation work in Saint Petersburg, FL give Varna Aviation Group a long trail of operations and maintenance records.",business;signal;location
+11969,"Eighteen years in the energy business in San Juan means Altenergy has project records, site data and service logs from real systems.",business;signal;location
+11970,"Tac2 Global, based in Clearwater, FL, works in the freight and logistics space, where every shipment leaves a quote, a carrier choice and delivery notes.",name;bucket;location
+11971,"Thomas And Laura Jones Services in Helotes, TX is a service business, and every job it takes produces estimates, work orders and customer follow-ups.",name;bucket;location
+11972,"Cohort Innovative Concepts in Stockbridge, GA does project work that leaves proposals, deliverables and client feedback in its files.",name;bucket;location
+11973,"Red Letter in Newport News, VA keeps the quotes, job records and customer correspondence that any small operating business builds with each project.",name;bucket;location
+11974,"A decade of logistics consulting from Niceville, FL leaves Airnorth Logistics Consulting with network analyses, rate reviews and client recommendations.",business;signal;location
+11975,"As a trucking carrier tracking in-house out of Red Lion, PA, Commonwealth Carriers logs dispatch, location updates and delivery confirmations for every run.",business;signal;location
+11976,"Able Logistics in San Antonio runs logistics through Zoho, so quotes, load details and delivery updates already sit in one structured trail.",business;tool;location
+11977,"Swaim Logistics has moved freight from Broken Arrow, Oklahoma since 2007, and 19 years of quotes and carrier decisions is a rare record.",business;signal;location
+11978,"Last-mile delivery in Charlotte gives Superior Mile Logistics a dense record of routes, stop times and delivery exceptions for every day of runs.",business;location
+11979,"Hitched Logistics books loads from Cedar Hill, TX, and each one adds a quote, a carrier choice and delivery notes to its records.",business;location
+11980,"In Iowa City, Yeti Logistics turns each shipment into quotes, carrier assignments and exception notes, a running log of logistics decisions.",business;location
+11981,"Cargo services out of Naperville, IL mean As Cargo handles bookings, load details and delivery exceptions that add up to a detailed shipment log.",business;location
+11982,"Joe Tex in Mount Vernon, TX works in freight and logistics, so loads, quotes and delivery notes pile up as part of daily operations.",name;bucket;location
+11983,"Thirteen years in business from Conroe, TX leaves Sasatian with the quotes, load records and delivery notes that freight operators build job by job.",name;bucket;signal;location
+11984,"Logistics out of Irving, Texas gives Cima Logistics a steady flow of quotes, carrier choices and delivery exceptions on every shipment.",business;location
+11985,"Procurement with carrier and LTL handled in-house gives Allied Procurement Services supplier quotes, freight bookings and delivery exceptions from Austin.",business;signal;location
+11986,"Logistics services from Dallas give New Realm Logistics Services quotes, carrier rate decisions and delivery exception notes with every load.",business;location
+11987,"J.A.R.A. Enterprise, based in Novi, MI, works in freight and 3PL, where each shipment adds quotes, carrier choices and exception notes to the record.",name;bucket;location
+11988,"Thirteen years of freight logistics from Saint Clair, MI mean Deep Blu Logistics holds a long run of quotes, carrier decisions and delivery exceptions.",business;signal;location
+11989,"Tripod Transportation runs transportation services in Nashville, which generate dispatch records, load details and delivery confirmations every day.",business;location
+11990,"Freight systems and logistics work in Addison, IL gives Matrix Freight Systems a structured record of quotes, load plans and exception handling.",business;location
+11991,"Freight solutions out of Jacksonville mean Pro Trans Freight Solutions logs quotes, carrier selections and delivery exceptions on every load.",business;location
+11992,"Johan Logistics runs freight from Dallas, and each load generates a quote, a carrier decision and delivery notes that add up fast.",business;location
+11993,"Universal Ways, in East Dundee, IL, works in freight and logistics, where quotes, carrier choices and delivery exceptions follow every move.",name;bucket;location
+11994,"Talish in Orlando works in freight and logistics, which means quotes, carrier rate decisions and exception notes build up with every load.",name;bucket;location
+11995,"Transport services out of Euclid, OH leave Authentic Quality Transport with dispatch records, load details and delivery confirmations for each run.",business;location
+11996,"D F V Logistics moves freight from Hattiesburg, MS, and every shipment leaves quotes, carrier assignments and delivery updates behind.",business;location
+11997,"Sixteen years in business out of Knoxville, TN gives Lml Ventures a long record of quotes, load details and delivery notes.",name;bucket;signal;location
+11998,"Covering 48 states from Pearl, Mississippi, Sgm Logistics generates quotes, carrier assignments and delivery exceptions across a very wide lane network.",business;signal;location
+11999,"Thirteen years of trucking out of Center Point, AL leave Berry Transport with load records, dispatch decisions and delivery notes from a long run of hauls.",business;signal;location
+12000,"Transportation services in Pittsburgh give Am Transportation Services dispatch records, load details and delivery confirmations with each run.",business;location
+12001,"Eleven years of carrier solutions and freight work in Tampa give Best Carrier Solutions a log of carrier rates, load assignments and delivery exceptions.",business;signal;location

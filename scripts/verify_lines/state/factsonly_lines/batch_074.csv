@@ -1,0 +1,151 @@
+row,new_line,basis
+10952,"After 18 years of government IT contracting out of Anchorage, Katmai Information Technologies holds task orders, delivery documentation and support records, with Salesforce on the client side.",business;signal;location;tool
+10953,"Tqual Solutions has spent 14 years delivering IT solutions from Huntington, leaving a trail of project records, support requests and resolution notes, with Salesforce on the client side.",business;signal;location;tool
+10954,"Placing IT contractors since 2011, Allied Staff Augmentation Partners in Charlotte has 15 years of requisitions, candidate submittals and placement outcomes.",business;signal;location
+10955,"Hamilton Staffing Solutions runs JobDiva out of Clermont, so 11 years of job orders, candidate submittals and placement outcomes sit in one consistent system.",business;signal;tool;location
+10956,"Twelve years of recruiting from Savage, Minnesota, with Bullhorn as the system of record, gives Higher Recruitment a long run of searches, submittals and interview feedback.",business;signal;tool;location
+10957,"Because Boosey Wilson Group runs sourcing in-house on Bullhorn, its Nashville recruiters leave behind candidate searches, outreach history and placement outcomes.",business;signal;tool;location
+10958,"E-Revs-Supply Chain has worked in Saint Clair Shores for 11 years, and with Bullhorn behind it the job orders, candidate submittals and placement outcomes sit in one system.",name;bucket;signal;tool;location
+10959,"In Saratoga Springs for 17 years and on JobDiva, Integrated Staffing holds a long record of job orders, submittals and placement outcomes.",business;signal;tool;location
+10960,"Placing across 31 states with Bullhorn as the backbone, Spero Solutions in Irving builds a wide record of requisitions, submittals and placement outcomes.",signal;tool;bucket;location
+10961,"A Plus Staffing Solutions has placed people out of Columbus for 13 years, and with Bullhorn that is a clean trail of job orders, submittals and outcomes.",business;signal;tool;location
+10962,"Thirteen years of medical staffing out of Fremont, Nebraska means Summit Medical Staffing keeps facility orders, shift scheduling and compliance documentation, with Salesforce tracking the accounts.",business;signal;tool;location
+10963,"Direct Care Source has operated in Denton for 10 years, which means workforce scheduling, onboarding and compliance paperwork, with HubSpot tracking the outreach.",business;signal;tool;location
+10964,"Ten years of talent placement out of Cleveland on JobDiva gives Advance Talent a consistent run of job orders, submittals and placement outcomes.",business;signal;tool;location
+10965,"Avamed has been operating in Sherman Oaks for 10 years, and with JobDiva behind it the firm keeps job orders, shift scheduling and compliance documentation in one place.",name;bucket;signal;tool;location
+10966,"Kinecthq in Culver City has 11 years of recruiting behind it, and with HubSpot tracking the pipeline there is a record of client conversations, searches and placements.",name;bucket;signal;tool;location
+10967,"Vigilint Expeditionary Solutions has served defense customers from Morrisville for 10 years, which means task orders, deployment staffing and reporting, with Salesforce tracking the accounts.",business;signal;tool;location
+10968,"Ground services work in Farmington Hills leaves Dominion Ground Enterprise with work orders, site schedules and crew notes for every property it maintains.",business;name;location
+10969,"Mk In Home Care Services in Stockbridge runs on caregiver scheduling, shift coverage, and training and compliance documentation, all operational records rarely seen outside an agency.",business;location
+10970,"Investment and property holdings out of Houston mean Jayfini Global Investments keeps acquisition files, lease records and maintenance requests for each asset.",name;bucket;location
+10971,"Every listing and sale that Baker And Maxwell Real Estate Brokerage handles around Coral Springs produces comps, offers, showing feedback and transaction files.",business;location
+10972,"Managing multifamily communities out of Silver Spring, Asarion Properties generates leasing activity, maintenance requests and renewal decisions across every building.",business;location
+10973,"As real estate agents in Riverview, Bradley And Bradley build up listing files, buyer showings and offer negotiations with every closing.",business;location
+10974,"Alaska Native Resource Development, based in Anchorage, works in resource development, which tends to leave project documentation, permitting files and field reports behind.",business;name;location
+10975,"Commercial real estate investing in Eden Prairie means Area Invest Ii holds underwriting models, lease abstracts and property operating reports for each asset.",business;location
+10976,"Kleinwun Investments in Olympia deals in real estate investment, which produces acquisition analyses, lease files and maintenance histories property by property.",business;location
+10977,"Cajas Realty, in Palos Heights, sits on listing files, showing notes and closing records, the day-to-day paper trail of a real estate practice.",business;location
+10978,"An apartment ownership entity like Norvin Pin Oak South accumulates leases, rent rolls, maintenance work orders and renewal records, building by building.",business;name
+10979,"Risk and security work out of Midway, Texas leaves Phoenix Counter Risk with assessments, incident reports and client reporting for every engagement.",business;location
+10980,"Thirteen years of security work out of Waldorf gives Executive Security Services a deep file of patrol logs, post orders and incident reports.",business;signal;location
+10981,"Blue Knight Security has put guards on posts around Houston for 11 years, and each shift adds to a record of patrol logs and incident reports.",business;signal;location
+10982,"Case files, surveillance logs and written findings are what 11 years of private investigations in Bismarck have produced for Eh Investigations.",business;signal;location
+10983,"Rivas Solutions works in defense-related services from Springdale, Arkansas, a line of work that generates training records, assessments and engagement reports.",business;location
+10984,"Because Morgan Defense runs training in-house out of Fairmont, West Virginia, it holds course material, qualification records and instructor notes.",business;signal;location
+10985,"Eighteen years of pavement striping from Spring, Texas leaves Divided Lines with bids, layout measurements and job completion records for every lot and road.",business;signal;location
+10986,"Since 1992, Copquest in Camarillo has served law enforcement customers, which adds up to 34 years of orders, product records and customer support exchanges.",business;signal;location
+10987,"Ph3 has operated in Indianapolis since 2013, and a security-sector firm that age keeps incident reports, site assessments and client service records.",name;bucket;signal;location
+10988,"Twenty-five years of security consulting in Southampton means Fortress Consulting holds risk assessments, site surveys and recommendation reports in volume.",business;signal;location
+10989,"Ten years of security services out of Clermont leaves Prestige Security with post logs, shift reports and incident documentation.",business;signal;location
+10990,"Pairing security with investigations for 22 years in Carson, North American Security And Investigations produces incident reports, case files and client updates.",business;signal;location
+10991,"Forty years of guard service across Chicagoland, from a base in Blue Island, is a long run of patrol logs and incident reports for Jk Guardian Security Services.",business;signal;location
+10992,"One Corps, Security Solutions has run security work out of Longwood for 10 years, which means shift logs, incident reports and client site records.",business;signal;location
+10993,"Training run in-house at The Mohawk Group in Tampa means course material, instructor notes and assessment results come out as a by-product of the work.",signal;location;name
+10994,"Twelve years of protective services in Cincinnati leaves Home State Protective Services with post assignments, patrol records and incident reports.",business;signal;location
+10995,"Alarm and electronic security integration in Fort Smith, 13 years of it, leaves Advantage Security Technologies with site surveys, install records and service tickets.",business;signal;location
+10996,"Supplying CCTV equipment from La Puente for 17 years means Thomas Redmann holds order histories, product specs and customer support exchanges tied to real installations.",business;signal;location
+10997,"Fire Safety And Maintenance, serving Neptune for 11 years, generates inspection reports, deficiency findings and service records on every system it touches.",business;signal;location
+10998,"Twenty years of IT services out of Brambleton gives IT Task Force a history of support tickets, escalations and remediation notes.",business;signal;location
+10999,"Little Northside has been in business on St Thomas since 1997, 29 years of client work that leaves behind quotes, project records and service history.",name;signal;location
+11000,"Apogee Cfs in Corpus Christi has operated since 2005, and 21 years of client engagements leave a trail of work orders, reports and service records.",name;signal;location
+11001,"Fifteen years in Chino means Acelevel has accumulated project quotes, job records and customer service history, the operational trail of any established firm.",name;signal;location
+11002,"I.C.E. Automation Group has integrated industrial controls out of Augusta for 26 years, leaving control designs, commissioning records and service tickets.",business;signal;location
+11003,"Cyber-Systems has handled IT and cyber work from San Juan for 26 years, which adds up to tickets, escalations and remediation notes.",business;signal;location
+11004,"Security and alarm system work in Marshall, Virginia since 1994 gives Silent Partner Security Systems 32 years of install records and alarm service calls.",business;signal;location
+11005,"Installing CCTV since 1989, Quality Cctv Systems in North Chesterfield has 37 years of site surveys, installation records and service calls.",business;signal;location
+11006,"Forty-six years working on electronic security systems from Warminster gives Mj Electronic Solutions a deep archive of system designs, install records and service history.",business;signal;location
+11007,"Inden Solutions Group is in Fairfield, California, and facilities management work like this runs on work orders, vendor records and service schedules.",name;bucket;location
+11008,"Environmental services across 13 buildings in Anchorage means Koman Eco Services keeps work orders, inspection records and service logs for each site.",business;signal;location
+11009,"Terrestris in Woodbridge does facility-side field work, and each site produces work orders, visit notes and service schedules.",name;bucket;location
+11010,"Facility-focused work out of Reston gives Steward D&S service requests, vendor records and site schedules, even if nobody thinks of them as data.",name;bucket;location
+11011,"Siris, in Mount Pleasant, works in facilities management, where maintenance requests, vendor invoices and service schedules pile up daily.",name;bucket;location
+11012,"The Luzar Group works in facilities management from McDonough, Georgia, which means work orders, vendor records and maintenance histories by site.",name;bucket;location
+11013,"Facility services in Marlton produce a daily stream of work orders, inspection checklists and vendor records, which is what Empire Facility Services deals in.",business;location
+11014,"Dw Solutions, based in Alexandria, sits in facilities management, where service tickets, site schedules and vendor records are the daily output.",name;bucket;location
+11015,"A federal services contractor like Waseyabek Federal Services in Grand Rapids produces task orders, performance reports and facility maintenance records.",business;location;bucket
+11016,"Construction Builds in Dallas, Georgia generates bids, change orders, RFIs and daily field reports on every job.",business;location
+11017,"Hauling freight out of Plant City, Megaload Express creates load tenders, dispatch decisions and delivery exception notes on every run.",business;location
+11018,"Running 24/7 cleaning operations with inspections done in-house, Proclean Facility Services in Kenmore creates checklists, service logs and corrective notes, with Zoho in the loop.",business;signal;tool;location
+11019,"Twenty years of facility services out of Hooks, Texas leaves Franklin's Facility Services with scopes of work, schedules and service records across its accounts.",business;signal;location
+11020,"Unica Janitorial has cleaned Dallas buildings for 19 years, and every account brings cleaning schedules, inspection scores and supply requests.",business;signal;location
+11021,"Quality Management Services has operated in Frederick since 2006, and 20 years of service contracts bring work schedules, quality inspections and client request logs.",business;signal;location
+11022,"Gtech Cleaning Services in Wilmington has 25 years of cleaning behind it, a quarter century of bids, schedules and quality inspection records.",business;signal;location
+11023,"In West Orange, Vip Special Services has done commercial cleaning for 21 years, with bids, crew schedules and inspection reports on every site.",business;signal;location
+11024,"Janitorial work in Jackson, Tennessee since 1989 gives Bob's Janitorial Services 37 years of contracts, schedules and inspection records.",business;signal;location
+11025,"Prowindowz trains and runs its own window cleaning technicians in Los Angeles, producing job quotes, route schedules and training material.",business;signal;location
+11026,"Twenty-two years of cleaning and management services around Jupiter means Custom Cleaning And Management Services has contracts, schedules and quality inspections on file.",business;signal;location
+11027,"K Payne Contracting handles janitorial contracts in Nashville, and each one comes with bids, cleaning schedules and inspection checklists.",business;location
+11028,"E & F Cleaning Services has kept Marietta buildings clean for 31 years, a run of bids, schedules and inspection records.",business;signal;location
+11029,"Corporate services work in Brownsville, going back to 2002, leaves Nvs Corporate Services with 24 years of service contracts, work orders and client reports.",business;signal;location
+11030,"Candace's Cleaning in Valley Springs has 20 years of cleaning appointments, client requests and schedules behind it.",business;signal;location
+11031,"Ramsgate has worked out of Silver Spring since 1994, and 32 years in the cleaning trade leaves service schedules, crew records and client requests.",name;bucket;signal;location
+11032,"Web-Fair has operated in Indianapolis since 2000, and 26 years of building service work produces schedules, work orders and inspection notes.",name;bucket;signal;location
+11033,"X-Clean's 22 years of cleaning around Homestead, Florida add up to a deep file of job schedules, crew assignments and client requests.",business;signal;location
+11034,"Cleaning offices in Tulsa for 31 years gives Office Express Janitorial Services contracts, schedules and quality inspection records at real depth.",business;signal;location
+11035,"Wilson Building Maintenance has kept Wichita buildings running since 1978, 48 years of maintenance requests, work orders and service schedules.",business;signal;location
+11036,"Commercial cleaning for 19 years in Houston, with Salesforce holding the accounts, gives Corporate Care a clean record of bids, service schedules and client requests.",business;signal;tool;location
+11037,"North Coast Cleaning Services has cleaned commercial spaces around Eureka for 23 years, producing contracts, crew schedules and inspection records.",business;signal;location
+11038,"Thirty-five years of commercial cleaning in Gaithersburg is a long archive for Extra Clean, covering bids, route schedules and quality checks.",business;signal;location
+11039,"R2 Consulting has advised clients from Edmond since 2016, and a decade of engagements leaves proposals, deliverables and project notes.",business;signal;location
+11040,"If 7 Ocean Group moves freight, as the name suggests, 23 years in East Elmhurst means a long trail of quotes, shipment records and exception notes.",name;signal;location
+11041,"Sas Facility Management has handled facility and janitorial work in Houston for 14 years, which means work orders, cleaning schedules and inspection records.",business;signal;location
+11042,"A janitorial supply business like Jsi, 24 years old in Grandview, builds up order histories, product catalogs and delivery records.",business;signal;location
+11043,"Kevco Building Services has run building services and janitorial work in Gaithersburg since 1982, 44 years of contracts, schedules and inspection records.",business;signal;location
+11044,"Vargas Group has operated in Chicago since 1999, and 27 years of service work leaves behind contracts, schedules and client request records.",name;bucket;signal;location
+11045,"Twenty-three years of cleaning in Miami means McKenzie's Cleaning has a long record of client schedules, quotes and service notes.",business;signal;location
+11046,"As one of more than 2,400 SERVPRO locations, SERVPRO of Vacaville handles restoration jobs that produce intake records, moisture readings and claims documentation.",business;signal;location
+11047,"Thirty-five years of building restoration in Bozeman gives Buffalo Restoration project estimates, condition assessments and completion records on real structures.",business;signal;location
+11048,"Skytek Building Services has cleaned and maintained Tucson buildings for 20 years, leaving contracts, work orders and inspection records.",business;signal;location
+11049,"With a cleaning franchise spanning 25 states, Office Pride sees inspection checklists, service schedules and customer feedback in volume.",business;signal
+11050,"Commercial Cleaning Services has worked from Newport, Delaware since 2000, 26 years of contracts, schedules and inspection notes.",business;signal;location
+11051,"Cleaning services out of Irvine since 2000 give Innovative Cleaning Services 26 years of bids, crew schedules and quality inspection records.",business;signal;location
+11052,"Sixty-five years of building maintenance and cleaning gives Western Building Maintenance in Garden City an unusually long record of contracts, work orders and inspections.",business;signal;location
+11053,"Zlynx Enterprise has operated in Austin since 2003, and 23 years of building service work leaves contracts, schedules and client request logs.",name;bucket;signal;location
+11054,"Running rentals in-house out of Waianae, Agape Equipment Rentals records every reservation, equipment checkout, return inspection and maintenance entry.",business;signal;location
+11055,"Fifteen years of selling and renting equipment from Penns Grove gives Rpi Equipment quotes, rental agreements and service histories tied to specific machines.",business;signal;location
+11056,"Tracks North America handles its rentals in-house from College Station, so each machine carries a history of rental contracts and service work.",business;signal;location
+11057,"Dealing and renting heavy machinery in Richmond, Kentucky since 2013, Kentucky Machinery tracks quotes, rental agreements and service records unit by unit.",business;signal;location
+11058,"Powells Equipment has rented equipment for 54 years around Scott Township, which means rental agreements, maintenance logs and return inspections going back to 1972.",business;signal;location
+11059,"Seventy years supplying steel from Sarasota means Seaboard Steel holds quotes, purchase orders, inventory records and delivery paperwork at serious scale.",business;signal;location
+11060,"Pacific Coast Iron sells and rents heavy equipment from Placerville, and 16 years of that is quotes, rental contracts and service records by machine.",business;signal;location
+11061,"Equipment businesses like Pacific Imaging Solutions in Whittier keep rental agreements, dispatch records and maintenance logs for every unit.",name;bucket;location
+11062,"Fluidized Rock Systems has been in Lake Worth for 11 years working with rock and aggregate technology, which produces project specifications, job records and field notes.",business;signal;location
+11063,"With parts and rentals both run in-house, Decker CAT Rental Store in Briarcliff Manor logs rental contracts, parts orders and equipment service history.",business;signal;location
+11064,"Bobcat of Poplar Bluff has sold Bobcat equipment since 2000, giving it 26 years of quotes, sales records and machine service history.",business;signal
+11065,"The Cadwell Group has operated in Bremerton since 2010, and equipment and service businesses of that age hold rental, work order and maintenance records.",name;bucket;signal;location
+11066,"Hutchco Construction has built in Oklahoma City since 1992, so 34 years of bids, change orders, RFIs and daily reports sit in its files.",business;signal;location
+11067,"Romine Johnston Industries in Trabuco Canyon has been operating for 33 years, which adds up to quotes, work orders and equipment service records.",name;bucket;signal;location
+11068,"Over 150 machines on the rental fleet at Drt Rentals in Roseville means a steady log of reservations, checkouts, maintenance and return inspections.",business;signal;location
+11069,"Crane services for 254+ clients out of Ballinger gives 3D Crane Services lift plans, job tickets and inspection records tied to real jobs.",business;signal;location
+11070,"Santini Transport has hauled freight out of Henderson for 13 years, leaving load records, dispatch decisions and delivery exceptions.",business;signal;location
+11071,"A CPA practice running audit and bookkeeping in-house in Altamonte Springs, Michelle Ines Barrera's firm accumulates engagement workpapers, review notes and reconciliations.",business;signal;location
+11072,"Vertice Accounting Solutions handles bookkeeping and month-end close in-house on QuickBooks, which leaves reconciliations, close checklists and review notes.",business;signal;tool
+11073,"The National Cryptologic Foundation builds curriculum and lessons in-house, so its education programs generate lesson plans, activity guides and program materials.",business;signal
+11074,"Operating a K-12 charter network in Louisiana means Firstline Schools produces curriculum maps, facilities records and compliance documentation across campuses.",business;location
+11075,"Because Ondata handles support in-house for its data software, customer questions, bug reports and fixes build up as a single ticket history.",business;signal
+11076,"Ipass Technologies does implementation and QA in-house, so test cases, defect reports and rollout notes accumulate in Saint Cloud with every project.",signal;location;name
+11077,"Involve Staffing places people from San Juan, and with Jira tracking the work, requisitions and placement steps leave a structured trail.",business;tool;location
+11078,"Robotics and sensing hardware work in Campbell, tracked in Jira, leaves Summer Robotics with engineering tickets, test results and issue histories.",business;tool;location
+11079,"Fifty-plus IT consulting projects out of Edison means Egate Technologies holds statements of work, implementation notes and support tickets.",business;signal;location
+11080,"Kappatech has been in Boulder since 2007, and a software-sector firm with 19 years behind it holds support tickets, release notes and implementation records.",name;bucket;signal;location
+11081,"Nineteen years of design and engineering work out of Glenview leaves Pycas Design Innovations with specifications, revision histories and review comments.",business;signal;location
+11082,"Rockitdata builds data software in Raleigh and tracks work in Jira, so feature requests, bug reports and resolutions form a structured record.",business;tool;location
+11083,"HPC and cloud consulting with support in-house means Fluid Numerics keeps support tickets, performance tuning notes and project deliverables from Hickory.",business;signal;location
+11084,"A decade of software development in East Lansing has left Ghamut with project specs, code reviews, bug trackers and client handoff notes.",business;signal;location
+11085,"With support handled in-house on ServiceNow, Quantum Insights logs incidents, escalations and resolutions alongside its consulting engagements.",business;signal;tool
+11086,"365Ino handles support in-house from Saint Petersburg, so customer tickets, escalations and fixes accumulate as a natural record.",name;bucket;signal;location
+11087,"Imperious Enterprise runs ticketing in-house for its consulting work in Dayton, which means requests, resolutions and project notes are captured as they happen.",business;signal;location
+11088,"Tickets run in-house at Moekim Alliance in Spring, Texas, so each request, handoff and resolution becomes a structured record.",name;bucket;signal;location
+11089,"Jl & J Consulting supports its consulting clients in-house from Cumming, leaving a trail of support requests, fixes and engagement notes.",business;signal;location
+11090,"Any software company keeps support tickets, release notes and implementation records, and Tekraft in Ellicott City is no exception.",name;bucket
+11091,"Fifteen years as a tech company in Arlington means Teknolog Io has built up support tickets, project records and implementation notes.",business;signal;location
+11092,"Datalite does implementation and support in-house for its data and AI work, so client rollouts and support tickets become structured records.",business;signal
+11093,"Bluebery Hawaii Technology Solutions has provided IT solutions from Cypress, Texas for 19 years, a long run of tickets, escalations and remediation notes.",business;signal;location
+11094,"Support handled in-house at Manxa Tech turns every customer issue into a ticket, an escalation path and a resolution note.",name;bucket;signal
+11095,"Eighteen years of IT services from Baldwin, New York leaves Techgroup America with help desk tickets, project records and remediation notes.",business;signal;location
+11096,"Engineering design work plus in-house support at Ridiculous Engineering in Lafayette produces design specs, revision histories and support requests.",business;signal;location
+11097,"Girard Solutions has been in Indian Rocks Beach since 2016, and ten years of solutions work leaves project records, client requests and delivery notes.",name;bucket;signal;location
+11098,"Seventeen years of web design in Erie means Epic Web Studios holds client briefs, design revisions, change requests and launch checklists.",business;signal;location
+11099,"Sotaog runs implementation and support in-house from Houston, so customer rollouts and help requests leave a structured record.",name;bucket;signal;location
+11100,"A decade in Murray, Utah gives 40 North Labs ten years of project notes, client requests and issue histories, whatever the product line.",name;bucket;signal;location
+11101,"Running IT help around the clock in Orlando, Useful Tech He logs every request, escalation and fix, the kind of ticket history that is hard to come by.",business;signal;location

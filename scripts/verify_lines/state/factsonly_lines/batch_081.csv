@@ -1,0 +1,151 @@
+row,new_line,basis
+12002,"Running a carrier in-house out of Memphis means Jones Elite generates its own dispatch logs, load records and delivery exception notes every day.",name;bucket;signal
+12003,"Global transportation and logistics out of Milford, OH leaves Premier Global Transportation with a steady record of quotes, carrier selections and shipment exceptions.",business;bucket;location
+12004,"Trucking out of Luthersville, GA produces a trail of dispatch records, load assignments and delivery notes, and Sunset Driven Transportation writes that trail daily.",business;location
+12005,"Outsourcing work in Detroit means Vedo Outsourcing keeps the task logs, handoff notes and service records that show how each client process actually ran.",business;location
+12006,"Fourteen years of technical services contracting since 2012 leave Talon Technical Services with work orders, task records and completion reports from its Huntsville work.",business;signal;location
+12007,"Running a help desk and preventive maintenance in-house, S2S Management in Rockville accumulates service tickets, maintenance schedules and resolution notes.",name;bucket;signal
+12008,"Industrial work out of Seymour, IN means J & D Industrial has job records, work orders and completion documentation piling up behind every project.",business;location
+12009,"Thirteen years of warehousing in Hauppauge give Triple Crown Warehouse a deep record of inbound receipts, inventory movements and outbound shipment exceptions.",business;signal;location
+12010,"As an electrical contractor in Portersville, Thoroughbred Development sits on estimates, job records and inspection sign-offs tied to real installations.",business;location
+12011,"Fifteen years of running a warehouse out of Valley Stream means Brick Mountain Warehouse holds receiving logs, storage records and outbound order histories.",name;bucket;signal
+12012,"Self storage in Bristol, PA generates unit availability records, rental terms and maintenance requests, and Justice Storage keeps all of it in one place.",business;location
+12013,"With Zoho tracking the work from Pago Pago, S & L accumulates quotes, shipment records and follow-ups across its freight operations.",name;bucket;tool;location
+12014,"With 1524 clients on the books, M&M Logistics Group in Conyers has a large, consistent record of quotes, shipment details and delivery exceptions.",business;signal;location
+12015,"Thirteen years of interior services work from East Hartford means Gr Interior Services holds bids, change orders and punch lists tied to finished spaces.",business;signal;location
+12016,"Zip Ship's shipping and courier runs out of Clarkston generate a steady log of pickup requests, route decisions and delivery confirmations.",business;location
+12017,"A private security operation in Port Orchard, Contingency 3 accumulates patrol logs, incident reports and post orders as part of its daily work.",name;bucket
+12018,"Around-the-clock protection work in Palo Alto leaves Global Risk Solutions with shift logs, incident reports and post instructions showing how coverage really ran.",business;signal;location
+12019,"Running 24/7 coverage and compliance in-house, Net Scaling Solutions produces alert histories, escalation notes and audit documentation for its network work.",business;signal
+12020,"Security systems contracting out of Pacheco means Bhp Contracting keeps install records, system configurations and service call notes for each site.",business;location
+12021,"Basesix Systems builds and supports IT systems from Marietta, which leaves it holding implementation records, support tickets and configuration notes.",business;location
+12022,Keeping implementation and a knowledge base in-house means Starboard Industries has written down how its work actually gets set up and fixed.,name;bucket;signal
+12023,"Archway Technology, working from Gladstone, produces the support tickets, project records and change logs that any technology company accumulates.",business;location
+12024,"Fire and security systems work in Green Bay means Nv Technologies Fire & Security keeps inspection reports, device test results and deficiency repairs.",business;location
+12025,"Field work across 4 states gives Current Edge Solutions a multi-state trail of service records, job tickets and completion reports.",name;bucket;signal
+12026,"Eleven years of field service work out of La Mirada means Venture System Group has built up service tickets, site visit notes and repair records.",name;bucket;signal;location
+12027,"Kobra Electric has been wiring jobs from Clark for 14 years, which adds up to estimates, permit paperwork and inspection results on real installations.",business;signal;location
+12028,"Electrical jobs in Yuma, 14 years of them, leave Dmt Electric with bids, change orders and as-built notes tied to real installations.",business;signal;location
+12029,"Every service call and installation Polarity Electric handles in Knoxville adds to a body of work orders, estimates and inspection sign-offs.",business;location
+12030,"Servicing boilers and chillers in Omaha produces maintenance logs, readings and repair histories on specific equipment, and Boiler Chiller Systems writes them every season.",business;location
+12031,"Blccs does field service work out of San Antonio, so every job produces a service ticket, a technician's notes and a completion record.",name;bucket;location
+12032,"Icon Plumbing Solutions has spent 11 years on Albuquerque plumbing jobs, building up estimates, service tickets and repair notes tied to real fixtures.",business;signal;location
+12033,"Seventeen years of mechanical contracting out of Galloway leave Bishop Mechanical Services with equipment service histories, proposals and maintenance reports.",business;signal;location
+12034,"Wyco HVAC installs and services heating and cooling systems in Longmont, and each call leaves a service report, equipment details and a repair outcome.",business;location
+12035,"Mechanical contracting in San Francisco means Big Pipe Mechanical works from submittals, RFIs and change orders on real building systems.",business;location
+12036,"Heating and air calls out of Haltom City give Ntx Mechanical a log of diagnoses, parts used and repair outcomes on specific systems.",business;location
+12037,"Cbk Mechanical, 19 years in business out of Villa Rica, has accumulated bids, submittals and commissioning notes from its mechanical installs.",business;signal;location
+12038,"In Phoenix, every inspection Fire Safety Tech performs produces test results, deficiency findings and repair confirmations tied to a specific building.",business;location
+12039,Inspection and testing of fire protection systems out of Dumfries gives Cavalier Fire Protection a structured record of deficiencies found and corrected.,business;location
+12040,"Because Cornerstone Mechanical handles repairs in-house in Santa Fe Springs, its service tickets, diagnostics and repair notes come from its own technicians.",business;signal;location
+12041,"All Tech Services And Solutions has been at it for 15 years in Baton Rouge, leaving a trail of proposals, work orders and completion records.",name;bucket;signal;location
+12042,"Doing inspections and preventive maintenance in-house in Augusta, Southco Services builds up inspection findings and maintenance histories on the equipment it covers.",name;signal;location
+12043,"More than 14,000 lightning protection projects means Warren Lightning Rod holds an unusually large set of system designs, inspection records and installation details.",business;signal
+12044,"Thirty-eight years in business out of Cottage Grove means Team Support Services holds long-running work orders, task records and completion reports.",name;bucket;signal;location
+12045,"Seventy-three years of overhead door installs and service in Hartford is a long record of quotes, service calls and repair histories on specific doors.",business;signal;location
+12046,"As an overhead door dealer in Pierre for 14 years, Overhead Door Company of Pierre fields quotes, service calls and installation records.",business;signal;location
+12047,"With its own technicians in Petal, Verge Entrance Solutions generates service tickets, door and operator repair notes and install records firsthand.",business;signal;location
+12048,"United Fire Protection has been doing fire protection work in Irving for 10 years, and every contract leaves inspection reports and deficiency corrections.",business;signal;location
+12049,"Specialty construction work from Muskego since 2012 leaves Atw with 14 years of bids, project files and close-out records.",name;bucket;signal;location
+12050,"Specialty construction in Saint Augustine since 2013 gives Rainbow Crow proposals, change orders and punch-list records from every project.",name;bucket;signal;location
+12051,"Pile driving and crane work on Maui since 1999 leaves Pacific Pile & Crane with lift plans, equipment logs and job records from island projects.",business;signal;location
+12052,"Keeping estimating in-house in Long Beach means Ma Electric has its own bids, takeoffs and win-or-lose outcomes for electrical work.",business;signal;location
+12053,"Scoreboard Enterprises has been going since 1977, and a business that old in Mansfield holds decades of job proposals, install records and service files.",name;bucket;signal;location
+12054,"Nineteen years running Ellington Industries out of Hampstead means project files, bids and completion records from construction work.",name;bucket;signal;location
+12055,"Vending routes in Rexburg serviced by All Hands Vending's own technicians produce restock logs, machine repair notes and sales-by-location records.",business;signal;location
+12056,"Spirit Services Group runs work orders in-house from Franklin, which means every request, dispatch and completion is captured in its own records.",name;signal;location
+12057,"Shell Door Service has spent 20 years repairing overhead doors in San Mateo, building up service calls, parts decisions and repair outcomes.",business;signal;location
+12058,"Forty-four years of overhead door work out of Everett adds up to installation quotes, service histories and repair records for Collins Overhead Door.",business;signal;location
+12059,"Maintenance services since 1978 mean Ero Maintenance has nearly five decades of work orders, recurring service schedules and completion notes.",business;signal
+12060,"Door and retail maintenance for 39 years means Eagle Door & Retail Maintenance has site service requests, repair records and completion confirmations.",business;signal
+12061,"Fifty-five years of garage doors in Columbia is a long record of quotes, installs and repair calls, and Biltrite has been writing it since 1971.",business;signal;location
+12062,"With 2,924 doors in the record, Titan Overhead Doors in Mesa has detailed install and service histories attached to real, specific doors.",business;signal;location
+12063,"Controls work leaves a paper trail, and Integrated Controls has been generating it from Independence for 20 years, from installs to service calls.",name;bucket;signal;location
+12064,"Mechanical contracting since 1990 in Pylesville gives Environmental Mechanical Services decades of proposals, equipment service histories and project closeouts.",business;signal;location
+12065,"In Alamosa for 27 years, Billings Electric has built up estimates, job files and inspection results across a lot of electrical installs.",business;signal;location
+12066,"Leela AI's customer success and support teams, serving AI for manufacturing, produce implementation notes, support tickets and deployment feedback from factory floors.",business;signal
+12067,"Digital Convergence Technologies runs support in-house, so its technology services work in New Jersey generates tickets, escalations and resolution notes.",business;signal;location
+12068,"With Jira tracking software consulting and in-house support in Utah, Innovecture holds issue histories, sprint records and resolution notes from real client builds.",business;signal;tool;location
+12069,"Cybersecurity engagements out of Chadds Ford leave Mission Cyber Group with assessment reports and remediation recommendations, with HubSpot tracking the pipeline.",business;tool;location
+12070,"Running quality assurance in-house, Trevital documents test results, defects and fixes from its Potomac IT work in a form few firms keep.",name;bucket;signal;location
+12071,"AI microscopy software from Theia Scientific produces model training sets, analysis outputs and validation records tied to real scientific imagery.",business
+12072,"Real estate in Raeford, with implementation run in-house, leaves H2 Real Estate with listing, showing and transaction-coordination records.",business;signal;location
+12073,"IT consulting engagements since 2009 leave Infinite Iq with assessments, project plans and recommendations from Wellesley Hills clients.",business;signal;location
+12074,"Monitoring in-house for its automation work, I3Automation in Lakewood Ranch logs alerts, tuning decisions and fixes across the systems it automates.",business;signal;location
+12075,"Incident response handled in-house in Scottsdale gives Atlatera case timelines, containment decisions and remediation notes, records rarely shared outside a firm.",name;bucket;signal;location
+12076,"With Zoho tracking IT service work in Omaha, Digital Assets accumulates tickets, requests and resolution notes in a consistent structure.",business;tool;location
+12077,"Implementation done in-house at Cryptsonic Technologies produces deployment records, configuration decisions and issue resolutions for its security technology.",business;signal
+12078,"Security services out of Gainesville give Strongpoint Security a running record of assessments, findings and remediation work.",business;location
+12079,"Slam Technical Services has done government technical work for 11 years from Leesburg, which means task orders, deliverables and status reports.",business;signal;location
+12080,"A tech solutions provider in Glen Allen, Ziva Tech Solutions accumulates tickets, project records and implementation notes from every engagement.",business;location
+12081,"Ten years of business services work in Fernandina Beach leave Compass Global Business Services with engagement records, process documentation and request histories.",business;signal;location
+12082,HVAC energy management with in-house technicians in La Habra leaves Next Level HVAC Energy Management Systems with service logs and setpoint adjustments.,business;signal;location
+12083,"Vitg tracks its work in Jira, so software projects in Maryland leave behind issue histories, bug reports and release records.",name;bucket;tool;location
+12084,"Member programs and in-house support at the Greater Nashville Technology Council produce event content, program records and support requests tied to a regional tech community.",business;signal;location
+12085,"Running a stock media subscription platform with Jira behind engineering, Storyblocks accumulates catalog metadata, content tags and engineering issue histories.",business;tool
+12086,"Sales and leadership training delivered by Sandler comes with course content, role-play scenarios and assessments, the structured material AI developers struggle to find.",business
+12087,"Ufinapp runs implementation in-house for its fintech software in North Aurora, producing onboarding records, configuration notes and support requests.",business;signal;location
+12088,"Software integration work from Cedar Crest leaves Xenatech with interface specs, mapping decisions and test results from each integration.",business;location
+12089,"Since 2012, Ekka IT Solutions has been solving IT problems in Herndon, and each one is a ticket, an escalation and a remediation note.",business;signal;location
+12090,"Asherpro Management has run management services for 17 years out of West Palm Beach, leaving engagement documents, status reports and decision records.",business;signal;location
+12091,"Loto in Fairfax has been in business since 2009, and an IT firm of that age holds years of tickets, projects and remediation notes.",name;bucket;signal;location
+12092,"Red Pulley Technology Solutions, based in Aldie, turns client problems into tickets, project plans and implementation notes.",business;location
+12093,"Adeka's consulting practice, 16 years running in Land O Lakes, produces engagement deliverables, working papers and written recommendations.",business;signal;location
+12094,"S & F Software Solutions has built software in Lincolnshire since 2011, which means requirements documents, bug trackers and support requests.",business;signal;location
+12095,"Management services in Sacramento since 2012 leave M.A.G. Management Services with service agreements, reporting packages and operational review notes.",business;signal;location
+12096,"Data services work since 2015 gives Surfbigdata pipelines, data-quality findings and delivery notes from its Weston base.",business;signal;location
+12097,"Iblock Group works in IT out of Ashburn, so its working days produce support tickets, escalation notes and the remediation records that close them.",name;bucket
+12098,"Raymak Consulting in Irvine has 13 years of engagements behind it, each with scoping notes, deliverables and recommendations.",business;signal;location
+12099,"Software work out of Aldie means Eaglesoft accumulates support tickets, bug reports and implementation records with its customers.",name;bucket
+12100,"For 19 years Office Support Professionals has handled support requests from Frisco, each one a ticket with a resolution behind it.",name;bucket;signal;location
+12101,"An investment firm in Kannapolis, Digital Street Capital keeps deal screening notes, diligence files and investment memos that reflect real decisions.",business;location
+12102,"Wortech, working from Kure Beach since 2012, has IT service records going back that far: tickets, projects and the fixes that closed them.",name;bucket;signal;location
+12103,"IT consulting engagements since 2009 leave Capital Gateway Consulting with assessments, project documentation and recommendations from Reston.",business;signal;location
+12104,"Rescue Rover, based in Frederick, generates the support requests, issue logs and resolution notes that any technology business keeps.",name;bucket
+12105,"Arnatech has been in business 19 years out of Fairfax, long enough to build up tickets, project records and remediation notes.",name;bucket;signal;location
+12106,"Tostbox in Birmingham keeps the records any IT business does: support tickets, escalations and the fixes that closed them.",name;bucket
+12107,"Technology services in Springfield since 2012 give Teknirvana a deep archive of tickets, project plans and resolution notes.",business;signal;location
+12108,"Grayfin Security has done security services in Madison for 14 years, accumulating assessments, findings and remediation tracking.",business;signal;location
+12109,"Bethel Innovations, 13 years in business in Burke, has the tickets, project records and implementation notes that IT work leaves behind.",name;bucket;signal;location
+12110,"Running implementation and quality assurance in-house, Nevermore Security documents security deployments, test results and defects from Evergreen.",business;signal;location
+12111,"American Management Technologies has worked out of Rockville for 13 years, with project records, tickets and delivery documentation to show for it.",name;bucket;signal;location
+12112,"Since 2011 Mnemosyne Solutions has been delivering from Allen, which leaves behind tickets, project documentation and resolution records.",name;bucket;signal;location
+12113,"Design consulting from State College leaves Digital Design Consulting with design briefs, review rounds and client feedback on finished work.",business;location
+12114,"Service Operations Group runs service operations out of Sacramento, which produces ticket histories, escalation notes and resolution records.",name;bucket;location
+12115,"Running 24/7 in-house, Defense Technology Integration logs incidents, escalations and integration changes for its defense technology work in Bowie.",business;signal;location
+12116,"Cybersecurity work out of Manassas since 2015 leaves Inspect Cybersecurity with findings, severity ratings and remediation notes.",business;signal;location
+12117,"Aerospace engineering in Huntsville since 2009 leaves Cummings Aerospace with design analyses, test reports and technical reviews.",business;signal;location
+12118,"Gadais has been working from Melbourne Beach since 2012, and IT work that long leaves a lot of tickets, projects and fix histories.",name;bucket;signal;location
+12119,"A decade of solutions work from Woodbridge gives Xceptioneering Solutions project records, tickets and remediation notes.",name;bucket;signal;location
+12120,"Onyx Technology has delivered technology services around Cordova for 18 years, building up tickets, deployments and resolution notes.",business;signal;location
+12121,"Au & Associates has operated since 2008 in District Heights, which adds up to engagement files, support tickets and project records.",name;bucket;signal;location
+12122,"Houston technology work at Ibeify means support tickets, implementation records and escalation notes accumulating week after week.",name;bucket
+12123,"Fourteen years of consulting out of McLean means Leap Consulting holds statements of work, deliverables and lessons-learned reviews.",business;signal;location
+12124,"IT management and consulting in Bristow since 2014 gives Hamidzada a record of assessments, managed-service tickets and project documentation.",business;signal;location
+12125,"Mla Technologies, a technology company in Clinton, accumulates support tickets, project records and release documentation.",business;location
+12126,"Government IT solutions out of Round Hill, 11 years of them, mean Rit Government Solutions keeps task orders, deliverables and support tickets.",business;signal;location
+12127,"Health and energy sustainability consulting from Cleveland generates assessment reports, compliance documentation and efficiency analyses at Consultants For Health, Energy & Sustainability.",business;location
+12128,"Hightower Consulting Services has consulted from Bowie for 16 years, leaving engagement reports, status updates and deliverables behind.",business;signal;location
+12129,"Secpro, 16 years in business in Tucker, keeps the assessments, tickets and remediation records that security and IT work generates.",name;bucket;signal;location
+12130,"Gzo, in San Antonio since 2012, has 14 years of IT tickets, project records and resolution notes behind it, the kind of history few firms keep tidy.",name;bucket;signal;location
+12131,"Intellitrex Systems has built systems out of Brandywine for 16 years, leaving requirements, test results and support records.",business;signal;location
+12132,"Cybersecurity research and services in North Charleston since 2013 give Securifera vulnerability findings, tool development notes and engagement reports.",business;signal;location
+12133,"Paratus Solutions in Bethesda produces the project records, support tickets and delivery notes that solutions firms keep.",name;bucket
+12134,"Success By Design has delivered technology services from Laurel for 14 years, with tickets, project plans and resolution notes to show for it.",business;signal;location
+12135,"Supplying customers from Renton since 2009, Jc Global Supply holds purchase orders, supplier quotes and fulfillment exceptions.",business;signal;location
+12136,"Asj IT Services has handled IT in Chesapeake for 12 years, each request a ticket and each fix a remediation note.",business;signal;location
+12137,"Cwc Group in Bowie keeps the engagement records, support tickets and delivery notes any IT services group builds up.",name;bucket
+12138,"Geospatial services out of Washington leave Epochgeo with mapped datasets, processing notes and quality-check results on real projects.",business;location
+12139,"Labref has been operating in Chicago for 10 years, long enough to hold project records, tickets and delivery documentation.",name;bucket;signal;location
+12140,"Network security consulting in El Paso since 2011 gives Defensive Network Security Consultants assessments, findings and remediation tracking.",business;signal;location
+12141,"Pragmatica Innovations has been in Virginia Beach for 17 years, building up project records, tickets and implementation notes.",name;bucket;signal;location
+12142,"T J Technology supports clients from Bennington, Vermont, and each job becomes a ticket, a diagnosis and a documented fix.",business;location
+12143,"Eighteen years of building software in North Potomac means Universoft has requirements, bug histories and support requests on file.",business;signal;location
+12144,"Implementation done in-house at Amota Business Consulting Services in Villa Rica means project plans, configurations and handoff notes stay in its own hands.",business;signal;location
+12145,"Cyinfos in Glenn Dale works in IT, which leaves tickets, escalations and remediation notes behind each engagement.",name;bucket
+12146,"Binary Consulting Group has been consulting from Dumfries since 2014, accumulating scoping documents, deliverables and project retrospectives.",business;signal;location
+12147,"Information security work out of Jacksonville since 2007 leaves Amerinfosec with risk assessments, audit findings and remediation tracking.",business;signal;location
+12148,"Cavu Services has been working out of Rio Rancho for 17 years, with service requests, project files and completion records.",name;bucket;signal;location
+12149,"Viidi, Ashburn-based and 13 years in business, holds the tickets, project records and delivery notes that IT work produces.",name;bucket;signal;location
+12150,"12T Agency in Verona has operated for 12 years, which leaves project briefs, client deliverables and revision rounds behind.",business;signal;location
+12151,"Get-IT Solutions has fixed IT problems out of Fredericksburg since 2012, leaving tickets, escalations and remediation notes behind.",business;signal;location

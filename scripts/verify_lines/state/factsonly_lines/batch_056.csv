@@ -1,0 +1,151 @@
+row,new_line,basis
+8252,"A training platform spread across more than 50 locations means Smart Training holds course content, assessments and delivery records in one consistent structure.",business;signal
+8253,"Eleven years of building software out of South Bend leaves 3Degrees with a trail of support tickets, release notes and implementation records.",name;bucket;signal
+8254,"Optical design work out of Tucson, with support handled in-house on Zoho, gives Optical Systems Design specs, customer requests and resolution notes tied to real optical systems.",business;signal;tool
+8255,"Forty-one years in Menlo Park gives Mitem a long run of software work, and with it the support tickets, change requests and release records that come with it.",name;bucket;signal
+8256,"Every restaurant Ibistro sets up adds menu configurations, onboarding steps and support requests, the kind of records Zoho collects after 11 years in Sarasota.",business;signal;tool
+8257,"Software deployment is all about repeatable detail, and 39 years in Minneapolis means New Boundary Technologies has packaging notes, rollout outcomes and support cases behind it.",business;signal
+8258,"With Freshdesk running support at Shayre, customer questions become tickets with resolutions attached, and 11 years in Los Angeles adds up to a deep record.",name;bucket;signal;tool
+8259,"Hangar Alpha works from New York with Jira in the loop, which usually means a running record of tickets, bugs and the decisions made to close them.",name;bucket;tool
+8260,"Running its help desk in-house, Isler Technologies logs the requests, escalations and fixes that technology services work produces every day.",business;signal
+8261,"Jira tickets, sprint history and release notes from 11 years of software work in Charlotte are the kind of record Adaptive Bibo Innovations has been building.",name;bucket;signal;tool
+8262,"RF engineering software and IT services for 31 years leave V-Soft Communications with engineering analyses, support cases and project records tied to real networks.",business;signal
+8263,"Twenty years of remote control software out of Newton means Proxy Networks sees the support sessions, deployment questions and bug reports that remote access generates.",business;signal
+8264,"Tradepal has spent 17 years in Miami, and a software business that long accumulates support tickets, customer requests and release history in a consistent format.",name;bucket;signal
+8265,"Fire and EMS software for 29 years means FireMT has watched department reporting workflows evolve, with implementation and support history to show for it.",business;signal
+8266,"Decision support software leaves its own trail, and Flying Logic's 20 years in Costa Mesa mean user questions, model examples and support cases in one place.",business;signal
+8267,"From North Hills, Silver Object has run 18 years of software work, and that kind of runway usually leaves tickets, bug reports and delivery notes behind.",name;bucket;signal
+8268,"Handling support and ticketing in-house on Zoho, M 5:9 Technologies in New Braunfels keeps a working record of customer issues and how each one was resolved.",bucket;signal;tool
+8269,"Across more than 1200 buildings, Chargie's charging products generate usage events, install records and support issues, with Jira tracking the problems.",business;signal;tool
+8270,"Document software for 19 years means Regdox has seen how documents move through approval, and Zoho holds the support and implementation side of that.",business;signal;tool
+8271,"Satellite ground systems since 1982 give Seaspace in San Diego 44 years of installation records, configuration data and support history.",business;signal
+8272,"Startguides has been at it for 14 years in Western Springs, and the name points to guide and onboarding content, exactly the structured material we look for.",name;bucket;signal
+8273,"Terminal emulation since 1980 means keeping legacy connections working, and Hilgraeve's 46 years of compatibility fixes and support cases are a rare record.",business;signal
+8274,"Quantrax has been in Bethesda for 38 years, long enough to build a deep archive of software projects, client requests and support history.",name;bucket;signal
+8275,"An IoT platform since 2006 means Machine-To-Machine Intelligence has 20 years of device integration notes and support records, with Zoho in the mix.",business;signal;tool
+8276,Data security software with support run in-house means Active Cypher sees every deployment question and configuration issue firsthand.,business;signal
+8277,"Twenty-six years of Chinese dictionary software gives Ple a deep set of entries, learner feedback and user support requests in structured form.",business;signal
+8278,"GPS tracking and fleet software produces location pings, trip logs and alert events constantly, and Sirengps has 12 years of that out of Clayton.",business;signal
+8279,"Developer tools for 45 years means Lattice in Wheaton has bug reports, technical support cases and release notes going back to 1981.",business;signal
+8280,"With QA and support in-house, Honor Games produces bug reports, test passes and player support tickets in a consistent structure.",business;signal
+8281,"Group purchasing software with inspections and support run in-house leaves Cobuy with order records, supplier details and inspection notes.",business;signal
+8282,"Address and mailing software since 1992 means Accuzip has 34 years of address-correction rules, job records and support history behind it.",business;signal
+8283,"English learning software means lesson content, assessments and learner feedback, and Burlington English has built 15 years of it in Boca Raton.",business;signal
+8284,"Vibration analysis software since 1990 ties Vibrant Technology to real machine data, plus 36 years of test setups, analysis reports and support cases.",business;signal
+8285,"Identity software for 20 years in San Jose gives Verifide Technologies verification workflows, integration records and support cases in a consistent shape.",business;signal
+8286,"An in/out board tracks who is where, and 23 years of running that software from Conroe means Inoutboard has deployment records and support history to match.",business;signal
+8287,"GIS work out of Murfreesboro for 19 years leaves True North Geographic Technologies with project files, data-cleanup notes and delivery records tied to real places.",business;signal
+8288,"Software development in Orlando tracked through Jira and Zoho gives Pulsecoder a clean trail of requirements, tickets and client communications.",business;tool
+8289,"Twenty-five years in Herndon means Tech2I has a long record of technology projects, client requests and delivery documentation.",name;bucket;signal
+8290,"Simulation software tracked in Jira means Simblocks has 10 years of model requests, bug reports and release decisions in one place.",business;signal;tool
+8291,"Systems work in South Charleston for 22 years leaves Associated Systems Professionals with project documentation, support requests and configuration records.",business;signal
+8292,"Data services for 15 years means Hmg Data Services has handled client datasets, processing jobs and exception reports out of Prince George.",business;signal
+8293,"A software vendor for 23 years, Softthink Solutions has accumulated support tickets, implementation records and release notes out of Leesburg.",business;signal
+8294,"Integration projects in McDonough over 14 years leave Innovative Technology Integrations with scopes of work, configuration notes and troubleshooting records.",business;signal
+8295,"Nineteen years of IT support in Washington means Tech Go-To Guys has a deep queue history of tickets, fixes and escalations.",business;signal
+8296,"Thirteen years in San Antonio is long enough for Vexterra Group to have built up project records, client requests and delivery notes worth looking at.",name;bucket;signal
+8297,"At 10 years in business, Jinett in Stafford has a decade of software project records, client requests and delivery notes to show for it.",name;bucket;signal
+8298,"Consulting engagements in Tampa for 13 years, with Zoho behind them, leave Mas Global Consulting with proposals, deliverables and client follow-up in structured form.",business;signal;tool
+8299,"Thirteen years of wifi security work in Orlando leaves Howard Stultz with site assessments, network configurations and troubleshooting notes for each engagement.",business;signal
+8300,"3D software with inspections and support kept in-house means Stitch3D sees scans, inspection findings and customer issues in one loop.",business;signal
+8301,"App development tracked in Autotask gives Appsavi a clean trail of tickets, project time and client requests out of Dallas.",business;tool
+8302,"Customer contact work since 1992 means Response America has 34 years of call scripts, interaction notes and outcomes from Altoona.",business;signal
+8303,"Venhar has been operating from Lawrenceville for 13 years, which in software means a backlog of client requests, delivery records and support history.",name;bucket;signal
+8304,"Forty-nine years of data management out of Historic New Castle gives Data Management Internationale processing records, client data specs and quality checks.",business;signal
+8305,"IT services in Shreveport for 14 years leave Cyberreef Solutions with tickets, escalations and remediation notes across its client base.",business;signal
+8306,"Luther Consulting has run engagements from Carmel for 28 years, which means decades of proposals, deliverables and client review notes.",business;signal
+8307,"Since 1958, document imaging at Bmi Imaging Systems has meant scan specs, indexing schemes and project records, 68 years of them in Sunnyvale.",business;signal
+8308,"IT consulting in Fairfax since 1977 gives Zimmerman Associates nearly five decades of statements of work, deliverables and project documentation.",business;signal
+8309,"Imaging and storing documents since 1980, Microfilm Systems in Shreveport has 46 years of conversion jobs, indexing records and retrieval requests behind it.",business;signal
+8310,"IT consulting across Puerto Rico for 15 years means Itconsultantspr has client tickets, project plans and fix notes out of Bayamon.",business;signal
+8311,"A name like Raster Masters points to image and graphics work, and 23 years in Oklahoma City means a lot of file specs, client revisions and delivery records.",name;bucket;signal
+8312,"Edge Systems has been in Hoffman Estates for 41 years, and four decades of systems work leaves project records, support tickets and configuration notes.",name;bucket;signal
+8313,"Fifty years of mailing list and data services means Labels & Lists has list builds, selection criteria and data hygiene records going back to 1976.",business;signal
+8314,"Imaging systems sold from Portland for 20 years leave Iviews Imaging System with installation records, service logs and vendor documentation.",business;signal
+8315,"Energy work out of Buffalo for 11 years gives A2A Energy International project documentation, contracts and usage reports in a consistent format.",business;signal
+8316,"With 3745 units behind its storage hardware and IT work, Storage Solutions Technology Group in Santa Clara keeps configuration records, quotes and support cases.",business;signal
+8317,"Eighteen years of security software work as Host Integrity Systems out of Farmersville means configuration baselines, alert records and support cases.",business;signal
+8318,"Eleven years of tech lab work in Nashville leaves Denali Labs with experiment notes, build records and issue histories.",business;signal
+8319,"RFID hardware deployments leave read logs, installation notes and tag configuration records, and Microsensys US has handled 10 years of them from Gainesville.",business;signal
+8320,"Software development tracked through Autotask gives Initium Softworks a structured record of tickets, project hours and client requests.",business;tool
+8321,"Twenty-nine years as a software vendor in Fremont leaves Famsoft with support cases, implementation records and release history.",business;signal
+8322,"Secure Logic has spent 11 years in Austin, and software work that long leaves tickets, change requests and delivery notes in its wake.",name;bucket;signal
+8323,"Serving 12 states with voting software means Enhanced Voting handles election configurations, testing records and support requests at a scale few vendors document.",business;signal
+8324,"Inspections and quality assurance run in-house at American Facility Management mean checklists, deficiency findings and work orders for every site.",business;signal
+8325,"Agulus runs support in-house from Greer, so every customer issue and its fix ends up written down as a ticket.",name;bucket;signal
+8326,"Five hundred accounts of IT and computing support means Consolidated Computing in Easton holds tickets, configurations and fix notes across all of them.",business;signal
+8327,"Audio visual installs supported in-house and tracked in Jira leave Tsn Visual Communication Solutions with room designs, service tickets and fix history.",business;signal;tool
+8328,"Telecommunications services in Oologah for 19 years mean Dominion Communications keeps service orders, outage reports and install records.",business;signal
+8329,"Bigwig Monster has been around Mission Viejo for 17 years, and that long in software means client requests, bug reports and delivery notes piling up.",name;bucket;signal
+8330,"IT solutions work out of Clarksburg for 13 years leaves Chandler One Solutions with project scopes, tickets and resolution notes.",business;signal
+8331,"Twenty-three years in Bethlehem make Berkone a software company with a deep back catalog of client requests, support tickets and delivery records.",name;bucket;signal
+8332,"Thirty years in business as Sequential Logic means a long, consistent run of software projects, client change requests and support history.",name;bucket;signal
+8333,"Auto forecasting software over 12 years means A2M Solutions has forecast models, input data checks and customer support threads.",business;signal
+8334,"As an internet and IT services provider since 1995, Internet Technologies Group has 31 years of tickets, provisioning records and outage notes.",business;signal
+8335,"Business systems work since 1978 gives Systec Business Systems 48 years of implementations, customizations and support cases in Newport Beach.",business;signal
+8336,"Falcon IT Solutions has been solving IT problems in Baltimore for 27 years, and every one left a ticket, a diagnosis and a fix.",business;signal
+8337,"In Watertown since 1979, Ultra has 47 years of computer service calls, repair records and customer system histories.",business;signal
+8338,"Fifteen years in Huntington Beach gives Kozik Vance a running archive of software projects, client requests and delivery files.",name;bucket;signal
+8339,"Beyondcom has worked in telecom and technology from Coconut Creek for 13 years, which leaves service orders, installs and support tickets behind.",business;signal
+8340,"Selling and supporting document scanners in Champaign for 23 years leaves Scanics Of Illinois with quotes, install records and service calls.",business;signal
+8341,"Engineering projects in San Bernardino since 2015 mean Winters Engineering holds calculations, drawings, RFIs and review comments.",business;signal
+8342,"Fifteen years of consulting in Eustis builds a quiet archive at Miller & Miller Consulting: proposals, deliverables and client review notes.",business;signal
+8343,"Art and computer services in New York for 31 years give Bmm Art & Computer a mix of project briefs, file revisions and support requests.",business;signal
+8344,"Data consulting since 1999 means The Chevalier Group has 27 years of engagement scopes, data models and client deliverables.",business;signal
+8345,"A government contracting joint venture in Virginia Beach, Interop-Ishpi Jv generates task orders, deliverables and compliance documentation across its 10 years.",business;signal
+8346,"Parcel service for 21 years out of Phoenix means Global Parcel Service holds shipment records, rate quotes and delivery exception notes.",business;signal
+8347,"Government contracting and consulting for 18 years leaves Chenega Government Consulting with proposals, task deliverables and compliance records.",business;signal
+8348,"Engagement scopes, deliverables and client review notes pile up fast in consulting, and True North Consulting Group has 12 years of them from Carrollton.",business;signal
+8349,"Development Group has 17 years in Redding, and a software company that long keeps specs, bug reports and client change requests.",name;bucket;signal
+8350,"Management services in Albany for 20 years mean Kinney Management Services keeps contracts, service requests and performance reports.",business;signal
+8351,"Data processing and software services since 1981 give Data-Prompt in Silver Spring 45 years of job records, data specs and client support history.",business;signal
+8352,"Federal IT contracts out of Anchorage produce task orders, help desk tickets and compliance documentation, and Chenega IT Enterprise Services has 10 years of it.",business;signal
+8353,"Out of Malabar since 1981, Data Management Associates Of Brevard has 45 years of data management jobs, client specifications and quality records.",business;signal
+8354,"Property management and maintenance means work orders, inspections and tenant requests, and Vanjoh Property Management & Maintenance runs support in-house in Port Deposit.",business;signal
+8355,"Imaging and graphics services for 26 years in Costa Mesa leave Crisp Enterprises with job specs, proof revisions and client approvals.",business;signal
+8356,"Jira and Zoho together give Perizer in Forney a paper trail of tickets, customer requests and how each was resolved.",name;bucket;tool
+8357,"A telephone and internet provider since 1906, Wavelinx has been generating service orders, outage reports and install records in Oklahoma City for 120 years.",business;signal
+8358,"Records management in Paducah for 21 years means Data Records Management Services logs retrievals, retention schedules and chain-of-custody details.",business;signal
+8359,"Twenty-five years serving government customers from Tequesta leaves Genesis Government Solutions with proposals, implementation records and support history.",business;signal
+8360,"Technical marketing from Park City for 19 years gives Radian Technical Marketing campaign briefs, technical content and client revision history.",business;signal
+8361,"Bedrock Alaska has operated in Anchorage for 23 years, long enough to build a consistent record of client projects, requests and delivery documentation.",name;bucket;signal
+8362,"Implementation and support run in-house at Hall Network Solutions mean network designs, install records and troubleshooting tickets in one place.",business;signal
+8363,"With Bullhorn behind 11 years of staffing and employer services from Tampa, Broadstaff has submittals, interview notes and placement outcomes on record.",business;signal;tool
+8364,"Innovative Scientific Solutions has 24 years in Huntington Beach, and the staffing side of that means job orders, candidate submittals and placement outcomes.",name;bucket;signal
+8365,"Cybersecurity services run through HubSpot give Cyber Security Network 12 years of client engagements, assessments and follow-up in New Durham.",business;signal;tool
+8366,"Onboarding and placements handled in-house, with Bullhorn underneath, leave Jk Executive Strategies a record of searches, candidate shortlists and placement outcomes.",business;signal;tool
+8367,"Twenty years of staffing and consulting out of Bedford means Alltex has job orders, submittals and placement outcomes on file.",name;bucket;signal
+8368,"Bullhorn in the stack and 18 years in San Antonio point to a deep record of candidate submittals, interview notes and placements at Provenir.",name;bucket;signal;tool
+8369,"Placing legal talent in Saint Louis for 29 years, with Bullhorn tracking it, gives Juristemps a long record of submittals, interviews and placement outcomes.",business;signal;tool
+8370,"Twenty-five years of staffing in Meridian, with HubSpot holding the relationships, means Working Solutions has job orders and placement outcomes behind each client.",business;signal;tool
+8371,"Executive search since 1987 leaves The Robinson Group with 39 years of search briefs, candidate assessments and placement outcomes, with HubSpot on the client side.",business;signal;tool
+8372,"Bullhorn plus 24 years of staffing out of Chesterfield means Advanced Resources Group sits on submittals, interview notes and placement outcomes.",name;bucket;signal;tool
+8373,"Placing computer and engineering talent since 1983, Computer And Engineering Services has 43 years of requisitions, submittals and placement outcomes, now in Bullhorn.",business;signal;tool
+8374,"Four decades of IT consulting and staffing from Swampscott means New Dimensions In Technology holds consultant submittals, client interviews and placement outcomes in Bullhorn.",business;signal;tool
+8375,"Ten years of tech staffing out of Jupiter, with Jira tracking the work, leaves Skillmil with requisitions, candidate pipelines and placement outcomes.",business;signal;tool
+8376,"Rockford-based Bluewater Hayes pairs 11 years in business with Bullhorn, which usually means a tidy record of submittals, interview notes and placement outcomes.",name;bucket;signal;tool
+8377,"Sixteen years of staffing from Wheat Ridge, logged in Bullhorn, give Nexus Staffing Solutions job orders, candidate submittals and outcomes for each client.",business;signal;tool
+8378,"Recruiting in Chicago for 20 years leaves Salthill Group with a Bullhorn full of searches, interview feedback and placement outcomes.",business;signal;tool
+8379,"Staffsource has placed talent in Knoxville for 22 years, and Salesforce holds the client and candidate history behind each assignment.",business;signal;tool
+8380,"In Annapolis for 22 years and working in Bullhorn, Coddington Group keeps the requisitions, candidate submittals and placement outcomes of a recruiting practice.",name;bucket;signal;tool
+8381,Thirty-four years of IT and engineering placements from Saint Louis mean Applications Engineering Group has consultant submittals and assignment outcomes in Bullhorn.,business;signal;tool
+8382,"JobDiva and 13 years of recruiting in Frisco give Nicshe Ventures a structured history of requisitions, resume submittals and placements.",bucket;signal;tool
+8383,"Twenty-seven years of staffing in Jackson, with HubSpot behind the client side, adds up to job orders and placement records at Staffers.",business;signal;tool
+8384,"Technical talent placed out of Plano and tracked in JobDiva leaves Fusion Technical Solutions with requisitions, submittals and placement outcomes over 11 years.",business;signal;tool
+8385,"In Atlanta since 1995, Focus People has run 31 years of staffing through candidates, interviews and placements, now captured in Bullhorn.",business;signal;tool
+8386,"Ten years of recruiting from Tampa, with Salesforce holding the pipeline, leave Harrison Ventures a record of job orders, submittals and placement outcomes.",bucket;signal;tool
+8387,"Glc On-The-Go has 20 years in Weston and Bullhorn in the stack, which points to long-run records of submittals, interview notes and placements.",name;bucket;signal;tool
+8388,"Employment services in Boston since 1997 mean John Leonard Employment Services has 29 years of candidate submittals, interviews and placement outcomes, tracked in Bullhorn.",business;signal;tool
+8389,Twenty-six years of staffing in Jamesburg and JobDiva as the system of record give New Wave People a deep file of job orders and placements.,business;signal;tool
+8390,"Consulting and staffing from Pittsburgh since 1997 leave Consultusa with Bullhorn records of submittals, interviews and placement outcomes.",business;signal;tool
+8391,"Thirty-three years of staffing in Mansfield means Ad-A-Staff has accumulated job orders, candidate screening notes and placement outcomes.",business;signal
+8392,"IT staffing and consulting since 1989 leaves Glotel with 37 years of requisitions, consultant submittals and placement outcomes, now in JobDiva.",business;signal;tool
+8393,"More than 200 clients mean Level One Personnel in Columbia writes up a lot of job orders, candidate submittals and placement results.",business;signal
+8394,"Thirty-two years of medical staffing from Virginia Beach leave Medical Temporaries with job orders, shift scheduling records and compliance documentation across client facilities.",business;signal
+8395,Forty-six years of IT consulting and staffing out of Diamond Bar means A P R Consulting has consultant submittals and placement outcomes in Bullhorn going back to 1980.,business;signal;tool
+8396,"Staff Relief has filled jobs in Atlanta for 36 years, and Bullhorn holds the job orders, submittals and placement outcomes behind them.",business;signal;tool
+8397,"Five hundred clients make Mmc Group in Irving a busy source of job requests, candidate submittals and placement outcomes.",name;bucket;signal
+8398,"Fifty-six years of personnel staffing out of Rockville means Sparks Personnel Services holds job orders, screening notes and placement outcomes, with HubSpot on the client side.",business;signal;tool
+8399,"Engineering staffing in Florida since 1989 means Strom Engineering Of Florida has 37 years of requisitions, candidate submittals and placements in JobDiva.",business;signal;tool
+8400,"Industrial staffing and consulting work from Greenville, tracked in Bullhorn over 24 years, gives Condustrial submittals, assignments and placement outcomes.",business;signal;tool
+8401,"Residential property management in Homewood generates leasing files, maintenance requests and resident requests, and Active Residential Management Services has 10 years of it.",business;signal

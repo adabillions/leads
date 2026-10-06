@@ -1,0 +1,151 @@
+row,new_line,basis
+2,"Twenty-three years of managed IT out of Glenwood Springs means Decypher Technologies has a deep trail of ConnectWise tickets, escalations and remediation notes.",business;signal;tool;location
+3,"Becker Logistics has brokered freight out of Glendale Heights for 29 years, which adds up to a long record of quotes, carrier rate decisions and exception notes.",business;signal;location
+4,"Four decades of managed IT support, since 1983, give Brite a rare archive of help desk tickets, escalations and the remediation notes that closed them.",business;signal
+5,"With 43 years of managed IT and networking behind it and Autotask in the stack, Data Networks holds a deep record of tickets, escalations and network fixes.",business;signal;tool
+6,"From Frederick, MainSpring has handled managed IT for 33 years, and every help desk ticket and escalation in that stretch is a structured record of how problems get solved.",business;signal;location
+7,"Supporting associations with IT since 1984, DelCor Technology Solutions has built up service tickets, project records and remediation notes across 42 years.",business;signal
+8,"A managed IT shop in Austin since 2000, GCS Technologies has ConnectWise tickets and resolution notes from 26 years of keeping client systems running.",business;signal;tool;location
+9,"Moving 10,000+ loads through freight brokerage technology gives FreightPlus a clean record of quotes, carrier matches and load exceptions.",business;signal
+10,"Dynamics 365 ERP implementations, 24 years of them, leave ArcherPoint with project plans, configuration decisions and support tickets tied to real client rollouts.",business;signal;tool
+11,"Managing roughly 7,000 co-op and condo units in New York means Gumley Haft handles a steady flow of maintenance requests, board packages and vendor records.",business;signal;location
+12,"Call center and monitoring work across 15 states leaves Elite Interactive Solutions with call logs, alert handling records and incident notes, with Salesforce in the mix.",business;signal;tool
+13,Ten years of AI performance software in Plano gives AmplifAI a trail of implementation records and support tickets that few young vendors have.,business;signal;location
+14,"Fifteen years of managed IT in Houston, with Jira tracking the work, gives Fulcrum Technology Solutions a long run of tickets, escalations and remediation notes.",business;signal;tool;location
+15,"Out of Clearwater, Source 1 Solutions has run managed IT for 15 years, building ConnectWise ticket histories and escalation notes along the way.",business;signal;tool;location
+16,"Thirty-seven years of helping businesses plan for disruption leaves Agility Recovery with continuity plans, activation records and customer support conversations.",business;signal;tool
+17,"Computer Technologies Group in Walpole has kept client systems running for 25 years, and ConnectWise holds the tickets and fixes behind it.",business;signal;tool;location
+18,"Twenty years of clinical trial supply logistics gives Ancillare shipment records, vendor coordination notes and fulfillment exceptions, all on the operational side.",business;signal
+19,"Supporting clients in more than 44 states from Lewisburg, Davenport Group collects help desk tickets and remediation notes from a huge range of environments.",business;signal;location
+20,"Since 1994, iCorps Technologies has handled managed IT from Woburn, which is 32 years of tickets, escalations and the fixes that closed them.",business;signal;location
+21,"NetStandard's 30 years of managed IT around Kansas City produce Autotask tickets, escalations and remediation notes in a consistent format.",business;signal;tool;location
+22,"Legal case management software built since 1985 means Assembly Software holds support tickets, implementation records and feature histories across 41 years.",business;signal
+23,"Expedient Technology Solutions has supported clients from Miamisburg for 22 years, leaving ConnectWise tickets and escalation notes that show how IT problems really get solved.",business;signal;tool;location
+24,"Since 1954, Edwards Business Systems has serviced copiers and print fleets, then added managed IT, so service calls and ConnectWise tickets sit side by side.",business;signal;tool
+25,"Cross-border freight brokerage means Nuvocargo works through customs paperwork, carrier quotes and delivery exceptions on every crossing.",business
+26,"XR device management out of Oklahoma City, with a 23-state reach, gives ArborXR device configuration records, deployment histories and support requests tied to real headset fleets.",business;signal;location
+27,"Building software for 200+ clients leaves Akveo with project specs, sprint histories and bug reports across a wide spread of real products.",business;signal
+28,"Guard services out of Roseburg generate patrol logs, incident reports and shift records, and Pono Security writes those every day.",business;location
+29,"Thirty-two years of process safety consulting leaves AcuTech Consulting Group with hazard analyses, risk assessments and audit findings from real facilities.",business;signal
+30,"Anduin Transactions builds software for fund transactions, so implementation records, support tickets and Jira-tracked product requests pile up with each client onboarded.",business;tool
+31,"Twenty-six years of third-party risk management software means Aravo Solutions holds assessment templates, due diligence workflows and implementation records.",business;signal
+32,"Property management run from over 10 offices produces leasing files, maintenance requests and vendor records, and KRS Holdings has them in volume.",business;signal
+33,"In 27 years, Crow Canyon Systems has built ServiceNow apps and consulted on them, leaving implementation notes, configuration decisions and support records.",business;signal
+34,"With 100 customers on managed IT out of Greenville, Applied Network Consulting Group builds a steady ConnectWise record of tickets, escalations and fixes.",business;signal;tool;location
+35,Twenty-two years of IT support from Albuquerque means Poweron Technology Services has a ConnectWise history of tickets and resolutions.,business;signal;tool;location
+36,"Behind 50+ offices of cybersecurity distribution, Exclusive Networks USA generates order records, partner support cases and technical escalations.",business;signal
+37,"Forty-five years of voice, video and managed IT work in San Antonio gives Innovative Communication Systems a deep log of installs, tickets and Kaseya-monitored fixes.",business;signal;tool;location
+38,"Argents Express Group has moved freight out of Charleston since 1977, so quotes, dispatch decisions and delivery exceptions go back nearly five decades.",business;signal;location
+39,"Cinch I.T. has run managed IT out of Worcester for 22 years, and its Autotask tickets hold every escalation and remediation along the way.",business;signal;tool;location
+40,"Serving clients in over 40 states from Pewaukee, 2W Technologies sees help desk tickets and remediation notes from a wide mix of IT environments.",business;signal;location
+41,"Over 400 clients on managed IT means Biz Technology Solutions has a deep ConnectWise record of tickets, escalations and resolutions out of Mooresville.",business;signal;tool;location
+42,"Connecting accounting tools like QuickBooks and Zoho for 11 years leaves Saasant with integration specs, mapping rules and support cases for real bookkeeping data flows.",business;signal;tool
+43,"Campus mapping software behind 700+ locations means Concept3d holds map configurations, point-of-interest data and Zendesk support requests from a lot of real sites.",business;signal;tool
+44,"Mortgage servicing software built over 29 years means Aspen Grove holds implementation records, support tickets and feature requests from real servicer workflows.",business;signal
+45,"Ecommerce fulfillment since 2000 gives Amplifier order records, inventory exceptions and Zendesk support conversations from 26 years of shipping for online brands.",business;signal;tool
+46,"Serving 5000+ customers on HCM and payroll means AllianceHCM handles onboarding cases, payroll exceptions and support tickets at real volume.",business;signal
+47,"Twenty-six years of drayage out of Orange Park leaves AV Logistics with container moves, driver dispatch decisions and delivery exceptions on record.",business;signal;location
+48,"Thirty-four years of managed IT from York, PA gives Business Information Group a long ConnectWise record of tickets and remediation notes.",business;signal;tool;location
+49,"Computer Integrated Services runs IT support out of Plano with Autotask and ConnectWise in the stack, so 31 years of tickets and resolutions are on file.",business;signal;tool;location
+50,"Managing and developing property across 8 states with Yardi underneath, Ciminelli Real Estate accumulates lease records, work orders and vendor invoices.",business;signal;tool
+51,"A base of 2000 customers means Relutech, out of Georgia, builds up support requests and implementation records at real scale.",name;signal;location
+52,"Sixteen years of IT and cybersecurity for nonprofits and schools gives CTS a ConnectWise record of tickets, security remediations and onboarding projects.",business;signal;tool
+53,"Whelnet Services has run managed IT out of Leesburg since 2001, and its ConnectWise history holds 25 years of tickets, escalations and fixes.",business;signal;tool;location
+54,"More than 100,000 loads out of Syosset is a deep log of quotes, carrier selections and delivery exceptions, and American Logistics Group wrote it.",business;signal;location
+55,"Placing IT consultants for 23 years means Technogen has submittals, interview notes and placement outcomes tied to real engagements.",business;signal
+56,"ERP consulting alongside managed IT, for 22 years in Loveland, gives The Estes Group implementation notes, configuration decisions and support tickets.",business;signal;location
+57,"Running technical projects for 22 years leaves Virtual Technical Project Management Office with project plans, status reports and risk logs, with ServiceNow in the mix.",business;signal;tool
+58,"A freight marketplace working since 2013 out of Long Beach, Cargomatic matches shippers and carriers, so quotes, load matches and delivery exceptions pile up daily.",business;signal;location
+59,"Arraya Solutions has blended IT projects and managed services for 27 years, so Autotask tickets sit next to design notes and implementation records.",business;signal;tool
+60,"Thirty years of managed IT in Schaumburg, with Kaseya in the stack, leave Prescient Solutions a deep record of alerts, tickets and remediation notes.",business;signal;tool;location
+61,"Freight moved across 48 states leaves Trekker with a log of quotes, carrier choices and delivery exceptions from its Caseyville base.",business;signal;location
+62,"Cybersecurity services since 2004 mean Ultraviolet Cyber Federal keeps alert triage records, incident investigations and remediation notes in a consistent format.",business;signal
+63,"Thirty-three years as an education data nonprofit leaves the National Student Clearinghouse with file specifications, reporting standards and institution support cases.",business;signal
+64,"Synapse Technologies has been at it in Virginia Beach for 21 years, and in managed IT that means a ConnectWise trail of tickets, escalations and fixes.",name;bucket;signal;tool;location
+65,"From Herndon, 24 years of IT services give Ciracom a ConnectWise archive of tickets, change requests and resolutions.",business;signal;tool;location
+66,"More than 100 IT projects out of Cumming leave Shvintech with scoping notes, implementation records and support tickets tied to real client environments.",business;signal;location
+67,"With 200 accounts on its AI software, Actively collects onboarding records, support tickets and usage feedback across a broad customer base.",business;signal
+68,"Thirteen years of Apple device management gives Addigy policy configurations, deployment records and Zendesk support cases from real fleets of Macs.",business;signal;tool
+69,"Akira Technologies has done government IT consulting from Washington since 2003, which means 23 years of project deliverables, requirements documents and status reports.",business;signal;location
+70,"GUI software built since 1991 leaves Altia with design specs, customer integration records and Jira-tracked bugs across 35 years.",business;signal;tool
+71,"Assignar's 800-plus customers schedule crews and equipment through construction workforce software, so it holds assignment records, compliance checks and support tickets.",business;signal
+72,"Because 401GO runs implementation and onboarding in-house, each retirement plan launch leaves checklists, plan setup records and Zendesk support history.",business;signal;tool
+73,"Barcom Technology Solutions has done IT services for 22 years, long enough to hold a deep record of tickets, escalations and fixes.",business;signal
+74,"Fifteen years in, Aqueduct Technologies has a ConnectWise record of tickets, project notes and remediation from its Canton base.",business;signal;tool;location
+75,"Since 1987, Element Technologies has supported IT from Bloomington, and 39 years of service requests and resolutions is a lot of structured history.",business;signal;location
+76,"Cloud CRM for 15,000+ customers means Agile CRM sits on support tickets, onboarding records and feature requests at serious volume.",business;signal
+77,"Twenty years of retail loss prevention software gives Agilence exception reports, investigation workflows and customer support records from real stores.",business;signal
+78,"AllVoices runs case management and its knowledge base in-house, so workflow templates, help articles and support tickets are built into how it operates.",business;signal
+79,"Seventeen years of software work in Atlanta, with Zendesk handling support, means Apparity holds a long trail of tickets and resolutions.",bucket;signal;tool;location
+80,"AI physical security software generates alert reviews, incident classifications and customer tuning decisions, and Ambient.ai has been collecting them for ten years.",business;signal
+81,"More than 300 projects of CRE software and Salesforce work give Ascendix Technologies requirements docs, configuration records and support tickets for commercial real estate teams.",business;signal
+82,"Sixteen years of Salesforce implementations leave Arkus with discovery notes, build specs and change requests from real client orgs.",business;signal;tool
+83,"Running 24/7 with implementation in-house, 1upHealth accumulates integration specs, onboarding checklists and Jira-tracked support issues on the operational side.",business;signal;tool
+84,"Thirty-five years of time clocks and workforce software leave Accu-Time Systems with installation records, device configurations and support tickets.",business;signal
+85,"Auction Edge has built auction management software for 14 years, which adds up to sale configurations, consignment workflows and support requests.",business;signal
+86,"Eighteen years of employee experience and intranet software means Mangoapps holds implementation records, configuration templates and support requests.",business;signal
+87,"Facilities CMMS software running over 500 buildings sits on work orders, maintenance histories and asset records, and Tma Systems has them from Tulsa.",business;signal;location
+88,"Service management workflows built since 1998 give Kinetic Data request templates, approval flows and support records from 28 years of customer deployments.",business;signal
+89,"Document software for 23 years means Nitro Software holds support cases, licensing records and feature requests from a PDF tool used across many teams.",business;signal
+90,"Protecting 500+ clients leaves Turbotek Computer with Autotask and ConnectWise records of tickets, security events and fixes.",business;signal;tool
+91,"Foulk Consulting Services has consulted on IT from Livonia for 24 years, leaving project notes, recommendations and support histories.",business;signal;location
+92,"Virtual data rooms run on permission settings, deal-room setups and support requests, and ShareVault has been logging them for 23 years.",business;signal
+93,"A low-code app platform used in 40 states means Trackvia sees app templates, workflow configurations and support requests from every kind of business.",business;signal
+94,"Forty-two years of staffing and recruiting in Saint Louis, with Bullhorn behind it, leaves Peg Staffing And Recruiting with submittals, interview notes and placement outcomes.",business;signal;tool;location
+95,"Twenty-two years of running ERP Seminars out of Greeley points to course content, session materials and attendee feedback, a training record few vendors keep.",name;signal;location
+96,"Thirty-four years of enterprise software services around Maximo leave Naviam with implementation notes, asset management configurations and support records.",business;signal
+97,"Over 15,000 shipments out of Orlando means Express Freight holds a deep log of quotes, carrier assignments and delivery exceptions.",business;signal;location
+98,"Paragon Freight covers 48 states from Burr Ridge, and every lane quote, carrier booking and late-delivery note is a record of how freight really moves.",business;signal;location
+99,"Trucking out of West Deptford since 2010, with McLeod in the stack, gives East Coast Transport load records, driver assignments and delivery exceptions.",business;signal;tool;location
+100,"ServiceNow in the stack and 23 years of IT services behind it give Sgs Technologie a long record of tickets, changes and resolutions.",business;signal;tool
+101,"Managed IT for senior living communities, 11 years of it, leaves Parasol Alliance with Autotask tickets, system rollouts and remediation notes.",business;signal;tool
+102,"Wealth management software for advisors, built over 14 years, gives Advyzon implementation records, rebalancing workflow configurations and support tickets.",business;signal
+103,"Safari Micro has delivered IT support in Arizona for 29 years, so ConnectWise holds a long run of tickets and fixes.",business;signal;tool;location
+104,"Forty-three years of IT services and solutions out of Parsippany leave Micro Strategies with service tickets, project records and remediation notes.",business;signal;location
+105,"Microsoft consulting and managed services for 37 years leave Concurrency with solution designs, migration notes and ServiceNow tickets.",business;signal;tool
+106,"Over 1,000 clients of technology consulting means Equity Methods keeps engagement files, project deliverables and client advisory notes.",business;signal
+107,"Coordinated Business Systems has delivered managed IT and technology services from Burnsville since 1983, which is 43 years of tickets, projects and resolutions.",business;signal;location
+108,"Managed IT and telecom under one roof for 33 years gives Access One ConnectWise tickets, outage records and service change requests.",business;signal;tool
+109,"Link Computer has supported IT out of Bellwood for 46 years, and ConnectWise holds the repair tickets, escalations and fixes from that run.",business;signal;tool;location
+110,"Managing nearly 10,000 residential units in Chicago produces leasing files, maintenance requests and vendor work orders, and The Building Group handles all three daily.",business;signal;location
+111,"Thirty-three years as a software company in Wilmington means Arkieva holds implementation records, customer support cases and product change histories.",bucket;signal;location
+112,"Fifty years of regional trucking and drayage out of Manchester leaves Manchester Motor Freight with dispatch logs, load records and delivery exceptions.",business;signal;location
+113,"Translating and localizing for 3,000+ clients means Alconost holds source and translation pairs, glossaries and reviewer feedback.",business;signal
+114,"A marketplace spanning 3,000+ warehouses means Flexe records capacity matches, inbound and outbound exceptions and support cases across a huge network.",business;signal
+115,"Nineteen years of operating gives Advantage Reserve a steady record of customer requests and support tickets, the kind any software business accumulates.",name;bucket;signal
+116,"Forty-seven years in business, Design Data Systems in Gaithersburg runs ConnectWise, which means a very long record of support tickets and project notes.",name;bucket;signal;tool;location
+117,"Twenty-five years of managed security services leave Digital Hands with alert triage notes, incident investigations and remediation records out of Tampa.",business;signal;location
+118,"Freight forwarding on a software platform means Flexport captures booking records, customs documents and shipment exceptions for every move.",business
+119,"Sunteck Transport has been hauling freight out of Jacksonville since 1997, so quotes, dispatch decisions and delivery exceptions go back 29 years.",business;signal;location
+120,"Eleven years of managed IT out of Lake Forest, with ConnectWise and Kaseya in the stack, leave Bit One IT Solutions a deep ticket and remediation history.",business;signal;tool;location
+121,"Icat Logistics has run 3PL work out of Elkridge for 33 years, so warehouse orders, carrier bookings and shipment exceptions are on record.",business;signal;location
+122,"Fleet management software built since 2000 gives Agile Fleet maintenance schedules, vehicle records and support requests across 26 years of customers.",business;signal
+123,"IntelliSuite IT Solutions has handled IT consulting and managed services for 28 years, with Autotask holding tickets, project notes and remediation steps.",business;signal;tool
+124,"Telecom and IT services since 2008 mean Alxtel logs service orders, support tickets and install records from its Lanham base.",business;signal;location
+125,"D&L Transport has moved freight from Overland Park for 22 years, and that means dispatch records, load assignments and delivery exceptions at real scale.",business;signal;location
+126,A ConnectWise ticket history 24 years deep is what managed IT in Virginia Beach looks like at Endurance Network Services.,business;signal;tool;location
+127,"Ten years into managed IT out of Lakewood, Digacore Technology Consulting has ConnectWise tickets, escalations and remediation notes to show for it.",business;signal;tool;location
+128,"Eighty-one years of IT and communications services from Camp Hill leave Morefield with install records, service tickets and ConnectWise resolution history.",business;signal;tool;location
+129,"QualityIP has handled IT support in Kent for 22 years, and each ConnectWise ticket is a documented problem and fix.",business;signal;tool;location
+130,"Forty-two years distributing fasteners from Apopka means Assembly Fasteners holds quotes, purchase orders and inventory records for a long run of customer orders.",name;bucket;signal;location
+131,"Twenty-eight years of managed IT leave EasyIT with ConnectWise tickets, escalations and remediation notes in a consistent format.",business;signal;tool
+132,"Because NXTThing RPO runs account managers and interviews in-house, it accumulates job requisitions, interview notes and hiring outcomes.",business;signal
+133,"Thirty-seven years in logistics and transportation gives Mystic Logistics a long log of quotes, dispatch decisions and delivery exceptions.",business;signal
+134,"Thirty years of intelligence analysis and security work for government clients leaves Exiger Government Solutions with analytic reports, investigations and compliance documentation.",business;signal
+135,"Mc has done IT services and consulting out of Brookpark since 2002, and 24 years of ConnectWise tickets and project notes is a deep archive.",business;signal;tool;location
+136,"Test prep content built over 13 years gives Masteryprep practice questions, answer explanations and assessment design that are hard to find in structured form.",business;signal
+137,"Forty-two years of forwarding freight out of Houston means Aries Worldwide Logistics holds quotes, booking records and shipment exceptions in volume.",business;signal;location
+138,"Serving 31 states from Cleveland, FIT Technologies runs managed IT with Autotask, so tickets and remediation notes span many different client environments.",business;signal;tool;location
+139,"HR and staffing across 30 states means Hueman People Solutions accumulates job orders, submittals and placement outcomes alongside HR advisory records.",business;signal
+140,"Fulfillment and 3PL work generates order files, inventory movements and shipping exceptions, and United Fulfillment Solutions runs it through NetSuite.",business;tool
+141,"Ngen has delivered IT and managed services from Lanham since 1992, which is 34 years of tickets, projects and remediation notes.",business;signal;location
+142,"QA testing since 1988 leaves Testpros with test plans, defect reports and Jira-tracked bug histories from 38 years of client projects.",business;signal;tool
+143,"Jdah has done IT services out of Burbank for 11 years, and Autotask holds the tickets and resolutions that period produced.",business;signal;tool;location
+144,"Running 24/7 with support in-house, 10Web.io generates hosting tickets, site build requests and troubleshooting transcripts around the clock.",business;signal
+145,"Fourteen years of care navigation software leave Activate Care with implementation records, configuration decisions and customer support history on the operations side.",business;signal
+146,"AI analytics for manufacturing, 13 years in, means Aizon holds model configurations, deployment records and support tickets from real plant environments.",business;signal
+147,"Alumni engagement software since 2013 gives Almabase onboarding records, campaign configurations and Jira-tracked support issues across institutions.",business;signal;tool
+148,"Thirteen years of IP docketing software means Alt Legal holds deadline rules, docket configurations and support cases from real patent and trademark practices.",business;signal
+149,"Sales coaching software, built over 13 years, leaves Ambition with scorecard templates, coaching workflows and Zendesk support history.",business;signal;tool
+150,"Amplemarket's sales prospecting platform generates campaign setups, enrichment workflows and Zendesk support requests, and it has run for 12 years.",business;signal;tool
+151,"With 11,000 customers on its loyalty marketing software, AppCard holds program configurations, offer redemption records and support issues at scale.",business;signal

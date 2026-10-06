@@ -1,0 +1,151 @@
+row,new_line,basis
+5702,"Placing physicians since 1983 means The Medicus Firm has four decades of searches, candidate submittals and placement outcomes, now organized in Salesforce.",business;signal;tool
+5703,"Every IT requisition Advent Global Solutions has filled since 1997 leaves a trail from submittal to start, and Jira and JobDiva keep that trail structured.",business;signal;tool
+5704,"Scheduling mobile dental visits from Deforest produces route plans, visit calendars and compliance paperwork, and Complete Mobile Dentistry has run that operation for 24 years.",business;signal;location
+5705,"Emergency diagnostic and medical testing runs on tight logistics, so Emergency Diagnostic Solutions has a working record of scheduling, supply and compliance documentation.",business
+5706,"With Bullhorn behind 47 years of anesthesia coverage, United Anesthesia Associates in Kernersville holds a deep record of provider submittals and placement outcomes.",business;signal;tool
+5707,"A staffing firm in Manhasset since 2003, Millbrook Support Services files requisitions, candidate submittals and placement outcomes in JobDiva.",bucket;signal;tool;location
+5708,"More than 1,000 placements out of Kennesaw give Adelphi Staffing a consistent Salesforce record of job orders, submittals and how each search ended.",business;signal;tool;location
+5709,"From Washington, DC, Ross Professional Services has been matching people to roles since 1998, and Bullhorn holds the interview notes and placement outcomes.",bucket;signal;tool;location
+5710,"Thirty-three years of staffing work out of Emmaus leaves Htss with job orders, candidate submittals and placement results, with HubSpot tracking the client side.",bucket;signal;tool;location
+5711,"Comcentric pairs IT consulting with staffing, so 23 years in Lone Tree have produced both engagement records and placement history, tied together in HubSpot.",business;signal;tool;location
+5712,"HR and staffing services since 1998 mean The HR Source in Landover holds a long record of requisitions and placements, spread across Bullhorn and Zoho.",business;signal;tool;location
+5713,"In pharma staffing and consulting out of Chicago, Pinpoint Pharma has 15 years of searches, submittals and placement outcomes sitting in Bullhorn.",business;signal;tool;location
+5714,"Staffing across Montana from Kalispell, Alternative Staffing keeps its job orders, submittals and placement outcomes in Bullhorn, a consistent regional record.",business;tool;location
+5715,"Rcs has recruited out of Charlotte since 1994, and Bullhorn holds three decades of job orders, candidate submittals and placement results.",business;signal;tool;location
+5716,"Nurse staffing from Frankenmuth for 19 years means Vital Nurse Staffing has built up shift requests, facility orders and credentialing paperwork in a repeatable format.",business;signal;location
+5717,"Seventeen years of client conversations in HubSpot, plus the job orders behind them, give 347 Group in Granite Bay a record of how staffing requests become placements.",bucket;signal;tool;location
+5718,"Healthcare staffing out of Winter Haven since 2002 means Pro Med Healthcare Services has facility shift requests, credentialing compliance files and fill outcomes in HubSpot.",business;signal;tool;location
+5719,"American Traveler Staffing Professionals has placed healthcare travelers since 1999, which leaves facility orders, assignment scheduling and Zendesk support tickets in one format.",business;signal;tool
+5720,"Because People Solutions runs sourcing in-house from Orlando, searches, outreach and screening notes already sit together in HubSpot.",business;signal;tool;location
+5721,"Logistics and marine work around Chalmette produces work orders, dispatch notes and vendor records, and Complete Logistical Services has logged them in HubSpot for 16 years.",business;signal;tool;location
+5722,"Running its apartment community in-house gives Audubon Lincolnshire North Apartments in Owensboro its own record of leases, maintenance requests and unit turnovers.",business;signal;location
+5723,"A tribal housing authority at Fort Yates accumulates work orders, unit inspections and maintenance records, and Standing Rock Housing has kept them since 1961.",business;signal;location
+5724,"Bobbye Joyner-Mills has worked Houston property for 27 years, which adds up to leasing files, maintenance requests and rent records in one place.",bucket;signal;location
+5725,"Because Open Door Rentals & Real Estate runs leasing in-house on AppFolio, applications, lease terms and maintenance requests in Auburn live in one structured system.",business;signal;tool;location
+5726,"Forty-one years of condominium management means Kare Condominium Management in Hudson holds association budgets, violation notices, meeting minutes and maintenance histories.",business;signal;location
+5727,"Blackduck Apartments, an apartment owner in Golden Valley, has 42 years of leasing, maintenance and capital-project records behind its properties.",business;signal;location
+5728,"Durante & Rich Real Estate does its own inspections and leasing out of Johnsburg, so move-in checklists, inspection findings and lease files are already in one shop.",business;signal;location
+5729,"Affordable housing in the Bronx generates compliance paperwork, unit inspections and repair requests building by building, and Findlay Teller Housing Development Fund owns it.",business;location
+5730,"Bray Development runs its communities in-house and around the clock from Kingsport, which means maintenance tickets, leasing files and after-hours call logs.",business;signal;location
+5731,"Property work since 1998 means rent rolls, leases and maintenance records, and Van Binsbergen & Associates in Montevideo has been accumulating them for 28 years.",bucket;signal;location
+5732,"San Jose Dividend Limited Partnership, a real estate partnership operating since 1983, carries lease abstracts, operating statements and capital records for its holdings.",business;signal
+5733,"Faldet-Erickson is a real estate partnership in West Fargo with 44 years behind it, and that history shows up in leases, rent rolls and maintenance logs.",business;signal;location
+5734,"Brookfield Village Apartments has been in operation since 1981, leaving the Brookfield property with decades of leases, turnover records and maintenance work orders.",business;signal;location
+5735,"Insurance agency work in Murray since 2000 means Thurmond Timothy keeps quotes, applications, renewals and claim-handling notes, a record of how coverage decisions get made.",business;signal;location
+5736,"Forty-two years of owning housing in the Bronx gives Notre Dame Housing Development Fund regulatory filings, inspection records and building maintenance logs.",business;signal;location
+5737,"Twenty-five apartment and senior housing properties mean Schuett Spearfish in Golden Valley generates leasing, maintenance and facility compliance records at scale.",business;signal;location
+5738,"Flagstaff Property Management has handled properties in Flagstaff for 39 years, building a long archive of leases, inspection reports and work orders.",business;signal;location
+5739,"With 52 years of property management in Buffalo, Belmont Management holds a full cycle of leasing, work orders and unit turnover records.",business;signal;location
+5740,"J & R M works in medical technology out of Lake Charles, and 25 years of that means equipment service logs, vendor records and compliance documentation.",business;signal;location
+5741,"Berry Real Estate Services in Grand Junction runs on AppFolio, so rental listings, applications, leases and maintenance requests are already structured data.",business;tool;location
+5742,"Warren Davis Properties XII has leased commercial and industrial space in Springfield since 2000, producing lease abstracts, tenant improvement files and building maintenance histories.",business;signal;location
+5743,"Managing property out of Portland since 2002, Southstar PM has more than two decades of maintenance requests, inspections and leasing files.",business;signal;location
+5744,"Koorsen Facilities Management pairs facility management with fire services in Indianapolis, so its work generates inspection reports, deficiency findings and service tickets.",business;location
+5745,"Compro Realty in Salina handles both real estate and property management, which means listings, leases and maintenance histories under one roof.",business;location
+5746,"Thirty-one years of real estate management in Denver leaves Old Vine-Pinnacle Associates with leases, operating budgets and maintenance records.",business;signal;location
+5747,"Every lease, work order and inspection from 32 years of property management at RML Properties in Villanova is a structured record waiting to be used.",business;signal;location
+5748,"Guardian Realty Management in Rockville has spent 33 years turning resident requests, lease renewals and maintenance calls into a consistent record.",business;signal;location
+5749,"Real estate and property management around Fort Myers for 30 years gives Pepitone Properties a steady archive of listings, leases and maintenance requests.",business;signal;location
+5750,"As a general contractor in Atlanta, Billy Gray Contracting sits on 23 years of bids, RFIs, change orders and punch lists tied to real jobs.",business;signal;location
+5751,"Thirty-five projects across seven states, run on Yardi, give Adler Realty Investments in Woodland Hills a large record of leases, rent rolls and capital work.",business;signal;tool;location
+5752,"A hotel owner entity in San Diego, Tahquitz Canyon Investors holds 23 years of capital improvement records, vendor contracts and maintenance logs.",business;signal;location
+5753,"Stevens Center Management has managed property in Richland since 1994, building up tenant leases, common-area maintenance records and vendor work orders.",business;signal;location
+5754,"Ten years of holding real estate leaves Parma Richmond with lease files, operating statements and property maintenance records.",business;signal
+5755,"Selling and servicing power equipment from Ketchikan, Power Systems & Supplies of Alaska keeps parts orders, quotes and service histories for equipment working in Alaska.",business;location
+5756,"Redwood Tower Limited Partnership owns apartments in Baltimore, and 30 years of ownership means leases, turnover records and maintenance work orders.",business;signal;location
+5757,"Owning property in Alpena for 21 years has left Benson Properties of Alpena with a steady record of leases, repairs and upkeep.",business;signal;location
+5758,"Listings, showings, leases and transaction files are what 25 years of real estate work looks like at Paskvan Real Estate in Bemidji.",business;signal;location
+5759,"115-21 West Square Associates owns apartments in the Bronx, and 31 years of ownership produces leases, building inspections and repair requests.",business;signal;location
+5760,"Property management since 1998 in Richmond, Indiana has Mint Management accumulating leases, maintenance requests and inspections the whole way.",business;signal;location
+5761,"Plus Management in Colonial Heights has managed property for 21 years, so rent collection, work orders and inspections form a dense operating log.",business;signal;location
+5762,"Thirty years of development out of Cocoa means Commerce Properties International holds site plans, leasing files and construction documentation across its projects.",business;signal;location
+5763,"Nearly four decades in real estate leaves Amelang Partners in Houston with leases, operating statements and property files.",business;signal;location
+5764,"Property operations leave records: leases, rent ledgers and maintenance requests, and Lr One International in San Antonio has been keeping them since 2011.",bucket;signal;location
+5765,"A retail property ownership entity like Valencia Gateway Retail IV carries tenant leases, common-area reconciliations and maintenance contracts for its center.",business
+5766,"Gal-Son Development in Rochester has built real estate for 50 years, which means project files, construction draws and leasing records going back to 1976.",business;signal;location
+5767,"T Montana Joint Venture, a real estate partnership in El Paso, has 30 years of leases, operating budgets and property maintenance records.",business;signal;location
+5768,"Matco Holdings of Iowa in Waterloo has been a holding company for 24 years, and that means property files, leases and maintenance contracts.",business;signal;location
+5769,"Industrial property in Colusa since 1988 means Colusa Industrial Properties has lease abstracts, tenant records and building maintenance logs spanning decades.",business;signal;location
+5770,"La Marque Outlet Development owns an outlet retail center, and with Yardi behind operations, tenant leases, common-area charges and work orders are already structured.",business;tool
+5771,"On AppFolio in Richmond, California, Jd Management Group has 19 years of leases, work orders and turnovers sitting in one system.",business;signal;tool;location
+5772,"For an investment entity in Nashville 29 years running, Grassmere Investors accumulates acquisition files, leases and operating reports.",business;signal;location
+5773,"Ghidorzi Holdings in Wausau combines a holding company with real estate, and 24 years of that leaves leases, operating statements and property files.",business;signal;location
+5774,"Ronald Paul Companies in Bethesda has managed real estate since 1987, so nearly four decades of leases, work orders and building operations records exist.",business;signal;location
+5775,"Pine Water Plaza is a commercial plaza in Spokane, and 23 years of owning it produce tenant leases, common-area reconciliations and repair records.",business;signal;location
+5776,"North Shore Investment in Honolulu has been at it since 1985, and 41 years of investment property leaves leases, rent rolls and maintenance records.",bucket;signal;location
+5777,"Axis Development Group in Christiansted has developed projects for ten years, leaving permitting files, construction records and leasing documents.",business;signal;location
+5778,"Bouck G.S. Realty is a real estate owner in Brooklyn, and 32 years of ownership means leases, building inspection paperwork and repair records.",business;signal;location
+5779,"Great Plains Developments in Fairway has developed real estate for 29 years, which means site files, construction records and leasing documents.",business;signal;location
+5780,"At 6,000 units, One Alamo in San Antonio generates leases, work orders and turnover records at real multifamily scale.",business;signal;location
+5781,"DRM Partners in Long Beach has been at it for 20 years, and a property business of that age holds leases, rent ledgers and maintenance histories.",bucket;signal;location
+5782,"M.A.S. Real Estate Services has worked Tucson real estate for 32 years, handling listings, leases and the property files that go with them.",business;signal;location
+5783,"The ledgers, distribution records and asset documentation any trust accumulates over 13 years are what Irrv Spousal Ltd Access Tr has been keeping in Canton.",business;signal;location
+5784,"Sixteen years of real estate development in Fargo gives JDA site files, construction records and leasing documents.",business;signal;location
+5785,"Guard services out of Hurst generate daily activity reports, incident write-ups and post orders from the first shift, and Gardner Protective Services has logged them for 14 years.",business;signal;location
+5786,"Badlands Security Group guards sites from Sidney, Montana, leaving 14 years of patrol logs, shift reports and incident write-ups.",business;signal;location
+5787,"Onyx Protective Services in Miami has fielded guards for 13 years, which adds up to patrol logs, incident reports and post orders.",business;signal;location
+5788,"Amsetpro, the security firm behind American Asset Protection, has run services out of Van Nuys since 1994, so 32 years of patrol logs and incident reports exist.",business;signal;location
+5789,"Round-the-clock guard work with escalation handled in-house means Roman Security in Wylie logs every patrol, alarm response and incident as it happens.",business;signal;location
+5790,"Private Protective Services in Woodland Hills tracks clients in Salesforce, so 16 years of site assignments, incident reports and client follow-ups are already structured.",business;signal;tool;location
+5791,"G11 Security, based in Roswell, works across over 700 offices, a footprint that yields patrol logs, incident reports and site records at volume.",business;signal;location
+5792,"Security work in Pocola for 23 years leaves Je Systems with patrol logs, incident reports and client site records.",bucket;signal;location
+5793,"Security2000 in Brick has offered security services since 1998, producing alarm events, incident reports and client site records for 28 years.",business;signal;location
+5794,"Tel-Tec Security Systems has installed and serviced alarm systems out of Bakersfield since 1982, leaving 44 years of installation records, alarm events and service tickets.",business;signal;location
+5795,"Every security systems integration Pac Integrations in Concord completes leaves design drawings, device schedules and service records, and it has been doing so since 1982.",business;signal;location
+5796,"With 50 years in North Chesterfield and HubSpot in place, Richmond Security has client site details, incident reports and service requests well documented.",business;signal;tool;location
+5797,"A communications contractor in Augusta for 11 years, Joint Communications Solutions Group accumulates site surveys, cabling installs, as-builts and service tickets.",business;signal;location
+5798,"Retail loss prevention across nine states gives Clear Loss Prevention in Chicago a trove of incident reports, shrink findings and store-level investigations.",business;signal;location
+5799,"Vetpride Services in Raleigh cleans and maintains facilities, and 21 years of that is inspection checklists, work orders and service schedules.",business;signal;location
+5800,"Service schedules, work orders and client site records are what any facilities firm builds, and Unlimited Partners in Orland Park has been building them for 14 years.",bucket;signal;location
+5801,"US Facility Solutions in Sunrise has run facility services for 25 years, which means work orders, site inspections and service logs.",business;signal;location
+5802,"Over 200 locations is a lot of sites for Ahntech to keep track of, and each one means service tickets, site records and maintenance histories.",bucket;signal
+5803,"Facilities management since 1992 leaves Phoenix Management in Cedar Park with work orders, inspection logs and vendor records.",bucket;signal;location
+5804,"Rd3 in Denver has operated for 19 years; a facilities firm like that keeps work orders, inspection records and service histories.",bucket;signal;location
+5805,"Sixty-plus locations of tech and facility services mean Gemini Tech Services in Willow Park logs service tickets, site visit reports and equipment histories.",business;signal;location
+5806,"Omega Consultants in Oak Ridge has consulted for 31 years, and that work leaves assessments, project deliverables and client reports.",business;signal;location
+5807,"Correct Mechanical Services in Grandville has serviced HVAC for 38 years, leaving equipment records, service tickets and maintenance histories.",business;signal;location
+5808,"In disaster recovery and restoration, every job produces intake notes, moisture readings and claims documentation, and Disaster Management Group in Jupiter has 20 years of them.",business;signal;location
+5809,"Muscogee Business Services, a tribal business services company in Okmulgee, has ten years of contract, project and operational records behind it.",business;signal;location
+5810,"Frank O'Connor in Clifton has operated for 38 years, and the facilities work behind that means site records, work orders and service documentation.",bucket;signal;location
+5811,"Thirty-three years of facilities work in New Orleans means Healtheon has work orders, inspection records and vendor documentation on file.",bucket;signal;location
+5812,"King & George in Fort Worth tracks work in Jira, so 15 years of facilities requests and fixes have a structured trail.",bucket;signal;tool;location
+5813,"Cyber and IT work in Anchorage leaves tickets, security assessments and remediation notes, and Copper River Cyber Solutions has 12 years of them.",business;signal;location
+5814,"Westech International in Fishers has operated for 32 years, and facilities work leaves work orders, site surveys and maintenance logs.",bucket;signal;location
+5815,"Government contracting support for 20 years means Teamgov in Hyattsville has proposals, task orders, deliverables and compliance reports on file.",business;signal;location
+5816,"Delivery tickets, tank service records and customer orders are the daily output of fuel supply, and Drew Fuel Services in Pompano Beach has kept them for 15 years.",business;signal;location
+5817,"Elevator service and maintenance since 1919 means Warfield & Sanford in Laurel holds a century of inspection reports, callbacks and modernization records.",business;signal;location
+5818,"C & S Building Services in Amityville has serviced buildings since 1997, and 29 years leaves work orders, inspection logs and client site records.",business;signal;location
+5819,"Management Enterprise Development & Services in Huntsville has operated for 29 years, and facilities management work yields work orders, site inspections and vendor records.",bucket;signal;location
+5820,"Nika Technologies in North Bethesda delivers technology and engineering services, so 28 years means project documentation, design reviews and client deliverables.",business;signal;location
+5821,"Scope Services in Saint Joseph has served industrial and commercial facilities for 59 years, with job records, safety documentation and service reports.",business;signal;location
+5822,"Across ten states, Tech Systems in Apex accumulates service tickets, installation records and site documentation over a wide footprint.",bucket;signal;location
+5823,"Facility Site Contractors in Halethorpe has done site work for 26 years, leaving bids, work orders and project closeout documents.",business;signal;location
+5824,"Task orders, deliverables and compliance reports are the paper trail of 21 years of government support work at The Millennium Group in Reston.",business;signal;location
+5825,"M.C. Fuhrman & Associates in Haddonfield has worked with clients since 2003, so 23 years of engagements, reports and project records exist.",bucket;signal;location
+5826,"Xotech in Tyrone has run for 26 years, and facilities and technical work leaves service records, work orders and project files.",bucket;signal;location
+5827,"USA Up Star in Greenwood has served for 17 years, with work orders, site inspection records and service logs to show for it.",bucket;signal;location
+5828,"Service calls, work orders and customer site histories run deep at Wilson 5 Service in Kittery, which has been serving customers for 44 years.",business;signal;location
+5829,"With Salesforce at Dav-Force in Norman, 16 years of customer accounts, service requests and site work are logged in a structured system.",bucket;signal;tool;location
+5830,"SRM Group in Virginia Beach has operated for 30 years, and facilities work generates work orders, inspections and maintenance logs.",bucket;signal;location
+5831,"Because Locg in Seattle runs its client portal and preventive maintenance in-house, scheduled PM tasks, completion records and client requests are already structured.",bucket;signal;location
+5832,"L&M Technologies in Albuquerque has been in business for 54 years, and that history includes project files, service records and technical documentation.",bucket;signal;location
+5833,"Low Voltage Wiring in Colorado Springs has worked cabling for 52 years, leaving job walks, installation drawings and test results for each site.",business;signal;location
+5834,"Black Gold Industries in Oxnard has been operating since 1982, with 44 years of job records, service logs and project documentation.",bucket;signal;location
+5835,"Base Logistics in Harvey handles logistics services, and 24 years of that leaves shipment records, dispatch notes and exception reports.",business;signal;location
+5836,"Preventive maintenance is the whole job at Preventive Maintenance Services in Lakewood, and 40 years of it adds up to PM schedules, inspection findings and equipment histories.",business;signal;location
+5837,"Wai Construction Group in Piketon has built since 2014, so bids, RFIs, change orders and punch lists from 12 years of projects are on file.",business;signal;location
+5838,"Van Gelder Enterprises in Concord has operated for 51 years, leaving job records, service history and project files.",bucket;signal;location
+5839,"Economic Project Solutions in North Brunswick does project consulting, leaving 27 years of project plans, cost estimates and status reports.",business;signal;location
+5840,"Facility work leaves work orders, inspection records and vendor invoices, and Pcce in Montgomery Village has accumulated 23 years of them.",bucket;signal;location
+5841,"Intertech Security of Florida in Jacksonville tracks accounts in HubSpot, so 18 years of security system installs, service calls and client records are structured.",business;signal;tool;location
+5842,"Four decades of supporting veteran-owned businesses leaves the Service Disabled Veterans Business Association with membership, certification-support, event and training records.",business;signal
+5843,"Plumbing and HVAC service calls leave estimates, job tickets and follow-ups, and Blue Gander in Boise has logged work for 3,431+ customers.",business;signal;location
+5844,"Janitorial and maintenance services since 1951 mean Maintenance Service Systems in Albuquerque holds 75 years of inspection checklists, work orders and service schedules.",business;signal;location
+5845,"Corporate Building Services in Dallas runs commercial cleaning on HubSpot, so 20 years of client accounts, service schedules and inspection notes are structured.",business;signal;tool;location
+5846,"Duct and vent cleaning jobs leave scopes of work, inspection findings and completion records, and Duct & Vent Cleaning of America in Springfield has 37 years of them.",business;signal;location
+5847,"Around-the-clock emergency electrical service in Las Vegas means Ampere Contracting logs call-outs, fault findings and repair records at all hours.",business;signal;location
+5848,"Oer Services in Arlington Heights has operated for 17 years, and equipment rental and service work leaves rental contracts, maintenance logs and service records.",bucket;signal;location
+5849,"Working across 50 states, Indian Eyes in West Richland generates equipment rental orders, service logs and job records at national scale.",bucket;signal;location
+5850,"Selling and renting Bobcat equipment in Juneau for 18 years leaves Bobcat of Juneau with rental agreements, service histories and parts orders.",business;signal;location
+5851,"Rental agreements, equipment condition reports and service histories are what 21 years of renting and selling in Springfield looks like at Superior Rents & Sales.",business;signal;location
