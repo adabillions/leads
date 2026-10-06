@@ -1,0 +1,41 @@
+row,what_it_does,name_website_match,line_fit,trading_name,note
+504,Family-owned trucking warehousing and delivery company,YES,OK,,
+514,IT consulting and application development services,YES,WRONG,,Consulting shop not product vendor; no product-usage data
+516,Third-party logistics order fulfillment provider,YES,OK,,
+518,Geospatial collaboration software (GeoPDF) vendor,YES,OK,TerraGo,
+524,File system and networking software vendor,YES,OK,,
+536,Cybersecurity SIEM tuning and security operations,DBA,OK,SIEMtune,Trades as SIEMtune
+544,unknown,UNCLEAR,UNCLEAR,,No search results found
+546,IT staffing and project solutions,DBA,OK,Gravity IT Resources,Trades as Gravity IT Resources; name is a person
+552,Learning and user-adoption software (uPerform) vendor,DBA,OK,uPerform,Now trades as uPerform
+560,Healthcare implant and blood tracking software,DBA,OK,InVita Healthcare Technologies,Rebranded as InVita Healthcare Technologies
+572,IT networks data storage and structured cabling,YES,WRONG,,IT/network firm; no patrol logs or dispatch
+578,Predictive maintenance sensors and cloud software,YES,OK,,
+581,unknown,UNCLEAR,UNCLEAR,,No search results found
+584,Managed IT services provider in Solvay NY,YES,OK,,Domain not directly confirmed
+587,Health data information systems software and hosting,YES,OK,,
+589,unknown,UNCLEAR,UNCLEAR,,No search results found
+596,Accounting audit and tax CPA firm,YES,OK,,
+602,unknown,UNCLEAR,UNCLEAR,,No search results found
+604,Temporary and permanent staffing agency,DBA,OK,JMI Resource,Trades as JMI Resource
+609,Professional certification and training (e-discovery),DBA,OK,ACEDS,Unverified by search; ACEDS is BARBRI-owned
+610,Online career bootcamps and training,DBA,OK,Springboard,Unverified by search; trades as Springboard
+612,Shipping broker and 3PL for small business,YES,OK,Worldwide Express,Unverified by search; knowledge-based
+636,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+646,CPA firm (domain suggests),UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+647,Tax credit consulting (domain suggests),UNCLEAR,UNCLEAR,,Not searched; may not be audit firm
+648,CPA and advisory firm in Illinois,YES,OK,,Unverified by search; knowledge-based
+650,CPA and advisory firm in Kansas,YES,OK,,Unverified by search; knowledge-based
+654,Workforce engagement software for contact centers,YES,OK,,Unverified by search; knowledge-based
+659,Project portfolio management software,DBA,OK,Prism PPM,Unverified by search; domain suggests Prism PPM
+661,Synthetic test data software vendor,YES,OK,,Unverified by search; knowledge-based
+666,Virtual classroom software vendor,YES,OK,,Unverified by search; knowledge-based
+675,Managed IT services in San Antonio,YES,OK,,Unverified by search; inferred from name
+678,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+685,Satellite imagery marketplace app,DBA,OK,SkyFi,Unverified by search; trades as SkyFi
+686,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+691,Certified public accounting and advisory firm,YES,OK,Mercadien,Unverified by search; knowledge-based
+692,CAD software vendor (KOSMOS),YES,OK,,Unverified by search; knowledge-based
+694,Education payments platform software,DBA,OK,ClassWallet,Unverified by search; trades as ClassWallet
+700,IT consulting services (domain suggests RCG),DBA,OK,Rouse Consulting Group,Unverified by search; weak inference
+701,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted

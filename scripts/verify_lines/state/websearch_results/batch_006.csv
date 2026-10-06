@@ -1,0 +1,41 @@
+row,what_it_does,name_website_match,line_fit,trading_name,note
+1056,unknown,UNCLEAR,UNCLEAR,,Search returned nothing usable for this name or domain
+1058,IT consulting and services firm,YES,WRONG,,IT consultancy not a software vendor with product usage
+1061,unknown,UNCLEAR,UNCLEAR,,Search found no link between name and domain
+1062,Technical and engineering consulting for federal clients,YES,UNCLEAR,,Engineering/tech consulting; unclear if help-desk tickets held
+1067,unknown,UNCLEAR,UNCLEAR,,Search found nothing on this firm or domain
+1068,Armed-free security guard services since 1993,YES,OK,,
+1073,unknown,UNCLEAR,UNCLEAR,,Search found nothing on this firm or domain
+1077,K-12 curriculum management software (Atlas) for schools,DBA,WRONG,Rubicon (Faria Education Group),Ed-tech software vendor; line assumes a training business
+1078,Fire protection and security alarm monitoring,DBA,WRONG,Mountain Alarm,Alarm/fire inspection firm; no patrol logs
+1079,Managed IT support and helpdesk (Lantek IT),NO,OK,Lantek IT,Domain is Lantek IT; no link to Resurgent Technology found
+1081,College bookstores and textbook retail,YES,WRONG,Barnes & Noble College,Bookstore operator; not a course-content training business
+1082,Customer service and communication skills training,DBA,OK,Bonfire Training,PhonePRO rebranded to Bonfire Training in 2016
+1084,Continuing education courses for pharmacists (FreeCE),DBA,OK,KnowFully Learning Group,Rebranded from Surgent PharmCon
+1086,unknown,UNCLEAR,UNCLEAR,,Only an unrelated Boston device consultancy found; domain unconfirmed
+1088,unknown,UNCLEAR,UNCLEAR,,Search found nothing on this firm or domain
+1093,Cloud infrastructure orchestration platform for DevOps,YES,OK,Facets.cloud,
+1105,Managed IT services provider in New Orleans,YES,OK,Bellwether Technology,
+1121,unknown,UNCLEAR,UNCLEAR,,Search found nothing on this firm or domain
+1125,Library and archive knowledge management software,YES,OK,Lucidea,
+1128,Learning management and training software vendor,YES,OK,Zensai,Search failed; based on prior knowledge
+1138,IT and technical services contractor in Florida,UNCLEAR,OK,,Registry shows computer services; website not confirmed
+1140,Identity proofing and credentialing technology,YES,WRONG,NextgenID,Identity software vendor; not an MSP with tickets
+1144,AI web search API for developers,YES,OK,Exa,
+1150,unknown,UNCLEAR,UNCLEAR,,Search found no match for this name or domain
+1158,Cloud backup and disaster recovery software,YES,OK,N2WS,
+1159,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1161,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1162,Federal cybersecurity consulting (acquired by Coalfire),DBA,UNCLEAR,Coalfire Federal,Not searched; from prior knowledge
+1167,Educational toys and learning products,DBA,WRONG,Square Panda,Not searched; prior knowledge says toy maker not SaaS
+1168,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1169,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1173,Civic data analytics software for local governments,YES,WRONG,Zencity,Not searched; SaaS vendor not an MSP
+1175,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1176,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1177,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1179,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1181,IT and engineering staffing firm,YES,WRONG,Abbtech,Not searched; prior knowledge says staffing firm not MSP
+1184,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1189,unknown,UNCLEAR,UNCLEAR,,Not searched; search budget exhausted
+1197,Heating and HVAC service contractor,YES,OK,Bequette's Air Flo Heating,Not searched; inferred from company name

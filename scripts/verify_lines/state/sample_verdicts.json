@@ -1,0 +1,482 @@
+{
+ "16413": {
+  "company": "Constant Communicators Llc",
+  "actual": "PR/communications consultancy",
+  "verdict": "WRONG",
+  "reason": "PR consulting, not education/training; data type does not fit. Year 2018 matches."
+ },
+ "7065": {
+  "company": "Tipping Point Media Group Llc",
+  "actual": "eLearning/immersive training agency",
+  "verdict": "MINOR",
+  "reason": "Fits; HubSpot unverified; 2003 founding matches."
+ },
+ "2088": {
+  "company": "Renzulli Learning, Llc",
+  "actual": "K-12 gifted-ed online platform",
+  "verdict": "MINOR",
+  "reason": "Fits; \"9 years\" right for LLC (2017) but brand is ~20 yrs old; HubSpot unverified."
+ },
+ "11591": {
+  "company": "Speech Potential Associates Llc",
+  "actual": "Accent/communication training",
+  "verdict": "OK",
+  "reason": "1993 founding verified; assessments and training confirmed."
+ },
+ "11428": {
+  "company": "Developing Capacity Consulting Llc",
+  "actual": "Leadership/equity coaching firm",
+  "verdict": "WRONG",
+  "reason": "Founding 2017 per ZoomInfo vs CSV 2020; \"implementations/course content\" misdescribes coaching practice."
+ },
+ "10554": {
+  "company": "Alphatub Corp",
+  "actual": "Early-childhood literacy app",
+  "verdict": "MINOR",
+  "reason": "Edtech fits broadly; \"courses and curriculum\"/\"certification\" overstate an app. Year within 1 yr."
+ },
+ "8043": {
+  "company": "Language Fundamentals Llc",
+  "actual": "Language school (now International School of Languages)",
+  "verdict": "MINOR",
+  "reason": "Fits; legacy name used; year within 1 yr (2006 vs 2007)."
+ },
+ "6258": {
+  "company": "Livingworks Education Usa Inc",
+  "actual": "Suicide-prevention training provider",
+  "verdict": "MINOR",
+  "reason": "Fits; Jira unverified; US-entity 2004 unverified; \"Usa\" casing awkward."
+ },
+ "15388": {
+  "company": "Flourish Llc",
+  "actual": "Couples/relationship coaching",
+  "verdict": "WRONG",
+  "reason": "Coaching practice, not education/training; 2016 unverified."
+ },
+ "5570": {
+  "company": "Slope School",
+  "actual": "Private PreK-8 school, Utah",
+  "verdict": "OK",
+  "reason": "Founded 2019 verified; data type fits."
+ },
+ "15882": {
+  "company": "Boujie Budgets Llc",
+  "actual": "Personal-finance education brand (solo creator)",
+  "verdict": "MINOR",
+  "reason": "Fits; \"assessments ... systems\" heavy for a one-person workshop brand."
+ },
+ "14867": {
+  "company": "Rising Stars Llc",
+  "actual": "Probably after-school programs",
+  "verdict": "UNVERIFIED",
+  "reason": "Could not confirm the Gilbert AZ entity or its age."
+ },
+ "4563": {
+  "company": "Applied Ai Institute Llc",
+  "actual": "AI courses (hosted on Teachable)",
+  "verdict": "WRONG",
+  "reason": "\"With Absorb in the stack\" contradicted; courses run on Teachable."
+ },
+ "4066": {
+  "company": "Professional Development Training Center Llc",
+  "actual": "Training/curriculum consulting",
+  "verdict": "OK",
+  "reason": "2012 registration matches; fits."
+ },
+ "981": {
+  "company": "Thesis America, Inc.",
+  "actual": "Higher-ed SIS vendor (Thesis, ex-Unit4)",
+  "verdict": "MINOR",
+  "reason": "Fits; HubSpot unverified; 1987/Cleves OH data unconfirmed (brand is 2021 spin-off, MO HQ)."
+ },
+ "2950": {
+  "company": "Moxe Health Corporation",
+  "actual": "Clinical data exchange platform",
+  "verdict": "OK",
+  "reason": "2012 confirmed; fits; Salesforce unverified."
+ },
+ "3536": {
+  "company": "Manan, Llc (gyrus.com)",
+  "actual": "Gyrus Systems, LMS vendor founded 1987",
+  "verdict": "WRONG",
+  "reason": "Line calls them \"Manan\" (holding entity) not Gyrus; 2009 is CEO takeover, not founding."
+ },
+ "10793": {
+  "company": "Cloudseac Llc",
+  "actual": "Unknown",
+  "verdict": "UNVERIFIED",
+  "reason": "No web presence found."
+ },
+ "251": {
+  "company": "Chmura Economics & Analytics, Llc",
+  "actual": "Labor-market analytics / JobsEQ SaaS",
+  "verdict": "OK",
+  "reason": "1998 confirmed; fits."
+ },
+ "12872": {
+  "company": "Desert Saber Llc",
+  "actual": "Unknown",
+  "verdict": "UNVERIFIED",
+  "reason": "No web presence found."
+ },
+ "2642": {
+  "company": "Igx Solutions Corp",
+  "actual": "Grants-management software + IT consulting",
+  "verdict": "OK",
+  "reason": "Fits; HubSpot unverified."
+ },
+ "11707": {
+  "company": "Standard Technology, Inc.",
+  "actual": "DoD/VA medical-coding & HIM services contractor",
+  "verdict": "WRONG",
+  "reason": "Not software; \"41 years of help desk\" invented. 1985 founding correct."
+ },
+ "8275": {
+  "company": "Machine-To-Machine Intelligence M2Mi Corp",
+  "actual": "IoT platform (founded 2006)",
+  "verdict": "MINOR",
+  "reason": "Fits; Zoho unverified; name rendering clunky."
+ },
+ "3028": {
+  "company": "Wistia",
+  "actual": "Video-hosting SaaS",
+  "verdict": "OK",
+  "reason": "Fits; HubSpot unverified (support runs on Zendesk)."
+ },
+ "10709": {
+  "company": "Onsystem Logic, Llc",
+  "actual": "Cybersecurity startup, $350K stage",
+  "verdict": "MINOR",
+  "reason": "CB Insights says founded 2015 and Catonsville, vs CSV 2008 / Ellicott City; tiny startup unlikely to have \"years of\" data."
+ },
+ "11206": {
+  "company": "A&A Inomatic Llc",
+  "actual": "Unknown",
+  "verdict": "WRONG",
+  "reason": "Name mangled to \"A&An Inomatic\"."
+ },
+ "8319": {
+  "company": "Microsensys Us Inc",
+  "actual": "RFID hardware (US arm of German microsensys GmbH)",
+  "verdict": "WRONG",
+  "reason": "Hardware maker, not software; SaaS data types don't fit."
+ },
+ "13142": {
+  "company": "Meridian Data Pro Llc",
+  "actual": "Unknown",
+  "verdict": "UNVERIFIED",
+  "reason": "No evidence found."
+ },
+ "14097": {
+  "company": "Ban Consulting Solutions, Llc.",
+  "actual": "Unknown",
+  "verdict": "UNVERIFIED",
+  "reason": "Cannot confirm MSP or founding."
+ },
+ "24": {
+  "company": "Edwards Business Systems",
+  "actual": "Copier/print dealer with MSP arm, founded 1954",
+  "verdict": "MINOR",
+  "reason": "Year confirmed; ConnectWise, client portal, 24/7 all unverified; CSV headcount 72 wrong (131-185+)."
+ },
+ "9622": {
+  "company": "Lams Technology Llc",
+  "actual": "Unknown (only a lookalike LAM Technology in TX found)",
+  "verdict": "UNVERIFIED",
+  "reason": "No record of the Arlington entity; \"17 years of help desk\" awkward."
+ },
+ "10570": {
+  "company": "Advanta Health Solutions, Inc.",
+  "actual": "Health-tech wellness-incentive platform (ActiveFit+)",
+  "verdict": "WRONG",
+  "reason": "Not an MSP; \"tickets, escalations and remediation notes\" don't fit. 2010 founding correct."
+ },
+ "1366": {
+  "company": "Kalleo Technologies, Llc",
+  "actual": "Paducah KY MSP, founded 2004",
+  "verdict": "MINOR",
+  "reason": "Fits; whole hook rests on unverified ConnectWise."
+ },
+ "7802": {
+  "company": "Csw Superior It Solutions, Inc.",
+  "actual": "CSW Systems, managed IT for DoD/IC; acquired by Summit 7 in 2023",
+  "verdict": "MINOR",
+  "reason": "Fits; name rendering wrong (goes by CSW Systems); year unverified; now a subsidiary."
+ },
+ "4018": {
+  "company": "Vip It Inc.",
+  "actual": "LA MSP, founded 2015",
+  "verdict": "MINOR",
+  "reason": "Fits; ConnectWise unverified; \"Vip It\" should be VIP IT."
+ },
+ "3248": {
+  "company": "Wildflower International, Ltd.",
+  "actual": "Federal IT VAR/integrator, founded 1991",
+  "verdict": "MINOR",
+  "reason": "Year within 1 yr; help-desk data type weak fit for a reseller; Salesforce unverified."
+ },
+ "7217": {
+  "company": "Indigochart Llc",
+  "actual": "Unknown",
+  "verdict": "UNVERIFIED",
+  "reason": "No public footprint; \"Running managed IT out of Austin\" unsupported."
+ },
+ "5107": {
+  "company": "Global Asset Development Group Llc",
+  "actual": "Unknown; name suggests real estate",
+  "verdict": "UNVERIFIED",
+  "reason": "No evidence it is an MSP."
+ },
+ "2523": {
+  "company": "Chicago Messenger Service",
+  "actual": "Same-day courier, founded 1964",
+  "verdict": "MINOR",
+  "reason": "CSV says 1963 (off by one); \"carrier decisions\" off for an asset-based courier."
+ },
+ "14011": {
+  "company": "Truckload Llc (dba Expedite Express)",
+  "actual": "1-4 truck motor carrier",
+  "verdict": "WRONG",
+  "reason": "A carrier, not a broker; 2017 doubtful (USDOT number suggests 2019-2020)."
+ },
+ "4217": {
+  "company": "Mag Transportation Llc",
+  "actual": "Likely MAG Carriers, asset-based trucking, founded 2002",
+  "verdict": "WRONG",
+  "reason": "Carrier not broker; year 2015 vs 2002."
+ },
+ "998": {
+  "company": "Vector Global Logistics Llc",
+  "actual": "Atlanta freight forwarder, founded 2012/13",
+  "verdict": "MINOR",
+  "reason": "Fits; \"HubSpot supporting 36 projects\" is a scraped counter and reads oddly."
+ },
+ "894": {
+  "company": "Dallas Courier Service",
+  "actual": "DFW same-day courier, 40+ years, 24/7",
+  "verdict": "OK",
+  "reason": "Consistent; 1982 inferred from \"40+ years\"."
+ },
+ "6516": {
+  "company": "Swat Logistics Inc",
+  "actual": "15-truck motor carrier",
+  "verdict": "MINOR",
+  "reason": "Carrier not broker (\"carrier decisions\" soft mismatch); year plausible."
+ },
+ "2530": {
+  "company": "M7 Wine Solutions",
+  "actual": "Napa wine fulfillment 3PL, founded 2018",
+  "verdict": "OK",
+  "reason": "Year matches; fits fulfillment."
+ },
+ "7625": {
+  "company": "Actvisory Llc",
+  "actual": "Accounting/tax/advisory firm, est. 2020",
+  "verdict": "MINOR",
+  "reason": "Facts right; \"6 years of payroll\" clumsy and narrow."
+ },
+ "7607": {
+  "company": "Peterson Daniel E Cpa",
+  "actual": "Solo CPA practice",
+  "verdict": "MINOR",
+  "reason": "Name is surname-first directory format; 2006 unverified."
+ },
+ "14392": {
+  "company": "Ftl Investments Llc (compcorner.com)",
+  "actual": "Computer Corner, Albuquerque computer dealer/service shop",
+  "verdict": "WRONG",
+  "reason": "Not an accounting firm; \"6 years in accounting\" false."
+ },
+ "5388": {
+  "company": "Dunlapslk",
+  "actual": "DunlapSLK CPA firm, 60+ staff, 25+ yrs",
+  "verdict": "MINOR",
+  "reason": "Accurate, QuickBooks consulting confirmed; casing should be DunlapSLK."
+ },
+ "3209": {
+  "company": "Tina T. Chiang Accountancy Corp",
+  "actual": "CPA firm, est. 1997",
+  "verdict": "OK",
+  "reason": "Facts match; line generic."
+ },
+ "14459": {
+  "company": "Kebros & Associates Llc (smartcarehh.com)",
+  "actual": "Home health care agency (SmartCare)",
+  "verdict": "WRONG",
+  "reason": "Not staffing; \"submissions, interviews, placements\" wrong; 2009 correct; name should be SmartCare."
+ },
+ "5714": {
+  "company": "Alternative Staffing Corporation (LC Staffing)",
+  "actual": "Montana staffing agency \"since 1985\"",
+  "verdict": "WRONG",
+  "reason": "\"20 years in\" understates a 40-year firm; name should be LC Staffing."
+ },
+ "12672": {
+  "company": "Buckles International, Inc.",
+  "actual": "Importer of buckles and metal fasteners",
+  "verdict": "WRONG",
+  "reason": "Nothing to do with staffing."
+ },
+ "4304": {
+  "company": "Medsearch Financial Inc (Alura Workforce Solutions)",
+  "actual": "Staffing agency",
+  "verdict": "MINOR",
+  "reason": "Fits; name should be Alura Workforce Solutions; JobDiva/Salesforce unverified."
+ },
+ "14455": {
+  "company": "Predica Inc",
+  "actual": "IT staffing/recruiting",
+  "verdict": "OK",
+  "reason": "Generic and accurate."
+ },
+ "6675": {
+  "company": "Alaska Boiler & Burner Llc",
+  "actual": "Boiler/burner mechanical contractor, founded 2014",
+  "verdict": "OK",
+  "reason": "Everything checks out."
+ },
+ "12200": {
+  "company": "Eco-Worx Inc",
+  "actual": "Energy-efficiency retrofit contractor",
+  "verdict": "MINOR",
+  "reason": "\"Repair records\" a stretch; 2007 loosely supported."
+ },
+ "9744": {
+  "company": "Coastal Contracting Llc",
+  "actual": "Network cabling installer",
+  "verdict": "MINOR",
+  "reason": "\"Inspection and repair\" generic; year unverified."
+ },
+ "10798": {
+  "company": "Aero Creek, Llc (AeroCreek)",
+  "actual": "Electronic security systems + IT integrator",
+  "verdict": "WRONG",
+  "reason": "Not a guard/patrol firm; \"patrol logs\" wrong; \"12 years of help desk\" clumsy."
+ },
+ "3713": {
+  "company": "Yondr, Inc.",
+  "actual": "Lockable phone pouches for schools/events",
+  "verdict": "WRONG",
+  "reason": "Not private security; patrol logs don't apply. 2014 correct."
+ },
+ "10991": {
+  "company": "Jk Guardian Security Services, Inc.",
+  "actual": "Chicagoland security-guard firm",
+  "verdict": "MINOR",
+  "reason": "Accurate; name rendering \"Jk Guardian\" awkward."
+ },
+ "1949": {
+  "company": "Sho Place, Inc. (Anytime Restoration)",
+  "actual": "Water/fire restoration contractor",
+  "verdict": "MINOR",
+  "reason": "Fits; addressed as holding-entity \"Sho Place\"; 2003 unverified, one source says 2013."
+ },
+ "1933": {
+  "company": "Groundwater And Environmental Services, Inc",
+  "actual": "Environmental consulting/remediation, 700+ staff, founded 1985",
+  "verdict": "WRONG",
+  "reason": "Not restoration/disaster recovery; claims documentation wrong; year right."
+ },
+ "10244": {
+  "company": "Uresti Enterprises (Rainbow Restoration of Killeen)",
+  "actual": "Restoration franchise",
+  "verdict": "MINOR",
+  "reason": "Fits; legal-entity name instead of brand; 2014 unverified."
+ },
+ "2134": {
+  "company": "Caliber Living",
+  "actual": "Student-housing property manager, founded 2016",
+  "verdict": "MINOR",
+  "reason": "Year right; Zendesk unverified; brand likely absorbed by Peak Campus."
+ },
+ "10970": {
+  "company": "Jayfini Global Investments Llc",
+  "actual": "Unknown",
+  "verdict": "UNVERIFIED",
+  "reason": "No web footprint."
+ },
+ "5742": {
+  "company": "Warren Davis Properties Xii, L.L.C.",
+  "actual": "Commercial/industrial landlord-developer",
+  "verdict": "WRONG",
+  "reason": "\"Resident records\" wrong for industrial tenants; \"Xii\" entity name awkward."
+ },
+ "1400": {
+  "company": "Life Safety Services Llc",
+  "actual": "Fire/life-safety inspection contractor, founded 2004",
+  "verdict": "OK",
+  "reason": "Year and \"inspections\" hook accurate."
+ },
+ "12705": {
+  "company": "Agdna Llc (Alpha Group DNA)",
+  "actual": "Talent placement / procurement firm",
+  "verdict": "WRONG",
+  "reason": "Not facilities management; work orders don't fit."
+ },
+ "16601": {
+  "company": "Moov Technologies",
+  "actual": "Used semiconductor-equipment marketplace",
+  "verdict": "MINOR",
+  "reason": "No false claim; HubSpot unverified; generic."
+ },
+ "16554": {
+  "company": "Seedx",
+  "actual": "Salesforce/CRM consulting agency",
+  "verdict": "MINOR",
+  "reason": "They sell/implement Salesforce; line treats them as an end-user. \"operational records on record\" redundant."
+ },
+ "16856": {
+  "company": "Hit Subscribe",
+  "actual": "Content-marketing agency",
+  "verdict": "OK",
+  "reason": "Generic but accurate."
+ },
+ "7172": {
+  "company": "Clayco, Inc. (DBA Skyline Elevators)",
+  "actual": "Elevator contractor",
+  "verdict": "MINOR",
+  "reason": "Recipient knows \"Skyline Elevators\"; \"years of inspections\" leading to RFIs is a non sequitur; year 1998 vs brochure 1994."
+ },
+ "7457": {
+  "company": "Allied Garage Door, Inc",
+  "actual": "Garage door install/repair",
+  "verdict": "MINOR",
+  "reason": "\"35+ years\" consistent; RFIs/change orders slightly off-register."
+ },
+ "10175": {
+  "company": "Air Esscentials Inc.",
+  "actual": "Scent-marketing company",
+  "verdict": "WRONG",
+  "reason": "Not a specialty contractor; founded ~2005 not 2007."
+ },
+ "13043": {
+  "company": "Metro Contracting Services Llc",
+  "actual": "Janitorial contractor",
+  "verdict": "OK",
+  "reason": "2008 matches SAM; fits."
+ },
+ "11023": {
+  "company": "Vip Special Services Llc",
+  "actual": "Commercial cleaning",
+  "verdict": "MINOR",
+  "reason": "\"Vip\" should be VIP; 2005 unverified."
+ },
+ "8491": {
+  "company": "Mac Climber, Inc.",
+  "actual": "Equipment rental (MAC Climber Rental)",
+  "verdict": "OK",
+  "reason": "2005 confirmed; fits."
+ },
+ "8487": {
+  "company": "Schafer Contracting Services Llc (Lakeside Improvements)",
+  "actual": "Small contractor, unclear",
+  "verdict": "UNVERIFIED",
+  "reason": "No evidence of equipment rental or 24/7; brand name is Lakeside Improvements."
+ },
+ "1106": {
+  "company": "Advanced Office Systems",
+  "actual": "Copier/office tech dealer",
+  "verdict": "OK",
+  "reason": "Since 1981 confirmed; 50 people in range."
+ }
+}
